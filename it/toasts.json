@@ -1,0 +1,15 @@
+{
+  "singulars": {
+    "error": {
+      "genericError": "Qualcosa è andato storto."
+    },
+    "success": {
+      "accountLinkedSuccessfully": "Profilo BMaC collegato con successo",
+      "bmacCheckForValidationCode": "Controlla la tua casella email per il codice di verifica",
+      "loggedInSuccesssfully": "Accesso effettuato con successo.",
+      "loggedOut": "Disconnessione effettuata con successo",
+      "passwordResetSent": "Email per reimpostare la password inviata",
+      "signedUpSuccessfully": "L'iscrizione è avvenuta con successo. Assicurati di controllare la tua casella di posta: dovresti ricevere un'email di verifica con un link da cliccare per confermare il tuo indirizzo email."
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "singulars": {
+    "alreadyHaveAnAccountPrompt": "Onko sinulla jo tili? Kirjaudu sisään",
+    "confirmPasswordFormLabel": "Vahvista salasana",
+    "dontHaveAnAccountPrompt": "Eikö sinulla ole tiliä? Rekisteröidy",
+    "emailFormLabel": "Sähköposti",
+    "forgotPasswordLabel": "Unohditko salasanan?",
+    "loginButtonLabel": "Kirjaudu sisään",
+    "loginDescription": "Kirjaudu sisään WalkScape-tilillä",
+    "passwordFormLabel": "Salasana",
+    "passwordsDontMatch": "Salasanat eivät täsmää",
+    "signUpButtonLabel": "Rekisteröidy",
+    "signUpDescription": "Rekisteröidy WalkScapeen",
+    "signUpLinkLabel": "Eikö sinulla ole tiliä? Rekisteröidy",
+    "usernameFormLabel": "Sähköposti"
+  }
+}

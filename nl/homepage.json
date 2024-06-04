@@ -1,0 +1,26 @@
+{
+  "plurals": {
+    "statsSection": {
+      "betaTesters": {
+        "key_one": "Daarvan is <b>1 gebruiker</b> een bèta-tester",
+        "key_other": "Daarvan zijn <b>{{count}} gebruikers</b> bèta-testers"
+      },
+      "registeredUsers": {
+        "key_one": "Tot nu toe heeft <b>1 gebruiker</b> zich geregistreerd",
+        "key_other": "Tot nu toe hebben <b>{{count}} gebruikers</b> zich geregistreerd"
+      }
+    }
+  },
+  "singulars": {
+    "infoSection": {
+      "betaLinking": "Als je ons steunt, of op een bepaald moment hebt gesteund op <patreonLink>Patreon</patreonLink> of <bmacLink>Buy me a Coffee</bmacLink>, kun je je portaalaccount aan die diensten koppelen op de pagina Account. Houd er rekening mee dat uitnodigingen in golven worden gegeven en dat de eerste gesloten bèta-golf al vol is. De tweede gesloten bèta komt een paar weken nadat de gesloten bèta is uitgebracht.",
+      "closedBetaAccess": "De gesloten bèta komt uit op 18 januari 2024. Je kunt toegang krijgen tot de gesloten bèta door het spel te steunen op <patreonLink>Patreon</patreonLink> of <bmacLink>Buy Me A Coffee</bmacLink>, of door je als geregistreerde gebruiker aan te melden voor de gesloten bèta via het aanmeldingsformulier op Portal (je vindt de knop op je accountpagina).",
+      "title": "Belangrijke informatie over de gesloten bèta"
+    },
+    "linkToSite": "WalkScape Portal is een sociaal portaal dat is gekoppeld aan het spel <wsSite>WalkScape</wsSite>.",
+    "statsSection": {
+      "title": "Enkele leuke statistieken:"
+    },
+    "welcomeMessage": "Welkom op de WalkScape Portal"
+  }
+}

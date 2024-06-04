@@ -1,0 +1,17 @@
+{
+  "singulars": {
+    "alreadyHaveAnAccountPrompt": "Du hast bereits ein Konto? Melde dich an",
+    "confirmPasswordFormLabel": "Passwort best",
+    "dontHaveAnAccountPrompt": "Du hast noch kein Konto? Registriere dich",
+    "emailFormLabel": "E-Mail",
+    "forgotPasswordLabel": "Passwort vergessen?",
+    "loginButtonLabel": "Anmelden",
+    "loginDescription": "Anmeldung mit WalkScape Konto",
+    "passwordFormLabel": "Passwort",
+    "passwordsDontMatch": "Passwörter stimmen nicht überein",
+    "signUpButtonLabel": "Registrieren",
+    "signUpDescription": "Für WalkScape registrieren",
+    "signUpLinkLabel": "Du hast noch kein Konto? Registriere dich",
+    "usernameFormLabel": "E-Mail"
+  }
+}

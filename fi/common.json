@@ -1,0 +1,43 @@
+{
+  "plurals": {
+    "comments": {
+      "commentCount_one": "1 kommentti",
+      "commentCount_other": "{{count}} kommentit"
+    }
+  },
+  "singulars": {
+    "commentSubmission": {
+      "commentPlaceholder": "Kirjoita kommenttisi tähän",
+      "displayPreviewCheckbox": "Näytä esikatselu",
+      "editCancelButton": "Peruuta",
+      "editSaveButton": "Tallenna",
+      "previewLabel": "Esikatselu:",
+      "submitButton": "Lähetä kommentti"
+    },
+    "dialogs": {
+      "delete": {
+        "cancelButton": "Peruuta",
+        "confirmButton": "Kyllä, poista {{ type }}",
+        "message": "Tätä toimenpidettä ei voi perua. Tämä poistaa tämän {{ type }} pysyvästi.",
+        "title": "Oletko aivan varma?"
+      }
+    },
+    "posts": {
+      "new": {
+        "addPostButton": "Lisää julkaisu",
+        "descriptionLabel": "Kuvaus",
+        "displayPreviewButton": "Näytä esikatselu",
+        "postContentPlaceholder": "Kirjoita julkaisusi tähän",
+        "previewLabel": "Esikatselu:",
+        "titleLabel": "Otsikko"
+      },
+      "newPostButton": "Uusi julkaisu"
+    },
+    "resetPassword": {
+      "button": "Palauta salasana",
+      "emailInputLabel": "Sähköposti",
+      "instructions": "Jos haluat palauttaa salasanasi, syötä sähköpostiosoitteesi ja valitse palauta salasana. Saat sähköpostiviestin, jossa on linkki, joka vie sinut salasanan päivityssivulle, jossa voit määrittää uuden salasanan."
+    },
+    "searchBarPlaceholder": "Etsi..."
+  }
+}

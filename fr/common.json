@@ -1,0 +1,47 @@
+{
+  "singulars": {
+    "resetPassword": {
+      "instructions": "Pour réinitialiser votre mot de passe, entrez votre email et cliquez sur réinitialiser le mot de passe. Vous recevrez un email contenant un lien qui vous amènera à la page de mise à jour du mot de passe, où vous pourrez définir un nouveau mot de passe.",
+      "emailInputLabel": "Email",
+      "button": "Réinitialiser le mot de passe"
+    },
+    "searchBarPlaceholder": "Rechercher…",
+    "commentSubmission": {
+      "displayPreviewCheckbox": "Afficher l'aperçu",
+      "previewLabel": "Aperçu :",
+      "commentPlaceholder": "Tapez votre commentaire ici",
+      "submitButton": "Publier le commentaire",
+      "editSaveButton": "Sauvegarder",
+      "editCancelButton": "Annuler"
+    },
+    "dialogs": {
+      "delete": {
+        "title": "Êtes-vous absolument sûr ?",
+        "message": "Cette action ne peut pas être annulée. Cela supprimera définitivement ce {{ type }}.",
+        "confirmButton": "Oui, supprimer {{ type }}",
+        "cancelButton": "Annuler"
+      }
+    },
+    "posts": {
+      "newPostButton": "Nouveau post",
+      "new": {
+        "titleLabel": "Titre",
+        "descriptionLabel": "Description",
+        "displayPreviewButton": "Afficher l'aperçu",
+        "previewLabel": "Aperçu :",
+        "postContentPlaceholder": "Tapez votre post ici",
+        "addPostButton": "Ajouter le post"
+      }
+    }
+  },
+  "plurals": {
+    "comments": {
+      "commentCount_zero": "",
+      "commentCount_one": "1 commentaire",
+      "commentCount_two": "",
+      "commentCount_few": "",
+      "commentCount_many": "",
+      "commentCount_other": "{{count}} commentaires"
+    }
+  }
+}

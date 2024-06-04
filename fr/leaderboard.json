@@ -1,0 +1,30 @@
+{
+  "singulars": {
+    "filterOptions": {
+      "total_steps": "Nombre total de pas",
+      "total_xp": "XP total",
+      "total_level": "Niveau total",
+      "mining": "Minage",
+      "agility": "Agilité",
+      "cooking": "Cuisine",
+      "fishing": "Pêche",
+      "crafting": "Artisanat",
+      "foraging": "Cueillette",
+      "smithing": "Forge",
+      "carpentry": "Menuiserie",
+      "woodcutting": "Bûcheronnage"
+    },
+    "loading": "Chargement...",
+    "avatarOfPlayer": "Avatar de {{player}}"
+  },
+  "plurals": {
+    "pageNumber": {
+      "key_zero": "",
+      "key_one": "Page 1",
+      "key_two": "",
+      "key_few": "",
+      "key_many": "",
+      "key_other": "Page {{count}}"
+    }
+  }
+}

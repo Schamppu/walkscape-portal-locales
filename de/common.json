@@ -1,0 +1,43 @@
+{
+  "plurals": {
+    "comments": {
+      "commentCount_one": "1 Kommentar",
+      "commentCount_other": "{{count}} Kommentare"
+    }
+  },
+  "singulars": {
+    "commentSubmission": {
+      "commentPlaceholder": "Schreib deinen Kommentar",
+      "displayPreviewCheckbox": "Vorschau anzeigen",
+      "editCancelButton": "Abbrechen",
+      "editSaveButton": "Speichern",
+      "previewLabel": "Vorschau:",
+      "submitButton": "Kommentar abschicken"
+    },
+    "dialogs": {
+      "delete": {
+        "cancelButton": "Abbrechen",
+        "confirmButton": "Ja, {{ type }} löschen",
+        "message": "Diese Aktion kann nicht rückgängig gemacht werden. Dadurch wird dieser {{ type }} dauerhaft gelöscht.",
+        "title": "Bist du ganz sicher?"
+      }
+    },
+    "posts": {
+      "new": {
+        "addPostButton": "Beitrag hinzufügen",
+        "descriptionLabel": "Beschreibung",
+        "displayPreviewButton": "Vorschau anzeigen",
+        "postContentPlaceholder": "Schreib deinen Beitrag",
+        "previewLabel": "Vorschau:",
+        "titleLabel": "Titel"
+      },
+      "newPostButton": "Neuer Beitrag"
+    },
+    "resetPassword": {
+      "button": "Passwort zurücksetzen",
+      "emailInputLabel": "E-Mail",
+      "instructions": "Um dein Passwort zurückzusetzen, gib deine E-Mail-Adresse ein und klicke auf \"Passwort zurücksetzen\". Dur erhältst eine E-Mail mit einem Link, der auf die Seite zur Passwortaktualisierung führt, wo du ein neues Passwort festlegen kannst."
+    },
+    "searchBarPlaceholder": "Suchen..."
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "plurals": {
+    "comments": {
+      "commentCount_one": "1 reactie",
+      "commentCount_other": "{{count}} reacties"
+    }
+  },
+  "singulars": {
+    "commentSubmission": {
+      "commentPlaceholder": "Typ hier je reactie",
+      "displayPreviewCheckbox": "Voorbeeldweergave",
+      "editCancelButton": "Annuleren",
+      "editSaveButton": "Opslaan",
+      "previewLabel": "Voorbeeld:",
+      "submitButton": "Reactie plaatsen"
+    },
+    "dialogs": {
+      "delete": {
+        "cancelButton": "Annuleren",
+        "confirmButton": "Ja, verwijder {{ type }}",
+        "message": "Deze actie kan niet ongedaan worden gemaakt. Hierdoor wordt deze {{ type }} permanent verwijderd.",
+        "title": "Weet je het absoluut zeker?"
+      }
+    },
+    "posts": {
+      "new": {
+        "addPostButton": "Bericht toevoegen",
+        "descriptionLabel": "Beschrijving",
+        "displayPreviewButton": "Voorbeeldweergave",
+        "postContentPlaceholder": "Typ je bericht hier",
+        "previewLabel": "Voorbeeld:",
+        "titleLabel": "Titel"
+      },
+      "newPostButton": "Nieuw bericht"
+    },
+    "resetPassword": {
+      "button": "Wachtwoord opnieuw instellen",
+      "emailInputLabel": "E-mail",
+      "instructions": "Om je wachtwoord opnieuw in te stellen, voer je je e-mailadres in en klik je op Wachtwoord opnieuw instellen. Je ontvangt een e-mail met een link die je naar de pagina brengt waar je een nieuw wachtwoord kunt instellen."
+    },
+    "searchBarPlaceholder": "Zoeken..."
+  }
+}

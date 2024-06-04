@@ -1,0 +1,20 @@
+{
+  "singulars": {
+    "avatarActions": {
+      "account": "Konto",
+      "logout": "Abmelden"
+    },
+    "betaVersion": "Beta 0.1.0",
+    "links": {
+      "bugReports": "Fehlermeldungen",
+      "devblogs": "Entwickler-Blog",
+      "feedbackAndIdeas": "Feedback & Ideen",
+      "generalDiscussion": "Allgemeines Forum",
+      "home": "Start",
+      "leaderboards": "Bestenlisten"
+    },
+    "login": "Anmelden",
+    "signUp": "Registrieren",
+    "title": "WalkScape Portal"
+  }
+}

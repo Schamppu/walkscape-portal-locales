@@ -1,0 +1,17 @@
+{
+  "singulars": {
+    "signUpDescription": "Inscrivez-vous pour un compte WalkScape",
+    "loginDescription": "Connectez-vous avec votre compte WalkScape",
+    "emailFormLabel": "E-mail",
+    "usernameFormLabel": "E-mail",
+    "passwordFormLabel": "Mot de passe",
+    "confirmPasswordFormLabel": "Confirmez le mot de passe",
+    "forgotPasswordLabel": "Mot de passe oublié ?",
+    "loginButtonLabel": "Connexion",
+    "signUpButtonLabel": "S'inscrire",
+    "dontHaveAnAccountPrompt": "Vous n'avez pas de compte ? Inscrivez-vous",
+    "alreadyHaveAnAccountPrompt": "Vous avez déjà un compte ? Connectez-vous",
+    "signUpLinkLabel": "Vous n'avez pas de compte ? Inscrivez-vous",
+    "passwordsDontMatch": "Les mots de passe ne correspondent pas"
+  }
+}

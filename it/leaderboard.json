@@ -1,0 +1,26 @@
+{
+  "plurals": {
+    "pageNumber": {
+      "key_one": "Pagina 1",
+      "key_other": "Pagina {{count}}"
+    }
+  },
+  "singulars": {
+    "avatarOfPlayer": "Avatar di {{player}}",
+    "filterOptions": {
+      "agility": "Agilità",
+      "carpentry": "Falegnameria",
+      "cooking": "Cucina",
+      "crafting": "Creazione",
+      "fishing": "Pesca",
+      "foraging": "Ricerca di ingredienti",
+      "mining": "Estrazione mineraria",
+      "smithing": "Forgiatura",
+      "total_level": "Livello Totale",
+      "total_steps": "Passi Totali",
+      "total_xp": "Esperienza Totale",
+      "woodcutting": "Taglio alberi"
+    },
+    "loading": "Caricamento..."
+  }
+}

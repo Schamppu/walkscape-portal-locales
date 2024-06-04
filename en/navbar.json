@@ -1,0 +1,21 @@
+{
+  "singulars": {
+    "signUp": "Sign up",
+    "login": "Log in",
+    "title": "WalkScape Portal",
+    "betaVersion": "Beta 0.1.0",
+    "links": {
+      "home": "Home",
+      "devblogs": "Devblogs",
+      "generalDiscussion": "General Discussion",
+      "feedbackAndIdeas": "Feedback & Ideas",
+      "bugReports": "Bug reports",
+      "leaderboards": "Leaderboards",
+      "discord": "Discord"
+    },
+    "avatarActions": {
+      "account": "Account",
+      "logout": "Logout"
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "plurals": {
+    "comments": {
+      "commentCount_one": "1 commento",
+      "commentCount_other": "{{count}} commenti"
+    }
+  },
+  "singulars": {
+    "commentSubmission": {
+      "commentPlaceholder": "Scrivi qui il tuo commento",
+      "displayPreviewCheckbox": "Mostra anteprima",
+      "editCancelButton": "Annulla",
+      "editSaveButton": "Salva",
+      "previewLabel": "Anteprima:",
+      "submitButton": "Pubblica commento"
+    },
+    "dialogs": {
+      "delete": {
+        "cancelButton": "Annulla",
+        "confirmButton": "Sì, elimina {{ type }}",
+        "message": "Questa azione non può essere annullata. Eliminerà definitivamente questo {{ type }}.",
+        "title": "Ne sei sicuro?"
+      }
+    },
+    "posts": {
+      "new": {
+        "addPostButton": "Aggiungi post",
+        "descriptionLabel": "Descrizione",
+        "displayPreviewButton": "Mostra anteprima",
+        "postContentPlaceholder": "Scrivi qui il tuo post",
+        "previewLabel": "Anteprima:",
+        "titleLabel": "Titolo"
+      },
+      "newPostButton": "Nuovo post"
+    },
+    "resetPassword": {
+      "button": "Reimposta password",
+      "emailInputLabel": "Email",
+      "instructions": "Per reimpostare la password, scrivi il tuo indirizzo email e clicca su Reimposta password. Riceverai un'email contenente un link che ti porterà ad una pagina per inserire la nuova password."
+    },
+    "searchBarPlaceholder": "Cerca..."
+  }
+}

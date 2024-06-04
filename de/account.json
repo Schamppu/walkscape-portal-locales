@@ -1,0 +1,86 @@
+{
+  "plurals": {
+    "closedBetaStatus": {
+      "eligibleForNextWave": {
+        "key_one": "In der nächsten Beta in etwa 1 bis 2 Wochen",
+        "key_other": "In der nächsten Beta in etwa {{ count }} bis {{ countPlusOne }} Wochen",
+        "key_zero": "In der nächsten Beta in weniger als einer Woche"
+      }
+    }
+  },
+  "singulars": {
+    "accountLinking": {
+      "codeFormFieldLabel": "Validierungscode aus E-Mail",
+      "firstSupportDate": "Zuerst unterstützt am {{ date }}",
+      "getCodeButton": "Validierungscode zuschicken",
+      "linkAccountButton": "Konto verkn",
+      "linkedStatus": "Verbunden",
+      "noSubscription": "Kein Abonnement",
+      "notLinkedStatus": "Nicht verbunden",
+      "unlinkAction": "Verbindung aufheben"
+    },
+    "betaDownloadInfo": {
+      "acceptTermsButton": "Akzeptieren",
+      "android": {
+        "downloadFromGooglePlay": "Nachdem du der Gruppe beigetreten bist, hast du die Möglichkeit, <playStoreLink>das Spiel von Google Play herunterzuladen</playStoreLink>.",
+        "instructions": "Du benutzt Android. Um Zugang zur Beta-Version von WalkScape zu erhalten, musst du zwei Schritten folgen:",
+        "joinGoogleGroup": "Tritt der <googleGroup>\"WalkScape Closed Beta\" Google Gruppe</googleGroup> bei.",
+        "title": "Für Android-Benutzer:"
+      },
+      "dialogTitle": "Spiel herunterladen",
+      "ios": {
+        "instructions": "Fals du iOS verwendest <testflightLink>Klicken Sie auf diesen Link, um WalkScape's TestFlight beizutreten und das Spiel herunterzuladen</testflightLink>.",
+        "title": "Für iOS-Benutzer:"
+      },
+      "termsOfServiceDisclaimer": "Bevor Sie das Spiel herunterladen, lesen Sie bitte die <tos>Dienstleistungsbedingungen (zurzeit nur in Engslich verfügbar)</tos> und akzeptieren Sie sie."
+    },
+    "bmac": {
+      "emailFormFieldLabel": "E-Mail deines BMaC-Kontos",
+      "linkTitle": "BMaC-Konto verbinden",
+      "statusTitle": "BMaC:"
+    },
+    "closedBetaStatus": {
+      "applyButton": "Für beta Beta bewerben",
+      "downloadButton": "Herunterladen",
+      "invitedStatus": "Eingeladen",
+      "notInvited": "Nicht eingeladen",
+      "seeExistingApplication": "Bewerbung ansehen",
+      "title": "Geschlossene Beta:"
+    },
+    "discordLink": {
+      "linkButton": "Discord verkn",
+      "title": "Discord"
+    },
+    "header": {
+      "introduction": "Hallo, {{ username }}"
+    },
+    "passwordChange": {
+      "changePasswordButton": "Password ändern",
+      "newPasswordLabel": "Neues Passwort",
+      "repeatPasswordLabel": "Neues Passwort wiederholen",
+      "successMessage": "Passwort erfolgreich geändert",
+      "title": "Passwort "
+    },
+    "patreonLink": {
+      "codeSentSuccessMessage": "Prüfe dein E-Mail Postfach für den Validierungscode",
+      "emailInputLabel": "E-Mail deines Patreon-Kontos",
+      "linkInstructions": "Patreon-Konto verbinden",
+      "linkSuccessMessage": "Patreon-Konto erfolgreich verbunden",
+      "title": "Patreon:"
+    },
+    "profilePhoto": {
+      "changeButton": "Profilbild ändern",
+      "instructions": "Hier kannst du dein Profilbild zuschneiden und die Größe ändern.",
+      "saveLabel": "Speichern",
+      "saveSuccessMessage": "Profilbild aktualisiert",
+      "zoomLabel": "Größe"
+    },
+    "subscriptionStateDisclaimer": "Die Aktualisierung des Abonnementstatus kann bis zu 1 Stunde dauern.",
+    "usernameChange": {
+      "changeUsernameButton": "Benutzernamen ändern",
+      "newUsernameLabel": "Neuer Benutzername",
+      "successMessage": "Benutzername erfolgreich geändert",
+      "title": "Benutzernamen "
+    }
+  }
+}

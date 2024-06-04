@@ -1,0 +1,89 @@
+{
+  "singulars": {
+    "accountLinking": {
+      "getCodeButton": "Obtenir le code",
+      "codeFormFieldLabel": "Code reçu par email",
+      "linkAccountButton": "Lier le compte",
+      "notLinkedStatus": "Non lié",
+      "firstSupportDate": "premier soutien le {{ date }}",
+      "linkedStatus": "Lié",
+      "unlinkAction": "Dissocier",
+      "noSubscription": "Pas d'abonnement"
+    },
+    "header": {
+      "introduction": "Bonjour {{ username }}"
+    },
+    "bmac": {
+      "statusTitle": "Bmac :",
+      "linkTitle": "Lier un compte Bmac",
+      "emailFormFieldLabel": "Email utilisé pour votre compte Bmac"
+    },
+    "discordLink": {
+      "title": "Discord :",
+      "linkButton": "Lier Discord"
+    },
+    "patreonLink": {
+      "title": "Patreon :",
+      "linkInstructions": "Lier un compte Patreon",
+      "emailInputLabel": "Email utilisé pour votre compte Patreon",
+      "codeSentSuccessMessage": "Vérifiez la boîte de réception de l'email saisi pour le code de validation",
+      "linkSuccessMessage": "Compte Patreon lié avec succès"
+    },
+    "closedBetaStatus": {
+      "title": "Bêta fermée :",
+      "invitedStatus": "Invité",
+      "notInvited": "Non invité",
+      "applyButton": "Postuler pour l'accès à la bêta",
+      "seeExistingApplication": "Voir la candidature",
+      "downloadButton": "Obtenir le jeu"
+    },
+    "betaDownloadInfo": {
+      "dialogTitle": "Télécharger le client du jeu",
+      "termsOfServiceDisclaimer": "Avant de télécharger le jeu, veuillez lire les <tos>Conditions d'utilisation</tos> et les accepter.",
+      "acceptTermsButton": "Accepter",
+      "android": {
+        "title": "Pour les utilisateurs Android :",
+        "instructions": "Vous utilisez Android. Il y a deux étapes pour accéder à la version Bêta de WalkScape :",
+        "joinGoogleGroup": "Rejoignez <googleGroup>le groupe Google WalkScape Bêta fermée</googleGroup>.",
+        "downloadFromGooglePlay": "Après avoir rejoint le groupe, vous avez accès à <playStoreLink>télécharger le jeu depuis Google Play</playStoreLink>."
+      },
+      "ios": {
+        "title": "Pour les utilisateurs iOS :",
+        "instructions": "Si vous utilisez iOS, <testflightLink>cliquez sur ce lien pour rejoindre le TestFlight de WalkScape et télécharger le jeu</testflightLink>."
+      }
+    },
+    "profilePhoto": {
+      "changeButton": "Changer la photo de profil",
+      "instructions": "Recadrez et zoomez/dézoomez sur votre photo de profil ici. Vous pouvez utiliser le pincement pour zoomer sur les appareils mobiles.",
+      "zoomLabel": "Zoom",
+      "saveLabel": "Enregistrer",
+      "saveSuccessMessage": "Photo de profil mise à jour"
+    },
+    "usernameChange": {
+      "title": "Changer votre nom d'utilisateur",
+      "newUsernameLabel": "Nouveau nom d'utilisateur",
+      "changeUsernameButton": "Changer le nom d'utilisateur",
+      "successMessage": "Nom d'utilisateur changé avec succès"
+    },
+    "passwordChange": {
+      "title": "Changer votre mot de passe",
+      "newPasswordLabel": "Nouveau mot de passe",
+      "repeatPasswordLabel": "Répéter le mot de passe",
+      "changePasswordButton": "Changer le mot de passe",
+      "successMessage": "Mot de passe changé avec succès"
+    },
+    "subscriptionStateDisclaimer": "L'état de l'abonnement peut prendre jusqu'à 1 heure pour se rafraîchir."
+  },
+  "plurals": {
+    "closedBetaStatus": {
+      "eligibleForNextWave": {
+        "key_zero": "Éligible pour la prochaine vague en moins d'une semaine",
+        "key_one": "Éligible pour la prochaine vague dans environ 1 à 2 semaines",
+        "key_two": "",
+        "key_few": "",
+        "key_many": "",
+        "key_other": "Éligible pour la prochaine vague dans environ {{ count }} à {{ countPlusOne }} semaines"
+      }
+    }
+  }
+}

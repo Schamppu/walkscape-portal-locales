@@ -1,0 +1,26 @@
+{
+  "plurals": {
+    "pageNumber": {
+      "key_one": "Pagina 1",
+      "key_other": "Pagina {{count}}"
+    }
+  },
+  "singulars": {
+    "avatarOfPlayer": "Avatar van {{player}}",
+    "filterOptions": {
+      "agility": "Behendigheid",
+      "carpentry": "Timmerwerk",
+      "cooking": "Koken",
+      "crafting": "Ambacht",
+      "fishing": "Vissen",
+      "foraging": "Verzamelen",
+      "mining": "Mijnen",
+      "smithing": "Smeden",
+      "total_level": "Totaalniveau",
+      "total_steps": "Totaal aantal stappen",
+      "total_xp": "Totaal EP",
+      "woodcutting": "Houthakken"
+    },
+    "loading": "Aan het laden..."
+  }
+}

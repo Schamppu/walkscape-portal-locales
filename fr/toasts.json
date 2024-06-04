@@ -1,0 +1,15 @@
+{
+  "singulars": {
+    "success": {
+      "signedUpSuccessfully": "Inscription réussie. Assurez-vous de vérifier votre email : vous devriez recevoir un email de vérification avec un lien à cliquer pour confirmer votre adresse e-mail.",
+      "loggedInSuccesssfully": "Connecté avec succès.",
+      "passwordResetSent": "Email de réinitialisation du mot de passe envoyé",
+      "bmacCheckForValidationCode": "Vérifiez la boîte de réception de l'email saisi pour le code de validation",
+      "accountLinkedSuccessfully": "Compte Bmac lié avec succès",
+      "loggedOut": "Déconnecté avec succès."
+    },
+    "error": {
+      "genericError": "Quelque chose s'est mal passé."
+    }
+  }
+}

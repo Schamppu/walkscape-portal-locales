@@ -1,0 +1,15 @@
+{
+  "singulars": {
+    "error": {
+      "genericError": "Hups, jokin meni pieleen."
+    },
+    "success": {
+      "accountLinkedSuccessfully": "BMaC-tili yhdistetty onnistuneesti",
+      "bmacCheckForValidationCode": "Tarkista sähköpostisi saadaksesi vahvistuskoodin",
+      "loggedInSuccesssfully": "Kirjautuminen onnistui",
+      "loggedOut": "Uloskirjautuminen onnistui",
+      "passwordResetSent": "Salasanan palautussähköposti on lähetetty",
+      "signedUpSuccessfully": "Rekisteröityminen onnistui. Muista tarkistaa sähköpostisi: sinun pitäisi saada vahvistussähköposti, jossa on linkki, jota klikkaamalla voit vahvistaa sähköpostiosoitteesi."
+    }
+  }
+}

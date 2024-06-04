@@ -1,0 +1,20 @@
+{
+  "singulars": {
+    "signUp": "S'inscrire",
+    "login": "Se connecter",
+    "title": "Portail WalkScape",
+    "betaVersion": "Beta 0.1.0",
+    "links": {
+      "home": "Accueil",
+      "devblogs": "Blogs des développeurs",
+      "generalDiscussion": "Discussion générale",
+      "feedbackAndIdeas": "Retours et idées",
+      "bugReports": "Rapports de bugs",
+      "leaderboards": "Classements"
+    },
+    "avatarActions": {
+      "account": "Compte",
+      "logout": "Déconnexion"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "singulars": {
+    "filterOptions": {
+      "total_steps": "Total Steps",
+      "total_xp": "Total XP",
+      "total_level": "Total Level",
+      "mining": "Mining",
+      "agility": "Agility",
+      "cooking": "Cooking",
+      "fishing": "Fishing",
+      "crafting": "Crafting",
+      "foraging": "Foraging",
+      "smithing": "Smithing",
+      "carpentry": "Carpentry",
+      "woodcutting": "Woodcutting"
+    },
+    "loading": "Loading...",
+    "avatarOfPlayer": "Avatar of {{player}}"
+  },
+  "plurals": {
+    "pageNumber": {
+      "key_zero": "",
+      "key_one": "Page 1",
+      "key_two": "",
+      "key_few": "",
+      "key_many": "",
+      "key_other": "Page {{count}}"
+    }
+  }
+}

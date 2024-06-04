@@ -1,0 +1,20 @@
+{
+  "singulars": {
+    "avatarActions": {
+      "account": "Profilo",
+      "logout": "Esci"
+    },
+    "betaVersion": "Beta 0.1.0",
+    "links": {
+      "bugReports": "Segnalazioni bug",
+      "devblogs": "Devblogs",
+      "feedbackAndIdeas": "Idee & Feedback",
+      "generalDiscussion": "Discussioni",
+      "home": "Home",
+      "leaderboards": "Classifiche"
+    },
+    "login": "Accedi",
+    "signUp": "Iscriviti",
+    "title": "WalkScape Portal"
+  }
+}

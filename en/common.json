@@ -1,0 +1,48 @@
+{
+  "singulars": {
+    "resetPassword": {
+      "instructions": "To reset your password, enter your email and click reset password. You will receive an email containing a link that will bring you to the password update page, where you can define a new password.",
+      "emailInputLabel": "Email",
+      "button": "Reset password"
+    },
+    "searchBarPlaceholder": "Search…",
+    "commentSubmission": {
+      "displayPreviewCheckbox": "Display preview",
+      "previewLabel": "Preview:",
+      "commentPlaceholder": "Type your comment here",
+      "submitButton": "Post comment",
+      "editSaveButton": "Save",
+      "editCancelButton": "Cancel"
+    },
+    "dialogs": {
+      "delete": {
+        "title": "Are you absolutely sure?",
+        "message": "This action cannot be undone. This will permanently delete this {{ type }}.",
+        "confirmButton": "Yes, delete {{ type }}",
+        "cancelButton": "Cancel"
+      }
+    },
+    "posts": {
+      "newPostButton": "New post",
+      "new": {
+        "titleLabel": "Title",
+        "descriptionLabel": "Description",
+        "displayPreviewButton": "Display preview",
+        "previewLabel": "Preview:",
+        "postContentPlaceholder": "Type your post here",
+        "addPostButton": "Add post"
+      },
+      "scheduled": "scheduled"
+    }
+  },
+  "plurals": {
+    "comments": {
+      "commentCount_zero": "",
+      "commentCount_one": "1 comment",
+      "commentCount_two": "",
+      "commentCount_few": "",
+      "commentCount_many": "",
+      "commentCount_other": "{{count}} comments"
+    }
+  }
+}

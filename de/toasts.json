@@ -1,0 +1,15 @@
+{
+  "singulars": {
+    "error": {
+      "genericError": "Irgendwas ist schief gelaufen."
+    },
+    "success": {
+      "accountLinkedSuccessfully": "BMaC-Konto erfolgreich verbunden",
+      "bmacCheckForValidationCode": "Prüfe dein E-Mail Postfach für den Validierungscode",
+      "loggedInSuccesssfully": "Erfolgreich angemeldet.",
+      "loggedOut": "Erfolgreich abgemeldet.",
+      "passwordResetSent": "E-Mail für Passwort",
+      "signedUpSuccessfully": "Erfolgreich registriert. Prüfe dein E-Mail Postfach nach dem Bestätigungslink um deine E-Mail-Adresse zu bestätigen."
+    }
+  }
+}

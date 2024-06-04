@@ -1,0 +1,115 @@
+{
+  "singulars": {
+    "general": {
+      "joinedOn": "Joined on:",
+      "seeFull": "See full profile"
+    },
+    "accountLinking": {
+      "getCodeButton": "Get code",
+      "codeFormFieldLabel": "Code received by email",
+      "linkAccountButton": "Link account",
+      "notLinkedStatus": "Not linked",
+      "firstSupportDate": "first support on {{ date }}",
+      "linkedStatus": "Linked",
+      "unlinkAction": "Unlink",
+      "noSubscription": "No subscription"
+    },
+    "header": {
+      "introduction": "Hello {{ username }}"
+    },
+    "bmac": {
+      "statusTitle": "Bmac:",
+      "linkTitle": "Link a Bmac account",
+      "emailFormFieldLabel": "Email used for your Bmac account"
+    },
+    "discordLink": {
+      "title": "Discord:",
+      "linkButton": "Link Discord",
+      "joinDiscord": "Join Discord",
+      "success": "Successfully linked Discord!",
+      "relogin": "Please <0>log in</0> again",
+      "failed": "Failed to link Discord. Please try again later.",
+      "inProgress": "Linking Discord..."
+    },
+    "patreonLink": {
+      "title": "Patreon:",
+      "linkInstructions": "Link a Patreon account",
+      "login": "Login with Patreon",
+      "recommendation": "We recommend linking accounts by logging in with Patreon. If this doesn't work, try connecting using the form below.",
+      "emailInputLabel": "Email used for your Patreon account",
+      "codeSentSuccessMessage": "Check the entered email inbox for the validation code",
+      "linkSuccessMessage": "Patreon account linked successfully",
+      "return": "Return to the Account page",
+      "inProgress": "Linking Patreon...",
+      "failed": "Failed to link Patreon account. Please try again later.",
+      "success": {
+        "title": "Successfully linked Patreon!",
+        "body": "Access to the game is granted in waves. If a wave is ongoing, you can download the game immediately from your Account page. Otherwise we will notify you by email once access is granted."
+      }
+    },
+    "thankYou": {
+      "title": "Thank you for your support!",
+      "body-1": "Your new supporter status should be immediately visible on the account page, but may in some cases take around two hours to fully synchronize. In this case you will get an email when your status changes or you are accepted into the beta.",
+      "body-2": "If you don't get an email after a few hours, check that the email you've entered is the same one you used in Patreon or Buy me a Coffee, and relink it.",
+      "body-3": "Thank you!",
+      "understand": "I understand"
+    },
+    "closedBetaStatus": {
+      "title": "Closed beta:",
+      "invitedStatus": "Invited",
+      "notInvited": "Not invited",
+      "applyButton": "Apply for beta access",
+      "seeExistingApplication": "See application",
+      "downloadButton": "Get the game"
+    },
+    "betaDownloadInfo": {
+      "dialogTitle": "Download game client",
+      "termsOfServiceDisclaimer": "Before you download the game, please read the <tos>Terms of Service</tos> and accept them.",
+      "acceptTermsButton": "Accept",
+      "android": {
+        "title": "For Android users:",
+        "instructions": "You are using Android. There are two steps to get access to the Beta version of WalkScape:",
+        "joinGoogleGroup": "Join <googleGroup>WalkScape Closed Beta Google Group</googleGroup>.",
+        "downloadFromGooglePlay": "After you have joined the group, you have access to <playStoreLink>download the game from Google Play</playStoreLink>."
+      },
+      "ios": {
+        "title": "For iOS users:",
+        "instructions": "If you are using iOS <testflightLink>click this link to join WalkScape's TestFlight and download the game</testflightLink>."
+      }
+    },
+    "profilePhoto": {
+      "changeButton": "Change profile picture",
+      "instructions": "Crop and zoom/dezoom your profile picture here. You can use pinch-to-zoom on mobile devices.",
+      "zoomLabel": "Zoom",
+      "saveLabel": "Save",
+      "saveSuccessMessage": "Profile picture updated"
+    },
+    "usernameChange": {
+      "title": "Change your username",
+      "newUsernameLabel": "New username",
+      "changeUsernameButton": "Change username",
+      "successMessage": "Username changed successsfully"
+    },
+    "passwordChange": {
+      "title": "Change your password",
+      "newPasswordLabel": "New password",
+      "repeatPasswordLabel": "Repeat password",
+      "changePasswordButton": "Change password",
+      "successMessage": "Password changed successsfully",
+      "prompt": "Please update your password!"
+    },
+    "subscriptionStateDisclaimer": "Subscription state can take up to 1hr to refresh."
+  },
+  "plurals": {
+    "closedBetaStatus": {
+      "eligibleForNextWave": {
+        "key_zero": "Eligible for next wave in less than a week",
+        "key_one": "Eligible for next wave in approximately 1 to 2 weeks",
+        "key_two": "",
+        "key_few": "",
+        "key_many": "",
+        "key_other": "Eligible for next wave in approximately {{ count }} to {{ countPlusOne }} weeks"
+      }
+    }
+  }
+}

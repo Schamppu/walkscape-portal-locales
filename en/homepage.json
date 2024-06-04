@@ -1,0 +1,35 @@
+{
+  "singulars": {
+    "welcomeMessage": "Welcome to WalkScape Portal",
+    "linkToSite": "WalkScape Portal is a social portal associated with the <wsSite>WalkScape</wsSite> game.",
+    "systemMessages": "System messages",
+    "infoSection": {
+      "title": "Important info regarding the closed beta",
+      "closedBetaAccess": "We are currently running a closed beta test, and we regularly accept new players by waves.",
+      "betaLinking": "If you are supporting us, or have supported at some point on <patreonLink>Patreon</patreonLink> or <bmacLink>Buy Me A Coffee</bmacLink>, you have a guaranteed access to the game when the next wave comes. For this, you need to link your Portal account to those services in the Account page. You can also submit an application to have a chance to be accepted in the next wave, even if you don't support us."
+    },
+    "statsSection": {
+      "title": "Some fun stats:"
+    }
+  },
+  "plurals": {
+    "statsSection": {
+      "registeredUsers": {
+        "key_zero": "",
+        "key_one": "So far, <b>1 user</b> has registered",
+        "key_two": "",
+        "key_few": "",
+        "key_many": "",
+        "key_other": "So far, <b>{{count}} users</b> have registered"
+      },
+      "betaTesters": {
+        "key_zero": "",
+        "key_one": "Of those, <b>1 user</b> is a beta tester",
+        "key_two": "",
+        "key_few": "",
+        "key_many": "",
+        "key_other": "Of those, <b>{{count}} users</b> are beta testers"
+      }
+    }
+  }
+}

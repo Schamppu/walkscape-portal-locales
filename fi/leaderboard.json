@@ -1,0 +1,26 @@
+{
+  "plurals": {
+    "pageNumber": {
+      "key_one": "Sivu 1",
+      "key_other": "Sivu {{count}}"
+    }
+  },
+  "singulars": {
+    "avatarOfPlayer": "{{player}} hahmon kuvake",
+    "filterOptions": {
+      "agility": "Ketteryys",
+      "carpentry": "Puutyöt",
+      "cooking": "Ruoanlaitto",
+      "crafting": "Käsityö",
+      "fishing": "Kalastus",
+      "foraging": "Keräily",
+      "mining": "Louhiminen",
+      "smithing": "Taonta",
+      "total_level": "Kokonaistaso",
+      "total_steps": "Kokonaisaskelmäärä",
+      "total_xp": "Kokonais XP",
+      "woodcutting": "Puunhakkuu"
+    },
+    "loading": "Ladataan..."
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "plurals": {
+    "closedBetaStatus": {
+      "eligibleForNextWave": {
+        "key_one": "In aanmerking voor de volgende golf over ongeveer 1 tot 2 weken",
+        "key_other": "In aanmerking voor de volgende golf over ongeveer {{ count }} tot {{ countPlusOne }} weken",
+        "key_zero": "In aanmerking voor de volgende golf in minder dan een week"
+      }
+    }
+  },
+  "singulars": {
+    "accountLinking": {
+      "codeFormFieldLabel": "Code ontvangen per e-mail",
+      "firstSupportDate": "eerste ondersteuning op {{ date }}",
+      "getCodeButton": "Ontvang een code",
+      "linkAccountButton": "Account koppelen",
+      "linkedStatus": "Gekoppeld",
+      "noSubscription": "Geen abonnement",
+      "notLinkedStatus": "Niet gekoppeld",
+      "unlinkAction": "Ontkoppelen"
+    },
+    "betaDownloadInfo": {
+      "acceptTermsButton": "Accepteer",
+      "android": {
+        "downloadFromGooglePlay": "Nadat je lid bent geworden van de groep, heb je toegang om <playStoreLink>het spel te downloaden via Google Play</playStoreLink>.",
+        "instructions": "Je gebruikt Android. Er zijn twee stappen om toegang te krijgen tot de bètaversie van WalkScape:",
+        "joinGoogleGroup": "Word lid van <googleGroup>WalkScape Gesloten Bèta Google Groep</googleGroup>.",
+        "title": "Voor Android-gebruikers:"
+      },
+      "dialogTitle": "Spel downloaden",
+      "ios": {
+        "instructions": "Als je iOS gebruikt, <testflightLink>klik dan op deze link om deel te nemen aan WalkScape's TestFlight en het spel te downloaden</testflightLink>.",
+        "title": "Voor iOS-gebruikers:"
+      },
+      "termsOfServiceDisclaimer": "Lees voordat je het spel downloadt de <tos>Servicevoorwaarden</tos> en accepteer ze."
+    },
+    "bmac": {
+      "emailFormFieldLabel": "E-mail gebruikt voor je Bmac-account",
+      "linkTitle": "Een Bmac-account koppelen",
+      "statusTitle": "Bmac:"
+    },
+    "closedBetaStatus": {
+      "applyButton": "Bèta-toegang aanvragen",
+      "downloadButton": "Het spel krijgen",
+      "invitedStatus": "Uitgenodigd",
+      "notInvited": "Niet uitgenodigd",
+      "seeExistingApplication": "Aanvraag bekijken",
+      "title": "Gesloten bèta:"
+    },
+    "discordLink": {
+      "linkButton": "Discord koppelen",
+      "title": "Discord:"
+    },
+    "header": {
+      "introduction": "Hallo {{ username }}"
+    },
+    "passwordChange": {
+      "changePasswordButton": "Wachtwoord wijzigen",
+      "newPasswordLabel": "Nieuw wachtwoord",
+      "repeatPasswordLabel": "Herhaal wachtwoord",
+      "successMessage": "Wachtwoord succesvol gewijzigd",
+      "title": "Wijzig je wachtwoord"
+    },
+    "patreonLink": {
+      "codeSentSuccessMessage": "Controleer het postvak IN van het ingevoerde e-mailadres voor de validatiecode",
+      "emailInputLabel": "E-mail gebruikt voor je Patreon account",
+      "linkInstructions": "Een Patreon-account koppelen",
+      "linkSuccessMessage": "Patreon account succesvol gekoppeld",
+      "title": "Patreon:"
+    },
+    "profilePhoto": {
+      "changeButton": "Profielfoto wijzigen",
+      "instructions": "Hier kun je je profielfoto bijsnijden en inzoomen/uitzoomen. Je kunt pinch-to-zoom gebruiken op mobiele apparaten.",
+      "saveLabel": "Opslaan",
+      "saveSuccessMessage": "Profielfoto bijgewerkt",
+      "zoomLabel": "Zoom"
+    },
+    "subscriptionStateDisclaimer": "Het verversen van de abonnementsstatus kan tot 1 uur duren.",
+    "usernameChange": {
+      "changeUsernameButton": "Gebruikersnaam wijzigen",
+      "newUsernameLabel": "Nieuwe gebruikersnaam",
+      "successMessage": "Gebruikersnaam succesvol gewijzigd",
+      "title": "Je gebruikersnaam wijzigen"
+    }
+  }
+}

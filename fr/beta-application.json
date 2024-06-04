@@ -1,0 +1,25 @@
+{
+  "singulars": {
+    "title": "Candidature à la bêta",
+    "formSubmissionPreview": {
+      "alreadySubmittedApplicationMessage": "Vous avez déjà posté une candidature. Voici le résumé :",
+      "deviceModelLabel": "Modèle de l'appareil :",
+      "averageStepsPerWeekLabel": "Moyenne de pas par semaine :",
+      "androidDeviceCheckedLabel": "Android :",
+      "iOSDeviceCheckedLabel": "iOS :",
+      "applicationTextLabel": "Texte de la candidature :"
+    },
+    "form": {
+      "deviceType": "Type(s) de votre/vos appareil(s) :",
+      "iOSCheckbox": "iOS (iPhone)",
+      "androidCheckbox": "Android",
+      "deviceModel": "Le modèle de votre/vos appareil(s) :",
+      "deviceModelPlaceholder": "ex : Google Pixel 6, iPhone 13 Pro",
+      "averageStepsPerWeekLabel": "Nombre moyen de pas que vous faites par semaine :",
+      "averageStepsPerWeekPlaceholder": "Nombre moyen de pas par semaine",
+      "whyInviteToBeta": "Pourquoi vous devriez être invité à la bêta :",
+      "whyInviteToBetaPlaceholder": "Décrivez pourquoi vous devriez être invité à la bêta fermée : votre motivation, votre expérience passée dans le test de jeux, un besoin de fonctionnalités d'accessibilité, etc.",
+      "submitApplicationButton": "Soumettre la candidature"
+    }
+  }
+}

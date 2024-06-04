@@ -1,0 +1,20 @@
+{
+  "singulars": {
+    "signUpDescription": "Sign up for WalkScape account",
+    "loginDescription": "Login with WalkScape account",
+    "emailFormLabel": "Email",
+    "usernameFormLabel": "Username",
+    "passwordFormLabel": "Password",
+    "confirmPasswordFormLabel": "Confirm password",
+    "forgotPasswordLabel": "Forgot password?",
+    "loginButtonLabel": "Login",
+    "signUpButtonLabel": "Sign up",
+    "dontHaveAnAccountPrompt": "Don't have an account? Sign up",
+    "alreadyHaveAnAccountPrompt": "Already have an account? Log in",
+    "signUpLinkLabel": "Don't have an account? Sign up",
+    "passwordsDontMatch": "Passwords don't match",
+    "signup": {
+      "special": "Sign up for WalkScape account with special beta access"
+    }
+  }
+}

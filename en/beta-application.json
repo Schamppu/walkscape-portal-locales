@@ -1,0 +1,28 @@
+{
+  "singulars": {
+    "title": "Beta application",
+    "formSubmissionPreview": {
+      "alreadySubmittedApplicationMessage": "You already posted an application. Here is the summary:",
+      "deviceModelLabel": "Device model:",
+      "averageStepsPerWeekLabel": "Average steps per week:",
+      "androidDeviceCheckedLabel": "Android:",
+      "iOSDeviceCheckedLabel": "iOS:",
+      "applicationTextLabel": "Application text:"
+    },
+    "form": {
+      "deviceType": "Your device(s) type(s):",
+      "iOSCheckbox": "iOS (iPhone)",
+      "androidCheckbox": "Android",
+      "deviceModel": "The model of your device(s):",
+      "deviceModelPlaceholder": "eg: Google Pixel 6, iPhone 13 Pro",
+      "averageStepsPerWeekLabel": "Average number of steps you take per week:",
+      "averageStepsPerWeekPlaceholder": "Average number of steps per week",
+      "whyInviteToBeta": "Why you should be invited to the beta:",
+      "whyInviteToBetaPlaceholder": "Describe why you should be invited to the closed beta: your motivation, your past experience with game testing, a need for accessibility features etc.",
+      "submitApplicationButton": "Submit application"
+    },
+    "landing": {
+      "title": "Congratulations on signing up for Walkscape!"
+    }
+  }
+}
