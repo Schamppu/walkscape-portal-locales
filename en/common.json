@@ -22,6 +22,11 @@
         "cancelButton": "Cancel"
       }
     },
+    "invite": {
+      "accept": "Accept",
+      "reject": "Reject",
+      "block": "Block"
+    },
     "posts": {
       "newPostButton": "New post",
       "new": {
