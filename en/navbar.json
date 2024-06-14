@@ -11,10 +11,12 @@
       "feedbackAndIdeas": "Feedback & Ideas",
       "bugReports": "Bug reports",
       "leaderboards": "Leaderboards",
+      "users": "Users",
       "discord": "Discord"
     },
     "avatarActions": {
       "account": "Account",
+      "friends": "Friends",
       "logout": "Logout"
     }
   }
