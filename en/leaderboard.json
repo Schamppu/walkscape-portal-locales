@@ -14,6 +14,10 @@
       "carpentry": "Carpentry",
       "woodcutting": "Woodcutting"
     },
+    "filters": {
+      "all": "All",
+      "friends": "Friends"
+    },
     "loading": "Loading...",
     "avatarOfPlayer": "Avatar of {{player}}"
   },
