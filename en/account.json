@@ -60,7 +60,8 @@
       "notInvited": "Not invited",
       "applyButton": "Apply for beta access",
       "seeExistingApplication": "See application",
-      "downloadButton": "Get the game"
+      "downloadButton": "Get the game",
+      "eligibleForNextWave": "Eligible for next wave"
     },
     "betaDownloadInfo": {
       "dialogTitle": "Download game client",
