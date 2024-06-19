@@ -18,6 +18,10 @@
       "account": "Account",
       "friends": "Friends",
       "logout": "Logout"
+    },
+    "notifications": {
+      "friend_invite": "<0>{{username}}</0> wants to be your friend!",
+      "friend_invite_response": "<0>{{username}}</0> has accepted your friend invite!"
     }
   }
 }
