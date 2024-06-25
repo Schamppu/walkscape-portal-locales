@@ -99,6 +99,14 @@
       "successMessage": "Password changed successsfully",
       "prompt": "Please update your password!"
     },
+    "sections": {
+      "friends": "Friends",
+      "friendInvites": "Pending Friend invites"
+    },
+    "users": {
+      "enterSearch": "Enter search term",
+      "found": "{{count}} users found"
+    },
     "subscriptionStateDisclaimer": "Subscription state can take up to 1hr to refresh."
   },
   "plurals": {

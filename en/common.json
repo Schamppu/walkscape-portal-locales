@@ -14,7 +14,34 @@
       "editSaveButton": "Save",
       "editCancelButton": "Cancel"
     },
+    "userActions": {
+      "viewInvite": "View invite",
+      "viewProfile": "View profile",
+      "sendInvite": "Send friend invite",
+      "cancelInvite": "Cancel invite",
+      "removeFriend": "Remove friend",
+      "unblock": "Unblock user"
+    },
+    "badges": {
+      "beta": "Beta",
+      "blocked": "Blocked",
+      "inviteReceived": "Invite received",
+      "inviteSent": "Invite sent",
+      "friends": "Friends"
+    },
     "dialogs": {
+      "cancelInvite": {
+        "description": "Are you sure you want to cancel this friend invite?",
+        "confirm": "Yes, cancel invite"
+      },
+      "removeFriend": {
+        "description": "Are you sure you want to remove this friend?",
+        "confirm": "Yes, remove friend"
+      },
+      "unblock": {
+        "description": "Are you sure you want to unblock this user?",
+        "confirm": "Yes, unblock user"
+      },
       "delete": {
         "title": "Are you absolutely sure?",
         "message": "This action cannot be undone. This will permanently delete this {{ type }}.",
