@@ -21,7 +21,8 @@
       "sendInvite": "Send friend invite",
       "cancelInvite": "Cancel invite",
       "removeFriend": "Remove friend",
-      "unblock": "Unblock user"
+      "unblock": "Unblock user",
+      "block": "Block user"
     },
     "badges": {
       "beta": "Beta",
@@ -42,6 +43,10 @@
       "unblock": {
         "description": "Are you sure you want to unblock this user?",
         "confirm": "Yes, unblock user"
+      },
+      "block": {
+        "description": "Are you sure you want to block this user? Blocked users cannot send you further invites.",
+        "confirm": "Yes, block user"
       },
       "delete": {
         "title": "Are you absolutely sure?",
