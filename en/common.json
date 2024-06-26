@@ -1,5 +1,6 @@
 {
   "singulars": {
+    "characters": "Characters",
     "resetPassword": {
       "instructions": "To reset your password, enter your email and click reset password. You will receive an email containing a link that will bring you to the password update page, where you can define a new password.",
       "emailInputLabel": "Email",
