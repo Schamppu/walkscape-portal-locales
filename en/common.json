@@ -22,7 +22,8 @@
       "cancelInvite": "Cancel invite",
       "removeFriend": "Remove friend",
       "unblock": "Unblock user",
-      "block": "Block user"
+      "block": "Block user",
+      "share": "Share profile"
     },
     "badges": {
       "beta": "Beta",
