@@ -1,7 +1,7 @@
 {
   "singulars": {
     "meta": {
-      "description": "Check out the profile of {{username}}"
+      "description": "Check out {{username}}'s profile!"
     },
     "general": {
       "joinedOn": "Joined on:",

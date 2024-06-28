@@ -1,5 +1,8 @@
 {
   "singulars": {
+    "meta": {
+      "description": "{{characterName}} (total lvl {{totalLevel}}) has walked {{totalSteps}} steps and gained {{totalXp}} xp"
+    },
     "title": "Characters"
   }
 }
