@@ -1,5 +1,8 @@
 {
   "singulars": {
+    "meta": {
+      "description": "Check out the profile of {{username}}"
+    },
     "general": {
       "joinedOn": "Joined on:",
       "seeFull": "See full profile"
