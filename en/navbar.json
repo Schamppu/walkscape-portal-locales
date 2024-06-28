@@ -17,7 +17,8 @@
     "avatarActions": {
       "account": "Account",
       "friends": "Friends",
-      "logout": "Logout"
+      "logout": "Logout",
+      "profile": "Profile"
     },
     "notifications": {
       "friend_invite": "<0>{{username}}</0> wants to be your friend!",
