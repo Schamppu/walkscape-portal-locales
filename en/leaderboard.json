@@ -12,7 +12,18 @@
       "foraging": "Foraging",
       "smithing": "Smithing",
       "carpentry": "Carpentry",
-      "woodcutting": "Woodcutting"
+      "woodcutting": "Woodcutting",
+      "short": {
+        "mining": "MNG",
+        "agility": "AGL",
+        "cooking": "CKN",
+        "fishing": "FSH",
+        "crafting": "CRF",
+        "foraging": "FRG",
+        "smithing": "SMT",
+        "carpentry": "CRP",
+        "woodcutting": "WC"
+      }
     },
     "filters": {
       "all": "All",
