@@ -3,8 +3,7 @@
     "closedBetaStatus": {
       "eligibleForNextWave": {
         "key_one": "In aanmerking voor de volgende golf over ongeveer 1 tot 2 weken",
-        "key_other": "In aanmerking voor de volgende golf over ongeveer {{ count }} tot {{ countPlusOne }} weken",
-        "key_zero": "In aanmerking voor de volgende golf in minder dan een week"
+        "key_other": "In aanmerking voor de volgende golf over ongeveer {{ count }} tot {{ countPlusOne }} weken"
       }
     }
   },
@@ -58,7 +57,6 @@
       "changePasswordButton": "Wachtwoord wijzigen",
       "newPasswordLabel": "Nieuw wachtwoord",
       "repeatPasswordLabel": "Herhaal wachtwoord",
-      "successMessage": "Wachtwoord succesvol gewijzigd",
       "title": "Wijzig je wachtwoord"
     },
     "patreonLink": {

@@ -3,8 +3,7 @@
     "closedBetaStatus": {
       "eligibleForNextWave": {
         "key_one": "In der nächsten Beta in etwa 1 bis 2 Wochen",
-        "key_other": "In der nächsten Beta in etwa {{ count }} bis {{ countPlusOne }} Wochen",
-        "key_zero": "In der nächsten Beta in weniger als einer Woche"
+        "key_other": "In der nächsten Beta in etwa {{ count }} bis {{ countPlusOne }} Wochen"
       }
     }
   },
@@ -58,7 +57,6 @@
       "changePasswordButton": "Password ändern",
       "newPasswordLabel": "Neues Passwort",
       "repeatPasswordLabel": "Neues Passwort wiederholen",
-      "successMessage": "Passwort erfolgreich geändert",
       "title": "Passwort "
     },
     "patreonLink": {
