@@ -99,8 +99,8 @@
       "newPasswordLabel": "New password",
       "repeatPasswordLabel": "Repeat password",
       "changePasswordButton": "Change password",
-      "successMessage": "Password changed successsfully",
-      "prompt": "Please update your password!"
+      "prompt": "Please update your password!",
+      "unauthenticated": "Requires authentication"
     },
     "sections": {
       "friends": "Friends",

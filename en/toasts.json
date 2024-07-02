@@ -4,6 +4,7 @@
       "signedUpSuccessfully": "Signed up successfully. Make sure to check your email: you should receive a verification email with a link to click to confirm your email address.",
       "loggedInSuccesssfully": "Logged in successfully.",
       "passwordResetSent": "Password reset email sent",
+      "passwordChange": "Password changed successsfully",
       "bmacCheckForValidationCode": "Check the entered email inbox for the validation code",
       "accountLinkedSuccessfully": "Bmac account linked successfully",
       "loggedOut": "Logged out successfully",
@@ -14,6 +15,8 @@
       }
     },
     "error": {
+      "passwordReset": "Could not send recovery email",
+      "passwordChange": "Updating password failed",
       "genericError": "Something went wrong."
     }
   }
