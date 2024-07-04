@@ -7,6 +7,13 @@
       "joinedOn": "Joined on:",
       "seeFull": "See full profile"
     },
+    "privacy": {
+      "title": "Privacy settings",
+      "profileVisibility": "Profile visibility",
+      "private": "Private",
+      "friends": "Friends only",
+      "public": "Public"
+    },
     "accountLinking": {
       "getCodeButton": "Get code",
       "codeFormFieldLabel": "Code received by email",
@@ -89,7 +96,7 @@
         },
         "5": {
           "title": "Play nice :)",
-          "description": "WalkScape is a social game, played in a virtual world, but with real people. We expect all Walkers to treat each other with respect, whether it be in the game, on our social media or in real life. All forms of harrassment and discrimination are absolutely prohibited."
+          "description": "WalkScape is a social game, played in a virtual world, but with real people. We expect all Walkers to treat each other with respect, whether it be in the game, on our social media or in real life. All forms of harassment and discrimination are absolutely prohibited."
         }
       },
       "android": {
