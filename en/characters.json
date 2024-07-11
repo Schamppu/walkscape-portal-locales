@@ -6,8 +6,14 @@
     "title": "Characters",
     "settings": {
       "title": "Character settings",
-      "anonOnLeaderboard": "Anonymize on leaderboards",
-      "hideSteps": "Hide steps"
+      "anonOnLeaderboard": {
+        "label": "Anonymize on leaderboards",
+        "tip": "When selected, replaces this character's name with \"Anonymous Walker\" on the leaderboards. Note: If your profile visibility is set to \"Friends only\", then your friends can still see the character's name on the leaderboards."
+      },
+      "hideSteps": {
+        "label": "Hide steps",
+        "tip": "When selected, hides this character's total step count. Note: If your profile visibility is set to \"Friends only\", then your friends can still see the character's steps."
+      }
     }
   }
 }
