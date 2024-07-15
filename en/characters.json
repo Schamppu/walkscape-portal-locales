@@ -12,7 +12,7 @@
       },
       "hideSteps": {
         "label": "Hide steps",
-        "tip": "When selected, hides this character's total step count. Note: If your profile visibility is set to \"Friends only\", then your friends can still see the character's steps."
+        "tip": "When selected, hides this character's total step count to all other users. This character will also be hidden on the Total Steps leaderboard."
       }
     }
   }
