@@ -21,6 +21,7 @@
     "statsSection": {
       "title": "Enkele leuke statistieken:"
     },
-    "welcomeMessage": "Welkom op de WalkScape Portal"
+    "welcomeMessage": "Welkom op de WalkScape Portal",
+    "systemMessages": ""
   }
 }

@@ -3,10 +3,12 @@
     "statsSection": {
       "betaTesters": {
         "key_one": "Di questi, <b>1 utente</b> è un beta tester",
+        "key_many": "",
         "key_other": "Di questi, <b>{{count}} utenti</b> sono beta tester"
       },
       "registeredUsers": {
         "key_one": "Finora si è registrato <b>1 utente</b>",
+        "key_many": "",
         "key_other": "Finora si sono registrati <b>{{count}} utenti</b>"
       }
     }
@@ -21,6 +23,7 @@
     "statsSection": {
       "title": "Alcuni numeri divertenti:"
     },
-    "welcomeMessage": "Benvenuti su WalkScape Portal"
+    "welcomeMessage": "Benvenuti su WalkScape Portal",
+    "systemMessages": ""
   }
 }

@@ -9,23 +9,18 @@
     },
     "statsSection": {
       "title": "Quelques statistiques amusantes :"
-    }
+    },
+    "systemMessages": ""
   },
   "plurals": {
     "statsSection": {
       "registeredUsers": {
-        "key_zero": "",
         "key_one": "Jusqu'à présent, <b>1 utilisateur</b> s'est inscrit",
-        "key_two": "",
-        "key_few": "",
         "key_many": "",
         "key_other": "Jusqu'à présent, <b>{{count}} utilisateurs</b> se sont inscrits"
       },
       "betaTesters": {
-        "key_zero": "",
         "key_one": "Parmi eux, <b>1 utilisateur</b> est un testeur bêta",
-        "key_two": "",
-        "key_few": "",
         "key_many": "",
         "key_other": "Parmi eux, <b>{{count}} utilisateurs</b> sont des testeurs bêta"
       }
