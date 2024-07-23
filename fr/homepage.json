@@ -1,34 +1,29 @@
 {
-  "singulars": {
-    "welcomeMessage": "Bienvenue sur le portail WalkScape",
-    "linkToSite": "Le portail WalkScape est un portail social associé au jeu <wsSite>WalkScape</wsSite>.",
-    "infoSection": {
-      "title": "Informations importantes concernant la bêta fermée",
-      "closedBetaAccess": "La bêta fermée sortira le 18 janvier 2024. Vous pouvez sécuriser votre accès à la bêta fermée en soutenant le jeu sur <patreonLink>Patreon</patreonLink> ou <bmacLink>Buy Me A Coffee</bmacLink>, ou en postulant à la bêta fermée via le formulaire de candidature en tant qu'utilisateur enregistré sur le portail (vous trouverez le bouton dans votre page de compte).",
-      "betaLinking": "Si vous nous soutenez, ou avez soutenu à un moment donné sur <patreonLink>Patreon</patreonLink> ou <bmacLink>Buy me a Coffee</bmacLink>, vous pouvez lier votre compte Portal à ces services dans la page de compte. Gardez à l'esprit que les invitations sont données par vagues, et la première vague de la bêta fermée est déjà complète. La seconde vague de la bêta fermée arrivera quelques semaines après la sortie de la bêta fermée."
+    "singulars": {
+        "welcomeMessage": "Bienvenue sur le portail WalkScape",
+        "linkToSite": "Le portail WalkScape est un portail social associé au jeu <wsSite>WalkScape</wsSite>.",
+        "infoSection": {
+            "title": "Informations importantes concernant la bêta fermée",
+            "closedBetaAccess": "La bêta fermée sortira le 18 janvier 2024. Vous pouvez sécuriser votre accès à la bêta fermée en soutenant le jeu sur <patreonLink>Patreon</patreonLink> ou <bmacLink>Buy Me A Coffee</bmacLink>, ou en postulant à la bêta fermée via le formulaire de candidature en tant qu'utilisateur enregistré sur le portail (vous trouverez le bouton dans votre page de compte).",
+            "betaLinking": "Si vous nous soutenez, ou avez soutenu à un moment donné sur <patreonLink>Patreon</patreonLink> ou <bmacLink>Buy me a Coffee</bmacLink>, vous pouvez lier votre compte Portal à ces services dans la page de compte. Gardez à l'esprit que les invitations sont données par vagues, et la première vague de la bêta fermée est déjà complète. La seconde vague de la bêta fermée arrivera quelques semaines après la sortie de la bêta fermée."
+        },
+        "statsSection": {
+            "title": "Quelques statistiques amusantes :"
+        },
+        "systemMessages": ""
     },
-    "statsSection": {
-      "title": "Quelques statistiques amusantes :"
+    "plurals": {
+        "statsSection": {
+            "registeredUsers": {
+                "key_one": "Jusqu'à présent, <b>1 utilisateur</b> s'est inscrit",
+                "key_many": "",
+                "key_other": "Jusqu'à présent, <b>{{count}} utilisateurs</b> se sont inscrits"
+            },
+            "betaTesters": {
+                "key_one": "Parmi eux, <b>1 utilisateur</b> est un testeur bêta",
+                "key_many": "",
+                "key_other": "Parmi eux, <b>{{count}} utilisateurs</b> sont des testeurs bêta"
+            }
+        }
     }
-  },
-  "plurals": {
-    "statsSection": {
-      "registeredUsers": {
-        "key_zero": "",
-        "key_one": "Jusqu'à présent, <b>1 utilisateur</b> s'est inscrit",
-        "key_two": "",
-        "key_few": "",
-        "key_many": "",
-        "key_other": "Jusqu'à présent, <b>{{count}} utilisateurs</b> se sont inscrits"
-      },
-      "betaTesters": {
-        "key_zero": "",
-        "key_one": "Parmi eux, <b>1 utilisateur</b> est un testeur bêta",
-        "key_two": "",
-        "key_few": "",
-        "key_many": "",
-        "key_other": "Parmi eux, <b>{{count}} utilisateurs</b> sont des testeurs bêta"
-      }
-    }
-  }
 }
