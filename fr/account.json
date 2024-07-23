@@ -69,18 +69,14 @@
       "title": "Changer votre mot de passe",
       "newPasswordLabel": "Nouveau mot de passe",
       "repeatPasswordLabel": "Répéter le mot de passe",
-      "changePasswordButton": "Changer le mot de passe",
-      "successMessage": "Mot de passe changé avec succès"
+      "changePasswordButton": "Changer le mot de passe"
     },
     "subscriptionStateDisclaimer": "L'état de l'abonnement peut prendre jusqu'à 1 heure pour se rafraîchir."
   },
   "plurals": {
     "closedBetaStatus": {
       "eligibleForNextWave": {
-        "key_zero": "Éligible pour la prochaine vague en moins d'une semaine",
         "key_one": "Éligible pour la prochaine vague dans environ 1 à 2 semaines",
-        "key_two": "",
-        "key_few": "",
         "key_many": "",
         "key_other": "Éligible pour la prochaine vague dans environ {{ count }} à {{ countPlusOne }} semaines"
       }
