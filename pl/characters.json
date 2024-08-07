@@ -1,1 +1,19 @@
-{}
+{
+    "singulars": {
+        "meta": {
+            "description": "{{characterName}} (total lvl {{totalLevel}}) przeszedł {{totalSteps}} kroków i uzyskał {{totalXp}} xp"
+        },
+        "title": "Postacie",
+        "settings": {
+            "title": "Ustawienia postaci",
+            "anonOnLeaderboard": {
+                "label": "Anonimizacja w Rankingach",
+                "tip": "Zaznaczenie zamienia nazwę twojej postaci na \"Anonimowy Podróżnik\" w rankingach. Uwaga: jeżeli widoczność twojego profilu jest ustawiona na \"Tylko Znajomi\", ci dalej mogą zobaczyć twoją nazwę w rankingach."
+            },
+            "hideSteps": {
+                "label": "Ukryj kroki",
+                "tip": "Zaznaczenie sprawia, że ukryte zostają łączne kroki twojej postaci dla wszystkich innych użytkowników. Ta postać zostanie również ukryta na rankingach Kroków Ogólnie."
+            }
+        }
+    }
+}
