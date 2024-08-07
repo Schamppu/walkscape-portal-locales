@@ -1,1 +1,153 @@
-{}
+{
+  "singulars": {
+    "accountLinking": {
+      "noSubscription": "Brak Subskrypcji",
+      "getCodeButton": "Uzyskaj kod",
+      "codeFormFieldLabel": "Kod otrzymany przez email",
+      "linkAccountButton": "Połącz Konto",
+      "notLinkedStatus": "Niepołączone",
+      "firstSupportDate": "Pierwsze wsparcie {{ date }}",
+      "linkedStatus": "Połączone",
+      "unlinkAction": "Rozłącz"
+    },
+    "discordLink": {
+      "success": "Sukces w połączeniu Discord!",
+      "title": "Discord:",
+      "linkButton": "Połącz Discord",
+      "joinDiscord": "Dołącz do Discord",
+      "relogin": "Proszę <0>zaloguj się</0> ponownie",
+      "failed": "Powiązanie Discord nieudane. Spróbuj ponownie później.",
+      "inProgress": "Łączenie Discord..."
+    },
+    "betaDownloadInfo": {
+      "gameRules": {
+        "1": {
+          "description": "W WalkScape kroki są generowane poprzez poruszanie twoimi własnymi nogami. Mocno sprzeciwiamy się jakimkolwiek metodom opartym o nie-chodzenie, jakie mogą generować kroki oraz promowaniu takich metod w naszej społeczności (Reddit, Portal, Discord). Wyjątkiem są sytuacje, w jakich twoja noga porusza się naturalnie w sposób, jaki można liczyć za krok (na przykład jazda na rowerze) oraz tylko tak długo, jak zliczona liczba kroków jest na tyle niska, że nie można jej uznawać za nadużycie.",
+          "title": "Tylko faktyczne kroki"
+        },
+        "5": {
+          "description": "WalkScape to gra społecznościowa, grana w wirtualnym świecie, ale z udziałem żywych osób. Oczekujemy, że wszyscy Podróżnicy będą traktować się z respektem, niezależnie czy w grze, czy w mediach społecznościowych lub realnym życiu. Jakiekolwiek formy zastraszania lub dyskryminacji są absolutnie zabronione.",
+          "title": "Graj miło :)"
+        },
+        "2": {
+          "title": "1 urządzenie = 1 konto = 1 osoba",
+          "description": "Oczekujemy, że jeden gracz będzie grał na jednym koncie oraz jednym urządzeniu. Nie dziel się swoim urządzeniem lub kontem z innymi. Używanie emulatorów do gry na wielu urządzeniach w tym samym czasie jest niedozwolone. Również nie uruchamiaj wielu instancji gry na jednym urządzeniu."
+        },
+        "3": {
+          "title": "Zgłaszaj błędy i złe zachowania",
+          "description": "Nie dziel się informacjami o oszustwach i nie zachęcaj do tego, również nie używaj exploitów z innymi. Jeżeli znajdziesz poważny błąd lub exploit w grze, zgłoś go do teamu gry poprzez oficjalne kanały służące do zgłoszeń lub pingując członka teamu."
+        },
+        "4": {
+          "title": "Tylko oficjalna dystrybucja",
+          "description": "Graj tylko używając oficjalnie dystrybuowanych wersji poprzez oficjalne kanały. Nie twórz swoich własnych paczek, buildów lub dystrybucji gry oraz nie pobieraj i nie dziel się nieoficjalnymi wersjami, które mogą być rozpowszechniane przez inne osoby."
+        }
+      },
+      "dialogTitle": "Pobierz klient gry",
+      "termsOfServiceDisclaimer": "Klikając 'Akceptuję' zgadzasz się na nasze <tos>Terms of Service</tos> oraz Zasady Gry.",
+      "acceptTermsButton": "Akceptuję",
+      "android": {
+        "title": "Dla użytkowników Androida:",
+        "instructions": "Używasz systemu Android. Są dwa kroki, by otrzymać dostęp do Bety gry WalkScape:",
+        "joinGoogleGroup": "Dołącz do <googleGroup>zamkniętej Grupy Google dla Bety WalkScape</googleGroup>.",
+        "downloadFromGooglePlay": "Po tym, jak dołączysz do grupy otrzymasz dostęp do <playStoreLink>możliwości pobrania gry z Google Play</playStoreLink>."
+      },
+      "ios": {
+        "title": "Dla użytkowników iOS:",
+        "instructions": "Jeżeli korzystasz z sytemu iOS <testflightLink>kliknij ten link, by dołączyć do WalkScape TestFlight i pobierz grę</testflightLink>."
+      }
+    },
+    "meta": {
+      "description": "Sprawdź profil {{username}} !"
+    },
+    "patreonLink": {
+      "recommendation": "Zalecamy połączenie kont logując się Patreonem. Jeżeli to nie działa, spróbuj poprzez formularz poniżej.",
+      "success": {
+        "body": "Dostęp do gry przyznawany jest w falach. Jeżeli fala właśnie trwa możesz pobrać grę od razu z zakładki Konto. Również poinformujemy cię mailem, kiedy dostęp został przyznany.",
+        "title": "Powiązanie Patreon zakończone sukcesem!"
+      },
+      "title": "Patreon:",
+      "linkInstructions": "Połącz konto Patreon",
+      "login": "Zaloguj przy użyciu Patreon",
+      "emailInputLabel": "Email użyty na Patreon",
+      "codeSentSuccessMessage": "Sprawdź skrzynkę email i znajdź kod aktywacyjny",
+      "linkSuccessMessage": "Konto Patron połączone z sukcesem",
+      "return": "Powrót do Konta",
+      "inProgress": "Łączenie Patreon...",
+      "failed": "Powiązanie Patreon nieudane. Spróbuj ponownie później."
+    },
+    "general": {
+      "joinedOn": "Dołączono:",
+      "seeFull": "Zobacz pełen profil"
+    },
+    "privacy": {
+      "title": "Ustawienia Prywatności",
+      "private": "Prywatny",
+      "friends": "Tylko Znajomi",
+      "public": "Publiczny",
+      "profileVisibility": "Widoczność Profilu"
+    },
+    "header": {
+      "introduction": "Witaj {{ username }}"
+    },
+    "bmac": {
+      "statusTitle": "Bmac:",
+      "linkTitle": "Połącz konto Bmac",
+      "emailFormFieldLabel": "Email użyty na koncie Bmac"
+    },
+    "thankYou": {
+      "title": "Dziękujemy Ci za Twoje wsparcie!",
+      "body-2": "Jeżeli nie otrzymasz maila w ciągu kilku godzin sprawdź, czy podany adres email to ten sam, który posiadasz w Patreon lub Buy me a Coffee i połącz ponownie.",
+      "body-3": "Dziękujemy!",
+      "understand": "Rozumiem",
+      "body-1": "Twój nowy status wspierającego powinien być od razu widoczny na zakładce Konta, ale czasami może zabrać to okołó dwóch godzin, by dokonano pełnej synchronizacji. W tym wypadku otrzymasz mail o zmianie statusu lub akceptacji do bety."
+    },
+    "closedBetaStatus": {
+      "title": "Zamknięta beta:",
+      "invitedStatus": "Zaproszono",
+      "notInvited": "Nie zaproszono",
+      "applyButton": "Aplikuj po dostęp do bety",
+      "seeExistingApplication": "Zobacz aplikację",
+      "downloadButton": "Pobierz grę",
+      "eligibleForNextWave": "Uprawnienie do kolejnej fali"
+    },
+    "profilePhoto": {
+      "changeButton": "Zmień zdjęcie profilowe",
+      "instructions": "Przytnij i przybliż/oddal swoje zdjęcie profilowe tutaj. Możesz skorzystać z dwóch palców na urządzeniu mobilnym.",
+      "zoomLabel": "Przybliż",
+      "saveLabel": "Zapisz",
+      "saveSuccessMessage": "Zdjęcie profilowe zaktualizowane"
+    },
+    "usernameChange": {
+      "title": "Zmień nazwę konta",
+      "newUsernameLabel": "Nowa nazwa konta",
+      "successMessage": "Zmiana nazwy konta przebiegła pomyślnie",
+      "changeUsernameButton": "Zmień nazwę"
+    },
+    "passwordChange": {
+      "newPasswordLabel": "Nowe hasło",
+      "repeatPasswordLabel": "Powtórz hasło",
+      "changePasswordButton": "Zmień hasło",
+      "prompt": "Proszę zaktualizować swoje hasło!",
+      "unauthenticated": "Wymagane logowanie wieloetapowe",
+      "title": "Zmiana hasła"
+    },
+    "sections": {
+      "friends": "Znajomi",
+      "friendInvites": "Oczekujące Zaproszenia Znajomych"
+    },
+    "users": {
+      "enterSearch": "Wprowadź wyszukiwanie",
+      "found": "{{countStr}} znalezionych użytkowników"
+    },
+    "subscriptionStateDisclaimer": "Zmiana stanu subskrypcji może zająć do godziny."
+  },
+  "plurals": {
+    "closedBetaStatus": {
+      "eligibleForNextWave": {
+        "key_one": "Uprawnienie do następnej fali w ciągu od {{ count }} do {{ countPlusOne }} tygodni",
+        "key_few": "Uprawnienie do następnej fali w ciągu od {{ count }} do {{ countPlusOne }} tygodni",
+        "key_many": "Uprawnienie do następnej fali w ciągu od {{ count }} do {{ countPlusOne }} tygodni"
+      }
+    }
+  }
+}
