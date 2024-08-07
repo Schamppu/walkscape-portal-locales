@@ -1,1 +1,23 @@
-{}
+{
+    "singulars": {
+        "success": {
+            "signedUpSuccessfully": "Zarejestrowano pomyślnie. Upewnij się, by sprawdzić swój email: powinieneś otrzymać weryfikację na skrzynkę email z linkiem, do potwierdzenia adresu.",
+            "loggedInSuccesssfully": "Zalogowano pomyślnie.",
+            "passwordResetSent": "Wysłano link z resetowaniem hasła",
+            "passwordChange": "Hasło zmienione z sukcesem",
+            "bmacCheckForValidationCode": "Sprawdź podaną skrzynkę email, by znaleźć kod weryfikacyjny",
+            "accountLinkedSuccessfully": "Konto Bmac podpięte z sukcesem",
+            "loggedOut": "Wylogowano",
+            "friendInvites": {
+                "accept": "Zaproszenie do znajomych zaakceptowane",
+                "reject": "Zaproszenie do znajomych usunięte",
+                "block": "Użytkownik zablokowany"
+            }
+        },
+        "error": {
+            "passwordReset": "Nie można wysłać maila odzyskującego",
+            "passwordChange": "Aktualizowanie hasła nie powiodło się",
+            "genericError": "Coś się popsuło."
+        }
+    }
+}
