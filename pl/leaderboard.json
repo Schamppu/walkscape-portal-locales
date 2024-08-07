@@ -1,1 +1,43 @@
-{}
+{
+    "singulars": {
+        "filterOptions": {
+            "total_steps": "Kroków Łącznie",
+            "total_xp": "XP łącznie",
+            "total_level": "Poziomów Łącznie",
+            "mining": "Górnictwo",
+            "agility": "Zwinność",
+            "cooking": "Kucharstwo",
+            "fishing": "Wędkarstwo",
+            "crafting": "Rzemiosło",
+            "foraging": "Zbieractwo",
+            "smithing": "Kowalstwo",
+            "carpentry": "Stolarstwo",
+            "woodcutting": "Drwalnictwo",
+            "achievement_points": "Punkty Osiągnięć",
+            "short": {
+                "mining": "GÓR",
+                "agility": "ZWI",
+                "cooking": "KUC",
+                "fishing": "WĘD",
+                "crafting": "RZE",
+                "foraging": "ZBI",
+                "smithing": "KOW",
+                "woodcutting": "DRW",
+                "carpentry": "STO"
+            }
+        },
+        "filters": {
+            "all": "Wszystkie",
+            "friends": "Znajomi"
+        },
+        "loading": "Wczytywanie...",
+        "avatarOfPlayer": "Avatar gracza {{player}}"
+    },
+    "plurals": {
+        "pageNumber": {
+            "key_one": "Strona 1",
+            "key_few": "Strona {{count}}",
+            "key_many": "Strona {{count}}"
+        }
+    }
+}
