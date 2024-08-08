@@ -48,7 +48,12 @@
     },
     "discordLink": {
       "linkButton": "Discord verkn",
-      "title": "Discord"
+      "title": "Discord",
+      "joinDiscord": "Discord beitreten",
+      "success": "Erfolgreich mit Discord verknüpft!",
+      "relogin": "Bitte <0>wieder anmelden</0>",
+      "inProgress": "Verknüpfe Discord...",
+      "failed": "Fehler beim verknüpfen mit Discord. Versuche es später nochmal."
     },
     "header": {
       "introduction": "Hallo, {{ username }}"
@@ -64,7 +69,8 @@
       "emailInputLabel": "E-Mail deines Patreon-Kontos",
       "linkInstructions": "Patreon-Konto verbinden",
       "linkSuccessMessage": "Patreon-Konto erfolgreich verbunden",
-      "title": "Patreon:"
+      "title": "Patreon:",
+      "login": "Mit Patreon anmelden"
     },
     "profilePhoto": {
       "changeButton": "Profilbild ändern",
@@ -79,6 +85,20 @@
       "newUsernameLabel": "Neuer Benutzername",
       "successMessage": "Benutzername erfolgreich geändert",
       "title": "Benutzernamen "
+    },
+    "general": {
+      "seeFull": "Ganzes Profil ansehen",
+      "joinedOn": "Beigetreten am:"
+    },
+    "meta": {
+      "description": "Sieh dir {{username}}'s Profil an!"
+    },
+    "privacy": {
+      "title": "Privatsphäreeinstellungen",
+      "profileVisibility": "Profilsichtbarkeit",
+      "private": "Privat",
+      "friends": "Nur Freunde",
+      "public": "Öffentlich"
     }
   }
 }
