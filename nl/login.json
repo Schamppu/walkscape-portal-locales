@@ -1,17 +1,20 @@
 {
-  "singulars": {
-    "alreadyHaveAnAccountPrompt": "Heb je al een account? Log dan in",
-    "confirmPasswordFormLabel": "Wachtwoord bevestigen",
-    "dontHaveAnAccountPrompt": "Heb je nog geen account? Meld je dan aan",
-    "emailFormLabel": "E-mail",
-    "forgotPasswordLabel": "Wachtwoord vergeten?",
-    "loginButtonLabel": "Inloggen",
-    "loginDescription": "Inloggen met WalkScape account",
-    "passwordFormLabel": "Wachtwoord",
-    "passwordsDontMatch": "Wachtwoorden komen niet overeen",
-    "signUpButtonLabel": "Aanmelden",
-    "signUpDescription": "Aanmelden voor WalkScape account",
-    "signUpLinkLabel": "Heb je nog geen account? Meld je dan aan",
-    "usernameFormLabel": "E-mail"
-  }
+    "singulars": {
+        "alreadyHaveAnAccountPrompt": "Heb je al een account? Log dan in",
+        "confirmPasswordFormLabel": "Wachtwoord bevestigen",
+        "dontHaveAnAccountPrompt": "Heb je nog geen account? Meld je dan aan",
+        "emailFormLabel": "E-mail",
+        "forgotPasswordLabel": "Wachtwoord vergeten?",
+        "loginButtonLabel": "Inloggen",
+        "loginDescription": "Inloggen met WalkScape account",
+        "passwordFormLabel": "Wachtwoord",
+        "passwordsDontMatch": "Wachtwoorden komen niet overeen",
+        "signUpButtonLabel": "Aanmelden",
+        "signUpDescription": "Aanmelden voor WalkScape account",
+        "signUpLinkLabel": "Heb je nog geen account? Meld je dan aan",
+        "usernameFormLabel": "Gebruikersnaam",
+        "signup": {
+            "special": "Meldt je aan voor een Walkscape account met speciale bèta toegang"
+        }
+    }
 }
