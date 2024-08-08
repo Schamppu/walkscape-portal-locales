@@ -31,7 +31,29 @@
         "instructions": "Als je iOS gebruikt, <testflightLink>klik dan op deze link om deel te nemen aan WalkScape's TestFlight en het spel te downloaden</testflightLink>.",
         "title": "Voor iOS-gebruikers:"
       },
-      "termsOfServiceDisclaimer": "Lees voordat je het spel downloadt de <tos>Servicevoorwaarden</tos> en accepteer ze."
+      "termsOfServiceDisclaimer": "Door op 'Accepteer' te drukken geef je aan de <tos>Servicevoorwaarden</tos> en spelregels te accepteren.",
+      "gameRules": {
+        "1": {
+          "title": "Alleen echte stappen",
+          "description": "In Walkscape genereer je stappen door te lopen met je benen. We zijn sterk tegen manieren om stappen te genereren zonder te lopen, en ontmoedigen het promoten hiervan binnen onze gemeenschap (Reddit, Portal, Discord). De enige uitzonderingen hierop zijn situaties waar de benen op een natuurlijke manier bewegen die stappen genereren (zoals tijdens het fietsen), en alleen zolang de hoeveelheid geregistreerde stappen niet misbruikbaar zijn."
+        },
+        "2": {
+          "title": "1 apparaat = 1 account = 1 persoon",
+          "description": "We verwachten dat één speler met één apparaat op één account speelt. Deel je apparaat niet met iemand anders. Het gebruik van emulators, of het spelen op meerdere apparaten tegelijk is niet toegestaan. Het is niet toegestaan om meerdere instanties van het spel open te hebben op hetzelfde apparaat."
+        },
+        "3": {
+          "title": "Rapporteer uitbuitingen en wangedrag",
+          "description": "Het is niet toegestaan om valsspelen of uitbuitingen te delen of deze aan te moedigen naar andere spelers. Als je een serieuze fout in het spel vindt, geef deze dan door aan het team via officiële kanalen of door iemand van het team een bericht te sturen."
+        },
+        "4": {
+          "title": "Alleen officiële uitreikingen",
+          "description": "Speel alleen versies die via officiële kanalen zijn uitgedeeld. Probeer niet zelf een versie van het spel te creëren, of onofficiële versies te downloaden of delen met anderen."
+        },
+        "5": {
+          "title": "Wees aardig :)",
+          "description": "Walkscape is een sociaal spel dat zich afspeelt in een virtuele wereld, met echte mensen. We verwachten dat alle spelers elkaar met respect behandelen, zowel in het spel, als op onze social media en in het echte leven. Alle vormen van lastig vallen, intimidatie en discriminatie zijn zonder uitzondering verboden."
+        }
+      }
     },
     "bmac": {
       "emailFormFieldLabel": "E-mail gebruikt voor je Bmac-account",
@@ -44,11 +66,14 @@
       "invitedStatus": "Uitgenodigd",
       "notInvited": "Niet uitgenodigd",
       "seeExistingApplication": "Aanvraag bekijken",
-      "title": "Gesloten bèta:"
+      "title": "Gesloten bèta:",
+      "eligibleForNextWave": "In aanmerking voor volgende golf"
     },
     "discordLink": {
       "linkButton": "Discord koppelen",
-      "title": "Discord:"
+      "title": "Discord:",
+      "inProgress": "Discord aan het koppelen...",
+      "failed": "Discord connectie mislukt. Probeer het later nog eens."
     },
     "header": {
       "introduction": "Hallo {{ username }}"
@@ -57,14 +82,25 @@
       "changePasswordButton": "Wachtwoord wijzigen",
       "newPasswordLabel": "Nieuw wachtwoord",
       "repeatPasswordLabel": "Herhaal wachtwoord",
-      "title": "Wijzig je wachtwoord"
+      "title": "Wijzig je wachtwoord",
+      "prompt": "Update je wachtwoord A.U.B. !",
+      "unauthenticated": "Authenticatie vereist"
     },
     "patreonLink": {
       "codeSentSuccessMessage": "Controleer het postvak IN van het ingevoerde e-mailadres voor de validatiecode",
       "emailInputLabel": "E-mail gebruikt voor je Patreon account",
       "linkInstructions": "Een Patreon-account koppelen",
       "linkSuccessMessage": "Patreon account succesvol gekoppeld",
-      "title": "Patreon:"
+      "title": "Patreon:",
+      "login": "Log in met Patreon",
+      "return": "Terug naar Account pagina",
+      "inProgress": "Patreon aan het koppelen...",
+      "failed": "Patreon account koppelen is mislukt. Probeer het later nog eens.",
+      "success": {
+        "title": "Patreon account koppelen succesvol!",
+        "body": "Toegang tot het spel wordt is golven toegekend. Wanneer een golf actief is, kun je het spel direct van je Account pagina downloaden. Anders sturen we je een email wanneer toegang is toegekend."
+      },
+      "recommendation": "We raden aan om accounts the koppelen door in te loggen met Patreon. Als dit niet werkt, probeer dan te koppelen met het formulier hier onder."
     },
     "profilePhoto": {
       "changeButton": "Profielfoto wijzigen",
@@ -79,6 +115,21 @@
       "newUsernameLabel": "Nieuwe gebruikersnaam",
       "successMessage": "Gebruikersnaam succesvol gewijzigd",
       "title": "Je gebruikersnaam wijzigen"
+    },
+    "sections": {
+      "friendInvites": "Vriendverzoeken in behandeling",
+      "friends": "Vrienden"
+    },
+    "users": {
+      "enterSearch": "Zoekterm invoeren",
+      "found": "{{countStr}} gebruikers gevonden"
+    },
+    "thankYou": {
+      "title": "Bedankt voor je steun!",
+      "body-1": "Je nieuwe supporter status zou direct in je account pagina zichtbaar moeten zijn, het kan echter soms tot 2 uur duren of the synchroniseren. In dit geval ontvang je een email wanneer je status is veranderd of wanneer je bent geaccepteerd tot de bèta.",
+      "body-2": "Als je na een paar uur nog geen email hebt ontvangen, controleer dan of het ingevoerde email adres het zelfde is als email adres dat je hebt gebruikt voor Patreon of But me a Coffee, en koppel het opnieuw.",
+      "body-3": "Bedankt!",
+      "understand": "Ik begrijp het"
     }
   }
 }
