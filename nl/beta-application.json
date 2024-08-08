@@ -1,25 +1,28 @@
 {
-  "singulars": {
-    "form": {
-      "androidCheckbox": "Android",
-      "averageStepsPerWeekLabel": "Gemiddeld aantal stappen dat je per week zet:",
-      "averageStepsPerWeekPlaceholder": "Gemiddeld aantal stappen per week",
-      "deviceModel": "Het model van je apparaat of apparaten:",
-      "deviceModelPlaceholder": "bijv.: Google Pixel 6, iPhone 13 Pro",
-      "deviceType": "Je apparaattype(n):",
-      "iOSCheckbox": "iOS (iPhone)",
-      "submitApplicationButton": "Aanvraag indienen",
-      "whyInviteToBeta": "Waarom jij moet worden uitgenodigd voor de bèta:",
-      "whyInviteToBetaPlaceholder": "Beschrijf waarom je moet worden uitgenodigd voor de gesloten bèta: je motivatie, je eerdere ervaring met het testen van games, een behoefte aan toegankelijkheidsfuncties, enz."
-    },
-    "formSubmissionPreview": {
-      "alreadySubmittedApplicationMessage": "Je hebt al een aanvraag ingediend. Hier is de samenvatting:",
-      "androidDeviceCheckedLabel": "Android:",
-      "applicationTextLabel": "Aanvraagtekst:",
-      "averageStepsPerWeekLabel": "Gemiddeld aantal stappen per week:",
-      "deviceModelLabel": "Apparaatmodel:",
-      "iOSDeviceCheckedLabel": "iOS:"
-    },
-    "title": "Bèta-aanvraag"
-  }
+    "singulars": {
+        "form": {
+            "androidCheckbox": "Android",
+            "averageStepsPerWeekLabel": "Gemiddeld aantal stappen dat je per week zet:",
+            "averageStepsPerWeekPlaceholder": "Gemiddeld aantal stappen per week",
+            "deviceModel": "Het model van je apparaat of apparaten:",
+            "deviceModelPlaceholder": "bijv.: Google Pixel 6, iPhone 13 Pro",
+            "deviceType": "Je apparaattype(n):",
+            "iOSCheckbox": "iOS (iPhone)",
+            "submitApplicationButton": "Aanvraag indienen",
+            "whyInviteToBeta": "Waarom jij moet worden uitgenodigd voor de bèta:",
+            "whyInviteToBetaPlaceholder": "Beschrijf waarom je moet worden uitgenodigd voor de gesloten bèta: je motivatie, je eerdere ervaring met het testen van games, een behoefte aan toegankelijkheidsfuncties, enz."
+        },
+        "formSubmissionPreview": {
+            "alreadySubmittedApplicationMessage": "Je hebt al een aanvraag ingediend. Hier is de samenvatting:",
+            "androidDeviceCheckedLabel": "Android:",
+            "applicationTextLabel": "Aanvraagtekst:",
+            "averageStepsPerWeekLabel": "Gemiddeld aantal stappen per week:",
+            "deviceModelLabel": "Apparaatmodel:",
+            "iOSDeviceCheckedLabel": "iOS:"
+        },
+        "title": "Bèta-aanvraag",
+        "landing": {
+            "title": "Bedankt voor het aanmelden voor Walkscape!"
+        }
+    }
 }
