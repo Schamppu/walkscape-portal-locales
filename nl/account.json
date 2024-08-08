@@ -58,7 +58,7 @@
     "bmac": {
       "emailFormFieldLabel": "E-mail gebruikt voor je Bmac-account",
       "linkTitle": "Een Bmac-account koppelen",
-      "statusTitle": "Bmac:"
+      "statusTitle": "BMaC:"
     },
     "closedBetaStatus": {
       "applyButton": "Bèta-toegang aanvragen",
@@ -73,7 +73,10 @@
       "linkButton": "Discord koppelen",
       "title": "Discord:",
       "inProgress": "Discord aan het koppelen...",
-      "failed": "Discord connectie mislukt. Probeer het later nog eens."
+      "failed": "Discord connectie mislukt. Probeer het later nog eens.",
+      "joinDiscord": "Bekijk Discord",
+      "success": "Discord succesvol gekoppeld!",
+      "relogin": "<0>Log a.u.b. opnieuw in</0>"
     },
     "header": {
       "introduction": "Hallo {{ username }}"
@@ -130,6 +133,20 @@
       "body-2": "Als je na een paar uur nog geen email hebt ontvangen, controleer dan of het ingevoerde email adres het zelfde is als email adres dat je hebt gebruikt voor Patreon of But me a Coffee, en koppel het opnieuw.",
       "body-3": "Bedankt!",
       "understand": "Ik begrijp het"
+    },
+    "general": {
+      "seeFull": "Bekijk volledig profiel",
+      "joinedOn": "Aangemaakt op:"
+    },
+    "privacy": {
+      "private": "Privé",
+      "friends": "Alleen vrienden",
+      "public": "Openbaar",
+      "title": "Privacy-instellingen",
+      "profileVisibility": "Zichtbaarheid profiel"
+    },
+    "meta": {
+      "description": "Bekijk {{username}}'s profiel!"
     }
   }
 }
