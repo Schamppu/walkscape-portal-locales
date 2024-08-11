@@ -1,1 +1,19 @@
-{}
+{
+    "singulars": {
+        "meta": {
+            "description": "{{characterName}} (Gesamtlevel {{totalLevel}}) ist {{totalSteps}} Schritte glaufenund hat {{totalXp}} EP"
+        },
+        "title": "Charaktere",
+        "settings": {
+            "title": "Charaktereinstellungen",
+            "anonOnLeaderboard": {
+                "label": "Auf Rangliste anonymisieren",
+                "tip": "Wenn ausgewählt, wird der Name des Charakters mit \"Anonymer Walker\" ersetzt. Bedenke: Wenn deine Profilsichtbarkeit auf \"Nur Freunde\" gestellt ist, können deine Freunde den Namen deines Charakters immer noch auf der Rangliste sehen."
+            },
+            "hideSteps": {
+                "label": "Schritte ausblenden",
+                "tip": "Wenn ausgewählt, wird die gesamte Schrittzahl deines Charakters für alle Nutzer ausgeblendet. Dieser Charakter wird außerdem auf der gesamte Schritte Rangliste ausgeblendet."
+            }
+        }
+    }
+}
