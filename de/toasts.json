@@ -7,10 +7,10 @@
         },
         "success": {
             "accountLinkedSuccessfully": "BMaC-Konto erfolgreich verbunden",
-            "bmacCheckForValidationCode": "Prüfe dein E-Mail Postfach für den Validierungscode",
+            "bmacCheckForValidationCode": "Prüfe dein angegebenes E-Mail Postfach für den Validierungscode",
             "loggedInSuccesssfully": "Erfolgreich angemeldet.",
-            "loggedOut": "Erfolgreich abgemeldet.",
-            "passwordResetSent": "E-Mail für Passwort",
+            "loggedOut": "Erfolgreich abgemeldet",
+            "passwordResetSent": "E-Mail für Passwortzurücksetzung verschickt",
             "signedUpSuccessfully": "Erfolgreich registriert. Prüfe dein E-Mail Postfach nach dem Bestätigungslink um deine E-Mail-Adresse zu bestätigen.",
             "passwordChange": "Passwort erfolgreich geändert",
             "friendInvites": {
