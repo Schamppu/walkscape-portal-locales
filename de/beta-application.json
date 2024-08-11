@@ -10,7 +10,7 @@
             "iOSCheckbox": "iOS (iPhone)",
             "submitApplicationButton": "Bewerbung abschicken",
             "whyInviteToBeta": "Warum du zur Beta eingeladen werden solltest:",
-            "whyInviteToBetaPlaceholder": "Beschreibe, warum du zur geschlossenen Beta eingeladen werden solltest: Deine Motivation, Erfahrungen mit Spieletests, Bedarf an barrierefreiheit (z.B. Bildschirmleser)"
+            "whyInviteToBetaPlaceholder": "Beschreibe, warum du zur geschlossenen Beta eingeladen werden solltest: Deine Motivation, Erfahrungen mit Spieletests, Bedarf an Barrierefreiheit (z.B. Bildschirmleser)"
         },
         "formSubmissionPreview": {
             "alreadySubmittedApplicationMessage": "Du hast bereits eine Bewerbung geschickt. Hier ist die Zusammenfassung:",
