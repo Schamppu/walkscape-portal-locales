@@ -20,7 +20,18 @@
             "total_steps": "Schrittzahl",
             "total_xp": "XP insgesamt",
             "woodcutting": "Holzfällen",
-            "achievement_points": "Erreichte Punkte"
+            "achievement_points": "Erfolgspunkte",
+            "short": {
+                "agility": "BWG",
+                "mining": "BGB",
+                "cooking": "KCH",
+                "fishing": "FSH",
+                "crafting": "HDW",
+                "foraging": "SML",
+                "smithing": "SMD",
+                "carpentry": "ZMR",
+                "woodcutting": "HLZ"
+            }
         },
         "loading": "Lade...",
         "filters": {
