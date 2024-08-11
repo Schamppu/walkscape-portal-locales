@@ -21,8 +21,8 @@
         "signUp": "Registrieren",
         "title": "WalkScape Portal",
         "notifications": {
-            "friend_invite": "<0>{{Benutzername}}</0> möchte dein Freund sein!",
-            "friend_invite_response": "<0>{{Benutzername}}</0> hat deine Freundschaftseinladung angenommen!"
+            "friend_invite": "<0>{{username}}</0> möchte dein Freund sein!",
+            "friend_invite_response": "<0>{{username}}</0> hat deine Freundschaftseinladung angenommen!"
         }
     }
 }
