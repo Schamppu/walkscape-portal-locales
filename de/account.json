@@ -2,8 +2,8 @@
   "plurals": {
     "closedBetaStatus": {
       "eligibleForNextWave": {
-        "key_one": "In der nächsten Beta in etwa 1 bis 2 Wochen",
-        "key_other": "In der nächsten Beta in etwa {{ count }} bis {{ countPlusOne }} Wochen"
+        "key_one": "Geeignet für die nächste Beta in etwa 1 bis 2 Wochen",
+        "key_other": "Geeignet für die nächste Beta in etwa {{ count }} bis {{ countPlusOne }} Wochen"
       }
     }
   },
@@ -12,7 +12,7 @@
       "codeFormFieldLabel": "Validierungscode aus E-Mail",
       "firstSupportDate": "Zuerst unterstützt am {{ date }}",
       "getCodeButton": "Validierungscode zuschicken",
-      "linkAccountButton": "Konto verkn",
+      "linkAccountButton": "Konto verknüpfen",
       "linkedStatus": "Verbunden",
       "noSubscription": "Kein Abonnement",
       "notLinkedStatus": "Nicht verbunden",
@@ -51,7 +51,7 @@
         },
         "5": {
           "description": "WalkScape ist ein soziales Spiel, das in einer virtuellen Welt, aber mit echten Menschen gespielt wird. Wir erwarten von allen Walkern, dass sie sich gegenseitig mit Respekt behandeln, sei es im Spiel, in unseren sozialen Medien oder im echten Leben. Alle Formen von Belästigung und Diskriminierung sind absolut verboten.",
-          "title": "Spielt schön :)"
+          "title": "Spielt nett :)"
         }
       }
     },
@@ -61,20 +61,20 @@
       "statusTitle": "BMaC:"
     },
     "closedBetaStatus": {
-      "applyButton": "Für beta Beta bewerben",
-      "downloadButton": "Herunterladen",
+      "applyButton": "Für Beta bewerben",
+      "downloadButton": "Spiel herunterladen",
       "invitedStatus": "Eingeladen",
       "notInvited": "Nicht eingeladen",
       "seeExistingApplication": "Bewerbung ansehen",
       "title": "Geschlossene Beta:",
-      "eligibleForNextWave": "Für die nächste Welle förderfähig"
+      "eligibleForNextWave": "Für die nächste Welle geeignet"
     },
     "discordLink": {
-      "linkButton": "Discord verkn",
-      "title": "Discord",
+      "linkButton": "Discord verknüpfen",
+      "title": "Discord:",
       "joinDiscord": "Discord beitreten",
       "success": "Erfolgreich mit Discord verknüpft!",
-      "relogin": "Bitte wieder <0>anmelden/0>",
+      "relogin": "Bitte erneut <0>anmelden/0>",
       "inProgress": "Verknüpfe Discord...",
       "failed": "Fehler beim verknüpfen mit Discord. Versuche es später nochmal."
     },
@@ -85,7 +85,7 @@
       "changePasswordButton": "Password ändern",
       "newPasswordLabel": "Neues Passwort",
       "repeatPasswordLabel": "Neues Passwort wiederholen",
-      "title": "Passwort ",
+      "title": "Passwort ändern",
       "prompt": "Bitte aktualisiere dein Passwort!",
       "unauthenticated": "Erfordert eine Authentifizierung"
     },
@@ -96,28 +96,28 @@
       "linkSuccessMessage": "Patreon-Konto erfolgreich verbunden",
       "title": "Patreon:",
       "login": "Mit Patreon anmelden",
-      "return": "Zurück zur Seite Konto",
+      "return": "Zurück zur Konto Übersicht",
       "success": {
-        "title": "Patreon erfolgreich verlinkt!",
-        "body": "Der Zugang zum Spiel wird in Wellen gewährt. Wenn eine Welle im Gange ist, kannst du das Spiel sofort von deiner Kontoseite herunterladen. Andernfalls werden wir dich per E-Mail benachrichtigen, sobald der Zugang gewährt wurde."
+        "title": "Patreon erfolgreich verknüpft!",
+        "body": "Der Zugang zum Spiel wird in Wellen gewährt. Wenn eine Welle im Gange ist, kannst du das Spiel sofort von deiner Kontoseite herunterladen. Andernfalls werden wir dich per E-Mail benachrichtigen, sobald dir Zugang gewährt wurde."
       },
-      "inProgress": "Patreon verlinkt gerade...",
-      "failed": "Patreon-Konto konnte nicht verlinkt werden. Bitte versuche es später noch einmal.",
+      "inProgress": "Patreon wird verknüpft...",
+      "failed": "Patreon-Konto konnte nicht verknüpft werden. Bitte versuche es später noch einmal.",
       "recommendation": "Wir empfehlen, Konten zu verknüpfen, indem du dich bei Patreon anmeldest. Wenn das nicht funktioniert, versuche, dich mit dem untenstehenden Formular zu verbinden."
     },
     "profilePhoto": {
       "changeButton": "Profilbild ändern",
-      "instructions": "Hier kannst du dein Profilbild zuschneiden und die Größe ändern.",
+      "instructions": "Hier kannst du dein Profilbild zuschneiden und die Größe ändern. Nutze zwei Finger um auf Mobilgeräten zu zoomen.",
       "saveLabel": "Speichern",
       "saveSuccessMessage": "Profilbild aktualisiert",
-      "zoomLabel": "Größe"
+      "zoomLabel": "Zoom"
     },
     "subscriptionStateDisclaimer": "Die Aktualisierung des Abonnementstatus kann bis zu 1 Stunde dauern.",
     "usernameChange": {
       "changeUsernameButton": "Benutzernamen ändern",
       "newUsernameLabel": "Neuer Benutzername",
       "successMessage": "Benutzername erfolgreich geändert",
-      "title": "Benutzernamen "
+      "title": "Benutzernamen ändern"
     },
     "general": {
       "seeFull": "Ganzes Profil ansehen",
@@ -142,7 +142,7 @@
     },
     "sections": {
       "friends": "Freunde",
-      "friendInvites": "Anstehende Freundschaftseinladungen"
+      "friendInvites": "Ausstehende Freundschaftseinladungen"
     },
     "users": {
       "enterSearch": "Suchbegriff eingeben",
