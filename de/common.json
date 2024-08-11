@@ -43,7 +43,7 @@
                 "addPostButton": "Beitrag hinzufügen",
                 "descriptionLabel": "Beschreibung",
                 "displayPreviewButton": "Vorschau anzeigen",
-                "postContentPlaceholder": "Schreib deinen Beitrag",
+                "postContentPlaceholder": "Schreib deinen Beitrag hier",
                 "previewLabel": "Vorschau:",
                 "titleLabel": "Titel"
             },
@@ -55,14 +55,14 @@
             "emailInputLabel": "E-Mail",
             "instructions": "Um dein Passwort zurückzusetzen, gib deine E-Mail-Adresse ein und klicke auf \"Passwort zurücksetzen\". Dur erhältst eine E-Mail mit einem Link, der auf die Seite zur Passwortaktualisierung führt, wo du ein neues Passwort festlegen kannst."
         },
-        "searchBarPlaceholder": "Suchen...",
+        "searchBarPlaceholder": "Suchen…",
         "userActions": {
             "viewProfile": "Profil ansehen",
             "viewInvite": "Einladung ansehen",
             "cancelInvite": "Einladung abbrechen",
             "removeFriend": "Freund entfernen",
-            "unblock": "Benutzer entsperren",
-            "block": "Benutzer sperren",
+            "unblock": "Benutzer entblocken",
+            "block": "Benutzer blockieren",
             "sendInvite": "Freundschaftseinladung senden",
             "share": "Profil teilen"
         },
