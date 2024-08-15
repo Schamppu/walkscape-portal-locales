@@ -1,20 +1,26 @@
 {
-  "singulars": {
-    "avatarActions": {
-      "account": "Profilo",
-      "logout": "Esci"
-    },
-    "betaVersion": "Beta 0.1.0",
-    "links": {
-      "bugReports": "Segnalazioni bug",
-      "devblogs": "Devblogs",
-      "feedbackAndIdeas": "Idee & Feedback",
-      "generalDiscussion": "Discussioni",
-      "home": "Home",
-      "leaderboards": "Classifiche"
-    },
-    "login": "Accedi",
-    "signUp": "Iscriviti",
-    "title": "WalkScape Portal"
-  }
+    "singulars": {
+        "avatarActions": {
+            "account": "Profilo",
+            "logout": "Esci",
+            "friends": "Amici"
+        },
+        "betaVersion": "Beta 0.1.0",
+        "links": {
+            "bugReports": "Segnalazioni bug",
+            "devblogs": "Devblogs",
+            "feedbackAndIdeas": "Idee & Feedback",
+            "generalDiscussion": "Discussioni",
+            "home": "Home",
+            "leaderboards": "Classifiche",
+            "discord": "Discord"
+        },
+        "login": "Accedi",
+        "signUp": "Iscriviti",
+        "title": "WalkScape Portal",
+        "notifications": {
+            "friend_invite_response": "<0>{{username}}</0> ha accettato la tua richiesta d'amicizia!",
+            "friend_invite": "<0>{{username}}</0> vorrebbe essere tuo amico!"
+        }
+    }
 }

@@ -1,0 +1,84 @@
+{
+    "singulars": {
+        "characters": "Postacie",
+        "resetPassword": {
+            "instructions": "By zresetować swoje hasło otwórz skrzynkę email i kliknij link resetowania. Otrzymasz mail zawierający link, jaki zabierze cię na stronę resetowania, gdzie otrzymasz opcję ustawienia nowego hasła.",
+            "emailInputLabel": "Email",
+            "button": "Zresetuj hasło"
+        },
+        "searchBarPlaceholder": "Wyszukaj…",
+        "commentSubmission": {
+            "displayPreviewCheckbox": "Podgląd",
+            "previewLabel": "Podgląd:",
+            "commentPlaceholder": "Wpisz tu swój komentarz",
+            "submitButton": "Zamieść komentarz",
+            "editSaveButton": "Zapisz",
+            "editCancelButton": "Anuluj"
+        },
+        "userActions": {
+            "viewInvite": "Wyświetl zaproszenie",
+            "viewProfile": "Wyświetl profil",
+            "sendInvite": "Wyślij zaproszenie do znajomych",
+            "cancelInvite": "Anuluj zaproszenie",
+            "removeFriend": "Usuń znajomego",
+            "unblock": "Odblokuj użytkownika",
+            "block": "Zablokuj użytkownika",
+            "share": "Udostępnij profil"
+        },
+        "badges": {
+            "beta": "Beta",
+            "blocked": "Zablokowany",
+            "inviteReceived": "Zaproszenie otrzymane",
+            "inviteSent": "Zaproszenie wysłane",
+            "friends": "Znajomi"
+        },
+        "dialogs": {
+            "cancelInvite": {
+                "description": "Na pewno chcesz anulować zaproszenie do znajomych?",
+                "confirm": "Tak, anuluj zaproszenie"
+            },
+            "removeFriend": {
+                "description": "Na pewno chcesz usunąć tego znajomego?",
+                "confirm": "Tak, usuń znajomego"
+            },
+            "unblock": {
+                "description": "Na pewno chcesz odblokować tego użytkownika?",
+                "confirm": "Tak, odblokuj"
+            },
+            "block": {
+                "description": "Na pewno chcesz zablokować tego użytkownika? Nie będzie mógł wysyłać więcej zaproszeń.",
+                "confirm": "Tak, zablokuj"
+            },
+            "delete": {
+                "title": "Definitywnie?",
+                "message": "Ta akcja nie może być cofnięta. Spowoduje całkowite i nieodwracalne usunięcie {{ type }}.",
+                "confirmButton": "Tak, skasuj {{ type }}",
+                "cancelButton": "Anuluj"
+            }
+        },
+        "invite": {
+            "accept": "Akceptuj",
+            "reject": "Odrzuć",
+            "block": "Zablokuj"
+        },
+        "posts": {
+            "newPostButton": "Nowy Post",
+            "new": {
+                "titleLabel": "Tytuł",
+                "descriptionLabel": "Opis",
+                "displayPreviewButton": "Wyświetl podgląd",
+                "previewLabel": "Podgląd:",
+                "postContentPlaceholder": "Wpisz tu swój post",
+                "addPostButton": "Dodaj post"
+            },
+            "scheduled": "zaplanowano"
+        }
+    },
+    "plurals": {
+        "comments": {
+            "commentCount_one": "1 komentarz",
+            "commentCount_few": "{{count}} komentarze",
+            "commentCount_many": "{{count}} komentarzy"
+        }
+    }
+}

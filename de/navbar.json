@@ -1,20 +1,28 @@
 {
-  "singulars": {
-    "avatarActions": {
-      "account": "Konto",
-      "logout": "Abmelden"
-    },
-    "betaVersion": "Beta 0.1.0",
-    "links": {
-      "bugReports": "Fehlermeldungen",
-      "devblogs": "Entwickler-Blog",
-      "feedbackAndIdeas": "Feedback & Ideen",
-      "generalDiscussion": "Allgemeines Forum",
-      "home": "Start",
-      "leaderboards": "Bestenlisten"
-    },
-    "login": "Anmelden",
-    "signUp": "Registrieren",
-    "title": "WalkScape Portal"
-  }
+    "singulars": {
+        "avatarActions": {
+            "account": "Konto",
+            "logout": "Abmelden",
+            "friends": "Freunde",
+            "profile": "Profil"
+        },
+        "betaVersion": "Beta 0.1.0",
+        "links": {
+            "bugReports": "Fehlermeldungen",
+            "devblogs": "Entwickler-Blog",
+            "feedbackAndIdeas": "Feedback & Ideen",
+            "generalDiscussion": "Allgemeines Forum",
+            "home": "Start",
+            "leaderboards": "Bestenlisten",
+            "discord": "Discord",
+            "users": "Benutzer"
+        },
+        "login": "Anmelden",
+        "signUp": "Registrieren",
+        "title": "WalkScape Portal",
+        "notifications": {
+            "friend_invite": "<0>{{username}}</0> möchte dein Freund sein!",
+            "friend_invite_response": "<0>{{username}}</0> hat deine Freundschaftseinladung angenommen!"
+        }
+    }
 }

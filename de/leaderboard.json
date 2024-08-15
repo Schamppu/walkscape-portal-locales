@@ -1,26 +1,42 @@
 {
-  "plurals": {
-    "pageNumber": {
-      "key_one": "Seite 1",
-      "key_other": "Seite {{count}}"
-    }
-  },
-  "singulars": {
-    "avatarOfPlayer": "Avatar von {{player}}",
-    "filterOptions": {
-      "agility": "Beweglichkeit",
-      "carpentry": "Zimmerei",
-      "cooking": "Kochen",
-      "crafting": "Handwerk",
-      "fishing": "Fischen",
-      "foraging": "Sammeln",
-      "mining": "Bergbau",
-      "smithing": "Schmieden",
-      "total_level": "Alle Fähigkeiten",
-      "total_steps": "Schrittzahl",
-      "total_xp": "XP insgesamt",
-      "woodcutting": "Holzfällen"
+    "plurals": {
+        "pageNumber": {
+            "key_one": "Seite 1",
+            "key_other": "Seite {{count}}"
+        }
     },
-    "loading": "Lade..."
-  }
+    "singulars": {
+        "avatarOfPlayer": "Avatar von {{player}}",
+        "filterOptions": {
+            "agility": "Beweglichkeit",
+            "carpentry": "Zimmerei",
+            "cooking": "Kochen",
+            "crafting": "Handwerk",
+            "fishing": "Fischen",
+            "foraging": "Sammeln",
+            "mining": "Bergbau",
+            "smithing": "Schmieden",
+            "total_level": "Alle Fähigkeiten",
+            "total_steps": "Schrittzahl",
+            "total_xp": "XP insgesamt",
+            "woodcutting": "Holzfällen",
+            "achievement_points": "Erfolgspunkte",
+            "short": {
+                "agility": "BWG",
+                "mining": "BGB",
+                "cooking": "KCH",
+                "fishing": "FSH",
+                "crafting": "HDW",
+                "foraging": "SML",
+                "smithing": "SMD",
+                "carpentry": "ZMR",
+                "woodcutting": "HLZ"
+            }
+        },
+        "loading": "Lade...",
+        "filters": {
+            "all": "Alle",
+            "friends": "Freunde"
+        }
+    }
 }

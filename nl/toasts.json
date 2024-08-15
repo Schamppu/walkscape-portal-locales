@@ -1,15 +1,23 @@
 {
-  "singulars": {
-    "error": {
-      "genericError": "Er ging iets mis."
-    },
-    "success": {
-      "accountLinkedSuccessfully": "Bmac-account succesvol gekoppeld",
-      "bmacCheckForValidationCode": "Controleer het postvak IN van het ingevoerde e-mailadres voor de validatiecode",
-      "loggedInSuccesssfully": "Succesvol ingelogd.",
-      "loggedOut": "Succesvol uitgelogd",
-      "passwordResetSent": "E-mail om wachtwoord opnieuw in te stellen verzonden",
-      "signedUpSuccessfully": "Succesvol aangemeld. Zorg ervoor dat je je e-mail controleert: je zou een verificatiemail moeten ontvangen met een link waarop je kunt klikken om je e-mailadres te bevestigen."
+    "singulars": {
+        "error": {
+            "genericError": "Er ging iets mis.",
+            "passwordReset": "Herstel email kon niet verzonden worden",
+            "passwordChange": "Wachtwoord veranderen mislukt"
+        },
+        "success": {
+            "accountLinkedSuccessfully": "Bmac-account succesvol gekoppeld",
+            "bmacCheckForValidationCode": "Controleer het postvak IN van het ingevoerde e-mailadres voor de validatiecode",
+            "loggedInSuccesssfully": "Succesvol ingelogd.",
+            "loggedOut": "Succesvol uitgelogd",
+            "passwordResetSent": "E-mail om wachtwoord opnieuw in te stellen verzonden",
+            "signedUpSuccessfully": "Succesvol aangemeld. Zorg ervoor dat je je e-mail controleert: je zou een verificatiemail moeten ontvangen met een link waarop je kunt klikken om je e-mailadres te bevestigen.",
+            "passwordChange": "Wachtwoord veranderen gelukt",
+            "friendInvites": {
+                "reject": "Vriendverzoek verwijderd",
+                "accept": "Vriendverzoek geaccepteerd",
+                "block": "Gebruiker geblokkeerd"
+            }
+        }
     }
-  }
 }

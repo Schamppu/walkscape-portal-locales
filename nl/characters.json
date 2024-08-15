@@ -1,0 +1,19 @@
+{
+    "singulars": {
+        "meta": {
+            "description": "{{characterName}} (totaallevel {{totalLevel}}) heeft {{totalSteps}} stappen gezet en {{totalXp}} XP verdiend"
+        },
+        "title": "Personages",
+        "settings": {
+            "title": "Personage-instellingen",
+            "anonOnLeaderboard": {
+                "label": "Anonimiseer op klassementen",
+                "tip": "Als dit ingeschakeld is, wordt de personagenaam in de klassementen vervangen door \"Anonieme Wandelaar\". Als je profielzichtbaarheid op \"Alleen vrienden\" staat, kunnen je vrienden nog steeds de personagenaam zien in de klassementen."
+            },
+            "hideSteps": {
+                "label": "Verberg stappen",
+                "tip": "Als dit ingeschakeld is, wordt het totale aantal stappen van dit personage verborgen voor alle andere gebruikers. Dit personage zal ook verborgen zijn in de Totaalaantal Stappen klassementen."
+            }
+        }
+    }
+}

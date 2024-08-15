@@ -1,0 +1,28 @@
+{
+    "singulars": {
+        "title": "Aplikacja do bety",
+        "formSubmissionPreview": {
+            "alreadySubmittedApplicationMessage": "Już zarejestrowano twoją aplikację. Tu jest podsumowanie:",
+            "deviceModelLabel": "Model urządzenia:",
+            "averageStepsPerWeekLabel": "Średnio kroków na tydzień:",
+            "androidDeviceCheckedLabel": "Android:",
+            "iOSDeviceCheckedLabel": "iOS:",
+            "applicationTextLabel": "Tekst aplikacji:"
+        },
+        "form": {
+            "deviceType": "Rodzaje twoich urządzeń:",
+            "iOSCheckbox": "iOS (iPhone)",
+            "androidCheckbox": "Android",
+            "deviceModel": "Model twojego urządzenia:",
+            "deviceModelPlaceholder": "przykład: Google Pixel 6, iPhone 13 Pro",
+            "averageStepsPerWeekLabel": "Średnia liczba kroków, jakie osiągasz na tydzień:",
+            "averageStepsPerWeekPlaceholder": "Średnia liczba kroków tygodniowo",
+            "whyInviteToBeta": "Dlaczego powinieneś być przyjęty do bety:",
+            "whyInviteToBetaPlaceholder": "Opisz dlaczego właśnie ciebie powinniśmy zaprosić do bety: twoją motywację, doświadczenie w testowaniu gier, potrzebę różnych funkcji dodatkowych itp.",
+            "submitApplicationButton": "Zgłoś aplikację"
+        },
+        "landing": {
+            "title": "Gratulacje w rejestracji w WalkScape!"
+        }
+    }
+}

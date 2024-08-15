@@ -1,0 +1,29 @@
+{
+    "singulars": {
+        "welcomeMessage": "Witaj w portalu WalkScape",
+        "linkToSite": "Portal WalkScape to platforma społecznościowa połączona z grą <wsSite>WalkScape</wsSite>.",
+        "systemMessages": "Wiadomości systemowe",
+        "infoSection": {
+            "title": "Ważne informacje dotyczące zamkniętej bety",
+            "closedBetaAccess": "Aktualnie prowadzimy zamknięte testy beta i przyjmujemy do nich regularnie nowych graczy w falach.",
+            "betaLinking": "Jeżeli wspierasz nas w jakiś sposób lub wspierałeś w jakimś momencie poprzez <patreonLink>Patreon</patreonLink> lub <bmacLink>Buy Me A Coffee</bmacLink> masz zagwarantowany dostęp do gry w kolejnej fali. By go uzyskać połącz swoje konto na Portalu z wymaganymi usługami na zakładce Konto. Możesz również zgłosić swoją aplikację do bety i mieć szansę na zaproszenie w kolejnej fali nawet jeżeli nas nie wspierasz."
+        },
+        "statsSection": {
+            "title": "Trochę ciekawych statów:"
+        }
+    },
+    "plurals": {
+        "statsSection": {
+            "registeredUsers": {
+                "key_one": "Aktualnie <b>1 użytkownik</b> się zarejestrował",
+                "key_few": "Aktualnie <b>{{count}} użytkowników</b> się zarejestrowało",
+                "key_many": "Aktualnie <b>{{count}} użytkowników</b> się zarejestrowało"
+            },
+            "betaTesters": {
+                "key_one": "Spośród nich <b>1 użytkownik</b> jest beta testerem",
+                "key_few": "Spośród nich <b>{{count}} użytkowników</b> to betatesterzy",
+                "key_many": "Spośród nich <b>{{count}} użytkowników</b> to betatesterzy"
+            }
+        }
+    }
+}

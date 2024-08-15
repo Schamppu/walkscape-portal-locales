@@ -1,27 +1,27 @@
 {
-  "plurals": {
-    "statsSection": {
-      "betaTesters": {
-        "key_one": "Davon ist <b>1 Benutzer</b> ein Beta-Tester",
-        "key_other": "Davon sind <b>{{count}} Benutzer</b> Beta-Tester"
-      },
-      "registeredUsers": {
-        "key_one": "Bisher hat sich <b>1 Benutzer</b> registriert",
-        "key_other": "Bisher haben sich <b>{{count}} Benutzer</b> registriert"
-      }
+    "plurals": {
+        "statsSection": {
+            "betaTesters": {
+                "key_one": "Davon ist <b>1 Benutzer</b> ein Beta-Tester",
+                "key_other": "Davon sind <b>{{count}} Benutzer</b> Beta-Tester"
+            },
+            "registeredUsers": {
+                "key_one": "Bisher hat sich <b>1 Benutzer</b> registriert",
+                "key_other": "Bisher haben sich <b>{{count}} Benutzer</b> registriert"
+            }
+        }
+    },
+    "singulars": {
+        "infoSection": {
+            "betaLinking": "Falls du uns momentan oder zu irgend einem Zeitpunkt auf <patreonLink>Patreon</patreonLink> oder <bmacLink>Buy me a Coffee</bmacLink> unterstützt hast, ist dir Zugang zum Spiel bei der nächsten Welle garantiert. Dafür musst du zur Kontoübersicht gehen und dein Portal Konto mit diesen verbinden. Du kannst außerdem eine Bewerbung einreichen um die Chance auf einen Zugang zu bekommen, selbst wenn du uns nicht unterstützt.",
+            "closedBetaAccess": "Aktuell läuft ein geschlossener Beta Test, wir laden regelmäßig neue Spieler in Wellen ein.",
+            "title": "Wichtige Informationen zur geschlossenen Beta"
+        },
+        "linkToSite": "Das WalkScape Portal ist ein soziales Portal, das mit dem Spiel <wsSite>WalkScape</wsSite> zusammenhängt.",
+        "statsSection": {
+            "title": "Einige interessante Statistiken:"
+        },
+        "welcomeMessage": "Willkommen beim WalkScape Portal",
+        "systemMessages": "Systemnachrichten"
     }
-  },
-  "singulars": {
-    "infoSection": {
-      "betaLinking": "Falls du uns momentan oder zu irgend einem Zeitpunkt auf <patreonLink>Patreon</patreonLink> oder <bmacLink>Buy me a Coffee</bmacLink> unterstützt hast, kannst du dein WalkScape Portal-Konto damit auf der Konto-Seite verbinden. Denk daran, dass die Einladungen zur Beta in \"Wellen\" herauskommen. Die erste Beta ist bereits voll. Die zweite Beta-Welle kommt in Kürze heraus.",
-      "closedBetaAccess": "Die geschlossene Beta hat am 18. Januar 2024 angefangen. Du kannst dir Zugriff auf die nächste Beta-Welle sichern indem du uns auf <patreonLink>Patreon</patreonLink> oder <bmacLink>Buy Me A Coffee</bmacLink> unterstützt, oder indem du dich als registrierter WalkScape Portal-Benutzer für die Beta bewirbst. (Die Bewerbung findest du auf deiner Konto-Seite)",
-      "title": "Wichtige Informationen zur geschlossenen Beta"
-    },
-    "linkToSite": "Das WalkScape Portal ist ein soziales Portal, das mit dem Spiel <wsSite>WalkScape</wsSite> zusammenhängt.",
-    "statsSection": {
-      "title": "Einige interessante Statistiken:"
-    },
-    "welcomeMessage": "Willkommen beim WalkScape Portal",
-    "systemMessages": ""
-  }
 }

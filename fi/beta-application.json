@@ -1,25 +1,28 @@
 {
-  "singulars": {
-    "form": {
-      "androidCheckbox": "Android",
-      "averageStepsPerWeekLabel": "Keskimääräinen askelmäärä viikossa:",
-      "averageStepsPerWeekPlaceholder": "Keskimääräinen askelten määrä viikossa",
-      "deviceModel": "Laitteen/laitteiden mallit:",
-      "deviceModelPlaceholder": "esim: Google Pixel 6, iPhone 13 Pro",
-      "deviceType": "Laitteen/laitteiden tyyppit:",
-      "iOSCheckbox": "iOS (iPhone)",
-      "submitApplicationButton": "Lähetä hakemus",
-      "whyInviteToBeta": "Miksi sinut pitäisi kutsua mukaan beta-testiin:",
-      "whyInviteToBetaPlaceholder": "Kerro miksi sinut pitäisi kutsua suljettuun beta-testiin: motivaatiosi, aiempi kokemuksesi pelien testaamisesta, tarve saavutettavuusominaisuuksille jne."
-    },
-    "formSubmissionPreview": {
-      "alreadySubmittedApplicationMessage": "Olet jo lähettänyt hakemuksen. Tässä on yhteenveto:",
-      "androidDeviceCheckedLabel": "Android:",
-      "applicationTextLabel": "Hakemuksen teksti:",
-      "averageStepsPerWeekLabel": "Keskimääräiset askeleet viikossa:",
-      "deviceModelLabel": "Laitteen malli:",
-      "iOSDeviceCheckedLabel": "iOS:"
-    },
-    "title": "Beta-hakemus"
-  }
+    "singulars": {
+        "form": {
+            "androidCheckbox": "Android",
+            "averageStepsPerWeekLabel": "Keskimääräinen askelmäärä viikossa:",
+            "averageStepsPerWeekPlaceholder": "Keskimääräinen askelten määrä viikossa",
+            "deviceModel": "Laitteen/laitteiden mallit:",
+            "deviceModelPlaceholder": "esim: Google Pixel 6, iPhone 13 Pro",
+            "deviceType": "Laitteen/laitteiden tyyppit:",
+            "iOSCheckbox": "iOS (iPhone)",
+            "submitApplicationButton": "Lähetä hakemus",
+            "whyInviteToBeta": "Miksi sinut pitäisi kutsua mukaan beta-testiin:",
+            "whyInviteToBetaPlaceholder": "Kerro miksi sinut pitäisi kutsua suljettuun beta-testiin: motivaatiosi, aiempi kokemuksesi pelien testaamisesta, tarve saavutettavuusominaisuuksille jne."
+        },
+        "formSubmissionPreview": {
+            "alreadySubmittedApplicationMessage": "Olet jo lähettänyt hakemuksen. Tässä on yhteenveto:",
+            "androidDeviceCheckedLabel": "Android:",
+            "applicationTextLabel": "Hakemuksen teksti:",
+            "averageStepsPerWeekLabel": "Keskimääräiset askeleet viikossa:",
+            "deviceModelLabel": "Laitteen malli:",
+            "iOSDeviceCheckedLabel": "iOS:"
+        },
+        "title": "Beta-hakemus",
+        "landing": {
+            "title": "Onnittelut Walkscapeen ilmoittautumisesta!"
+        }
+    }
 }

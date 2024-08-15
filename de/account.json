@@ -2,8 +2,8 @@
   "plurals": {
     "closedBetaStatus": {
       "eligibleForNextWave": {
-        "key_one": "In der nächsten Beta in etwa 1 bis 2 Wochen",
-        "key_other": "In der nächsten Beta in etwa {{ count }} bis {{ countPlusOne }} Wochen"
+        "key_one": "Geeignet für die nächste Beta in etwa 1 bis 2 Wochen",
+        "key_other": "Geeignet für die nächste Beta in etwa {{ count }} bis {{ countPlusOne }} Wochen"
       }
     }
   },
@@ -12,7 +12,7 @@
       "codeFormFieldLabel": "Validierungscode aus E-Mail",
       "firstSupportDate": "Zuerst unterstützt am {{ date }}",
       "getCodeButton": "Validierungscode zuschicken",
-      "linkAccountButton": "Konto verkn",
+      "linkAccountButton": "Konto verknüpfen",
       "linkedStatus": "Verbunden",
       "noSubscription": "Kein Abonnement",
       "notLinkedStatus": "Nicht verbunden",
@@ -31,7 +31,29 @@
         "instructions": "Fals du iOS verwendest <testflightLink>Klicken Sie auf diesen Link, um WalkScape's TestFlight beizutreten und das Spiel herunterzuladen</testflightLink>.",
         "title": "Für iOS-Benutzer:"
       },
-      "termsOfServiceDisclaimer": "Bevor Sie das Spiel herunterladen, lesen Sie bitte die <tos>Dienstleistungsbedingungen (zurzeit nur in Engslich verfügbar)</tos> und akzeptieren Sie sie."
+      "termsOfServiceDisclaimer": "Wenn du auf 'Akzeptieren' klickst, stimmst du unseren <tos>Nutzungsbedingungen</tos> und unseren Spielregeln zu.",
+      "gameRules": {
+        "4": {
+          "title": "Nur offizielle Verteilungen",
+          "description": "Spiele nur Versionen, die über offizielle Kanäle verteilt werden. Versucht nicht, eure eigenen Pakete, Builds oder Distributionen des Spiels zu erstellen oder inoffizielle Builds herunterzuladen oder weiterzugeben, die von anderen verteilt wurden."
+        },
+        "2": {
+          "title": "1 Gerät = 1 Konto = 1 Person",
+          "description": "Wir erwarten, dass ein Spieler nur mit einem Konto und einem Gerät spielt. Teile dein Gerät oder dein Konto nicht mit jemand anderem. Die Verwendung von Emulatoren oder das gleichzeitige Spielen auf mehreren Geräten ist nicht gestattet. Es dürfen nicht mehrere Instanzen des Spiels auf demselben Gerät ausgeführt werden."
+        },
+        "3": {
+          "title": "Exploits und Fehlverhalten melden",
+          "description": "Teile oder ermutige andere Spieler nicht zum Cheaten oder zur Nutzung von Exploits. Wenn du schwerwiegende Bugs oder Exploits im Spiel findest, meldest du sie dem Team über die offiziellen Meldekanäle oder indem du ein Teammitglied direkt anschreibst."
+        },
+        "1": {
+          "title": "Nur echte Schritte",
+          "description": "In WalkScape werden Schritte durch das Gehen mit den Beinen erzeugt. Wir lehnen alle Methoden zur Erzeugung von Schritten ab, die nicht mit dem Gehen zu tun haben, und raten davon ab, sie in unserer Community (Reddit, Portal, Discord) zu bewerben. Die einzigen Ausnahmen sind Situationen, in denen sich die Beine auf natürliche Weise so bewegen, dass sie als Schritte zählen (z. B. beim Radfahren), und nur solange die gezählte Schrittzahl niedrig genug ist, um nicht missbraucht werden zu können."
+        },
+        "5": {
+          "description": "WalkScape ist ein soziales Spiel, das in einer virtuellen Welt, aber mit echten Menschen gespielt wird. Wir erwarten von allen Walkern, dass sie sich gegenseitig mit Respekt behandeln, sei es im Spiel, in unseren sozialen Medien oder im echten Leben. Alle Formen von Belästigung und Diskriminierung sind absolut verboten.",
+          "title": "Spielt nett :)"
+        }
+      }
     },
     "bmac": {
       "emailFormFieldLabel": "E-Mail deines BMaC-Kontos",
@@ -39,16 +61,22 @@
       "statusTitle": "BMaC:"
     },
     "closedBetaStatus": {
-      "applyButton": "Für beta Beta bewerben",
-      "downloadButton": "Herunterladen",
+      "applyButton": "Für Beta bewerben",
+      "downloadButton": "Spiel herunterladen",
       "invitedStatus": "Eingeladen",
       "notInvited": "Nicht eingeladen",
       "seeExistingApplication": "Bewerbung ansehen",
-      "title": "Geschlossene Beta:"
+      "title": "Geschlossene Beta:",
+      "eligibleForNextWave": "Für die nächste Welle geeignet"
     },
     "discordLink": {
-      "linkButton": "Discord verkn",
-      "title": "Discord"
+      "linkButton": "Discord verknüpfen",
+      "title": "Discord:",
+      "joinDiscord": "Discord beitreten",
+      "success": "Erfolgreich mit Discord verknüpft!",
+      "relogin": "Bitte erneut <0>anmelden/0>",
+      "inProgress": "Verknüpfe Discord...",
+      "failed": "Fehler beim verknüpfen mit Discord. Versuche es später nochmal."
     },
     "header": {
       "introduction": "Hallo, {{ username }}"
@@ -57,28 +85,68 @@
       "changePasswordButton": "Password ändern",
       "newPasswordLabel": "Neues Passwort",
       "repeatPasswordLabel": "Neues Passwort wiederholen",
-      "title": "Passwort "
+      "title": "Passwort ändern",
+      "prompt": "Bitte aktualisiere dein Passwort!",
+      "unauthenticated": "Erfordert eine Authentifizierung"
     },
     "patreonLink": {
       "codeSentSuccessMessage": "Prüfe dein E-Mail Postfach für den Validierungscode",
       "emailInputLabel": "E-Mail deines Patreon-Kontos",
       "linkInstructions": "Patreon-Konto verbinden",
       "linkSuccessMessage": "Patreon-Konto erfolgreich verbunden",
-      "title": "Patreon:"
+      "title": "Patreon:",
+      "login": "Mit Patreon anmelden",
+      "return": "Zurück zur Konto Übersicht",
+      "success": {
+        "title": "Patreon erfolgreich verknüpft!",
+        "body": "Der Zugang zum Spiel wird in Wellen gewährt. Wenn eine Welle im Gange ist, kannst du das Spiel sofort von deiner Kontoseite herunterladen. Andernfalls werden wir dich per E-Mail benachrichtigen, sobald dir Zugang gewährt wurde."
+      },
+      "inProgress": "Patreon wird verknüpft...",
+      "failed": "Patreon-Konto konnte nicht verknüpft werden. Bitte versuche es später noch einmal.",
+      "recommendation": "Wir empfehlen, Konten zu verknüpfen, indem du dich bei Patreon anmeldest. Wenn das nicht funktioniert, versuche, dich mit dem untenstehenden Formular zu verbinden."
     },
     "profilePhoto": {
       "changeButton": "Profilbild ändern",
-      "instructions": "Hier kannst du dein Profilbild zuschneiden und die Größe ändern.",
+      "instructions": "Hier kannst du dein Profilbild zuschneiden und die Größe ändern. Nutze zwei Finger um auf Mobilgeräten zu zoomen.",
       "saveLabel": "Speichern",
       "saveSuccessMessage": "Profilbild aktualisiert",
-      "zoomLabel": "Größe"
+      "zoomLabel": "Zoom"
     },
     "subscriptionStateDisclaimer": "Die Aktualisierung des Abonnementstatus kann bis zu 1 Stunde dauern.",
     "usernameChange": {
       "changeUsernameButton": "Benutzernamen ändern",
       "newUsernameLabel": "Neuer Benutzername",
       "successMessage": "Benutzername erfolgreich geändert",
-      "title": "Benutzernamen "
+      "title": "Benutzernamen ändern"
+    },
+    "general": {
+      "seeFull": "Ganzes Profil ansehen",
+      "joinedOn": "Beigetreten am:"
+    },
+    "meta": {
+      "description": "Sieh dir {{username}}'s Profil an!"
+    },
+    "privacy": {
+      "title": "Privatsphäreeinstellungen",
+      "profileVisibility": "Profilsichtbarkeit",
+      "private": "Privat",
+      "friends": "Nur Freunde",
+      "public": "Öffentlich"
+    },
+    "thankYou": {
+      "title": "Vielen Dank für deine Unterstützung!",
+      "body-1": "Der neue Unterstützerstatus sollte sofort auf der Kontoseite sichtbar sein, aber es kann in manchen Fällen etwa zwei Stunden dauern, bis er vollständig synchronisiert ist. In diesem Fall erhältst du eine E-Mail, wenn sich dein Status ändert oder du in die Beta-Phase aufgenommen wirst.",
+      "body-2": "Wenn du nach ein paar Stunden keine E-Mail bekommst, überprüfe, ob die E-Mail, die du eingegeben hast, die gleiche ist, die du bei Patreon oder Buy me a Coffee verwendet hast, und verlinke sie erneut.",
+      "body-3": "Vielen Dank!",
+      "understand": "Ich verstehe"
+    },
+    "sections": {
+      "friends": "Freunde",
+      "friendInvites": "Ausstehende Freundschaftseinladungen"
+    },
+    "users": {
+      "enterSearch": "Suchbegriff eingeben",
+      "found": "{{countStr}} Benutzer gefunden"
     }
   }
 }

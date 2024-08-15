@@ -1,43 +1,83 @@
 {
-  "plurals": {
-    "comments": {
-      "commentCount_one": "1 reactie",
-      "commentCount_other": "{{count}} reacties"
+    "plurals": {
+        "comments": {
+            "commentCount_one": "1 reactie",
+            "commentCount_other": "{{count}} reacties"
+        }
+    },
+    "singulars": {
+        "commentSubmission": {
+            "commentPlaceholder": "Typ hier je reactie",
+            "displayPreviewCheckbox": "Voorbeeldweergave",
+            "editCancelButton": "Annuleren",
+            "editSaveButton": "Opslaan",
+            "previewLabel": "Voorbeeld:",
+            "submitButton": "Reactie plaatsen"
+        },
+        "dialogs": {
+            "delete": {
+                "cancelButton": "Annuleren",
+                "confirmButton": "Ja, verwijder {{ type }}",
+                "message": "Deze actie kan niet ongedaan worden gemaakt. Hierdoor wordt deze {{ type }} permanent verwijderd.",
+                "title": "Weet je het absoluut zeker?"
+            },
+            "cancelInvite": {
+                "description": "Weet je zeker dat je dit vriendschapsverzoek wilt annuleren?",
+                "confirm": "Ja, annuleer vriendschapsverzoek"
+            },
+            "removeFriend": {
+                "confirm": "Ja, verwijder vriend",
+                "description": "Weet je zeker dat je deze vriend wilt verwijderen?"
+            },
+            "unblock": {
+                "description": "Weet je zeker dat je deze gebruiker wilt deblokkeren?",
+                "confirm": "Ja, deblokkeer gebruiker"
+            },
+            "block": {
+                "confirm": "Ja, blokkeer gebruiker",
+                "description": "Weet je zeker dat je deze gebruiker wilt blokkeren? Geblokkeerde gebruikers kunnen je geen vriendschapsverzoeken meer sturen."
+            }
+        },
+        "posts": {
+            "new": {
+                "addPostButton": "Bericht toevoegen",
+                "descriptionLabel": "Beschrijving",
+                "displayPreviewButton": "Voorbeeldweergave",
+                "postContentPlaceholder": "Typ je bericht hier",
+                "previewLabel": "Voorbeeld:",
+                "titleLabel": "Titel"
+            },
+            "newPostButton": "Nieuw bericht",
+            "scheduled": "gepland"
+        },
+        "resetPassword": {
+            "button": "Wachtwoord opnieuw instellen",
+            "emailInputLabel": "E-mail",
+            "instructions": "Om je wachtwoord opnieuw in te stellen, voer je je e-mailadres in en klik je op Wachtwoord opnieuw instellen. Je ontvangt een e-mail met een link die je naar de pagina brengt waar je een nieuw wachtwoord kunt instellen."
+        },
+        "searchBarPlaceholder": "Zoeken…",
+        "userActions": {
+            "viewProfile": "Bekijk profiel",
+            "sendInvite": "Vriendschapsverzoek sturen",
+            "removeFriend": "Vriend verwijderen",
+            "unblock": "Gebruiker deblokkeren",
+            "cancelInvite": "Vriendschapsverzoek annuleren",
+            "block": "Gebruiker blokkeren",
+            "viewInvite": "Bekijk vriendschapsverzoek",
+            "share": "Profiel delen"
+        },
+        "badges": {
+            "beta": "Beta",
+            "blocked": "Geblokkeerd",
+            "friends": "Vrienden",
+            "inviteSent": "Vriendschapsverzoek verzonden",
+            "inviteReceived": "Vriendschapsverzoek ontvangen"
+        },
+        "invite": {
+            "accept": "Accepteren",
+            "reject": "Afwijzen",
+            "block": "Blokkeren"
+        },
+        "characters": "Personages"
     }
-  },
-  "singulars": {
-    "commentSubmission": {
-      "commentPlaceholder": "Typ hier je reactie",
-      "displayPreviewCheckbox": "Voorbeeldweergave",
-      "editCancelButton": "Annuleren",
-      "editSaveButton": "Opslaan",
-      "previewLabel": "Voorbeeld:",
-      "submitButton": "Reactie plaatsen"
-    },
-    "dialogs": {
-      "delete": {
-        "cancelButton": "Annuleren",
-        "confirmButton": "Ja, verwijder {{ type }}",
-        "message": "Deze actie kan niet ongedaan worden gemaakt. Hierdoor wordt deze {{ type }} permanent verwijderd.",
-        "title": "Weet je het absoluut zeker?"
-      }
-    },
-    "posts": {
-      "new": {
-        "addPostButton": "Bericht toevoegen",
-        "descriptionLabel": "Beschrijving",
-        "displayPreviewButton": "Voorbeeldweergave",
-        "postContentPlaceholder": "Typ je bericht hier",
-        "previewLabel": "Voorbeeld:",
-        "titleLabel": "Titel"
-      },
-      "newPostButton": "Nieuw bericht"
-    },
-    "resetPassword": {
-      "button": "Wachtwoord opnieuw instellen",
-      "emailInputLabel": "E-mail",
-      "instructions": "Om je wachtwoord opnieuw in te stellen, voer je je e-mailadres in en klik je op Wachtwoord opnieuw instellen. Je ontvangt een e-mail met een link die je naar de pagina brengt waar je een nieuw wachtwoord kunt instellen."
-    },
-    "searchBarPlaceholder": "Zoeken..."
-  }
 }

@@ -1,20 +1,28 @@
 {
-  "singulars": {
-    "avatarActions": {
-      "account": "Account",
-      "logout": "Uitloggen"
-    },
-    "betaVersion": "Bèta 0.1.0",
-    "links": {
-      "bugReports": "Bug-rapporten",
-      "devblogs": "Ontwikkelblogs",
-      "feedbackAndIdeas": "Feedback & Ideeën",
-      "generalDiscussion": "Algemene Discussie",
-      "home": "Home",
-      "leaderboards": "Klassementen"
-    },
-    "login": "Inloggen",
-    "signUp": "Aanmelden",
-    "title": "WalkScape Portal"
-  }
+    "singulars": {
+        "avatarActions": {
+            "account": "Account",
+            "logout": "Uitloggen",
+            "profile": "Profiel",
+            "friends": "Vrienden"
+        },
+        "betaVersion": "Bèta 0.1.0",
+        "links": {
+            "bugReports": "Bug-rapporten",
+            "devblogs": "Ontwikkelblogs",
+            "feedbackAndIdeas": "Feedback & Ideeën",
+            "generalDiscussion": "Algemene Discussie",
+            "home": "Home",
+            "leaderboards": "Klassementen",
+            "discord": "Discord",
+            "users": "Gebruikers"
+        },
+        "login": "Inloggen",
+        "signUp": "Aanmelden",
+        "title": "WalkScape Portal",
+        "notifications": {
+            "friend_invite_response": "<0>{{username}}</0> heeft je vriendverzoek geaccepteerd!",
+            "friend_invite": "<0>{{username}}</0> wil vrienden worden!"
+        }
+    }
 }

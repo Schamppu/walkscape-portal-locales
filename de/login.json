@@ -1,17 +1,20 @@
 {
-  "singulars": {
-    "alreadyHaveAnAccountPrompt": "Du hast bereits ein Konto? Melde dich an",
-    "confirmPasswordFormLabel": "Passwort best",
-    "dontHaveAnAccountPrompt": "Du hast noch kein Konto? Registriere dich",
-    "emailFormLabel": "E-Mail",
-    "forgotPasswordLabel": "Passwort vergessen?",
-    "loginButtonLabel": "Anmelden",
-    "loginDescription": "Anmeldung mit WalkScape Konto",
-    "passwordFormLabel": "Passwort",
-    "passwordsDontMatch": "Passwörter stimmen nicht überein",
-    "signUpButtonLabel": "Registrieren",
-    "signUpDescription": "Für WalkScape registrieren",
-    "signUpLinkLabel": "Du hast noch kein Konto? Registriere dich",
-    "usernameFormLabel": "E-Mail"
-  }
+    "singulars": {
+        "alreadyHaveAnAccountPrompt": "Du hast bereits ein Konto? Melde dich an",
+        "confirmPasswordFormLabel": "Passwort bestätigen",
+        "dontHaveAnAccountPrompt": "Du hast noch kein Konto? Registriere dich",
+        "emailFormLabel": "E-Mail",
+        "forgotPasswordLabel": "Passwort vergessen?",
+        "loginButtonLabel": "Anmelden",
+        "loginDescription": "Anmelden mit WalkScape Konto",
+        "passwordFormLabel": "Passwort",
+        "passwordsDontMatch": "Passwörter stimmen nicht überein",
+        "signUpButtonLabel": "Registrieren",
+        "signUpDescription": "WalkScape Konto erstellen",
+        "signUpLinkLabel": "Du hast noch kein Konto? Registriere dich",
+        "usernameFormLabel": "Benutzername",
+        "signup": {
+            "special": "Registriere dich für ein WalkScape-Konto mit speziellem Beta-Zugang"
+        }
+    }
 }
