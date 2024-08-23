@@ -1,43 +1,84 @@
 {
-  "plurals": {
-    "comments": {
-      "commentCount_one": "1 commento",
-      "commentCount_other": "{{count}} commenti"
+    "plurals": {
+        "comments": {
+            "commentCount_one": "1 commento",
+            "commentCount_many": "-",
+            "commentCount_other": "{{count}} commenti"
+        }
+    },
+    "singulars": {
+        "commentSubmission": {
+            "commentPlaceholder": "Scrivi qui il tuo commento",
+            "displayPreviewCheckbox": "Mostra anteprima",
+            "editCancelButton": "Annulla",
+            "editSaveButton": "Salva",
+            "previewLabel": "Anteprima:",
+            "submitButton": "Pubblica commento"
+        },
+        "dialogs": {
+            "delete": {
+                "cancelButton": "Annulla",
+                "confirmButton": "Sì, elimina {{ type }}",
+                "message": "Questa azione non può essere annullata. Eliminerà definitivamente questo {{ type }}.",
+                "title": "Ne sei sicuro?"
+            },
+            "cancelInvite": {
+                "description": "Sei sicuro di voler cancellare questa richiesta d'amicizia?",
+                "confirm": "Sì, cancella richiesta"
+            },
+            "removeFriend": {
+                "confirm": "Sì, rimuovi amico",
+                "description": "Sei sicuro di voler rimuovere questo amico?"
+            },
+            "unblock": {
+                "description": "Sei sicuro di voler sbloccare questo utente?",
+                "confirm": "Sì, sblocca utente"
+            },
+            "block": {
+                "confirm": "Sì, blocca utente",
+                "description": "Sei sicuro di voler bloccare questo utente? Gli utenti bloccati non potranno più inviarti richieste."
+            }
+        },
+        "posts": {
+            "new": {
+                "addPostButton": "Aggiungi post",
+                "descriptionLabel": "Descrizione",
+                "displayPreviewButton": "Mostra anteprima",
+                "postContentPlaceholder": "Scrivi qui il tuo post",
+                "previewLabel": "Anteprima:",
+                "titleLabel": "Titolo"
+            },
+            "newPostButton": "Nuovo post",
+            "scheduled": "in programma"
+        },
+        "resetPassword": {
+            "button": "Reimposta password",
+            "emailInputLabel": "Email",
+            "instructions": "Per reimpostare la password, scrivi il tuo indirizzo email e clicca su Reimposta password. Riceverai un'email contenente un link che ti porterà ad una pagina per inserire la nuova password."
+        },
+        "searchBarPlaceholder": "Cerca…",
+        "userActions": {
+            "block": "Blocca utente",
+            "viewInvite": "Vedi richiesta",
+            "sendInvite": "Invia richiesta d'amicizia",
+            "cancelInvite": "Cancella richiesta",
+            "removeFriend": "Rimuovi amico",
+            "unblock": "Sblocca utente",
+            "viewProfile": "Vedi profilo",
+            "share": "Condividi profilo"
+        },
+        "badges": {
+            "beta": "Beta",
+            "blocked": "Bloccato",
+            "inviteSent": "Invito inviato",
+            "friends": "Amici",
+            "inviteReceived": "Invito ricevuto"
+        },
+        "characters": "Personaggi",
+        "invite": {
+            "accept": "Accetta",
+            "reject": "Rifiuta",
+            "block": "Blocca"
+        }
     }
-  },
-  "singulars": {
-    "commentSubmission": {
-      "commentPlaceholder": "Scrivi qui il tuo commento",
-      "displayPreviewCheckbox": "Mostra anteprima",
-      "editCancelButton": "Annulla",
-      "editSaveButton": "Salva",
-      "previewLabel": "Anteprima:",
-      "submitButton": "Pubblica commento"
-    },
-    "dialogs": {
-      "delete": {
-        "cancelButton": "Annulla",
-        "confirmButton": "Sì, elimina {{ type }}",
-        "message": "Questa azione non può essere annullata. Eliminerà definitivamente questo {{ type }}.",
-        "title": "Ne sei sicuro?"
-      }
-    },
-    "posts": {
-      "new": {
-        "addPostButton": "Aggiungi post",
-        "descriptionLabel": "Descrizione",
-        "displayPreviewButton": "Mostra anteprima",
-        "postContentPlaceholder": "Scrivi qui il tuo post",
-        "previewLabel": "Anteprima:",
-        "titleLabel": "Titolo"
-      },
-      "newPostButton": "Nuovo post"
-    },
-    "resetPassword": {
-      "button": "Reimposta password",
-      "emailInputLabel": "Email",
-      "instructions": "Per reimpostare la password, scrivi il tuo indirizzo email e clicca su Reimposta password. Riceverai un'email contenente un link che ti porterà ad una pagina per inserire la nuova password."
-    },
-    "searchBarPlaceholder": "Cerca..."
-  }
 }
