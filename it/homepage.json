@@ -1,29 +1,29 @@
 {
-  "plurals": {
-    "statsSection": {
-      "betaTesters": {
-        "key_one": "Di questi, <b>1 utente</b> è un beta tester",
-        "key_many": "",
-        "key_other": "Di questi, <b>{{count}} utenti</b> sono beta tester"
-      },
-      "registeredUsers": {
-        "key_one": "Finora si è registrato <b>1 utente</b>",
-        "key_many": "",
-        "key_other": "Finora si sono registrati <b>{{count}} utenti</b>"
-      }
+    "plurals": {
+        "statsSection": {
+            "betaTesters": {
+                "key_one": "Di questi, <b>1 utente</b> è un beta tester",
+                "key_many": "-",
+                "key_other": "Di questi, <b>{{count}} utenti</b> sono beta tester"
+            },
+            "registeredUsers": {
+                "key_one": "Finora si è registrato <b>1 utente</b>",
+                "key_many": "-",
+                "key_other": "Finora si sono registrati <b>{{count}} utenti</b>"
+            }
+        }
+    },
+    "singulars": {
+        "infoSection": {
+            "betaLinking": "Se ci stai sostenendo, o ci hai sostenuto in passato tramite <patreonLink>Patreon</patreonLink> o <bmacLink>Buy Me a Coffee</bmacLink>, puoi collegare il tuo profilo Portal a questi servizi nella pagina Profilo. Tieni presente che gli inviti vengono inviati a ondate e la prima ondata di beta è già in corso; la seconda ondata è prevista per fine febbraio.",
+            "closedBetaAccess": "La closed beta è uscita il 18 gennaio 2024. È possibile assicurarsi l'accesso nelle prossime ondate di inviti sostenendo il gioco su <patreonLink>Patreon</patreonLink> o <bmacLink>Buy Me a Coffee</bmacLink>, oppure si può richiedere l'accesso alla closed beta creando un profilo Portal e inviando il modulo di richiesta presente nella pagina Profilo.",
+            "title": "Informazioni importanti sulla closed beta"
+        },
+        "linkToSite": "WalkScape Portal è una piattaforma social associata al gioco <wsSite>WalkScape</wsSite>.",
+        "statsSection": {
+            "title": "Alcuni numeri divertenti:"
+        },
+        "welcomeMessage": "Benvenuti su WalkScape Portal",
+        "systemMessages": "Messaggi di sistema"
     }
-  },
-  "singulars": {
-    "infoSection": {
-      "betaLinking": "Se ci stai sostenendo, o ci hai sostenuto in passato tramite <patreonLink>Patreon</patreonLink> o <bmacLink>Buy Me a Coffee</bmacLink>, puoi collegare il tuo profilo Portal a questi servizi nella pagina Profilo. Tieni presente che gli inviti vengono inviati a ondate e la prima ondata di beta è già in corso; la seconda ondata è prevista per fine febbraio.",
-      "closedBetaAccess": "La closed beta è uscita il 18 gennaio 2024. È possibile assicurarsi l'accesso nelle prossime ondate di inviti sostenendo il gioco su <patreonLink>Patreon</patreonLink> o <bmacLink>Buy Me a Coffee</bmacLink>, oppure si può richiedere l'accesso alla closed beta creando un profilo Portal e inviando il modulo di richiesta presente nella pagina Profilo.",
-      "title": "Informazioni importanti sulla closed beta"
-    },
-    "linkToSite": "WalkScape Portal è una piattaforma social associata al gioco <wsSite>WalkScape</wsSite>.",
-    "statsSection": {
-      "title": "Alcuni numeri divertenti:"
-    },
-    "welcomeMessage": "Benvenuti su WalkScape Portal",
-    "systemMessages": ""
-  }
 }
