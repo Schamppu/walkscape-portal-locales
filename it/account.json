@@ -32,7 +32,17 @@
         "instructions": "Se utilizzi iOS <testflightLink>clicca su questo link per unirti al TestFlight di WalkScape e scaricare il gioco</testflightLink>.\n",
         "title": "Per utenti iOS:"
       },
-      "termsOfServiceDisclaimer": "Prima di scaricare il gioco, leggi e accetta i <tos>Termini di servizio</tos>."
+      "termsOfServiceDisclaimer": "Prima di scaricare il gioco, leggi e accetta i <tos>Termini di servizio</tos>.",
+      "gameRules": {
+        "2": {
+          "title": "1 dispositivo = 1 account = 1 persona",
+          "description": "Ci aspettiamo che ogni giocatore utilizzi un solo account su un solo dispositivo. Non condividete il vostro dispositivo o account con nessun altro. Non è consentito l'uso di emulatori o di giocare su più dispositivi contemporaneamente. Non è consentito eseguire più istanze del gioco sullo stesso dispositivo."
+        },
+        "1": {
+          "description": "Su WalkScape, i passi vengono generati camminando con le tue gambe. Ci opponiamo fermamente a qualsiasi metodo per generare passi diverso dalla camminata e ne scoraggiamo la promozione nelle nostra comunità (Reddit, Portal, Discord). Le uniche eccezioni sono quelle situazioni in cui le gambe si muovono naturalmente in modo simile alla camminata (tapis roulant, bicicletta, ellittica) e solo a condizione che il tasso di passi conteggiato sia sufficientemente simile alla camminata da non poter essere abusato.",
+          "title": "Solo passi reali"
+        }
+      }
     },
     "bmac": {
       "emailFormFieldLabel": "Email utilizzata per il tuo account BMaC",
@@ -45,7 +55,8 @@
       "invitedStatus": "Invitato",
       "notInvited": "Non invitato",
       "seeExistingApplication": "Rivedi la tua richiesta d'accesso",
-      "title": "Closed beta:"
+      "title": "Closed beta:",
+      "eligibleForNextWave": "Idoneo alla prossima wave"
     },
     "discordLink": {
       "linkButton": "Collega Discord",
@@ -111,6 +122,10 @@
       "friends": "Solo Amici",
       "public": "Pubblico",
       "title": "Impostazioni privacy"
+    },
+    "general": {
+      "joinedOn": "Unito il:",
+      "seeFull": "Vedi profilo completo"
     }
   }
 }
