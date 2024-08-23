@@ -1,17 +1,20 @@
 {
-  "singulars": {
-    "alreadyHaveAnAccountPrompt": "Hai già un profilo? Accedi",
-    "confirmPasswordFormLabel": "Conferma password",
-    "dontHaveAnAccountPrompt": "Non hai un profilo? Iscriviti",
-    "emailFormLabel": "Email",
-    "forgotPasswordLabel": "Password dimenticata?",
-    "loginButtonLabel": "Accedi",
-    "loginDescription": "Accedi con il profilo WalkScape",
-    "passwordFormLabel": "Password",
-    "passwordsDontMatch": "La password non corrisponde",
-    "signUpButtonLabel": "Iscriviti",
-    "signUpDescription": "Crea un profilo WalkScape",
-    "signUpLinkLabel": "Non hai un profilo? Iscriviti",
-    "usernameFormLabel": "Email"
-  }
+    "singulars": {
+        "alreadyHaveAnAccountPrompt": "Hai già un profilo? Accedi",
+        "confirmPasswordFormLabel": "Conferma password",
+        "dontHaveAnAccountPrompt": "Non hai un profilo? Iscriviti",
+        "emailFormLabel": "Email",
+        "forgotPasswordLabel": "Password dimenticata?",
+        "loginButtonLabel": "Accedi",
+        "loginDescription": "Accedi con il profilo WalkScape",
+        "passwordFormLabel": "Password",
+        "passwordsDontMatch": "La password non corrisponde",
+        "signUpButtonLabel": "Iscriviti",
+        "signUpDescription": "Crea un profilo WalkScape",
+        "signUpLinkLabel": "Non hai un profilo? Iscriviti",
+        "usernameFormLabel": "Nome utente",
+        "signup": {
+            "special": "Registra un account WalkScape con accesso speciale alla beta"
+        }
+    }
 }
