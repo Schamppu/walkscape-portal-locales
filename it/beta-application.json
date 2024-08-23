@@ -1,25 +1,28 @@
 {
-  "singulars": {
-    "form": {
-      "androidCheckbox": "Android",
-      "averageStepsPerWeekLabel": "Numero medio di passi che fai in una settimana:",
-      "averageStepsPerWeekPlaceholder": "Numero medio di passi a settimana",
-      "deviceModel": "Modello del tuo dispositivo (o dispositivi):",
-      "deviceModelPlaceholder": "es: Google Pixel 6, iPhone 13 Pro",
-      "deviceType": "Tipo di dispositivo (o dispositivi):",
-      "iOSCheckbox": "iOS (iPhone)",
-      "submitApplicationButton": "Invia la richiesta",
-      "whyInviteToBeta": "Quali contributi potresti offrire partecipando alla versione beta:",
-      "whyInviteToBetaPlaceholder": "Descrivi i contributi che puoi dare durante lo sviluppo: le tue motivazioni, esperienze passate di game testing, bisogno di strumenti per l'accessibilità ecc."
-    },
-    "formSubmissionPreview": {
-      "alreadySubmittedApplicationMessage": "Hai già inviato una richiesta. Ecco il riepilogo:",
-      "androidDeviceCheckedLabel": "Android:",
-      "applicationTextLabel": "Testo della richiesta:",
-      "averageStepsPerWeekLabel": "Passi medi a settimana:",
-      "deviceModelLabel": "Modello del dispositivo:",
-      "iOSDeviceCheckedLabel": "iOS:"
-    },
-    "title": "Richiesta accesso beta"
-  }
+    "singulars": {
+        "form": {
+            "androidCheckbox": "Android",
+            "averageStepsPerWeekLabel": "Numero medio di passi che fai in una settimana:",
+            "averageStepsPerWeekPlaceholder": "Numero medio di passi a settimana",
+            "deviceModel": "Modello del tuo dispositivo (o dispositivi):",
+            "deviceModelPlaceholder": "es: Google Pixel 6, iPhone 13 Pro",
+            "deviceType": "Tipo di dispositivo (o dispositivi):",
+            "iOSCheckbox": "iOS (iPhone)",
+            "submitApplicationButton": "Invia la richiesta",
+            "whyInviteToBeta": "Quali contributi potresti offrire partecipando alla versione beta:",
+            "whyInviteToBetaPlaceholder": "Descrivi i contributi che puoi dare durante lo sviluppo: le tue motivazioni, esperienze passate di game testing, bisogno di strumenti per l'accessibilità ecc."
+        },
+        "formSubmissionPreview": {
+            "alreadySubmittedApplicationMessage": "Hai già inviato una richiesta. Ecco il riepilogo:",
+            "androidDeviceCheckedLabel": "Android:",
+            "applicationTextLabel": "Testo della richiesta:",
+            "averageStepsPerWeekLabel": "Passi medi a settimana:",
+            "deviceModelLabel": "Modello del dispositivo:",
+            "iOSDeviceCheckedLabel": "iOS:"
+        },
+        "title": "Richiesta accesso alla beta",
+        "landing": {
+            "title": "Congratulazioni per esserti iscritto a Walkscape!"
+        }
+    }
 }
