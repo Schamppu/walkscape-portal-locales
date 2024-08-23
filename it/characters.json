@@ -1,1 +1,19 @@
-{}
+{
+    "singulars": {
+        "meta": {
+            "description": "{{characterName}} (lvl totale {{totalLevel}}) ha fatto {{totalSteps}} passi e ottenuto {{totalXp}} exp"
+        },
+        "settings": {
+            "anonOnLeaderboard": {
+                "tip": "Quando selezionato, sostituisce il nome del personaggio con “Walker Anonimo” nelle classifiche. Nota: se la visibilità del profilo è impostata su “Solo amici”, i tuoi amici potranno comunque vedere il nome del tuo personaggio nelle classifiche.",
+                "label": "Rendi anonimo sulle classifiche"
+            },
+            "title": "Impostazioni personaggio",
+            "hideSteps": {
+                "label": "Nascondi passi",
+                "tip": "Quando selezionato, nasconde il conteggio dei passi totali del tuo personaggio agli altri giocatori. Il personaggio verrà nascosto anche nella classifica dei Passi Totali."
+            }
+        },
+        "title": "Personaggi"
+    }
+}
