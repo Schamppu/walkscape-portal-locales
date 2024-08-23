@@ -26,10 +26,16 @@
                 "smithing": "MTL",
                 "carpentry": "CRP",
                 "woodcutting": "TGL",
-                "agility": "AGI"
+                "agility": "AGI",
+                "fishing": "PSC",
+                "crafting": "CRZ"
             },
             "achievement_points": "Punti Trofeo"
         },
-        "loading": "Caricamento..."
+        "loading": "Caricamento...",
+        "filters": {
+            "friends": "Amici",
+            "all": "Tutto"
+        }
     }
 }
