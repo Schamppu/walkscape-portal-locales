@@ -1,9 +1,10 @@
 {
     "singulars": {
         "avatarActions": {
-            "account": "Profilo",
+            "account": "Profilo Portal",
             "logout": "Esci",
-            "friends": "Amici"
+            "friends": "Amici",
+            "profile": "Profilo di gioco"
         },
         "betaVersion": "Beta 0.1.0",
         "links": {
@@ -13,7 +14,8 @@
             "generalDiscussion": "Discussioni",
             "home": "Home",
             "leaderboards": "Classifiche",
-            "discord": "Discord"
+            "discord": "Discord",
+            "users": "Utenti"
         },
         "login": "Accedi",
         "signUp": "Iscriviti",
