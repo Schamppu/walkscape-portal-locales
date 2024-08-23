@@ -49,7 +49,12 @@
     },
     "discordLink": {
       "linkButton": "Collega Discord",
-      "title": "Discord:"
+      "title": "Discord:",
+      "relogin": "Perfavore <0>accedi</0> di nuovo",
+      "failed": "Collegamento a Discord fallito. Riprova più tardi.",
+      "joinDiscord": "Unisciti a Discord",
+      "success": "Discord collegato con successo!",
+      "inProgress": "Collegamento a Discord..."
     },
     "header": {
       "introduction": "Ciao {{ username }}"
@@ -65,7 +70,16 @@
       "emailInputLabel": "Email utilizzata per il tuo profilo Patreon",
       "linkInstructions": "Collega un profilo Patreon",
       "linkSuccessMessage": "Profilo Patreon collegato con successo",
-      "title": "Patreon:"
+      "title": "Patreon:",
+      "return": "Torna alla pagina Profilo",
+      "inProgress": "Collegamento a Patreon...",
+      "failed": "Collegamento al profilo Patreon fallito. Riprova più tardi.",
+      "success": {
+        "title": "Patreon collegato con successo!",
+        "body": "L'accesso al gioco è consentito in ondate. Se un'ondata è in corso e hai ricevuto l'invito, puoi scaricare il gioco immediatamente dalla tua pagina Profilo. Altrimenti ti notificheremo via email quando ti sarà possibile accedere."
+      },
+      "login": "Accedi con Patreon",
+      "recommendation": "Raccomandiamo il collegamento dei profili accedendo con Patreon. Se non funziona, prova a connetterti usando il modulo sottostante."
     },
     "profilePhoto": {
       "changeButton": "Cambia immagine profilo",
@@ -83,6 +97,20 @@
     },
     "meta": {
       "description": "Dai un'occhiata al profilo di {{username}}!"
+    },
+    "thankYou": {
+      "understand": "Ho capito",
+      "title": "Grazie per il tuo sostegno!",
+      "body-1": "Il tuo nuovo status di sostenitore dovrebbe essere immediatamente visibile nella tua pagina account, ma in alcuni casi potrebbero volerci fino a due ore per una completa sincronizzazione. In questo caso riceverai un'email quando il tuo status sarà aggiornato o se verrai accettato nella beta.",
+      "body-3": "Grazie!",
+      "body-2": "Se non ricevi un'email entro un paio d'ore, controlla che l'email inserita sia la stessa che hai usato per Patreon o Buy me a Coffee, e riprova a collegare l'account."
+    },
+    "privacy": {
+      "profileVisibility": "Visibilità del profilo",
+      "private": "Privato",
+      "friends": "Solo Amici",
+      "public": "Pubblico",
+      "title": "Impostazioni privacy"
     }
   }
 }
