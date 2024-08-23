@@ -1,15 +1,23 @@
 {
-  "singulars": {
-    "error": {
-      "genericError": "Qualcosa è andato storto."
-    },
-    "success": {
-      "accountLinkedSuccessfully": "Profilo BMaC collegato con successo",
-      "bmacCheckForValidationCode": "Controlla la tua casella email per il codice di verifica",
-      "loggedInSuccesssfully": "Accesso effettuato con successo.",
-      "loggedOut": "Disconnessione effettuata con successo",
-      "passwordResetSent": "Email per reimpostare la password inviata",
-      "signedUpSuccessfully": "L'iscrizione è avvenuta con successo. Assicurati di controllare la tua casella di posta: dovresti ricevere un'email di verifica con un link da cliccare per confermare il tuo indirizzo email."
+    "singulars": {
+        "error": {
+            "genericError": "Qualcosa è andato storto.",
+            "passwordReset": "Non è stato possibile inviare un'email di recupero",
+            "passwordChange": "Cambio password fallito"
+        },
+        "success": {
+            "accountLinkedSuccessfully": "Profilo BMaC collegato con successo",
+            "bmacCheckForValidationCode": "Controlla la tua casella email per il codice di verifica",
+            "loggedInSuccesssfully": "Accesso effettuato con successo.",
+            "loggedOut": "Disconnessione effettuata con successo",
+            "passwordResetSent": "Email per reimpostare la password inviata",
+            "signedUpSuccessfully": "L'iscrizione è avvenuta con successo. Assicurati di controllare la tua casella di posta: dovresti ricevere un'email di verifica con un link da cliccare per confermare il tuo indirizzo email.",
+            "friendInvites": {
+                "accept": "Richiesta d'amicizia accettata",
+                "reject": "Richiesta d'amicizia eliminata",
+                "block": "Utente bloccato"
+            },
+            "passwordChange": "Password modificata con successo"
+        }
     }
-  }
 }
