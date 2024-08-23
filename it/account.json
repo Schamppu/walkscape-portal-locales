@@ -49,6 +49,10 @@
         "4": {
           "title": "Solo distribuzioni ufficiali",
           "description": "Gioca solo alle versioni distribuite attraverso i canali ufficiali. Non cercare di creare un tuo bundle, build o distribuzione del gioco, né scaricare o condividere build non ufficiali distribuite da terzi."
+        },
+        "5": {
+          "title": "Gioca correttamente :)",
+          "description": "WalkScape è un gioco sociale, ambientato in un mondo virtuale, ma con persone reali. Ci aspettiamo che tutti gli Walker si rispettino gli uni con gli altri, che sia in gioco, sui nostri social media o nella vita reale. Qualsiasi forma di discriminazione è assolutamente proibita."
         }
       }
     },
