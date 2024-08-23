@@ -3,7 +3,7 @@
     "closedBetaStatus": {
       "eligibleForNextWave": {
         "key_one": "Idoneo per la prossima ondata fra circa 1 o 2 settimane",
-        "key_many": "",
+        "key_many": "-",
         "key_other": "Idoneo per la prossima ondata fra circa {{ count }} o {{ countPlusOne }} settimane"
       }
     }
@@ -22,17 +22,17 @@
     "betaDownloadInfo": {
       "acceptTermsButton": "Accetta",
       "android": {
-        "downloadFromGooglePlay": "Dopo esserti unito/a al gruppo, potrai <playStoreLink>scaricare il gioco da Google Play</playStoreLink>.\n",
+        "downloadFromGooglePlay": "Dopo esserti unito/a al gruppo, potrai <playStoreLink>scaricare il gioco da Google Play</playStoreLink>.",
         "instructions": "Stai usando Android. Per accedere alla versione Beta di WalkScape devi effettuare due passaggi:",
         "joinGoogleGroup": "Unisciti a <googleGroup>WalkScape Closed Beta Google Group</googleGroup>.",
         "title": "Per gli utenti Android:"
       },
       "dialogTitle": "Scarica il client di gioco",
       "ios": {
-        "instructions": "Se utilizzi iOS <testflightLink>clicca su questo link per unirti al TestFlight di WalkScape e scaricare il gioco</testflightLink>.\n",
+        "instructions": "Se utilizzi iOS <testflightLink>clicca su questo link per unirti al TestFlight di WalkScape e scaricare il gioco</testflightLink>.",
         "title": "Per utenti iOS:"
       },
-      "termsOfServiceDisclaimer": "Prima di scaricare il gioco, leggi e accetta i <tos>Termini di servizio</tos>.",
+      "termsOfServiceDisclaimer": "Cliccando 'Accetta' dichiari di acconsentire ai <tos>Termini di servizio</tos> ed alle nostre Regole di Gioco.",
       "gameRules": {
         "2": {
           "title": "1 dispositivo = 1 account = 1 persona",
@@ -41,6 +41,14 @@
         "1": {
           "description": "Su WalkScape, i passi vengono generati camminando con le tue gambe. Ci opponiamo fermamente a qualsiasi metodo per generare passi diverso dalla camminata e ne scoraggiamo la promozione nelle nostra comunità (Reddit, Portal, Discord). Le uniche eccezioni sono quelle situazioni in cui le gambe si muovono naturalmente in modo simile alla camminata (tapis roulant, bicicletta, ellittica) e solo a condizione che il tasso di passi conteggiato sia sufficientemente simile alla camminata da non poter essere abusato.",
           "title": "Solo passi reali"
+        },
+        "3": {
+          "title": "Segnala exploit e comportamenti scorretti",
+          "description": "Non condividere o incoraggiare cheats o exploit con altri giocatori. Se trovi bug o exploit gravi nel gioco, segnalali al team tramite i canali di segnalazione ufficiali o scrivendo direttamente ad un membro del team."
+        },
+        "4": {
+          "title": "Solo distribuzioni ufficiali",
+          "description": "Gioca solo alle versioni distribuite attraverso i canali ufficiali. Non cercare di creare un tuo bundle, build o distribuzione del gioco, né scaricare o condividere build non ufficiali distribuite da terzi."
         }
       }
     },
@@ -74,7 +82,9 @@
       "changePasswordButton": "Cambia la password",
       "newPasswordLabel": "Nuova password",
       "repeatPasswordLabel": "Ripeti la password",
-      "title": "Modifica la password"
+      "title": "Modifica la password",
+      "prompt": "Per favore, aggiorna la tua password!",
+      "unauthenticated": "Richiede autenticazione"
     },
     "patreonLink": {
       "codeSentSuccessMessage": "Controlla la tua casella email per il codice di verifica",
@@ -126,6 +136,14 @@
     "general": {
       "joinedOn": "Unito il:",
       "seeFull": "Vedi profilo completo"
+    },
+    "sections": {
+      "friendInvites": "Richieste d'amicizia in attesa",
+      "friends": "Amici"
+    },
+    "users": {
+      "enterSearch": "Immetti termine da ricercare",
+      "found": "{{countStr}} utenti trovati"
     }
   }
 }
