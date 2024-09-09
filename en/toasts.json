@@ -9,7 +9,8 @@
       "accountLinkedSuccessfully": "Bmac account linked successfully",
       "loggedOut": "Logged out successfully",
       "posts": {
-        "delete": "Post deleted"
+        "delete": "Post deleted",
+        "edit": "Post updated"
       },
       "friendInvites": {
         "accept": "Friend invite accepted",
