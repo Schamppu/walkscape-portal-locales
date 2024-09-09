@@ -8,6 +8,9 @@
       "bmacCheckForValidationCode": "Check the entered email inbox for the validation code",
       "accountLinkedSuccessfully": "Bmac account linked successfully",
       "loggedOut": "Logged out successfully",
+      "posts": {
+        "delete": "Post deleted"
+      },
       "friendInvites": {
         "accept": "Friend invite accepted",
         "reject": "Friend invite deleted",
