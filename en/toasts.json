@@ -12,6 +12,10 @@
         "delete": "Post deleted",
         "edit": "Post updated"
       },
+      "comments": {
+        "delete": "Comment deleted",
+        "edit": "Comment updated"
+      },
       "friendInvites": {
         "accept": "Friend invite accepted",
         "reject": "Friend invite deleted",
