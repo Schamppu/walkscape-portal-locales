@@ -114,8 +114,7 @@
       "changeButton": "Change profile picture",
       "instructions": "Crop and zoom/dezoom your profile picture here. You can use pinch-to-zoom on mobile devices.",
       "zoomLabel": "Zoom",
-      "saveLabel": "Save",
-      "saveSuccessMessage": "Profile picture updated"
+      "saveLabel": "Save"
     },
     "usernameChange": {
       "title": "Change your username",
