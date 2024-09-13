@@ -23,6 +23,9 @@
     },
     "landing": {
       "title": "Congratulations on signing up for Walkscape!"
+    },
+    "specialLanding": {
+      "description": "You can try the Closed Beta version for the duration of the convention. Your access will end on {{endDate}}."
     }
   }
 }
