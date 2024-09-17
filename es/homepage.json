@@ -16,12 +16,12 @@
         "statsSection": {
             "betaTesters": {
                 "key_one": "De los cuales, <b>1 usuario</b> es un beta tester",
-                "key_many": "",
+                "key_many": "De los cuales, <b>{{count}} de usuarios</b> son beta testers",
                 "key_other": "De los cuales, <b>{{count}} usuarios</b> son beta testers"
             },
             "registeredUsers": {
                 "key_one": "Hasta ahora, <b>1 usuario</b> se ha registrado",
-                "key_many": "",
+                "key_many": "Hasta ahora, <b>{{count}} de usuarios</b> se han registrado",
                 "key_other": "Hasta ahora, <b>{{count}} usuarios</b> se han registrado"
             }
         }
