@@ -1,1 +1,43 @@
-{}
+{
+    "singulars": {
+        "filterOptions": {
+            "total_level": "Nivel total",
+            "agility": "Agilidad",
+            "fishing": "Pesca",
+            "carpentry": "Carpintería",
+            "short": {
+                "mining": "MIN",
+                "cooking": "COC",
+                "agility": "AGI",
+                "foraging": "REC",
+                "smithing": "HER",
+                "carpentry": "CAR",
+                "woodcutting": "TALA",
+                "fishing": "PES",
+                "crafting": "ART"
+            },
+            "total_steps": "Pasos totales",
+            "total_xp": "EXP total",
+            "mining": "Minería",
+            "cooking": "Cocina",
+            "crafting": "Artesanía",
+            "foraging": "Recolección",
+            "smithing": "Herrería",
+            "woodcutting": "Tala",
+            "achievement_points": "Puntos de logro"
+        },
+        "filters": {
+            "all": "Todos",
+            "friends": "Amigos"
+        },
+        "loading": "Cargando...",
+        "avatarOfPlayer": "Avatar de {{player}}"
+    },
+    "plurals": {
+        "pageNumber": {
+            "key_one": "Página 1",
+            "key_many": "Página {{count}}",
+            "key_other": "Página {{count}}"
+        }
+    }
+}
