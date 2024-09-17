@@ -26,7 +26,8 @@
     "error": {
       "passwordReset": "Could not send recovery email",
       "passwordChange": "Updating password failed",
-      "genericError": "Something went wrong."
+      "genericError": "Something went wrong.",
+      "expiredToken": "Login has expired"
     }
   }
 }
