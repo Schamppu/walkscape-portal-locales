@@ -145,7 +145,7 @@
     "closedBetaStatus": {
       "eligibleForNextWave": {
         "key_one": "Elegible para la siguiente oleada en aproximadamente 1 a 2 semanas",
-        "key_many": "",
+        "key_many": "Elegible para la siguiente oleada en aproximadamente {{ count }} a {{ countPlusOne }} de semanas",
         "key_other": "Elegible para la siguiente oleada en aproximadamente {{ count }} a {{ countPlusOne }} semanas"
       }
     }
