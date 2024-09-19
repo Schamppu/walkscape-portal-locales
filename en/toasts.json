@@ -27,7 +27,36 @@
       "passwordReset": "Could not send recovery email",
       "passwordChange": "Updating password failed",
       "genericError": "Something went wrong.",
-      "expiredToken": "Login has expired"
+      "expiredToken": "Login has expired",
+      "networkCode": {
+        "0000": "Something went wrong",
+        "3000": "Username is already taken",
+        "3001": "E-mail is already taken.",
+        "3002": "Wrong special code",
+        "3003": "Session has expired",
+        "3004": "Invalid session",
+        "3005": "No character exists",
+        "3006": "Character deletion failed",
+        "3007": "Could not save",
+        "3008": "Could not post",
+        "3009": "Could not download image",
+        "3010": "Login unsuccessful",
+        "3010-a": "Email has not been verified. Please check your inbox.",
+        "3011": "Invalid credentials. Please make sure you are using the correct email and password.",
+        "3012": "Incorrect character name",
+        "3013": "Registration was unsuccessful",
+        "3014": "Missing properties in the request body",
+        "3015": "No data",
+        "3016": "Missing query parameters",
+        "3017": "Malformatted body properties",
+        "3018": "Request has expired",
+        "3019": "Incorrect username",
+        "3019-a": "Invalid username: Leading or trailing spaces are not allowed",
+        "3019-b": "Invalid username: Consecutive spaces are not allowed",
+        "3019-c": "Invalid username: Username must be at least 3 letters long.",
+        "3019-d": "Invalid username: Username must contain at least 3 non-space characters",
+        "3019-e": "Invalid username: Username can only contain letters, numbers and spaces"
+      }
     }
   }
 }
