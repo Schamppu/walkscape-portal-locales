@@ -1,7 +1,7 @@
 {
     "singulars": {
         "meta": {
-            "description": "{{characterName}} (nivel total {{totalLevel}}) ha andado {{totalSteps}} pasos y ganado {{totalXp}} EXP"
+            "description": "{{characterName}} (nivel total {{totalLevel}}) ha caminado {{totalSteps}} pasos y ganado {{totalXp}} EXP"
         },
         "title": "Personajes",
         "settings": {
