@@ -13,8 +13,17 @@
     "alreadyHaveAnAccountPrompt": "Already have an account? Log in",
     "signUpLinkLabel": "Don't have an account? Sign up",
     "passwordsDontMatch": "Passwords don't match",
+    "missingConfirmation": "This email address has not yet been verified. Make sure to check your inbox and spam folders, or request a new verification email by clicking <0>here</0>.",
+    "verificationComplete": "Email address successfully verified! Click <0>here</0> to return to the home page.",
+    "verificationFailure": "Something went wrong with the email verification process. To fix the issue, you can try the following steps:",
+    "verificationFix": {
+      "1": "If you copied the link from the email, make sure it was pasted in its entirety.",
+      "2": "Request a new verification email using the form below.",
+      "3": "Contact our support at <0>contact@walkscape.app</0>"
+    },
     "signup": {
       "special": "Sign up for WalkScape account with special beta access"
-    }
+    },
+    "resendButtonLabel": "Resend email"
   }
 }
