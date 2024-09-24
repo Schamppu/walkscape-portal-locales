@@ -1,26 +1,14 @@
 {
-  "plural": {
-    "statsSection": {
-      "betaTesters": {
-        "key_one": "Bunlardan <b>1 kullanıcı</b> beta kullanıcısı",
-        "key_other": "Bunlardan <b>{{count}} kullanıcı</b> kadarı beta kullanıcısı"
-      },
-      "registeredUsers": {
-        "key_one": "Şimdiye dek <b>1 kullanıcı</b> kaydoldu",
-        "key_other": "Şimdiye dek <b>{{count}} kullanıcı</b> kaydoldu"
-      }
+    "singulars": {
+        "infoSection": {
+            "betaLinking": "Bizi destekliyorsan veya daha önce <patreonLink>Patreon</patreonLink> ya da <bmacLink>Buy me a Coffee</bmacLink> üzerinden destek olduysan, Portal hesabını Hesap sayfasından bu hizmetlere bağlayabilirsin. Davetiyelerin dalgalar halinde verildiğini ve ilk kapalı beta dalgasının zaten dolu olduğunu unutmayın. İkinci kapalı beta dalgası, kapalı beta yayınlandıktan birkaç hafta sonra gelecek.",
+            "closedBetaAccess": "Kapalı beta 18 Ocak 2024'te çıkıyor. Oyunu <patreonLink>Patreon</patreonLink> ya da <bmacLink>Buy Me A Coffee</bmacLink> üzerinden destekleyerek veya Portal üzerinden başvuru formuyla başvurarak (butonu hesap sayfanızda bulabilirsiniz) kapalı betaya erişim sağlayabilirsin.",
+            "title": "Kapalı beta hakkında önemli duyuru"
+        },
+        "linkToSite": "WalkScape Portalı, <wsSite>WalkScape</wsSite> oyununa bağlı bir sosyal portaldır.",
+        "statsSection": {
+            "title": "Eğlenceli istatistikler:"
+        },
+        "welcomeMessage": "WalkScape Portalına Hoş Geldin"
     }
-  },
-  "singulars": {
-    "infoSection": {
-      "betaLinking": "Bizi destekliyorsan veya daha önce <patreonLink>Patreon</patreonLink> ya da <bmacLink>Buy me a Coffee</bmacLink> üzerinden destek olduysan, Portal hesabını Hesap sayfasından bu hizmetlere bağlayabilirsin. Davetiyelerin dalgalar halinde verildiğini ve ilk kapalı beta dalgasının zaten dolu olduğunu unutmayın. İkinci kapalı beta dalgası, kapalı beta yayınlandıktan birkaç hafta sonra gelecek.",
-      "closedBetaAccess": "Kapalı beta 18 Ocak 2024'te çıkıyor. Oyunu <patreonLink>Patreon</patreonLink> ya da <bmacLink>Buy Me A Coffee</bmacLink> üzerinden destekleyerek veya Portal üzerinden başvuru formuyla başvurarak (butonu hesap sayfanızda bulabilirsiniz) kapalı betaya erişim sağlayabilirsin.",
-      "title": "Kapalı beta hakkında önemli duyuru"
-    },
-    "linkToSite": "WalkScape Portalı, <wsSite>WalkScape</wsSite> oyununa bağlı bir sosyal portaldır.",
-    "statsSection": {
-      "title": "Eğlenceli istatistikler:"
-    },
-    "welcomeMessage": "WalkScape Portalına Hoş Geldin"
-  }
 }

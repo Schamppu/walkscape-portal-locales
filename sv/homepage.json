@@ -1,26 +1,14 @@
 {
-  "plural": {
-    "statsSection": {
-      "betaTesters": {
-        "key_one": "Av dessa är <b>1 användare</b> en betatestare",
-        "key_other": "Av dessa är <b>{{count}} användare</b> betatestare"
-      },
-      "registeredUsers": {
-        "key_one": "Hittills har <b>1 användare</b> registrerat sig",
-        "key_other": "Hittills har <b>{{count}} användare</b> registrerat"
-      }
+    "singulars": {
+        "infoSection": {
+            "betaLinking": "Om du stödjer oss, eller någon gång har gjort det via <patreonLink>Patreon</patreonLink> eller <bmacLink>Buy me a Coffee</bmacLink>, du kan koppla ditt Portalkonto till dessa tjänster i ditt konto. Tänk på att inbjudningar ges i vågor, och den första slutna betavågen är redan full. Den andra slutna betaomgången kommer några veckor efter att den slutna betaomgången har släppts.",
+            "closedBetaAccess": "Den stängda betaversionen släpps den 18 januari 2024. Du kan säkra tillgång till den stängda betan genom att stödja spelet på <patreonLink>Patreon</patreonLink> eller <bmacLink>Buy Me A Coffee</bmacLink>, eller genom att ansöka till den stängda betan via ett ansökningsformulär som registrerad användare på Portal (du hittar knappen på din kontosida).",
+            "title": "Viktig information om den stängda betaversionen"
+        },
+        "linkToSite": "WalkScape Portal är en social portal som är kopplad till spelet <wsSite>WalkScape</wsSite>.",
+        "statsSection": {
+            "title": "Lite rolig statistik:"
+        },
+        "welcomeMessage": "Välkommen till WalkScape Portal"
     }
-  },
-  "singulars": {
-    "infoSection": {
-      "betaLinking": "Om du stödjer oss, eller någon gång har gjort det via <patreonLink>Patreon</patreonLink> eller <bmacLink>Buy me a Coffee</bmacLink>, du kan koppla ditt Portalkonto till dessa tjänster i ditt konto. Tänk på att inbjudningar ges i vågor, och den första slutna betavågen är redan full. Den andra slutna betaomgången kommer några veckor efter att den slutna betaomgången har släppts.",
-      "closedBetaAccess": "Den stängda betaversionen släpps den 18 januari 2024. Du kan säkra tillgång till den stängda betan genom att stödja spelet på <patreonLink>Patreon</patreonLink> eller <bmacLink>Buy Me A Coffee</bmacLink>, eller genom att ansöka till den stängda betan via ett ansökningsformulär som registrerad användare på Portal (du hittar knappen på din kontosida).",
-      "title": "Viktig information om den stängda betaversionen"
-    },
-    "linkToSite": "WalkScape Portal är en social portal som är kopplad till spelet <wsSite>WalkScape</wsSite>.",
-    "statsSection": {
-      "title": "Lite rolig statistik:"
-    },
-    "welcomeMessage": "Välkommen till WalkScape Portal"
-  }
 }
