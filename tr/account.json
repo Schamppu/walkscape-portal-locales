@@ -1,13 +1,4 @@
 {
-  "plural": {
-    "closedBetaStatus": {
-      "eligibleForNextWave": {
-        "key_one": "Yaklaşık 1 - 2 hafta içinde sıradaki dalgaya katılabilir",
-        "key_other": "Yaklaşık {{ count }} - {{ countPlusOne }} hafta içinde sıradaki dalgaya katılabilir",
-        "key_zero": "Bir hafta içinde sıradaki dalgaya katılabilir"
-      }
-    }
-  },
   "singulars": {
     "accountLinking": {
       "codeFormFieldLabel": "E-posta ile alınan kod",
@@ -58,7 +49,6 @@
       "changePasswordButton": "Parolayı değiştir",
       "newPasswordLabel": "Yeni parola",
       "repeatPasswordLabel": "Parolayı tekrarla",
-      "successMessage": "Parola başarıyla değiştirildi",
       "title": "Parolanı değiştir"
     },
     "patreonLink": {
@@ -72,7 +62,6 @@
       "changeButton": "Profil resmini değiştir",
       "instructions": "Profil resmini buradan kırp ve yakınlaştırıp uzaklaştır. Mobil cihazlarda parmak uçlarınla yakınlaştırabilirsin.",
       "saveLabel": "Kaydet",
-      "saveSuccessMessage": "Profil resmi güncellendi",
       "zoomLabel": "Yakınlaştır"
     },
     "subscriptionStateDisclaimer": "Abonelik durumunun yenilenmesi 1 saat kadar sürebilir.",
