@@ -1,0 +1,20 @@
+{
+  "singular" : {
+    "avatarActions" : {
+      "account" : "Hesap",
+      "logout" : "Çıkış yap"
+    },
+    "betaVersion" : "Beta 0.1.0",
+    "links" : {
+      "bugReports" : "Hata raporları",
+      "devblogs" : "Devbloglar",
+      "feedbackAndIdeas" : "Geri Bildirim ve Fikirler",
+      "generalDiscussion" : "Genel Konular",
+      "home" : "Ana Sayfa",
+      "leaderboards" : "Liderlik Tabloları"
+    },
+    "login" : "Giriş yap",
+    "signUp" : "Kaydol",
+    "title" : "WalkScape Portalı"
+  }
+}

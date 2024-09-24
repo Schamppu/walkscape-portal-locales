@@ -1,0 +1,43 @@
+{
+  "plural" : {
+    "comments" : {
+      "commentCount_one" : "1 yorum",
+      "commentCount_other" : "{{count}} yorum"
+    }
+  },
+  "singular" : {
+    "commentSubmission" : {
+      "commentPlaceholder" : "Yorumunu buraya yaz",
+      "displayPreviewCheckbox" : "Ön izlemeyi görüntüle",
+      "editCancelButton" : "İptal",
+      "editSaveButton" : "Kaydet",
+      "previewLabel" : "Ön izleme:",
+      "submitButton" : "Yorum ekle"
+    },
+    "dialogs" : {
+      "delete" : {
+        "cancelButton" : "İptal",
+        "confirmButton" : "Evet, {{ type }} öğesini sil",
+        "message" : "Bu eylem geri alınamaz, bu {{ type }} öğesini kalıcı olarak siler.",
+        "title" : "Kesinlikle emin misin?"
+      }
+    },
+    "posts" : {
+      "new" : {
+        "addPostButton" : "Konu ekle",
+        "descriptionLabel" : "Açıklama",
+        "displayPreviewButton" : "Ön izlemeyi görüntüle",
+        "postContentPlaceholder" : "İçeriğini buraya yaz",
+        "previewLabel" : "Ön izleme:",
+        "titleLabel" : "Başlık"
+      },
+      "newPostButton" : "Yeni konu"
+    },
+    "resetPassword" : {
+      "button" : "Parolayı sıfırla",
+      "emailInputLabel" : "E-posta",
+      "instructions" : "Parolanı sıfırlamak için e-postanı gir ve parolayı sıfırla düğmesine tıkla. Yeni bir şifre oluşturabileceğin şifre güncelleme sayfasına götürecek bağlantıyı içeren bir e-posta alacaksın."
+    },
+    "searchBarPlaceholder" : "Ara..."
+  }
+}

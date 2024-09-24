@@ -1,0 +1,15 @@
+{
+  "singular" : {
+    "error" : {
+      "genericError" : "Något gick fel."
+    },
+    "success" : {
+      "accountLinkedSuccessfully" : "Bmac-konto länkat!",
+      "bmacCheckForValidationCode" : "Kontrollera den angivna e-postinkorgen för valideringskoden",
+      "loggedInSuccesssfully" : "Du är nu inloggad.",
+      "loggedOut" : "Du är nu utloggad.",
+      "passwordResetSent" : "E-post om återställning av lösenord skickad",
+      "signedUpSuccessfully" : "Registrering startad. Kontrollera din e-postadress: du bör få ett verifieringsmejl med en länk som du ska klicka på för att bekräfta din e-postadress."
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "singular" : {
+    "avatarActions" : {
+      "account" : "Konto",
+      "logout" : "Logga ut"
+    },
+    "betaVersion" : "Beta 0.1.0",
+    "links" : {
+      "bugReports" : "Bug Raporter",
+      "devblogs" : "Utvecklingsbloggar",
+      "feedbackAndIdeas" : "Feedback och idéer",
+      "generalDiscussion" : "Allmän diskussion",
+      "home" : "Hem",
+      "leaderboards" : "Topplistor"
+    },
+    "login" : "Logga in",
+    "signUp" : "Registrera dig",
+    "title" : "Portal för WalkScape"
+  }
+}

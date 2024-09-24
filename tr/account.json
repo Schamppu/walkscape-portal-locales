@@ -1,0 +1,86 @@
+{
+  "plural" : {
+    "closedBetaStatus" : {
+      "eligibleForNextWave" : {
+        "key_one" : "Yaklaşık 1 - 2 hafta içinde sıradaki dalgaya katılabilir",
+        "key_other" : "Yaklaşık {{ count }} - {{ countPlusOne }} hafta içinde sıradaki dalgaya katılabilir",
+        "key_zero" : "Bir hafta içinde sıradaki dalgaya katılabilir"
+      }
+    }
+  },
+  "singular" : {
+    "accountLinking" : {
+      "codeFormFieldLabel" : "E-posta ile alınan kod",
+      "firstSupportDate" : "ilk destek tarihi {{ date }} ",
+      "getCodeButton" : "Kod al",
+      "linkAccountButton" : "Hesap bağla",
+      "linkedStatus" : "Bağlı",
+      "noSubscription" : "Abonelik yok",
+      "notLinkedStatus" : "Bağlı değil",
+      "unlinkAction" : "Bağlantıyı kes"
+    },
+    "betaDownloadInfo" : {
+      "acceptTermsButton" : "Kabul et",
+      "android" : {
+        "downloadFromGooglePlay" : "Gruba katıldıktan sonra, <playStoreLink>oyunu Google Play'den indirme linkine</playStoreLink> erişebilirsin.",
+        "instructions" : "Android kullanıyorsun. WalkScape'in Beta sürümüne erişmen için iki adım var:",
+        "joinGoogleGroup" : "<googleGroup>WalkScape Kapalı Beta Google Grubu</googleGroup>'na katıl.",
+        "title" : "Android kullanıcıları için:"
+      },
+      "dialogTitle" : "Oyunun uygulamasını indir",
+      "ios" : {
+        "instructions" : "iOS kullanıyorsan <testflightLink>WalkScape'in TestFlight'ına katılmak ve oyunu indirmek için bu bağlantıya tıkla</testflightLink>.",
+        "title" : "iOS kullanıcıları için:"
+      },
+      "termsOfServiceDisclaimer" : "Oyunu indirmeden önce lütfen <tos>Hizmet Şartları</tos>'nı oku ve kabul et."
+    },
+    "bmac" : {
+      "emailFormFieldLabel" : "BMaC hesabın için kullandığın e-posta",
+      "linkTitle" : "Bir BMaC hesabı bağla",
+      "statusTitle" : "BMaC:"
+    },
+    "closedBetaStatus" : {
+      "applyButton" : "Beta erişimi için başvur",
+      "downloadButton" : "Oyunu edin",
+      "invitedStatus" : "Davetli",
+      "notInvited" : "Davetli değil",
+      "seeExistingApplication" : "Başvuruya bak",
+      "title" : "Kapalı beta:"
+    },
+    "discordLink" : {
+      "linkButton" : "Discord'u bağla",
+      "title" : "Discord:"
+    },
+    "header" : {
+      "introduction" : "Merhaba {{ username }}"
+    },
+    "passwordChange" : {
+      "changePasswordButton" : "Parolayı değiştir",
+      "newPasswordLabel" : "Yeni parola",
+      "repeatPasswordLabel" : "Parolayı tekrarla",
+      "successMessage" : "Parola başarıyla değiştirildi",
+      "title" : "Parolanı değiştir"
+    },
+    "patreonLink" : {
+      "codeSentSuccessMessage" : "Doğrulama kodu için girilen e-postanın gelen kutusunu kontrol et",
+      "emailInputLabel" : "Patreon hesabın için kullandığın e-posta",
+      "linkInstructions" : "Bir Patreon hesabı bağla",
+      "linkSuccessMessage" : "Patreon hesabı başarıyla bağlandı",
+      "title" : "Patreon:"
+    },
+    "profilePhoto" : {
+      "changeButton" : "Profil resmini değiştir",
+      "instructions" : "Profil resmini buradan kırp ve yakınlaştırıp uzaklaştır. Mobil cihazlarda parmak uçlarınla yakınlaştırabilirsin.",
+      "saveLabel" : "Kaydet",
+      "saveSuccessMessage" : "Profil resmi güncellendi",
+      "zoomLabel" : "Yakınlaştır"
+    },
+    "subscriptionStateDisclaimer" : "Abonelik durumunun yenilenmesi 1 saat kadar sürebilir.",
+    "usernameChange" : {
+      "changeUsernameButton" : "Kullanıcı adı değiştir",
+      "newUsernameLabel" : "Yeni kullanıcı adı",
+      "successMessage" : "Kullanıcı adı başarıyla değiştirildi",
+      "title" : "Kullanıcı adını değiştir"
+    }
+  }
+}
