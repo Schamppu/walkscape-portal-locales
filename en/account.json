@@ -67,6 +67,7 @@
     "closedBetaStatus": {
       "title": "Closed beta:",
       "invitedStatus": "Invited",
+      "accessUntil": "Access until {{dateString}}",
       "notInvited": "Not invited",
       "applyButton": "Apply for beta access",
       "seeExistingApplication": "See application",
