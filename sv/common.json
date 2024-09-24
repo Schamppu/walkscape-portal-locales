@@ -1,43 +1,37 @@
 {
-  "plural": {
-    "comments": {
-      "commentCount_one": "1 kommentar",
-      "commentCount_other": "{{count}} kommentarer"
+    "singulars": {
+        "commentSubmission": {
+            "commentPlaceholder": "Skriv din kommentar här",
+            "displayPreviewCheckbox": "Visa förhandsgranskning",
+            "editCancelButton": "Avbryt",
+            "editSaveButton": "Spara",
+            "previewLabel": "Förhandsvisning:",
+            "submitButton": "Lägg till kommentar"
+        },
+        "dialogs": {
+            "delete": {
+                "cancelButton": "Avbryt",
+                "confirmButton": "Ja, radera {{ type }}",
+                "message": "Det här valet kan inte ångras. Detta kommer att permanent radera denna {{ type }}.",
+                "title": "Är du helt säker?"
+            }
+        },
+        "posts": {
+            "new": {
+                "addPostButton": "Lägg till inlägg",
+                "descriptionLabel": "Beskrivning",
+                "displayPreviewButton": "Visa förhandsgranskning",
+                "postContentPlaceholder": "Skriv ditt inlägg här",
+                "previewLabel": "Förhandsvisning:",
+                "titleLabel": "Titel"
+            },
+            "newPostButton": "Nytt inlägg"
+        },
+        "resetPassword": {
+            "button": "Återställ lösenord",
+            "emailInputLabel": "E-post",
+            "instructions": "Om du vill återställa ditt lösenord anger du din e-postadress och klickar på Återställ lösenord. Du kommer få ett e-postmeddelande med en länk som tar dig till sidan för att uppdatera ditt lösenord, där du kan definiera ett nytt lösenord."
+        },
+        "searchBarPlaceholder": "Sök..."
     }
-  },
-  "singulars": {
-    "commentSubmission": {
-      "commentPlaceholder": "Skriv din kommentar här",
-      "displayPreviewCheckbox": "Visa förhandsgranskning",
-      "editCancelButton": "Avbryt",
-      "editSaveButton": "Spara",
-      "previewLabel": "Förhandsvisning:",
-      "submitButton": "Lägg till kommentar"
-    },
-    "dialogs": {
-      "delete": {
-        "cancelButton": "Avbryt",
-        "confirmButton": "Ja, radera {{ type }}",
-        "message": "Det här valet kan inte ångras. Detta kommer att permanent radera denna {{ type }}.",
-        "title": "Är du helt säker?"
-      }
-    },
-    "posts": {
-      "new": {
-        "addPostButton": "Lägg till inlägg",
-        "descriptionLabel": "Beskrivning",
-        "displayPreviewButton": "Visa förhandsgranskning",
-        "postContentPlaceholder": "Skriv ditt inlägg här",
-        "previewLabel": "Förhandsvisning:",
-        "titleLabel": "Titel"
-      },
-      "newPostButton": "Nytt inlägg"
-    },
-    "resetPassword": {
-      "button": "Återställ lösenord",
-      "emailInputLabel": "E-post",
-      "instructions": "Om du vill återställa ditt lösenord anger du din e-postadress och klickar på Återställ lösenord. Du kommer få ett e-postmeddelande med en länk som tar dig till sidan för att uppdatera ditt lösenord, där du kan definiera ett nytt lösenord."
-    },
-    "searchBarPlaceholder": "Sök..."
-  }
 }
