@@ -1,17 +1,17 @@
 {
-  "singular" : {
-    "alreadyHaveAnAccountPrompt" : "Zaten hesabın var mı? Giriş yap",
-    "confirmPasswordFormLabel" : "Parolayı onayla",
-    "dontHaveAnAccountPrompt" : "Hesabın yok mu? Kaydol",
-    "emailFormLabel" : "E-posta",
-    "forgotPasswordLabel" : "Parolanı mı unuttun?",
-    "loginButtonLabel" : "Giriş yap",
-    "loginDescription" : "WalkScape hesabıyla giriş yap",
-    "passwordFormLabel" : "Parola",
-    "passwordsDontMatch" : "Parolalar eşleşmiyor",
-    "signUpButtonLabel" : "Kaydol",
-    "signUpDescription" : "WalkScape hesabı için kaydol",
-    "signUpLinkLabel" : "Hesabın yok mu? Kaydol",
-    "usernameFormLabel" : "E-posta"
+  "singulars": {
+    "alreadyHaveAnAccountPrompt": "Zaten hesabın var mı? Giriş yap",
+    "confirmPasswordFormLabel": "Parolayı onayla",
+    "dontHaveAnAccountPrompt": "Hesabın yok mu? Kaydol",
+    "emailFormLabel": "E-posta",
+    "forgotPasswordLabel": "Parolanı mı unuttun?",
+    "loginButtonLabel": "Giriş yap",
+    "loginDescription": "WalkScape hesabıyla giriş yap",
+    "passwordFormLabel": "Parola",
+    "passwordsDontMatch": "Parolalar eşleşmiyor",
+    "signUpButtonLabel": "Kaydol",
+    "signUpDescription": "WalkScape hesabı için kaydol",
+    "signUpLinkLabel": "Hesabın yok mu? Kaydol",
+    "usernameFormLabel": "E-posta"
   }
 }

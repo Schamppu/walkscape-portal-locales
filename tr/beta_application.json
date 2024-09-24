@@ -1,25 +1,25 @@
 {
-  "singular" : {
-    "form" : {
-      "androidCheckbox" : "Android",
-      "averageStepsPerWeekLabel" : "Haftada attığın ortalama adım sayısı:",
-      "averageStepsPerWeekPlaceholder" : "Haftalık ortalama adım sayısı",
-      "deviceModel" : "Cihazının modeli:",
-      "deviceModelPlaceholder" : "Örneğin: Google Pixel 6, iPhone 13 Pro",
-      "deviceType" : "Cihazının türü:",
-      "iOSCheckbox" : "iOS (iPhone)",
-      "submitApplicationButton" : "Başvuruyu gönder",
-      "whyInviteToBeta" : "Neden betaya davet edilmelisin:",
-      "whyInviteToBetaPlaceholder" : "Kapalı betaya neden davet edilmen gerektiğini açıkla: Motivasyonun, oyun testleriyle ilgili geçmiş deneyimlerin, erişilebilirlik özelliklerine olan ihtiyaç vb."
+  "singulars": {
+    "form": {
+      "androidCheckbox": "Android",
+      "averageStepsPerWeekLabel": "Haftada attığın ortalama adım sayısı:",
+      "averageStepsPerWeekPlaceholder": "Haftalık ortalama adım sayısı",
+      "deviceModel": "Cihazının modeli:",
+      "deviceModelPlaceholder": "Örneğin: Google Pixel 6, iPhone 13 Pro",
+      "deviceType": "Cihazının türü:",
+      "iOSCheckbox": "iOS (iPhone)",
+      "submitApplicationButton": "Başvuruyu gönder",
+      "whyInviteToBeta": "Neden betaya davet edilmelisin:",
+      "whyInviteToBetaPlaceholder": "Kapalı betaya neden davet edilmen gerektiğini açıkla: Motivasyonun, oyun testleriyle ilgili geçmiş deneyimlerin, erişilebilirlik özelliklerine olan ihtiyaç vb."
     },
-    "formSubmissionPreview" : {
-      "alreadySubmittedApplicationMessage" : "Zaten bir başvurun var. İşte özeti:",
-      "androidDeviceCheckedLabel" : "Android:",
-      "applicationTextLabel" : "Başvuru metni:",
-      "averageStepsPerWeekLabel" : "Haftalık ortalama adım sayısı:",
-      "deviceModelLabel" : "Cihaz modeli:",
-      "iOSDeviceCheckedLabel" : "iOS:"
+    "formSubmissionPreview": {
+      "alreadySubmittedApplicationMessage": "Zaten bir başvurun var. İşte özeti:",
+      "androidDeviceCheckedLabel": "Android:",
+      "applicationTextLabel": "Başvuru metni:",
+      "averageStepsPerWeekLabel": "Haftalık ortalama adım sayısı:",
+      "deviceModelLabel": "Cihaz modeli:",
+      "iOSDeviceCheckedLabel": "iOS:"
     },
-    "title" : "Beta başvurusu"
+    "title": "Beta başvurusu"
   }
 }

@@ -1,26 +1,26 @@
 {
-  "plural" : {
-    "pageNumber" : {
-      "key_one" : "Sayfa 1",
-      "key_other" : "Sayfa {{count}}"
+  "plural": {
+    "pageNumber": {
+      "key_one": "Sayfa 1",
+      "key_other": "Sayfa {{count}}"
     }
   },
-  "singular" : {
-    "avatarOfPlayer" : "{{player}}'in Avatarı",
-    "filterOptions" : {
-      "agility" : "Çeviklik",
-      "carpentry" : "Marangozluk",
-      "cooking" : "Aşçılık",
-      "crafting" : "Zanaatkarlık",
-      "fishing" : "Balıkçılık",
-      "foraging" : "Toplayıcılık",
-      "mining" : "Madencilik",
-      "smithing" : "Demircilik",
-      "total_level" : "Toplam Seviye",
-      "total_steps" : "Toplam Adım",
-      "total_xp" : "Toplam TP",
-      "woodcutting" : "Odunculuk"
+  "singulars": {
+    "avatarOfPlayer": "{{player}}'in Avatarı",
+    "filterOptions": {
+      "agility": "Çeviklik",
+      "carpentry": "Marangozluk",
+      "cooking": "Aşçılık",
+      "crafting": "Zanaatkarlık",
+      "fishing": "Balıkçılık",
+      "foraging": "Toplayıcılık",
+      "mining": "Madencilik",
+      "smithing": "Demircilik",
+      "total_level": "Toplam Seviye",
+      "total_steps": "Toplam Adım",
+      "total_xp": "Toplam TP",
+      "woodcutting": "Odunculuk"
     },
-    "loading" : "Yükleniyor..."
+    "loading": "Yükleniyor..."
   }
 }

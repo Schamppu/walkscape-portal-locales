@@ -1,26 +1,26 @@
 {
-  "plural" : {
-    "pageNumber" : {
-      "key_one" : "Sida 1",
-      "key_other" : "Sida {{count}}"
+  "plural": {
+    "pageNumber": {
+      "key_one": "Sida 1",
+      "key_other": "Sida {{count}}"
     }
   },
-  "singular" : {
-    "avatarOfPlayer" : " {{player}}'s avatar",
-    "filterOptions" : {
-      "agility" : "Smidighet",
-      "carpentry" : "Snickeri",
-      "cooking" : "Matlagning",
-      "crafting" : "Hantverk",
-      "fishing" : "Fiske",
-      "foraging" : "Födosökning",
-      "mining" : "Gruvarbete",
-      "smithing" : "Smide",
-      "total_level" : "Total nivå",
-      "total_steps" : "Totalt antal steg",
-      "total_xp" : "Totalt XP",
-      "woodcutting" : "Trähugging"
+  "singulars": {
+    "avatarOfPlayer": " {{player}}'s avatar",
+    "filterOptions": {
+      "agility": "Smidighet",
+      "carpentry": "Snickeri",
+      "cooking": "Matlagning",
+      "crafting": "Hantverk",
+      "fishing": "Fiske",
+      "foraging": "Födosökning",
+      "mining": "Gruvarbete",
+      "smithing": "Smide",
+      "total_level": "Total nivå",
+      "total_steps": "Totalt antal steg",
+      "total_xp": "Totalt XP",
+      "woodcutting": "Trähugging"
     },
-    "loading" : "Laddar..."
+    "loading": "Laddar..."
   }
 }

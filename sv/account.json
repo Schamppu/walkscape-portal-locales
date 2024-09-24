@@ -1,86 +1,86 @@
 {
-  "plural" : {
-    "closedBetaStatus" : {
-      "eligibleForNextWave" : {
-        "key_one" : "Berättigad för nästa våg om cirka 1 till 2 veckor",
-        "key_other" : "Berättigad till nästa våg om cirka {{ count }} till {{ countPlusOne }} veckor",
-        "key_zero" : "Berättigad för nästa våg om mindre än en vecka"
+  "plural": {
+    "closedBetaStatus": {
+      "eligibleForNextWave": {
+        "key_one": "Berättigad för nästa våg om cirka 1 till 2 veckor",
+        "key_other": "Berättigad till nästa våg om cirka {{ count }} till {{ countPlusOne }} veckor",
+        "key_zero": "Berättigad för nästa våg om mindre än en vecka"
       }
     }
   },
-  "singular" : {
-    "accountLinking" : {
-      "codeFormFieldLabel" : "Kod mottagen via e-post",
-      "firstSupportDate" : "första stöd på {{ date }}",
-      "getCodeButton" : "Hämta kod",
-      "linkAccountButton" : "koppla konto",
-      "linkedStatus" : "Kopplad",
-      "noSubscription" : "Ingen prenumeration",
-      "notLinkedStatus" : "Ej kopplad",
-      "unlinkAction" : "Avkoppla"
+  "singulars": {
+    "accountLinking": {
+      "codeFormFieldLabel": "Kod mottagen via e-post",
+      "firstSupportDate": "första stöd på {{ date }}",
+      "getCodeButton": "Hämta kod",
+      "linkAccountButton": "koppla konto",
+      "linkedStatus": "Kopplad",
+      "noSubscription": "Ingen prenumeration",
+      "notLinkedStatus": "Ej kopplad",
+      "unlinkAction": "Avkoppla"
     },
-    "betaDownloadInfo" : {
-      "acceptTermsButton" : "Acceptera",
-      "android" : {
-        "downloadFromGooglePlay" : "När du har gått med i gruppen har du tillgång till <playStoreLink> du kan ladda ner spelet från Google Play</playStoreLink>.",
-        "instructions" : "Du använder Android. Det finns två steg för att få tillgång till betaversionen av WalkScape:",
-        "joinGoogleGroup" : "Gå med i <googleGroup>WalkScape Closed Beta Google Group</googleGroup>.",
-        "title" : "För Android-användare:"
+    "betaDownloadInfo": {
+      "acceptTermsButton": "Acceptera",
+      "android": {
+        "downloadFromGooglePlay": "När du har gått med i gruppen har du tillgång till <playStoreLink> du kan ladda ner spelet från Google Play</playStoreLink>.",
+        "instructions": "Du använder Android. Det finns två steg för att få tillgång till betaversionen av WalkScape:",
+        "joinGoogleGroup": "Gå med i <googleGroup>WalkScape Closed Beta Google Group</googleGroup>.",
+        "title": "För Android-användare:"
       },
-      "dialogTitle" : "Ladda ner spelklient",
-      "ios" : {
-        "instructions" : "Om du använder iOS <testflightLink>klicka på den här länken för att gå med i WalkScapes TestFlyg och ladda ner spelet</testflightLink>.",
-        "title" : "För iOS-användare:"
+      "dialogTitle": "Ladda ner spelklient",
+      "ios": {
+        "instructions": "Om du använder iOS <testflightLink>klicka på den här länken för att gå med i WalkScapes TestFlyg och ladda ner spelet</testflightLink>.",
+        "title": "För iOS-användare:"
       },
-      "termsOfServiceDisclaimer" : "Innan du laddar ner spelet bör du läsa igenom <tos>Tjänstevillkoren</tos> och godkänna dem."
+      "termsOfServiceDisclaimer": "Innan du laddar ner spelet bör du läsa igenom <tos>Tjänstevillkoren</tos> och godkänna dem."
     },
-    "bmac" : {
-      "emailFormFieldLabel" : "E-post som används för ditt Bmac-konto",
-      "linkTitle" : "Koppla ett Bmac-konto",
-      "statusTitle" : "Bmac:"
+    "bmac": {
+      "emailFormFieldLabel": "E-post som används för ditt Bmac-konto",
+      "linkTitle": "Koppla ett Bmac-konto",
+      "statusTitle": "Bmac:"
     },
-    "closedBetaStatus" : {
-      "applyButton" : "Ansök om beta-åtkomst",
-      "downloadButton" : "Hämta spelet",
-      "invitedStatus" : "Inbjuden",
-      "notInvited" : "Inte inbjuden",
-      "seeExistingApplication" : "Se ansökan",
-      "title" : "Sluten beta:"
+    "closedBetaStatus": {
+      "applyButton": "Ansök om beta-åtkomst",
+      "downloadButton": "Hämta spelet",
+      "invitedStatus": "Inbjuden",
+      "notInvited": "Inte inbjuden",
+      "seeExistingApplication": "Se ansökan",
+      "title": "Sluten beta:"
     },
-    "discordLink" : {
-      "linkButton" : "Koppla Discord",
-      "title" : "Discord:"
+    "discordLink": {
+      "linkButton": "Koppla Discord",
+      "title": "Discord:"
     },
-    "header" : {
-      "introduction" : "Hej {{ username }}"
+    "header": {
+      "introduction": "Hej {{ username }}"
     },
-    "passwordChange" : {
-      "changePasswordButton" : "Ändra lösenord",
-      "newPasswordLabel" : "Nytt lösenord",
-      "repeatPasswordLabel" : "Upprepa lösenord",
-      "successMessage" : "Lösenordet har ändrats",
-      "title" : "Ändra ditt lösenord"
+    "passwordChange": {
+      "changePasswordButton": "Ändra lösenord",
+      "newPasswordLabel": "Nytt lösenord",
+      "repeatPasswordLabel": "Upprepa lösenord",
+      "successMessage": "Lösenordet har ändrats",
+      "title": "Ändra ditt lösenord"
     },
-    "patreonLink" : {
-      "codeSentSuccessMessage" : "Kontrollera den angivna e-postinkorgen för valideringskoden",
-      "emailInputLabel" : "E-postadress som används för ditt Patreon-konto",
-      "linkInstructions" : "Koppla ett Patreon-konto",
-      "linkSuccessMessage" : "Patreon-konto kopplat framgångsrikt",
-      "title" : "Patreon:"
+    "patreonLink": {
+      "codeSentSuccessMessage": "Kontrollera den angivna e-postinkorgen för valideringskoden",
+      "emailInputLabel": "E-postadress som används för ditt Patreon-konto",
+      "linkInstructions": "Koppla ett Patreon-konto",
+      "linkSuccessMessage": "Patreon-konto kopplat framgångsrikt",
+      "title": "Patreon:"
     },
-    "profilePhoto" : {
-      "changeButton" : "Ändra profilbild",
-      "instructions" : "Här kan du beskära och zooma din profilbild. På mobila enheter kan du använda nyp-för-att-zooma.",
-      "saveLabel" : "Spara",
-      "saveSuccessMessage" : "Profilbilden är uppdaterad",
-      "zoomLabel" : "Zoom"
+    "profilePhoto": {
+      "changeButton": "Ändra profilbild",
+      "instructions": "Här kan du beskära och zooma din profilbild. På mobila enheter kan du använda nyp-för-att-zooma.",
+      "saveLabel": "Spara",
+      "saveSuccessMessage": "Profilbilden är uppdaterad",
+      "zoomLabel": "Zoom"
     },
-    "subscriptionStateDisclaimer" : "Det kan ta upp till 1 timme att uppdatera prenumerationsstatus.",
-    "usernameChange" : {
-      "changeUsernameButton" : "Ändra användarnamn",
-      "newUsernameLabel" : "Nytt användarnamn",
-      "successMessage" : "Användarnamn har ändras",
-      "title" : "Ändra ditt användarnamn"
+    "subscriptionStateDisclaimer": "Det kan ta upp till 1 timme att uppdatera prenumerationsstatus.",
+    "usernameChange": {
+      "changeUsernameButton": "Ändra användarnamn",
+      "newUsernameLabel": "Nytt användarnamn",
+      "successMessage": "Användarnamn har ändras",
+      "title": "Ändra ditt användarnamn"
     }
   }
 }

@@ -1,25 +1,25 @@
 {
-  "singular" : {
-    "form" : {
-      "androidCheckbox" : "Android",
-      "averageStepsPerWeekLabel" : "Genomsnittligt antal steg du tar per vecka:",
-      "averageStepsPerWeekPlaceholder" : "Genomsnittligt antal steg per vecka",
-      "deviceModel" : "Modell för din/dina enheter:",
-      "deviceModelPlaceholder" : "t.ex.: Google Pixel 6, iPhone 13 Pro",
-      "deviceType" : "Din enhets typ / Dina enheters typer.",
-      "iOSCheckbox" : "iOS (iPhone)",
-      "submitApplicationButton" : "Skicka in ansökan",
-      "whyInviteToBeta" : "Varför du bör bjudas in till betaversionen:",
-      "whyInviteToBetaPlaceholder" : "Beskriv varför du bör bjudas in till den slutna betaversionen: din motivation, din tidigare erfarenhet av speltestning, ett behov av tillgänglighetsfunktioner etc."
+  "singulars": {
+    "form": {
+      "androidCheckbox": "Android",
+      "averageStepsPerWeekLabel": "Genomsnittligt antal steg du tar per vecka:",
+      "averageStepsPerWeekPlaceholder": "Genomsnittligt antal steg per vecka",
+      "deviceModel": "Modell för din/dina enheter:",
+      "deviceModelPlaceholder": "t.ex.: Google Pixel 6, iPhone 13 Pro",
+      "deviceType": "Din enhets typ / Dina enheters typer.",
+      "iOSCheckbox": "iOS (iPhone)",
+      "submitApplicationButton": "Skicka in ansökan",
+      "whyInviteToBeta": "Varför du bör bjudas in till betaversionen:",
+      "whyInviteToBetaPlaceholder": "Beskriv varför du bör bjudas in till den slutna betaversionen: din motivation, din tidigare erfarenhet av speltestning, ett behov av tillgänglighetsfunktioner etc."
     },
-    "formSubmissionPreview" : {
-      "alreadySubmittedApplicationMessage" : "Du har redan skickat in en ansökan. Här är sammanfattningen:",
-      "androidDeviceCheckedLabel" : "Android:",
-      "applicationTextLabel" : "Ansökningstext:",
-      "averageStepsPerWeekLabel" : "Genomsnittligt antal steg per vecka:",
-      "deviceModelLabel" : "Enhetsmodell:",
-      "iOSDeviceCheckedLabel" : "iOS:"
+    "formSubmissionPreview": {
+      "alreadySubmittedApplicationMessage": "Du har redan skickat in en ansökan. Här är sammanfattningen:",
+      "androidDeviceCheckedLabel": "Android:",
+      "applicationTextLabel": "Ansökningstext:",
+      "averageStepsPerWeekLabel": "Genomsnittligt antal steg per vecka:",
+      "deviceModelLabel": "Enhetsmodell:",
+      "iOSDeviceCheckedLabel": "iOS:"
     },
-    "title" : "Beta-ansökan"
+    "title": "Beta-ansökan"
   }
 }

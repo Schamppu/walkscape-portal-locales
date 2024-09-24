@@ -1,17 +1,17 @@
 {
-  "singular" : {
-    "alreadyHaveAnAccountPrompt" : "Har du redan ett konto? Logga in",
-    "confirmPasswordFormLabel" : "Bekräfta lösenord",
-    "dontHaveAnAccountPrompt" : "Har du inget konto? Registrera dig",
-    "emailFormLabel" : "E-post",
-    "forgotPasswordLabel" : "Har du glömt lösenordet?",
-    "loginButtonLabel" : "Inloggning",
-    "loginDescription" : "Logga in med WalkScape-konto",
-    "passwordFormLabel" : "Lösenord",
-    "passwordsDontMatch" : "Lösenorden matchar inte",
-    "signUpButtonLabel" : "Registrera dig",
-    "signUpDescription" : "Registrera dig för ett WalkScape-konto",
-    "signUpLinkLabel" : "Har du inget konto? Registrera dig",
-    "usernameFormLabel" : "E-post"
+  "singulars": {
+    "alreadyHaveAnAccountPrompt": "Har du redan ett konto? Logga in",
+    "confirmPasswordFormLabel": "Bekräfta lösenord",
+    "dontHaveAnAccountPrompt": "Har du inget konto? Registrera dig",
+    "emailFormLabel": "E-post",
+    "forgotPasswordLabel": "Har du glömt lösenordet?",
+    "loginButtonLabel": "Inloggning",
+    "loginDescription": "Logga in med WalkScape-konto",
+    "passwordFormLabel": "Lösenord",
+    "passwordsDontMatch": "Lösenorden matchar inte",
+    "signUpButtonLabel": "Registrera dig",
+    "signUpDescription": "Registrera dig för ett WalkScape-konto",
+    "signUpLinkLabel": "Har du inget konto? Registrera dig",
+    "usernameFormLabel": "E-post"
   }
 }
