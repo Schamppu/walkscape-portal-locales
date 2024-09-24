@@ -109,7 +109,6 @@
       "changeButton": "Profilbild ändern",
       "instructions": "Hier kannst du dein Profilbild zuschneiden und die Größe ändern. Nutze zwei Finger um auf Mobilgeräten zu zoomen.",
       "saveLabel": "Speichern",
-      "saveSuccessMessage": "Profilbild aktualisiert",
       "zoomLabel": "Zoom"
     },
     "subscriptionStateDisclaimer": "Die Aktualisierung des Abonnementstatus kann bis zu 1 Stunde dauern.",

@@ -1,84 +1,83 @@
 {
-    "plurals": {
-        "closedBetaStatus": {
-            "eligibleForNextWave": {
-                "key_one": "Hyväksytty seuraavaan beta-aaltoon, joka alkaa noin 1-2 viikon kuluttua.",
-                "key_other": "Hyväksytty seuraavaan beta-aaltoon, joka alkaa noin {{ count }}-{{ countPlusOne }} viikon kuluttua."
-            }
-        }
-    },
-    "singulars": {
-        "accountLinking": {
-            "codeFormFieldLabel": "Sähköpostitse saatu koodi",
-            "firstSupportDate": "ensimmäinen pelin tukemismaksutapahtuma {{ date }}",
-            "getCodeButton": "Lähetä koodi",
-            "linkAccountButton": "Yhdistä tili",
-            "linkedStatus": "Linkitetty",
-            "noSubscription": "Ei tilausta",
-            "notLinkedStatus": "Ei linkitetty",
-            "unlinkAction": "Poista linkitys"
-        },
-        "betaDownloadInfo": {
-            "acceptTermsButton": "Hyväksy",
-            "android": {
-                "downloadFromGooglePlay": "Kun olet liittynyt ryhmään, voit <playStoreLink>ladata pelin Google Playsta</playStoreLink>.",
-                "instructions": "Käytät Androidia. WalkScapen beta-version lataamiseen on kaksi vaihetta:",
-                "joinGoogleGroup": "Liity <googleGroup>WalkScape Closed Beta Google-ryhmään</googleGroup>.",
-                "title": "Android-käyttäjille:"
-            },
-            "dialogTitle": "Imuroi peli",
-            "ios": {
-                "instructions": "Jos käytät iOS:ää <testflightLink>klikkaa tätä linkkiä liittyäksesi WalkScapen TestFlight-ohjelmaan ja ladataksesi pelin</testflightLink>.",
-                "title": "iOS-käyttäjille:"
-            },
-            "termsOfServiceDisclaimer": "Ennen kuin lataat pelin, lue <tos>Pelin käyttöehdot</tos> ja hyväksy ne."
-        },
-        "bmac": {
-            "emailFormFieldLabel": "BMaC-tilisi sähköpostiosoite",
-            "linkTitle": "Linkitä BMaC-tili",
-            "statusTitle": "BMaC:"
-        },
-        "closedBetaStatus": {
-            "applyButton": "Hae betaan",
-            "downloadButton": "Hanki peli",
-            "invitedStatus": "Kutsuttu",
-            "notInvited": "Ei kutsuttu",
-            "seeExistingApplication": "Katso hakemus",
-            "title": "Suljettu beta:"
-        },
-        "discordLink": {
-            "linkButton": "Linkitä Discord",
-            "title": "Discord:"
-        },
-        "header": {
-            "introduction": "Hei {{ username }}"
-        },
-        "passwordChange": {
-            "changePasswordButton": "Vaihda salasana",
-            "newPasswordLabel": "Uusi salasana",
-            "repeatPasswordLabel": "Toista salasana",
-            "title": "Vaihda salasanasi"
-        },
-        "patreonLink": {
-            "codeSentSuccessMessage": "Tarkista sähköpostisi saadaksesi vahvistuskoodin",
-            "emailInputLabel": "Patreon-tilisi sähköpostiosoite",
-            "linkInstructions": "Linkitä Patreon-tili",
-            "linkSuccessMessage": "Patreon-tili linkitetty onnistuneesti",
-            "title": "Patreon:"
-        },
-        "profilePhoto": {
-            "changeButton": "Vaihda profiilikuvaa",
-            "instructions": "Rajaa ja suurenna profiilikuvasi täällä. Mobiililaitteissa voit zoomata nipistämällä.",
-            "saveLabel": "Tallenna",
-            "saveSuccessMessage": "Profiilikuva päivitetty",
-            "zoomLabel": "Zoomaus"
-        },
-        "subscriptionStateDisclaimer": "Tilauksen tilan päivittyminen voi kestää jopa tunnin.",
-        "usernameChange": {
-            "changeUsernameButton": "Vaihda käyttäjätunnus",
-            "newUsernameLabel": "Uusi käyttäjätunnus",
-            "successMessage": "Käyttäjätunnus vaihdettu onnistuneesti",
-            "title": "Vaihda käyttäjätunnuksesi"
-        }
+  "plurals": {
+    "closedBetaStatus": {
+      "eligibleForNextWave": {
+        "key_one": "Hyväksytty seuraavaan beta-aaltoon, joka alkaa noin 1-2 viikon kuluttua.",
+        "key_other": "Hyväksytty seuraavaan beta-aaltoon, joka alkaa noin {{ count }}-{{ countPlusOne }} viikon kuluttua."
+      }
     }
+  },
+  "singulars": {
+    "accountLinking": {
+      "codeFormFieldLabel": "Sähköpostitse saatu koodi",
+      "firstSupportDate": "ensimmäinen pelin tukemismaksutapahtuma {{ date }}",
+      "getCodeButton": "Lähetä koodi",
+      "linkAccountButton": "Yhdistä tili",
+      "linkedStatus": "Linkitetty",
+      "noSubscription": "Ei tilausta",
+      "notLinkedStatus": "Ei linkitetty",
+      "unlinkAction": "Poista linkitys"
+    },
+    "betaDownloadInfo": {
+      "acceptTermsButton": "Hyväksy",
+      "android": {
+        "downloadFromGooglePlay": "Kun olet liittynyt ryhmään, voit <playStoreLink>ladata pelin Google Playsta</playStoreLink>.",
+        "instructions": "Käytät Androidia. WalkScapen beta-version lataamiseen on kaksi vaihetta:",
+        "joinGoogleGroup": "Liity <googleGroup>WalkScape Closed Beta Google-ryhmään</googleGroup>.",
+        "title": "Android-käyttäjille:"
+      },
+      "dialogTitle": "Imuroi peli",
+      "ios": {
+        "instructions": "Jos käytät iOS:ää <testflightLink>klikkaa tätä linkkiä liittyäksesi WalkScapen TestFlight-ohjelmaan ja ladataksesi pelin</testflightLink>.",
+        "title": "iOS-käyttäjille:"
+      },
+      "termsOfServiceDisclaimer": "Ennen kuin lataat pelin, lue <tos>Pelin käyttöehdot</tos> ja hyväksy ne."
+    },
+    "bmac": {
+      "emailFormFieldLabel": "BMaC-tilisi sähköpostiosoite",
+      "linkTitle": "Linkitä BMaC-tili",
+      "statusTitle": "BMaC:"
+    },
+    "closedBetaStatus": {
+      "applyButton": "Hae betaan",
+      "downloadButton": "Hanki peli",
+      "invitedStatus": "Kutsuttu",
+      "notInvited": "Ei kutsuttu",
+      "seeExistingApplication": "Katso hakemus",
+      "title": "Suljettu beta:"
+    },
+    "discordLink": {
+      "linkButton": "Linkitä Discord",
+      "title": "Discord:"
+    },
+    "header": {
+      "introduction": "Hei {{ username }}"
+    },
+    "passwordChange": {
+      "changePasswordButton": "Vaihda salasana",
+      "newPasswordLabel": "Uusi salasana",
+      "repeatPasswordLabel": "Toista salasana",
+      "title": "Vaihda salasanasi"
+    },
+    "patreonLink": {
+      "codeSentSuccessMessage": "Tarkista sähköpostisi saadaksesi vahvistuskoodin",
+      "emailInputLabel": "Patreon-tilisi sähköpostiosoite",
+      "linkInstructions": "Linkitä Patreon-tili",
+      "linkSuccessMessage": "Patreon-tili linkitetty onnistuneesti",
+      "title": "Patreon:"
+    },
+    "profilePhoto": {
+      "changeButton": "Vaihda profiilikuvaa",
+      "instructions": "Rajaa ja suurenna profiilikuvasi täällä. Mobiililaitteissa voit zoomata nipistämällä.",
+      "saveLabel": "Tallenna",
+      "zoomLabel": "Zoomaus"
+    },
+    "subscriptionStateDisclaimer": "Tilauksen tilan päivittyminen voi kestää jopa tunnin.",
+    "usernameChange": {
+      "changeUsernameButton": "Vaihda käyttäjätunnus",
+      "newUsernameLabel": "Uusi käyttäjätunnus",
+      "successMessage": "Käyttäjätunnus vaihdettu onnistuneesti",
+      "title": "Vaihda käyttäjätunnuksesi"
+    }
+  }
 }

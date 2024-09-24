@@ -114,8 +114,7 @@
       "changeButton": "Zmień zdjęcie profilowe",
       "instructions": "Przytnij i przybliż/oddal swoje zdjęcie profilowe tutaj. Możesz skorzystać z dwóch palców na urządzeniu mobilnym.",
       "zoomLabel": "Przybliż",
-      "saveLabel": "Zapisz",
-      "saveSuccessMessage": "Zdjęcie profilowe zaktualizowane"
+      "saveLabel": "Zapisz"
     },
     "usernameChange": {
       "title": "Zmień nazwę konta",

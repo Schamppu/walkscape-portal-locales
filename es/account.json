@@ -82,8 +82,7 @@
       "instructions": "Corta y ajusta tu foto de perfil aquí. En dispositivos móviles, puedes pellizcar para acercar.",
       "changeButton": "Cambiar la foto de perfil",
       "zoomLabel": "Acercar",
-      "saveLabel": "Guardar",
-      "saveSuccessMessage": "Imagen de perfil actualizada"
+      "saveLabel": "Guardar"
     },
     "meta": {
       "description": "¡Mira el perfil de {{username}}!"

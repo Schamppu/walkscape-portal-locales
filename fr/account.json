@@ -56,8 +56,7 @@
       "changeButton": "Changer la photo de profil",
       "instructions": "Recadrez et zoomez/dézoomez sur votre photo de profil ici. Vous pouvez utiliser le pincement pour zoomer sur les appareils mobiles.",
       "zoomLabel": "Zoom",
-      "saveLabel": "Enregistrer",
-      "saveSuccessMessage": "Photo de profil mise à jour"
+      "saveLabel": "Enregistrer"
     },
     "usernameChange": {
       "title": "Changer votre nom d'utilisateur",
