@@ -31,6 +31,7 @@
       "expiredToken": "Login has expired",
       "networkCode": {
         "0000": "Something went wrong",
+        "1002": "Character does not exist",
         "3000": "Username is already taken",
         "3001": "E-mail is already taken.",
         "3002": "Wrong special code",
@@ -48,6 +49,7 @@
         "3013": "Registration was unsuccessful",
         "3014": "Missing properties in the request body",
         "3015": "No data",
+        "3015-post": "Post does not exist",
         "3016": "Missing query parameters",
         "3017": "Malformatted body properties",
         "3018": "Request has expired",
@@ -58,7 +60,11 @@
         "3019-d": "Invalid username: Username must contain at least 3 non-space characters",
         "3019-e": "Invalid username: Username can only contain letters, numbers and spaces",
         "3020": "No account exists with given email",
-        "3021": "This email has already been confirmed"
+        "3021": "This email has already been confirmed",
+        "3022": "Temporary code is invalid",
+        "3023": "Invite does not exist",
+        "3024": "Bad search string",
+        "3024-a": "Search string must contain at least 3 non-special characters"
       }
     }
   }
