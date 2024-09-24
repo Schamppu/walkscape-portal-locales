@@ -1,0 +1,20 @@
+{
+    "singulars": {
+        "signUpDescription": "Regístrate para obtener una cuenta de WalkScape",
+        "loginDescription": "Inicia sesión con una cuenta de WalkScape",
+        "emailFormLabel": "Correo electrónico",
+        "usernameFormLabel": "Nombre de usuario",
+        "passwordFormLabel": "Contraseña",
+        "confirmPasswordFormLabel": "Confirma la contraseña",
+        "forgotPasswordLabel": "¿Has olvidado tu contraseña?",
+        "dontHaveAnAccountPrompt": "¿No tienes una cuenta? Regístrate",
+        "alreadyHaveAnAccountPrompt": "¿Ya tienes una cuenta? Accede",
+        "loginButtonLabel": "Iniciar sesión",
+        "signUpButtonLabel": "Registrarse",
+        "signUpLinkLabel": "¿No tienes una cuenta? Regístrate",
+        "passwordsDontMatch": "Las contraseñas no coinciden",
+        "signup": {
+            "special": "Regístrate para obtener una cuenta de WalkScape con acceso especial a la beta"
+        }
+    }
+}

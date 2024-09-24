@@ -1,0 +1,84 @@
+{
+    "singulars": {
+        "characters": "Personajes",
+        "userActions": {
+            "sendInvite": "Enviar invitación de amistad",
+            "viewInvite": "Ver invitación",
+            "viewProfile": "Ver perfil",
+            "cancelInvite": "Cancelar invitación",
+            "removeFriend": "Eliminar amigo",
+            "unblock": "Desbloquear usuario",
+            "block": "Bloquear usuario",
+            "share": "Compartir perfil"
+        },
+        "dialogs": {
+            "cancelInvite": {
+                "description": "¿Estás seguro de que deseas cancelar esta invitación de amistad?",
+                "confirm": "Sí, cancelar invitación"
+            },
+            "unblock": {
+                "description": "¿Estás seguro de que deseas desbloquear a este usuario?",
+                "confirm": "Sí, desbloquear usuario"
+            },
+            "delete": {
+                "message": "Esta acción no se puede deshacer. Esto eliminará permanentemente {{ type }}.",
+                "title": "¿Estás completamente seguro?",
+                "confirmButton": "Sí, eliminar {{ type }}",
+                "cancelButton": "Cancelar"
+            },
+            "removeFriend": {
+                "description": "¿Estás seguro de que deseas eliminar a este amigo?",
+                "confirm": "Sí, eliminar amigo"
+            },
+            "block": {
+                "description": "¿Estás seguro de que deseas bloquear a este usuario? Los usuarios bloqueados no podrán enviarte nuevas invitaciones.",
+                "confirm": "Sí, bloquear usuario"
+            }
+        },
+        "resetPassword": {
+            "instructions": "Para restablecer tu contraseña, introduce el correo electrónico y pulsa en restablecer contraseña. Recibirás un correo electrónico con un enlace, el cual te llevará a la pagina donde podrás definir una nueva contraseña.",
+            "emailInputLabel": "Correo electrónico",
+            "button": "Restablecer contraseña"
+        },
+        "searchBarPlaceholder": "Buscar…",
+        "commentSubmission": {
+            "displayPreviewCheckbox": "Mostrar vista previa",
+            "previewLabel": "Vista previa:",
+            "commentPlaceholder": "Escribe aquí tu comentario",
+            "submitButton": "Publicar comentario",
+            "editSaveButton": "Guardar",
+            "editCancelButton": "Cancelar"
+        },
+        "badges": {
+            "beta": "Beta",
+            "blocked": "Bloqueado",
+            "inviteReceived": "Invitación recibida",
+            "inviteSent": "Invitación enviada",
+            "friends": "Amigos"
+        },
+        "invite": {
+            "accept": "Aceptar",
+            "reject": "Rechazar",
+            "block": "Bloquear"
+        },
+        "posts": {
+            "newPostButton": "Nueva publicación",
+            "new": {
+                "titleLabel": "Título",
+                "descriptionLabel": "Descripción",
+                "displayPreviewButton": "Mostrar vista previa",
+                "previewLabel": "Vista previa:",
+                "postContentPlaceholder": "Escribe aquí tu publicación",
+                "addPostButton": "Añadir publicación"
+            },
+            "scheduled": "programado"
+        }
+    },
+    "plurals": {
+        "comments": {
+            "commentCount_one": "1 comentario",
+            "commentCount_many": "{{count}} de comentarios",
+            "commentCount_other": "{{count}} comentarios"
+        }
+    }
+}

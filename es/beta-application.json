@@ -1,0 +1,28 @@
+{
+    "singulars": {
+        "title": "Solicitud de participación en la Beta",
+        "formSubmissionPreview": {
+            "alreadySubmittedApplicationMessage": "Ya has enviado una solicitud. Este es el resumen:",
+            "deviceModelLabel": "Modelo de dispositivo:",
+            "averageStepsPerWeekLabel": "Media de pasos por semana:",
+            "androidDeviceCheckedLabel": "Android:",
+            "iOSDeviceCheckedLabel": "iOS:",
+            "applicationTextLabel": "Texto de solicitud:"
+        },
+        "form": {
+            "deviceType": "Tu tipo de dispositivo/s:",
+            "iOSCheckbox": "iOS (iPhone)",
+            "androidCheckbox": "Android",
+            "deviceModel": "El modelo de tu dispositivo/s:",
+            "deviceModelPlaceholder": "ej. Google Pixel 6, iPhone 13 Pro",
+            "averageStepsPerWeekLabel": "Promedio de pasos que andas por semana:",
+            "averageStepsPerWeekPlaceholder": "Promedio de pasos por semana",
+            "whyInviteToBeta": "¿Por qué deberías de ser invitado a la beta?:",
+            "whyInviteToBetaPlaceholder": "Describe las razones por las que deberías de ser invitado a la beta cerrada: tus motivaciones, posible experiencia previa con pruebas de videojuegos, necesidades de accesibilidad, etc.",
+            "submitApplicationButton": "Enviar solicitud"
+        },
+        "landing": {
+            "title": "!Enhorabuena por registrarte en WalkScape!"
+        }
+    }
+}

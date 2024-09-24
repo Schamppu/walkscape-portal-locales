@@ -1,26 +1,43 @@
 {
-  "plurals": {
-    "pageNumber": {
-      "key_one": "Pagina 1",
-      "key_other": "Pagina {{count}}"
-    }
-  },
-  "singulars": {
-    "avatarOfPlayer": "Avatar di {{player}}",
-    "filterOptions": {
-      "agility": "Agilità",
-      "carpentry": "Falegnameria",
-      "cooking": "Cucina",
-      "crafting": "Creazione",
-      "fishing": "Pesca",
-      "foraging": "Ricerca di ingredienti",
-      "mining": "Estrazione mineraria",
-      "smithing": "Forgiatura",
-      "total_level": "Livello Totale",
-      "total_steps": "Passi Totali",
-      "total_xp": "Esperienza Totale",
-      "woodcutting": "Taglio alberi"
+    "plurals": {
+        "pageNumber": {
+            "key_one": "Pagina 1",
+            "key_many": "-",
+            "key_other": "Pagina {{count}}"
+        }
     },
-    "loading": "Caricamento..."
-  }
+    "singulars": {
+        "avatarOfPlayer": "Avatar di {{player}}",
+        "filterOptions": {
+            "agility": "Agilità",
+            "carpentry": "Falegnameria",
+            "cooking": "Cucina",
+            "crafting": "Creazione",
+            "fishing": "Pesca",
+            "foraging": "Ricerca di materiali",
+            "mining": "Estrazione mineraria",
+            "smithing": "Forgiatura",
+            "total_level": "Livello Totale",
+            "total_steps": "Passi Totali",
+            "total_xp": "Esperienza Totale",
+            "woodcutting": "Taglio alberi",
+            "short": {
+                "cooking": "CUC",
+                "smithing": "FRG",
+                "carpentry": "FAL",
+                "woodcutting": "TGL",
+                "agility": "AGI",
+                "fishing": "PSC",
+                "crafting": "CRZ",
+                "foraging": "RDM",
+                "mining": "MIN"
+            },
+            "achievement_points": "Punti Trofeo"
+        },
+        "loading": "Caricamento...",
+        "filters": {
+            "friends": "Amici",
+            "all": "Tutto"
+        }
+    }
 }

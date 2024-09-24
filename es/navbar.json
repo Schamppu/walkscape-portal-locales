@@ -1,0 +1,28 @@
+{
+    "singulars": {
+        "login": "Iniciar sesión",
+        "betaVersion": "Beta 0.1.0",
+        "links": {
+            "home": "Inicio",
+            "devblogs": "Devblogs",
+            "feedbackAndIdeas": "Comentarios e Ideas",
+            "generalDiscussion": "Conversación general",
+            "bugReports": "Reporte de errores",
+            "leaderboards": "Tablas de clasificación",
+            "users": "Usuarios",
+            "discord": "Discord"
+        },
+        "signUp": "Registrarse",
+        "title": "Portal de WalkScape",
+        "avatarActions": {
+            "account": "Cuenta",
+            "friends": "Amigos",
+            "logout": "Cerrar sesión",
+            "profile": "Perfil"
+        },
+        "notifications": {
+            "friend_invite": "¡<0>{{username}}</0> quiere ser tu amigo!",
+            "friend_invite_response": "¡<0>{{username}}</0> ha aceptado tu invitación de amistad!"
+        }
+    }
+}

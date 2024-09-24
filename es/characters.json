@@ -1,0 +1,19 @@
+{
+    "singulars": {
+        "meta": {
+            "description": "{{characterName}} (nivel total {{totalLevel}}) ha caminado {{totalSteps}} pasos y ganado {{totalXp}} EXP"
+        },
+        "title": "Personajes",
+        "settings": {
+            "title": "Opciones del personaje",
+            "anonOnLeaderboard": {
+                "label": "Anonimizar en las tablas de clasificación",
+                "tip": "Al habilitar, reemplaza el nombre del personaje por \"Caminante Anónimo\" en las tablas de clasificación. Nota: si la visibilidad de tu perfil está configurada como \"Solo amigos\", entonces tu amigos podrán ver el nombre de tu personaje, sin importar esta opción."
+            },
+            "hideSteps": {
+                "label": "Ocultar pasos",
+                "tip": "Al habilitar, oculta el número total de pasos de este personaje a todos los demás usuarios. Este personaje estará oculto en las tablas de clasificación del total de pasos."
+            }
+        }
+    }
+}

@@ -1,0 +1,153 @@
+{
+  "singulars": {
+    "discordLink": {
+      "success": "¡Discord vinculado con éxito!",
+      "linkButton": "Vincular Discord",
+      "relogin": "Por favor <0>inicia sesión</0> de nuevo",
+      "title": "Discord:",
+      "joinDiscord": "Unirse a Discord",
+      "inProgress": "Vinculando Discord...",
+      "failed": "No se pudo vincular Discord. Por favor inténtalo de nuevo más tarde."
+    },
+    "patreonLink": {
+      "recommendation": "Te recomendamos vincular las cuentas accediendo con Patreon. Si eso no funciona, intenta conectarte usando el formulario que sigue.",
+      "linkInstructions": "Vincular una cuenta de Patreon",
+      "codeSentSuccessMessage": "Comprueba el correo electrónico introducido para la validación del codigo",
+      "success": {
+        "body": "El acceso al juego se habilita por oleadas. Si una oleada está en curso, puedes descargar el juego inmediatamente desde tu página de Cuenta. En cualquier caso, te notificaremos por correo electrónico cuando el acceso sea concedido.",
+        "title": "¡Patreon vinculado con éxito!"
+      },
+      "title": "Patreon:",
+      "login": "Inicia sesión con Patreon",
+      "emailInputLabel": "Correo electrónico utilizado en tu cuenta de Patreon",
+      "linkSuccessMessage": "Cuenta de Patreon vinculada con éxito",
+      "return": "Volver a la página de Cuenta",
+      "inProgress": "Vinculando Patreon...",
+      "failed": "No se pudo vincular la cuenta de Patreon. Por favor inténtalo de nuevo más tarde."
+    },
+    "thankYou": {
+      "body-1": "Tu nuevo estado de apoyo debería ser visible inmediatamente en tu página de cuenta, aunque en algunas situaciones podría tardar unas dos horas en sincronizarse completamente. En ese caso, recibirás un correo electrónico cuando tu estado cambie o cuando seas aceptado en la beta.",
+      "title": "¡Gracias por tu apoyo!",
+      "body-2": "Si no recibieras un correo electrónico en unas horas, comprueba que la dirección de correo electrónico introducida es la misma utilizada en las cuentas de Patreon o Buy me a Coffee, y vuelve a vincularla.",
+      "body-3": "¡Gracias!",
+      "understand": "Entiendo"
+    },
+    "betaDownloadInfo": {
+      "gameRules": {
+        "2": {
+          "description": "Esperamos un solo jugador por cuenta y por dispositivo. No compartas tu dispositivo o cuenta con ninguna otra persona. El uso de emuladores o jugar en multiples dispositivos a la vez no está permitido. No tengas multiples instancias del juego corriendo a la vez en el mismo dispositivo.",
+          "title": "1 dispositivo = 1 cuenta = 1 persona"
+        },
+        "3": {
+          "description": "No compartas o promuevas el uso de trucos o abusos técnicos con otros jugadores. Si encuentras problemas serios o abusos técnicos en el juego, comunícaselo al equipo a través de los canales oficiales, o contactando directamente a algún miembro del equipo.",
+          "title": "Reportar abusos técnicos y mal comportamiento"
+        },
+        "1": {
+          "description": "En WalkScape, los pasos se generan al andar con tus piernas. Nos oponemos firmemente a cualquier otro método para generar pasos, y te desanimamos a que promuevas un comportamiento incorrecto en nuestra comunidad (Reddit, Portal, Discord). Las únicas excepciones son aquellas situaciones en las que las piernas se muevan de forma natural, y por tanto contando como pasos (por ejemplo, ciclismo), pero siempre y cuando la tasa de pasos sea lo suficientemente pequeña como para no ser abusada.",
+          "title": "Solo pasos reales"
+        },
+        "5": {
+          "description": "WalkScape es un juego social, jugado en un mundo virtual, pero con gente real. Esperamos que todos los Caminantes traten a los demás con respeto, tanto dentro del juego como en las redes sociales o en la vida real. Todas las formas de acoso y discriminación están terminantemente prohibidas.",
+          "title": "Juega limpio :)"
+        },
+        "4": {
+          "title": "Solo distribuciones oficiales",
+          "description": "Solo juega a versiones distribuidas a través de los canales oficiales. No intentes crear tus propios paquetes, compilaciones o distribuciones del juego, o descargar o compartir compilaciones no oficiales distribuidas por otras personas."
+        }
+      },
+      "android": {
+        "downloadFromGooglePlay": "Después de unirte al grupo, tendrás acceso a la <playStoreLink>descarga del juego desde Google Play</playStoreLink>.",
+        "title": "Para usuarios de Android:",
+        "instructions": "Estás usando Android. Hay dos pasos para obtener el acceso a la version Beta de WalkScape:",
+        "joinGoogleGroup": "Únete al <googleGroup>Grupo de la Beta cerrada de WalkScape</googleGroup>."
+      },
+      "dialogTitle": "Descargar el cliente de juego",
+      "termsOfServiceDisclaimer": "Pulsando 'Aceptar', estás de acuerdo en seguir nuestros <tos>Términos de Servicio</tos> y nuestras Reglas de Juego.",
+      "acceptTermsButton": "Aceptar",
+      "ios": {
+        "title": "Para usuarios de iOS:",
+        "instructions": "Si estás usando iOS, <testflightLink>pulsa en este enlace para unirte al TestFlight de WalkScape y descargar el juego</testflightLink>."
+      }
+    },
+    "sections": {
+      "friendInvites": "Invitaciones de amistad pendientes",
+      "friends": "Amigos"
+    },
+    "bmac": {
+      "emailFormFieldLabel": "Correo electrónico utilizado en tu cuenta de Bmac",
+      "statusTitle": "Bmac:",
+      "linkTitle": "Vincular una cuenta Bmac"
+    },
+    "profilePhoto": {
+      "instructions": "Corta y ajusta tu foto de perfil aquí. En dispositivos móviles, puedes pellizcar para acercar.",
+      "changeButton": "Cambiar la foto de perfil",
+      "zoomLabel": "Acercar",
+      "saveLabel": "Guardar",
+      "saveSuccessMessage": "Imagen de perfil actualizada"
+    },
+    "meta": {
+      "description": "¡Mira el perfil de {{username}}!"
+    },
+    "general": {
+      "joinedOn": "Se unió:",
+      "seeFull": "Ver perfil completo"
+    },
+    "privacy": {
+      "title": "Opciones de privacidad",
+      "profileVisibility": "Visibilidad del perfil",
+      "private": "Privado",
+      "friends": "Solo amigos",
+      "public": "Público"
+    },
+    "accountLinking": {
+      "getCodeButton": "Conseguir código",
+      "codeFormFieldLabel": "Código recibido por correo electrónico",
+      "firstSupportDate": "primer apoyo el {{ date }}",
+      "unlinkAction": "Desvincular",
+      "linkAccountButton": "Vincular cuenta",
+      "notLinkedStatus": "No vinculada",
+      "linkedStatus": "Vinculada",
+      "noSubscription": "Sin suscripción"
+    },
+    "header": {
+      "introduction": "Hola {{ username }}"
+    },
+    "closedBetaStatus": {
+      "title": "Beta cerrada:",
+      "invitedStatus": "Invitado",
+      "notInvited": "No invitado",
+      "applyButton": "Solicitar acceso a la beta",
+      "seeExistingApplication": "Ver solicitud",
+      "downloadButton": "Conseguir el juego",
+      "eligibleForNextWave": "Elegible para la siguiente oleada"
+    },
+    "usernameChange": {
+      "title": "Cambiar tu nombre de usuario",
+      "newUsernameLabel": "Nuevo nombre de usuario",
+      "changeUsernameButton": "Cambiar nombre de usuario",
+      "successMessage": "Nombre de usuario cambiado con éxito"
+    },
+    "passwordChange": {
+      "title": "Cambiar tu contraseña",
+      "newPasswordLabel": "Nueva contraseña",
+      "repeatPasswordLabel": "Repetir contraseña",
+      "changePasswordButton": "Cambiar contraseña",
+      "prompt": "¡Por favor actualiza tu contraseña!",
+      "unauthenticated": "Requiere autenticación"
+    },
+    "users": {
+      "enterSearch": "Introducir el término de búsqueda",
+      "found": "{{countStr}} usuarios encontrados"
+    },
+    "subscriptionStateDisclaimer": "El estado de la suscripción puede tardar hasta una hora en actualizarse."
+  },
+  "plurals": {
+    "closedBetaStatus": {
+      "eligibleForNextWave": {
+        "key_one": "Elegible para la siguiente oleada en aproximadamente 1 a 2 semanas",
+        "key_many": "Elegible para la siguiente oleada en aproximadamente {{ count }} a {{ countPlusOne }} de semanas",
+        "key_other": "Elegible para la siguiente oleada en aproximadamente {{ count }} a {{ countPlusOne }} semanas"
+      }
+    }
+  }
+}

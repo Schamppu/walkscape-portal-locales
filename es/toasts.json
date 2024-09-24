@@ -1,0 +1,23 @@
+{
+    "singulars": {
+        "success": {
+            "signedUpSuccessfully": "Registrado con éxito. Asegúrate de que compruebas tu correo electrónico: deberías de recibir un correo de verificación con un enlace, el cual tendrás que pulsar para confirmar tu dirección de correo electrónico.",
+            "loggedInSuccesssfully": "Sesión iniciada con éxito.",
+            "passwordResetSent": "Correo electrónico para restaurar la contraseña enviado",
+            "passwordChange": "Contraseña cambiada con éxito",
+            "bmacCheckForValidationCode": "Comprueba el código de validación en el correo electrónico introducido",
+            "accountLinkedSuccessfully": "Cuenta de Bmac vinculada con éxito",
+            "loggedOut": "Desconectado con éxito",
+            "friendInvites": {
+                "accept": "Invitación de amistad aceptada",
+                "reject": "Invitación de amistad eliminada",
+                "block": "Usuario bloqueado"
+            }
+        },
+        "error": {
+            "passwordReset": "No se pudo enviar el correo electrónico de recuperación",
+            "passwordChange": "Error al actualizar la contraseña",
+            "genericError": "Algo salió mal."
+        }
+    }
+}
