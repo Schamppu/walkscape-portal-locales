@@ -15,6 +15,9 @@
       "editSaveButton": "Save",
       "editCancelButton": "Cancel"
     },
+    "buttons": {
+      "ok": "OK"
+    },
     "userActions": {
       "viewInvite": "View invite",
       "viewProfile": "View profile",
