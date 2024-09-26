@@ -1,27 +1,27 @@
 {
-  "plurals": {
-    "statsSection": {
-      "betaTesters": {
-        "key_one": "Näistä <b>1 käyttäjä</b> on beta-testaaja.",
-        "key_other": "Näistä <b>{{count}} käyttäjää</b> ovat beta-testaajia."
-      },
-      "registeredUsers": {
-        "key_one": "Tähän mennessä <b>1 käyttäjä</b> on rekisteröitynyt.",
-        "key_other": "Tähän mennessä <b>{{count}} käyttäjää</b> on rekisteröitynyt."
-      }
+    "plurals": {
+        "statsSection": {
+            "betaTesters": {
+                "key_one": "Näistä <b>1 käyttäjä</b> on beta-testaaja.",
+                "key_other": "Näistä <b>{{count}} käyttäjää</b> ovat beta-testaajia."
+            },
+            "registeredUsers": {
+                "key_one": "Tähän mennessä <b>1 käyttäjä</b> on rekisteröitynyt.",
+                "key_other": "Tähän mennessä <b>{{count}} käyttäjää</b> on rekisteröitynyt."
+            }
+        }
+    },
+    "singulars": {
+        "infoSection": {
+            "betaLinking": "Jos tuet meitä tai olet tukenut meitä jossain vaiheessa <patreonLink>Patreon</patreonLink> tai <bmacLink>Buy me a Coffee</bmacLink> -palvelussa, voit yhdistää tilisi näihin palveluihin Tili-sivulla. Muista, että kutsuja jaetaan aalloittain, ja ensimmäinen suljettu beta-aalto on jo täynnä. Toinen suljettu beta-aalto on tulossa muutaman viikon kuluttua betan julkaisun jälkeen.",
+            "closedBetaAccess": "Suljettu beta julkaistaan 18. tammikuuta 2024. Voit varmistaa pääsyn suljettuun betaan tukemalla peliä <patreonLink>Patreon</patreonLink> tai <bmacLink>Buy Me A Coffee</bmacLink> -sivustolla tai hakemalla suljettuun betaan hakemuslomakkeella (löydät hakemuspainikkeen tilisivultasi).",
+            "title": "Tärkeää tietoa suljetusta betasta"
+        },
+        "linkToSite": "WalkScape Portal on <wsSite>WalkScape</wsSite>-peliin liittyvä sosiaalinen portaali.",
+        "statsSection": {
+            "title": "Hauskoja tilastoja:"
+        },
+        "welcomeMessage": "Tervetuloa WalkScape Portaliin",
+        "systemMessages": ""
     }
-  },
-  "singulars": {
-    "infoSection": {
-      "betaLinking": "Jos tuet meitä tai olet tukenut meitä jossain vaiheessa <patreonLink>Patreon</patreonLink> tai <bmacLink>Buy me a Coffee</bmacLink> -palvelussa, voit yhdistää tilisi näihin palveluihin Tili-sivulla. Muista, että kutsuja jaetaan aalloittain, ja ensimmäinen suljettu beta-aalto on jo täynnä. Toinen suljettu beta-aalto on tulossa muutaman viikon kuluttua betan julkaisun jälkeen.",
-      "closedBetaAccess": "Suljettu beta julkaistaan 18. tammikuuta 2024. Voit varmistaa pääsyn suljettuun betaan tukemalla peliä <patreonLink>Patreon</patreonLink> tai <bmacLink>Buy Me A Coffee</bmacLink> -sivustolla tai hakemalla suljettuun betaan hakemuslomakkeella (löydät hakemuspainikkeen tilisivultasi).",
-      "title": "Tärkeää tietoa suljetusta betasta"
-    },
-    "linkToSite": "WalkScape Portal on <wsSite>WalkScape</wsSite>-peliin liittyvä sosiaalinen portaali.",
-    "statsSection": {
-      "title": "Hauskoja tilastoja:"
-    },
-    "welcomeMessage": "Tervetuloa WalkScape Portaliin",
-    "systemMessages": ""
-  }
 }
