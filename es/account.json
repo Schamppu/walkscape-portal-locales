@@ -53,7 +53,8 @@
         "4": {
           "title": "Solo distribuciones oficiales",
           "description": "Solo juega a versiones distribuidas a través de los canales oficiales. No intentes crear tus propios paquetes, compilaciones o distribuciones del juego, o descargar o compartir compilaciones no oficiales distribuidas por otras personas."
-        }
+        },
+        "title": "Reglas del juego"
       },
       "android": {
         "downloadFromGooglePlay": "Después de unirte al grupo, tendrás acceso a la <playStoreLink>descarga del juego desde Google Play</playStoreLink>.",
@@ -118,7 +119,8 @@
       "applyButton": "Solicitar acceso a la beta",
       "seeExistingApplication": "Ver solicitud",
       "downloadButton": "Conseguir el juego",
-      "eligibleForNextWave": "Elegible para la siguiente oleada"
+      "eligibleForNextWave": "Elegible para la siguiente oleada",
+      "accessUntil": "Acceso hasta {{dateString}}"
     },
     "usernameChange": {
       "title": "Cambiar tu nombre de usuario",
