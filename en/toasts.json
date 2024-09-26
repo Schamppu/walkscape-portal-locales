@@ -32,6 +32,8 @@
       "networkCode": {
         "0000": "Something went wrong",
         "1002": "Character does not exist",
+        "2002": "No permission",
+        "2002-banned": "This account has been banned from WalkScape. To appeal this decision, contact support contact@walkscape.app.",
         "3000": "Username is already taken",
         "3001": "E-mail is already taken.",
         "3002": "Wrong special code",
