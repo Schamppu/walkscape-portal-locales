@@ -6,7 +6,7 @@
         "infoSection": {
             "title": "Información importante relacionada con la Beta cerrada",
             "closedBetaAccess": "La prueba de la Beta cerrada está en progreso, y aceptamos regularmente oleadas de nuevos jugadores.",
-            "betaLinking": "Si nos estás apoyando (o nos has apoyado en algún momento) a través de <patreonLink>Patreon</patreonLink> o <bmacLink>Buy Me A Coffee</bmacLink>, tienes acceso garantizado al juego cuando comience una nueva oleada de pruebas. Para ello, necesitas enlazar tu cuenta del Portal de WalkScape con esos servicios (opción dentro de la sección \"Cuenta\"). También puedes enviarnos una solicitud de acceso, para tener una oportunidad de ser aceptado en la siguiente oleada, incluso si no nos apoyas a través de los mencionados servicios."
+            "betaLinking": "Si nos estás apoyando (o nos has apoyado en algún momento) a través de <patreonLink>Patreon</patreonLink> o <bmacLink>Buy Me A Coffee</bmacLink>, tienes acceso garantizado al juego cuando comience una nueva oleada de pruebas. Para ello, necesitas enlazar tu cuenta del Portal de WalkScape con esos servicios, dentro de la sección <accountLink>Cuenta</accountLink>. También puedes enviarnos una solicitud de acceso, para tener una oportunidad de ser aceptado en la siguiente oleada, incluso si no nos apoyas a través de los mencionados servicios."
         },
         "statsSection": {
             "title": "Algunas estadísticas graciosas:"
