@@ -72,6 +72,9 @@
                 "addPostButton": "Añadir publicación"
             },
             "scheduled": "programado"
+        },
+        "buttons": {
+            "ok": "OK"
         }
     },
     "plurals": {
