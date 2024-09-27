@@ -46,7 +46,7 @@
         "3009": "Could not download image",
         "3010": "Login unsuccessful",
         "3010-a": "Email has not been verified. Please check your inbox.",
-        "3011": "Invalid credentials. Please make sure you are using the correct email and password.",
+        "3011": "Invalid credentials. Please make sure you are using the correct email/username and password.",
         "3012": "Incorrect character name",
         "3013": "Registration was unsuccessful",
         "3014": "Missing properties in the request body",
