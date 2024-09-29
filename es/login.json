@@ -15,6 +15,17 @@
         "passwordsDontMatch": "Las contraseñas no coinciden",
         "signup": {
             "special": "Regístrate para obtener una cuenta de WalkScape con acceso especial a la beta"
-        }
+        },
+        "verificationFix": {
+            "1": "Si copiaste el link desde el correo, comprueba que se haya pegado completamente.",
+            "2": "Solicita un nuevo correo de verificación usando el siguiente formulario.",
+            "3": "Contacta nuestro soporte, en <0>contact@walkscape.app</0>"
+        },
+        "resendButtonLabel": "Reenviar correo",
+        "missingConfirmation": "Esta dirección de correo electrónico aún no ha sido verificada. Asegúrate de comprobar la bandeja de entrada y carpeta de correo basura, o solicita un nuevo correo de verificación pulsando <0>aquí</0>.",
+        "verificationComplete": "¡Dirección de correo electrónico verificada con éxito! Pulsa <0>aquí</0> para volver a la página principal.",
+        "verificationFailure": "Algo ha salido mal en el proceso de verificación de correo electrónico. Para solucionarlo, puedes probar lo siguiente:",
+        "accessCodeFormLabel": "Código de acceso",
+        "emailOrUsernameFormLabel": "Correo electrónico o nombre de usuario"
     }
 }
