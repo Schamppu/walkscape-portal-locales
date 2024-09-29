@@ -12,12 +12,44 @@
                 "accept": "Invitación de amistad aceptada",
                 "reject": "Invitación de amistad eliminada",
                 "block": "Usuario bloqueado"
+            },
+            "resentSuccessfully": "Correo de verificación reenviado con éxito",
+            "avatarUpload": "Imagen de perfil actualizada. Los cambios pueden no reflejarse inmediatamente.",
+            "posts": {
+                "delete": "Publicación eliminada",
+                "edit": "Publicación actualizada"
+            },
+            "comments": {
+                "delete": "Comentario eliminado",
+                "edit": "Comentario actualizado"
             }
         },
         "error": {
             "passwordReset": "No se pudo enviar el correo electrónico de recuperación",
             "passwordChange": "Error al actualizar la contraseña",
-            "genericError": "Algo salió mal."
+            "genericError": "Algo salió mal.",
+            "networkCode": {
+                "3003": "La sesión ha expirado",
+                "0000": "Algo ha salido mal",
+                "1002": "El personaje no existe",
+                "3000": "Este nombre de usuario ya está en uso",
+                "3001": "Este correo electrónico ya está en uso.",
+                "3002": "Código especial erroneo",
+                "3004": "Sesión no válida",
+                "3005": "No existe ningún personaje",
+                "2002": "Sin permisos",
+                "2002-banned": "Esta cuenta ha sido bloqueada por WalkScape. Para apelar esta decision, contacta nuestro soporte en contact@walkscape.app.",
+                "3006": "Error al eliminar el personaje",
+                "3007": "No se ha podido guardar",
+                "3008": "No se ha podido publicar",
+                "3009": "No se ha podido descargar la imagen",
+                "3010-a": "El correo electrónico no ha sido verificado. Por favor comprueba la bandeja de entrada.",
+                "3012": "Nombre de personaje incorrecto",
+                "3013": "Registro sin éxito",
+                "3011": "Credenciales inválidas. Por favor asegúrate de que estás usando el correo electrónico/nombre de usuario y contraseña correctas.",
+                "3010": "Error al iniciar la sesión"
+            },
+            "expiredToken": "El inicio de sesión ha caducado"
         }
     }
 }
