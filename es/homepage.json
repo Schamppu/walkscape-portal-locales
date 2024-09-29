@@ -10,6 +10,10 @@
         },
         "statsSection": {
             "title": "Algunas estadísticas graciosas:"
+        },
+        "newUser": {
+            "title": "¡Bienvenido, {{username}}!",
+            "description": "¡Gracias por registrarte en WalkScape! Para finalizar la creación de tu cuenta, dirígete a la <accountLink>página de Cuenta</accountLink> y vincula tu cuenta de Patreon/Buy Me a Coffee, o envía una solicitud para unirte a la Beta cerrada. Feliz andadura, y ¡recuerda mantenerte hidratado!"
         }
     },
     "plurals": {
