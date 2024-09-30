@@ -10,6 +10,7 @@
       "accountLinkedSuccessfully": "Bmac account linked successfully",
       "loggedOut": "Logged out successfully",
       "avatarUpload": "Profile picture updated. Sometimes changes take a while to appear.",
+      "discordLink": "Discord successfully linked",
       "claimCode": {
         "withLogin": "Code successfully claimed",
         "withoutLogin": "Code successfully claimed. Please login to download game."
