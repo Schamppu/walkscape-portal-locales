@@ -15,6 +15,27 @@
         "usernameFormLabel": "Nome utente",
         "signup": {
             "special": "Registra un account WalkScape con accesso speciale alla beta"
+        },
+        "missingConfirmation": "Questo indirizzo email non è ancora stato verificato. Assicurati di controllare la posta in arrivo e le cartelle spam, altrimenti richiedi una nuova email di verifica cliccando <0>qui</0>.",
+        "verificationComplete": "Indirizzo email verificato con successo! Clicca <0>qui</0> per tornare alla pagina principale.",
+        "verificationFix": {
+            "1": "Se hai copiato il link direttamente dall'email, assicurati che sia stato incollato per intero.",
+            "2": "Richiedi una nuova email di verifica compilando il modulo sottostante.",
+            "3": "Contatta la nostra assistenza all'indirizzo <0>contact@walkscape.app</0>"
+        },
+        "resendButtonLabel": "Rinvia email",
+        "verificationFailure": "Qualcosa è andato storto durante il processo di verifica dell'email. Per risolvere il problema, puoi provare a seguire i seguenti passaggi:",
+        "emailOrUsernameFormLabel": "Email o nome utente",
+        "accessCodeFormLabel": "Codice di accesso",
+        "claimCode": {
+            "button": "Riscatta codice",
+            "title": "Riscatta codice speciale"
+        },
+        "special": {
+            "createToggle": "Crea nuovo profilo",
+            "createTooltip": "Selezionando la voce, puoi scegliere di riscattare il codice speciale su un nuovo account o su uno già esistente.",
+            "alreadyHasBeta": "Gli utenti con accesso alla beta non possono richiedere l'accesso temporaneo.",
+            "alreadyClaimed": "Questo profilo ha già riscattato l'accesso temporaneo. Un profilo può riscattare solo un codice per l'accesso temporaneo."
         }
     }
 }
