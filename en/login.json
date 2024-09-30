@@ -18,6 +18,13 @@
     "missingConfirmation": "This email address has not yet been verified. Make sure to check your inbox and spam folders, or request a new verification email by clicking <0>here</0>.",
     "verificationComplete": "Email address successfully verified! Click <0>here</0> to return to the home page.",
     "verificationFailure": "Something went wrong with the email verification process. To fix the issue, you can try the following steps:",
+    "claimCode": { "title": "Claim special code", "button": "Claim code" },
+    "special": {
+      "alreadyHasBeta": "Users with beta access cannot apply for temporary access.",
+      "alreadyClaimed": "This account has already claimed temporary access. An account can only claim a temporary access code.",
+      "createToggle": "Create new account",
+      "createTooltip": "By toggling the selection, you can choose to claim the special code on a new or existing account."
+    },
     "verificationFix": {
       "1": "If you copied the link from the email, make sure it was pasted in its entirety.",
       "2": "Request a new verification email using the form below.",

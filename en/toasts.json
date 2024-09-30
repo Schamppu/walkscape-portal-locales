@@ -10,6 +10,10 @@
       "accountLinkedSuccessfully": "Bmac account linked successfully",
       "loggedOut": "Logged out successfully",
       "avatarUpload": "Profile picture updated. Sometimes changes take a while to appear.",
+      "claimCode": {
+        "withLogin": "Code successfully claimed",
+        "withoutLogin": "Code successfully claimed. Please login to download game."
+      },
       "posts": {
         "delete": "Post deleted",
         "edit": "Post updated"
@@ -66,7 +70,10 @@
         "3022": "Temporary code is invalid",
         "3023": "Invite does not exist",
         "3024": "Bad search string",
-        "3024-a": "Search string must contain at least 3 non-special characters"
+        "3024-a": "Search string must contain at least 3 non-special characters",
+        "3025": "Could not claim code",
+        "3025-a": "User already has beta access",
+        "3025-b": "User has claimed special code in the past"
       }
     }
   }
