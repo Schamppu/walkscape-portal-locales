@@ -6,6 +6,9 @@
       "emailInputLabel": "Email",
       "button": "Reset password"
     },
+    "cookieConsent": {
+      "prompt": "This website uses cookies to analyze traffic. By clicking 'Accept' you consent to this usage."
+    },
     "searchBarPlaceholder": "Search…",
     "commentSubmission": {
       "displayPreviewCheckbox": "Display preview",
