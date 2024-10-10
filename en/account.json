@@ -68,11 +68,18 @@
       "title": "Closed beta:",
       "invitedStatus": "Invited",
       "accessUntil": "Access until {{dateString}}",
+      "accessExpired": "Access expired on {{dateString}}",
       "notInvited": "Not invited",
       "applyButton": "Apply for beta access",
       "seeExistingApplication": "See application",
       "downloadButton": "Get the game",
-      "eligibleForNextWave": "Eligible for next wave"
+      "eligibleForNextWave": "Eligible for next wave",
+      "expiredModal": {
+        "title": "Your temporary access has expired",
+        "description": "Thank you for participating in the WalkScape closed beta! Your limited time access has expired, but don't worry, you can still keep playing by:",
+        "apply": "<betaApplicationLink>Applying for beta access</betaApplicationLink> and waiting for an invite",
+        "support": "Supporting us on <patreonLink>Patreon</patreonLink> or <bmacLink>Buy Me a Coffee</bmacLink>. Supporters regain access immediately."
+      }
     },
     "betaDownloadInfo": {
       "dialogTitle": "Download game client",
