@@ -15,6 +15,27 @@
         "usernameFormLabel": "Gebruikersnaam",
         "signup": {
             "special": "Meldt je aan voor een Walkscape account met speciale bèta toegang"
+        },
+        "verificationFix": {
+            "3": "Neem contact op met onze helpdesk via <0>contact@walkscape.app</0>",
+            "1": "Als je de link uit de e-mail hebt gekopieerd, controleer dan of het compleet geplakt is.",
+            "2": "Vraag met onderstaand formulier een nieuwe verificatiemail aan."
+        },
+        "missingConfirmation": "Dit e-mailadres is nog niet geverifieerd. Control je inbox en spamfolder, of vraag <0>hier</0> een nieuwe verificatiemail aan.",
+        "verificationComplete": "E-mailadres succesvol geverifieerd! Klik <0>hier</0> om terug te keren naar de startpagina.",
+        "verificationFailure": "Er is iets fout gegaan bij het proces voor e-mailverificatie. Probeer de volgende stappen om dit op te lossen:",
+        "emailOrUsernameFormLabel": "E-mail of gebruikersnaam",
+        "accessCodeFormLabel": "Toegangscode",
+        "resendButtonLabel": "E-mail opnieuw sturen",
+        "claimCode": {
+            "title": "Claim speciale code",
+            "button": "Claim code"
+        },
+        "special": {
+            "alreadyHasBeta": "Gebruikers met beta-toegang kunnen geen tijdelijke toegang aanvragen.",
+            "alreadyClaimed": "Dit account heeft al tijdelijke toegang aangevraagd. Een account kan alleen een code voor tijdelijke toegang aanvragen.",
+            "createToggle": "Nieuw account aanmaken",
+            "createTooltip": "Door de keuze te veranderen, kun je kiezen om de speciale code voor een nieuw of bestaand account te claimen."
         }
     }
 }
