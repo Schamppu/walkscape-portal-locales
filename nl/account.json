@@ -52,7 +52,8 @@
         "5": {
           "title": "Wees aardig :)",
           "description": "Walkscape is een sociaal spel dat zich afspeelt in een virtuele wereld, met echte mensen. We verwachten dat alle spelers elkaar met respect behandelen, zowel in het spel, als op onze social media en in het echte leven. Alle vormen van lastig vallen, intimidatie en discriminatie zijn zonder uitzondering verboden."
-        }
+        },
+        "title": "Spelregels"
       }
     },
     "bmac": {
@@ -67,7 +68,8 @@
       "notInvited": "Niet uitgenodigd",
       "seeExistingApplication": "Aanvraag bekijken",
       "title": "Gesloten bèta:",
-      "eligibleForNextWave": "In aanmerking voor volgende golf"
+      "eligibleForNextWave": "In aanmerking voor volgende golf",
+      "accessUntil": "Toegang tot {{dateString}}"
     },
     "discordLink": {
       "linkButton": "Discord koppelen",
