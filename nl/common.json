@@ -78,6 +78,9 @@
             "reject": "Afwijzen",
             "block": "Blokkeren"
         },
-        "characters": "Personages"
+        "characters": "Personages",
+        "buttons": {
+            "ok": "OK"
+        }
     }
 }
