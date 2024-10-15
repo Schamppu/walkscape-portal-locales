@@ -3,7 +3,50 @@
         "error": {
             "genericError": "Er ging iets mis.",
             "passwordReset": "Herstel email kon niet verzonden worden",
-            "passwordChange": "Wachtwoord veranderen mislukt"
+            "passwordChange": "Wachtwoord veranderen mislukt",
+            "networkCode": {
+                "1002": "Personage bestaat niet",
+                "0000": "Er is iets fout gegaan",
+                "3011": "Ongeldige inloggegevens. Controleer a.u.b. of het e-mailadres/de gebruikersnaam en het wachtwoord correct zijn.",
+                "3024-a": "Zoekterm moet ten minste 3 niet-speciale karakters bevatten",
+                "3019-a": "Ongeldige gebruikersnaam: Mag niet beginnen of eindigen met spaties",
+                "3019-d": "Ongeldige gebruikersnaam: Gebruikersnaam moet ten minste 3 karakters bevatten die geen spaties zijn",
+                "2002": "Geen toestemming",
+                "2002-banned": "Dit account is verbannen op WalkScape. Neem contact op via contact@walkacape.app om hierover in beroep te gaan.",
+                "3000": "Gebruikersnaam is al in gebruik",
+                "3001": "E-mail wordt al gebruikt.",
+                "3002": "Verkeerde speciale code",
+                "3003": "Sessie is verlopen",
+                "3010": "Inloggen mislukt",
+                "3010-a": "E-mail is niet geverifieerd. Controleer a.u.b. je inbox.",
+                "3004": "Ongeldige sessie",
+                "3005": "Geen personages beschikbaar",
+                "3015-post": "Bericht bestaat niet",
+                "3006": "Personage verwijderen mislukt",
+                "3007": "Opslaan mislukt",
+                "3008": "Bericht plaatsen mislukt",
+                "3009": "Afbeelding downloaden mislukt",
+                "3012": "Onjuiste personage-naam",
+                "3013": "Registreren mislukt",
+                "3014": "Properties ontbreken in de request body",
+                "3015": "Geen gegevens",
+                "3016": "Ontbrekende query parameters",
+                "3017": "Onjuist geformatteerde body properties",
+                "3018": "Aanvraag is verlopen",
+                "3019": "Onjuiste gebruikersnaam",
+                "3019-b": "Ongeldige gebruikersnaam: Meerdere spaties achter elkaar is niet toegestaan",
+                "3019-c": "Ongeldige gebruikersnaam: Gebruikersnaam moet ten minste 3 karakters zijn.",
+                "3019-e": "Ongeldige gebruikersnaam: Gebruikersnaam mag alleen letters, nummers, en spaties bevatten",
+                "3020": "Er bestaat geen account voor het opgegeven e-mailadres",
+                "3021": "Dit e-mailadres is al geverifieerd",
+                "3022": "Tijdelijke code is ongeldig",
+                "3023": "Uitnodiging bestaat niet",
+                "3024": "Ongeldige zoekterm",
+                "3025": "Code claimen mislukt",
+                "3025-a": "Gebruiker heeft al beta-toegang",
+                "3025-b": "Gebruiker heeft in het verleden een speciale code geclaimd"
+            },
+            "expiredToken": "Login is verlopen"
         },
         "success": {
             "accountLinkedSuccessfully": "Bmac-account succesvol gekoppeld",
@@ -17,6 +60,21 @@
                 "reject": "Vriendverzoek verwijderd",
                 "accept": "Vriendverzoek geaccepteerd",
                 "block": "Gebruiker geblokkeerd"
+            },
+            "posts": {
+                "delete": "Bericht verwijderd",
+                "edit": "Bericht bijgewerkt"
+            },
+            "discordLink": "Discord succesvol gekoppeld",
+            "resentSuccessfully": "Verificatiemail succesvol opnieuw verzonden",
+            "avatarUpload": "Profielfoto bijgewerkt. Soms kan het even duren voordat wijzigingen zichtbaar zijn.",
+            "comments": {
+                "delete": "Reactie verwijderd",
+                "edit": "Reactie bijgewerkt"
+            },
+            "claimCode": {
+                "withLogin": "Code succesvol geclaimd",
+                "withoutLogin": "Code succesvol geclaimd. Log a.u.b. in om het spel te downloaden."
             }
         }
     }
