@@ -23,6 +23,9 @@
         "title": "Beta-aanvraag",
         "landing": {
             "title": "Bedankt voor het aanmelden voor Walkscape!"
+        },
+        "specialLanding": {
+            "description": "Je kunt voor een beperkte tijd de Gesloten Beta-versie proberen. Je hebt toegang tot {{endDate}}."
         }
     }
 }
