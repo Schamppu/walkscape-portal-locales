@@ -40,7 +40,8 @@
         "4": {
           "title": "Tylko oficjalna dystrybucja",
           "description": "Graj tylko używając oficjalnie dystrybuowanych wersji poprzez oficjalne kanały. Nie twórz swoich własnych paczek, buildów lub dystrybucji gry oraz nie pobieraj i nie dziel się nieoficjalnymi wersjami, które mogą być rozpowszechniane przez inne osoby."
-        }
+        },
+        "title": "Zasady Gry"
       },
       "dialogTitle": "Pobierz klient gry",
       "termsOfServiceDisclaimer": "Klikając 'Akceptuję' zgadzasz się na nasze <tos>Terms of Service</tos> oraz Zasady Gry.",
@@ -108,7 +109,8 @@
       "applyButton": "Aplikuj po dostęp do bety",
       "seeExistingApplication": "Zobacz aplikację",
       "downloadButton": "Pobierz grę",
-      "eligibleForNextWave": "Uprawnienie do kolejnej fali"
+      "eligibleForNextWave": "Uprawnienie do kolejnej fali",
+      "accessUntil": "Dostęp do {{dateString}}"
     },
     "profilePhoto": {
       "changeButton": "Zmień zdjęcie profilowe",
