@@ -15,6 +15,27 @@
         "passwordsDontMatch": "Podane w obu polach hasła się nie zgadzają",
         "signup": {
             "special": "Zaloguj się do konta WalkScape z specjalnym dostępem beta"
+        },
+        "missingConfirmation": "Ten adres e-mail nie został jeszcze zweryfikowany. Sprawdź skrzynkę odbiorczą i folder spamu lub poproś o nową wiadomość weryfikacyjną, klikając <0>tutaj</0>.",
+        "verificationComplete": "Adres e-mail został pomyślnie zweryfikowany! Kliknij <0>tutaj</0>, aby powrócić do strony głównej.",
+        "verificationFailure": "Coś poszło nie tak podczas procesu weryfikacji adresu e-mail. Aby rozwiązać ten problem, możesz wykonać następujące kroki:",
+        "verificationFix": {
+            "1": "Jeśli link został skopiowany z wiadomości e-mail, upewnij się, że został wklejony w całości.",
+            "2": "Poproś o nową wiadomość weryfikacyjną e-mail, korzystając z poniższego formularza.",
+            "3": "Skontaktuj się z naszym działem pomocy technicznej pod adresem <0>contact@walkscape.app</0>"
+        },
+        "resendButtonLabel": "Wyślij ponownie wiadomość e-mail",
+        "emailOrUsernameFormLabel": "Adres e-mail lub nazwa użytkownika",
+        "accessCodeFormLabel": "Kod dostępu",
+        "claimCode": {
+            "title": "Odbierz specjalny kod",
+            "button": "Przyjmij kod"
+        },
+        "special": {
+            "alreadyHasBeta": "Użytkownicy z dostępem do wersji beta nie mogą ubiegać się o dostęp tymczasowy.",
+            "alreadyClaimed": "To konto odebrało już tymczasowy dostęp. Konto może odebrać tylko tymczasowy kod dostępu.",
+            "createToggle": "Stwórz nowe konto",
+            "createTooltip": "Przełączając wybór, możesz ubiegać się o specjalny kod na nowym lub istniejącym koncie."
         }
     }
 }
