@@ -72,6 +72,9 @@
                 "addPostButton": "Dodaj post"
             },
             "scheduled": "zaplanowano"
+        },
+        "buttons": {
+            "ok": "OK"
         }
     },
     "plurals": {
