@@ -23,6 +23,9 @@
         },
         "landing": {
             "title": "Gratulacje w rejestracji w WalkScape!"
+        },
+        "specialLanding": {
+            "description": "Możesz wypróbować zamkniętą wersję beta przez ograniczony czas. Dostęp zakończy się w dniu {{endDate}}."
         }
     }
 }
