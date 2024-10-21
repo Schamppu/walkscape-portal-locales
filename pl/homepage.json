@@ -10,6 +10,9 @@
         },
         "statsSection": {
             "title": "Trochę ciekawych statów:"
+        },
+        "newUser": {
+            "title": "Witamy, {{username}}!"
         }
     },
     "plurals": {
