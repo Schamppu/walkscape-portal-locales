@@ -69,7 +69,14 @@
       "seeExistingApplication": "Aanvraag bekijken",
       "title": "Gesloten bèta:",
       "eligibleForNextWave": "In aanmerking voor volgende golf",
-      "accessUntil": "Toegang tot {{dateString}}"
+      "accessUntil": "Toegang tot {{dateString}}",
+      "expiredModal": {
+        "title": "Je tijdelijke toegang is verlopen",
+        "description": "Bedankt voor je deelname aan de WalkScape gesloten beta! Je tijdelijke toegang is verlopen, maar geen zorgen, je kan nog doorspelen door:",
+        "apply": "<betaApplicationLink>Een aanvraag in te dienen voor toegang</betaApplicationLink> en op een uitnodiging te wachten",
+        "support": "Ons te steunen op <patreonLink>Patreon</patreonLink> of <bmacLink>Buy Me a Coffee</bmacLink>. Ondersteuners krijgen onmiddelijk toegang."
+      },
+      "accessExpired": "Toegang verlopen op {{dateString}}"
     },
     "discordLink": {
       "linkButton": "Discord koppelen",
