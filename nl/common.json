@@ -81,6 +81,9 @@
         "characters": "Personages",
         "buttons": {
             "ok": "OK"
+        },
+        "cookieConsent": {
+            "prompt": "Deze website gebruikt cookies om netwerkverkeer te analyseren. Door op 'Accepteren' te klikken ga je hiermee akkoord."
         }
     }
 }
