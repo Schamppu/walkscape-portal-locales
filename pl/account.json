@@ -110,7 +110,14 @@
       "seeExistingApplication": "Zobacz aplikację",
       "downloadButton": "Pobierz grę",
       "eligibleForNextWave": "Uprawnienie do kolejnej fali",
-      "accessUntil": "Dostęp do {{dateString}}"
+      "accessUntil": "Dostęp do {{dateString}}",
+      "accessExpired": "Dostęp wygasł w dniu {{dateString}}",
+      "expiredModal": {
+        "title": "Twój tymczasowy dostęp wygasł",
+        "description": "Dziękujemy za udział w zamkniętej becie WalkScape! Twój ograniczony czasowo dostęp wygasł, ale nie martw się, nadal możesz grać:",
+        "support": "Wspieraj nas na <patreonLink>Patreon</patreonLink> lub <bmacLink>Buy Me a Coffee</bmacLink>. Wspierający natychmiast odzyskują dostęp.",
+        "apply": "<betaApplicationLink>Złożenie wniosku o dostęp do wersji beta</betaApplicationLink> i oczekiwanie na zaproszenie"
+      }
     },
     "profilePhoto": {
       "changeButton": "Zmień zdjęcie profilowe",
