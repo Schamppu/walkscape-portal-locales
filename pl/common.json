@@ -75,6 +75,9 @@
         },
         "buttons": {
             "ok": "OK"
+        },
+        "cookieConsent": {
+            "prompt": "Ta strona używa plików cookie do analizy ruchu. Klikając \"Akceptuj\" wyrażasz zgodę na ich użycie."
         }
     },
     "plurals": {
