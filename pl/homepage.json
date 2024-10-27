@@ -6,13 +6,14 @@
         "infoSection": {
             "title": "Ważne informacje dotyczące zamkniętej bety",
             "closedBetaAccess": "Aktualnie prowadzimy zamknięte testy beta i przyjmujemy do nich regularnie nowych graczy w falach.",
-            "betaLinking": "Jeżeli wspierasz nas w jakiś sposób lub wspierałeś w jakimś momencie poprzez <patreonLink>Patreon</patreonLink> lub <bmacLink>Buy Me A Coffee</bmacLink> masz zagwarantowany dostęp do gry w kolejnej fali. By go uzyskać połącz swoje konto na Portalu z wymaganymi usługami na zakładce Konto. Możesz również zgłosić swoją aplikację do bety i mieć szansę na zaproszenie w kolejnej fali nawet jeżeli nas nie wspierasz."
+            "betaLinking": "Jeżeli wspierasz nas w jakiś sposób lub wspierałeś w jakimś momencie poprzez <patreonLink>Patreon</patreonLink> lub <bmacLink>Buy Me A Coffee</bmacLink> masz zagwarantowany dostęp do gry w kolejnej fali. By go uzyskać połącz swoje konto na Portalu z wymaganymi usługami na<accountLink> zakładce konto</accountLink>. Możesz również zgłosić swoją aplikację do bety i mieć szansę na zaproszenie w kolejnej fali nawet jeżeli nas nie wspierasz."
         },
         "statsSection": {
             "title": "Trochę ciekawych statów:"
         },
         "newUser": {
-            "title": "Witamy, {{username}}!"
+            "title": "Witamy, {{username}}!",
+            "description": "Dziękujemy za rejestrację w WalkScape! Aby dokończyć konfigurację konta, przejdź na stronę konta <accountLink></accountLink> i podłącz swoje konto Patreon/Buy Me a Coffee lub wyślij podanie, aby dołączyć do zamkniętej bety. Miłego chodzenia i pamiętaj o nawodnieniu!"
         }
     },
     "plurals": {
