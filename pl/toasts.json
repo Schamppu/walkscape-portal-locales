@@ -12,12 +12,70 @@
                 "accept": "Zaproszenie do znajomych zaakceptowane",
                 "reject": "Zaproszenie do znajomych usunięte",
                 "block": "Użytkownik zablokowany"
-            }
+            },
+            "resentSuccessfully": "Ponowne wysłanie wiadomości weryfikacyjnej powiodło się",
+            "posts": {
+                "edit": "Post zaktualizowany",
+                "delete": "Post usunięty"
+            },
+            "comments": {
+                "delete": "Komentarz usunięty",
+                "edit": "Komentarz zaktualizowany"
+            },
+            "claimCode": {
+                "withLogin": "Kod został pomyślnie odebrany",
+                "withoutLogin": "Kod został pomyślnie odebrany. Zaloguj się, aby pobrać grę."
+            },
+            "discordLink": "Discord został pomyślnie połączony",
+            "avatarUpload": "Zaktualizowano zdjęcie profilowe. Czasami pojawienie się zmian zajmuje trochę czasu."
         },
         "error": {
             "passwordReset": "Nie można wysłać maila odzyskującego",
             "passwordChange": "Aktualizowanie hasła nie powiodło się",
-            "genericError": "Coś się popsuło."
+            "genericError": "Coś się popsuło.",
+            "expiredToken": "Login wygasł",
+            "networkCode": {
+                "0000": "Coś się popsuło",
+                "1002": "Postać nie istnieje",
+                "3023": "Zaproszenie nie istnieje",
+                "3024": "Nieprawidłowy ciąg wyszukiwania",
+                "3024-a": "Wyszukiwany ciąg musi zawierać co najmniej 3 znaki inne niż specjalne",
+                "2002": "Brak pozwolenia",
+                "3000": "Nazwa użytkownika jest już zajęta",
+                "3001": "E-mail jest już zajęty.",
+                "3003": "Sesja wygasła",
+                "3004": "Nieprawidłowa sesja",
+                "3006": "Usuwanie postaci nie powiodło się",
+                "3007": "Nie można zapisać",
+                "3009": "Nie można pobrać obrazu",
+                "3010": "Logowanie nie powiodło się",
+                "3012": "Nieprawidłowa nazwa postaci",
+                "3013": "Rejestracja nie powiodła się",
+                "3014": "Brakujące właściwości w treści żądania",
+                "3015": "Brak danych",
+                "3015-post": "Post nie istnieje",
+                "3016": "Brakujące parametry zapytania",
+                "3018": "Żądanie wygasło",
+                "3019": "Nieprawidłowa nazwa użytkownika",
+                "3019-b": "Nieprawidłowa nazwa użytkownika: kolejne spacje nie są dozwolone",
+                "3019-c": "Nieprawidłowa nazwa użytkownika: Nazwa użytkownika musi mieć co najmniej 3 litery.",
+                "3019-e": "Nieprawidłowa nazwa użytkownika: Nazwa użytkownika może zawierać tylko litery, cyfry i spacje",
+                "3017": "Zniekształcone właściwości",
+                "3025": "Nie można odebrać kodu",
+                "3025-a": "Użytkownik ma już dostęp do wersji beta",
+                "3005": "Żadna postać nie istnieje",
+                "3010-a": "Adres e-mail nie został zweryfikowany. Sprawdź swoją skrzynkę odbiorczą.",
+                "3011": "Nieprawidłowe dane uwierzytelniające. Upewnij się, że używasz poprawnego adresu e-mail / nazwy użytkownika i hasła.",
+                "2002-banned": "To konto zostało zablokowane w WalkScape. Aby odwołać się od tej decyzji, skontaktuj się z pomocą techniczną contact@walkscape.app.",
+                "3021": "Ten e-mail został już potwierdzony",
+                "3002": "Nieprawidłowy kod specjalny",
+                "3008": "Nie można opublikować",
+                "3019-a": "Nieprawidłowa nazwa użytkownika: niedozwolone są spacje końcowe",
+                "3019-d": "Nieprawidłowa nazwa użytkownika: Nazwa użytkownika musi zawierać co najmniej 3 znaki inne niż spacja",
+                "3020": "Nie istnieje konto z podanym adresem e-mail",
+                "3022": "Kod tymczasowy jest nieprawidłowy",
+                "3025-b": "Użytkownik w przeszłości odebrał kod specjalny"
+            }
         }
     }
 }
