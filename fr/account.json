@@ -70,7 +70,14 @@
       "repeatPasswordLabel": "Répéter le mot de passe",
       "changePasswordButton": "Changer le mot de passe"
     },
-    "subscriptionStateDisclaimer": "L'état de l'abonnement peut prendre jusqu'à 1 heure pour se rafraîchir."
+    "subscriptionStateDisclaimer": "L'état de l'abonnement peut prendre jusqu'à 1 heure pour se rafraîchir.",
+    "general": {
+      "seeFull": "Voir le profil complet"
+    },
+    "privacy": {
+      "profileVisibility": "Visibilité du profil",
+      "title": "Paramètres de confidentialité"
+    }
   },
   "plurals": {
     "closedBetaStatus": {
