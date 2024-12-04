@@ -1,1 +1,24 @@
-{}
+{
+    "singulars": {
+        "filterOptions": {
+            "total_steps": "Samme Kokku",
+            "cooking": "Kokandus",
+            "total_xp": "XP'd Kokku",
+            "total_level": "Tasemeid Kokku",
+            "mining": "Kaevandamine",
+            "agility": "Agiilsus",
+            "fishing": "Kalastus",
+            "crafting": "Meisterdamine",
+            "foraging": "Korilus",
+            "smithing": "Sepandus",
+            "carpentry": "Puidutöö",
+            "woodcutting": "Puuraiumine",
+            "achievement_points": "Saavutuspunktid",
+            "short": {
+                "mining": "KVD",
+                "agility": "AGL",
+                "cooking": "KOK"
+            }
+        }
+    }
+}
