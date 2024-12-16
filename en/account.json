@@ -52,7 +52,7 @@
       "return": "Return to the Account page",
       "inProgress": "Linking Patreon...",
       "failed": "Failed to link Patreon account.",
-      "troubleshoot": "Make sure you are a member of the <patreonLink>WalkScape Patreon</patreonLink> before< linking accounts.",
+      "troubleshoot": "Make sure you are a member of the <patreonLink>WalkScape Patreon</patreonLink> before linking accounts.",
       "success": {
         "title": "Successfully linked Patreon!",
         "body": "Access to the game is granted in waves. If a wave is ongoing, you can download the game immediately from your Account page. Otherwise we will notify you by email once access is granted."
