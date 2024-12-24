@@ -107,12 +107,13 @@
       "login": "Log in met Patreon",
       "return": "Terug naar Account pagina",
       "inProgress": "Patreon aan het koppelen...",
-      "failed": "Patreon account koppelen is mislukt. Probeer het later nog eens.",
+      "failed": "Patreon account koppelen is mislukt.",
       "success": {
         "title": "Patreon account koppelen succesvol!",
         "body": "Toegang tot het spel wordt is golven toegekend. Wanneer een golf actief is, kun je het spel direct van je Account pagina downloaden. Anders sturen we je een email wanneer toegang is toegekend."
       },
-      "recommendation": "We raden aan om accounts the koppelen door in te loggen met Patreon. Als dit niet werkt, probeer dan te koppelen met het formulier hier onder."
+      "recommendation": "We raden aan om accounts the koppelen door in te loggen met Patreon. Als dit niet werkt, probeer dan te koppelen met het formulier hier onder.",
+      "troubleshoot": "Zorg ervoor dat je lid bent van de <patreonLink>WalkScape Patreon</patreonLink> voordat je de accounts koppelt."
     },
     "profilePhoto": {
       "changeButton": "Profielfoto wijzigen",
