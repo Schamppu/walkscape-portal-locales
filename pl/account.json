@@ -74,7 +74,8 @@
       "linkSuccessMessage": "Konto Patron połączone z sukcesem",
       "return": "Powrót do Konta",
       "inProgress": "Łączenie Patreon...",
-      "failed": "Powiązanie Patreon nieudane. Spróbuj ponownie później."
+      "failed": "Nieudane połączenie konta Patreon.",
+      "troubleshoot": "Przed połączeniem kont upewnij się, że jesteś członkiem Patreon <patreonLink>WalkScape</patreonLink>."
     },
     "general": {
       "joinedOn": "Dołączono:",
