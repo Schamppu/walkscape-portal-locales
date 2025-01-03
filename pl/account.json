@@ -63,7 +63,7 @@
     "patreonLink": {
       "recommendation": "Zalecamy połączenie kont logując się Patreonem. Jeżeli to nie działa, spróbuj poprzez formularz poniżej.",
       "success": {
-        "body": "Dostęp do gry przyznawany jest w falach. Jeżeli fala właśnie trwa możesz pobrać grę od razu z zakładki Konto. Również poinformujemy cię mailem, kiedy dostęp został przyznany.",
+        "body": "Dostęp do gry przyznawany jest w falach. Jeżeli fala właśnie trwa możesz pobrać grę od razu z zakładki Konto. Również poinformujemy cię mailem, kiedy dostęp został przyznany.Należy pamiętać, że czasami konieczne jest odświeżenie strony lub ponowne zalogowanie, aby informacje na stronie konta zostały poprawnie zaktualizowane.",
         "title": "Powiązanie Patreon zakończone sukcesem!"
       },
       "title": "Patreon:",
