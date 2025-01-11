@@ -1,47 +1,58 @@
 {
-  "singulars": {
-    "resetPassword": {
-      "instructions": "Pour réinitialiser votre mot de passe, entrez votre email et cliquez sur réinitialiser le mot de passe. Vous recevrez un email contenant un lien qui vous amènera à la page de mise à jour du mot de passe, où vous pourrez définir un nouveau mot de passe.",
-      "emailInputLabel": "Email",
-      "button": "Réinitialiser le mot de passe"
+    "singulars": {
+        "resetPassword": {
+            "instructions": "Pour réinitialiser votre mot de passe, entrez votre email et cliquez sur réinitialiser le mot de passe. Vous recevrez un email contenant un lien qui vous amènera à la page de mise à jour du mot de passe, où vous pourrez définir un nouveau mot de passe.",
+            "emailInputLabel": "Email",
+            "button": "Réinitialiser le mot de passe"
+        },
+        "searchBarPlaceholder": "Rechercher…",
+        "commentSubmission": {
+            "displayPreviewCheckbox": "Afficher l'aperçu",
+            "previewLabel": "Aperçu :",
+            "commentPlaceholder": "Tapez votre commentaire ici",
+            "submitButton": "Publier le commentaire",
+            "editSaveButton": "Sauvegarder",
+            "editCancelButton": "Annuler"
+        },
+        "dialogs": {
+            "delete": {
+                "title": "Êtes-vous absolument sûr ?",
+                "message": "Cette action ne peut pas être annulée. Cela supprimera définitivement ce {{ type }}.",
+                "confirmButton": "Oui, supprimer {{ type }}",
+                "cancelButton": "Annuler"
+            }
+        },
+        "posts": {
+            "newPostButton": "Nouveau post",
+            "new": {
+                "titleLabel": "Titre",
+                "descriptionLabel": "Description",
+                "displayPreviewButton": "Afficher l'aperçu",
+                "previewLabel": "Aperçu :",
+                "postContentPlaceholder": "Tapez votre post ici",
+                "addPostButton": "Ajouter le post"
+            }
+        },
+        "userActions": {
+            "viewInvite": "Voir l'invitation",
+            "viewProfile": "Voir le profil",
+            "sendInvite": "Envoyer une invitation à un ami",
+            "cancelInvite": "Annuler l'invitation",
+            "removeFriend": "Supprimer un ami"
+        },
+        "characters": "Personnages",
+        "cookieConsent": {
+            "prompt": "Ce site web utilise des cookies pour analyser le trafic. En cliquant sur \"Accepter\", vous consentez à cette utilisation."
+        },
+        "buttons": {
+            "ok": "OK"
+        }
     },
-    "searchBarPlaceholder": "Rechercher…",
-    "commentSubmission": {
-      "displayPreviewCheckbox": "Afficher l'aperçu",
-      "previewLabel": "Aperçu :",
-      "commentPlaceholder": "Tapez votre commentaire ici",
-      "submitButton": "Publier le commentaire",
-      "editSaveButton": "Sauvegarder",
-      "editCancelButton": "Annuler"
-    },
-    "dialogs": {
-      "delete": {
-        "title": "Êtes-vous absolument sûr ?",
-        "message": "Cette action ne peut pas être annulée. Cela supprimera définitivement ce {{ type }}.",
-        "confirmButton": "Oui, supprimer {{ type }}",
-        "cancelButton": "Annuler"
-      }
-    },
-    "posts": {
-      "newPostButton": "Nouveau post",
-      "new": {
-        "titleLabel": "Titre",
-        "descriptionLabel": "Description",
-        "displayPreviewButton": "Afficher l'aperçu",
-        "previewLabel": "Aperçu :",
-        "postContentPlaceholder": "Tapez votre post ici",
-        "addPostButton": "Ajouter le post"
-      }
+    "plurals": {
+        "comments": {
+            "commentCount_one": "1 commentaire",
+            "commentCount_many": "",
+            "commentCount_other": "{{count}} commentaires"
+        }
     }
-  },
-  "plurals": {
-    "comments": {
-      "commentCount_zero": "",
-      "commentCount_one": "1 commentaire",
-      "commentCount_two": "",
-      "commentCount_few": "",
-      "commentCount_many": "",
-      "commentCount_other": "{{count}} commentaires"
-    }
-  }
 }
