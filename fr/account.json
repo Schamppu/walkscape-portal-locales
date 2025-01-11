@@ -20,14 +20,29 @@
     },
     "discordLink": {
       "title": "Discord :",
-      "linkButton": "Lier Discord"
+      "linkButton": "Lier Discord",
+      "inProgress": "Connexion avec Discord...",
+      "relogin": "Veuillez vous <0>connecter</0> à nouveau",
+      "failed": "Échec de la connexion avec Discord. Veuillez réessayer plus tard.",
+      "joinDiscord": "Rejoindre Discord",
+      "success": "Connexion réussie avec Discord !"
     },
     "patreonLink": {
       "title": "Patreon :",
       "linkInstructions": "Lier un compte Patreon",
       "emailInputLabel": "Email utilisé pour votre compte Patreon",
       "codeSentSuccessMessage": "Vérifiez la boîte de réception de l'email saisi pour le code de validation",
-      "linkSuccessMessage": "Compte Patreon lié avec succès"
+      "linkSuccessMessage": "Compte Patreon lié avec succès",
+      "login": "Se connecter avec Patreon",
+      "failed": "Échec de la connexion au compte Patreon.",
+      "return": "Retour à la page du Compte",
+      "inProgress": "Connexion avec Patreon...",
+      "recommendation": "Nous recommandons de relier les comptes en se connectant avec Patreon. Si cela ne fonctionne pas, essayez de vous connecter en utilisant le formulaire ci-dessous.",
+      "troubleshoot": "Assurez-vous d'être membre du <patreonLink>WalkScape Patreon</patreonLink> avant de relier les comptes.",
+      "success": {
+        "title": "Connexion réussie avec Patreon !",
+        "body": "L'accès au jeu se fait par vagues. Si une vague est en cours, vous pouvez télécharger le jeu immédiatement à partir de votre page de compte. Dans le cas contraire, nous vous informerons par courrier électronique lorsque l'accès vous sera accordé. Veuillez noter qu'une actualisation ou une reconnexion est parfois nécessaire pour que les informations soient correctement mises à jour sur la page du compte."
+      }
     },
     "closedBetaStatus": {
       "title": "Bêta fermée :",
@@ -72,11 +87,21 @@
     },
     "subscriptionStateDisclaimer": "L'état de l'abonnement peut prendre jusqu'à 1 heure pour se rafraîchir.",
     "general": {
-      "seeFull": "Voir le profil complet"
+      "seeFull": "Voir le profil complet",
+      "joinedOn": "Rejoint le:"
     },
     "privacy": {
       "profileVisibility": "Visibilité du profil",
-      "title": "Paramètres de confidentialité"
+      "title": "Paramètres de confidentialité",
+      "public": "Public",
+      "private": "Privé",
+      "friends": "Amis seulement"
+    },
+    "meta": {
+      "description": "Consulte le profil de {{username}}!"
+    },
+    "thankYou": {
+      "title": "Merci pour votre soutien !"
     }
   },
   "plurals": {
