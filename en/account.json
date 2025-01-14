@@ -130,7 +130,7 @@
       "title": "Change your username",
       "newUsernameLabel": "New username",
       "changeUsernameButton": "Change username",
-      "successMessage": "Username changed successsfully"
+      "successMessage": "Username changed successfully"
     },
     "passwordChange": {
       "title": "Change your password",
@@ -153,11 +153,7 @@
   "plurals": {
     "closedBetaStatus": {
       "eligibleForNextWave": {
-        "key_zero": "Eligible for next wave in less than a week",
         "key_one": "Eligible for next wave in approximately 1 to 2 weeks",
-        "key_two": "",
-        "key_few": "",
-        "key_many": "",
         "key_other": "Eligible for next wave in approximately {{ count }} to {{ countPlusOne }} weeks"
       }
     }
