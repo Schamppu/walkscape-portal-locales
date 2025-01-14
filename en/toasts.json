@@ -1,81 +1,81 @@
 {
-  "singulars": {
-    "success": {
-      "signedUpSuccessfully": "Signed up successfully. Make sure to check your email: you should receive a verification email with a link to click to confirm your email address.",
-      "loggedInSuccesssfully": "Logged in successfully.",
-      "resentSuccessfully": "Verification email successfully resent",
-      "passwordResetSent": "Password reset email sent",
-      "passwordChange": "Password changed successsfully",
-      "bmacCheckForValidationCode": "Check the entered email inbox for the validation code",
-      "accountLinkedSuccessfully": "Bmac account linked successfully",
-      "loggedOut": "Logged out successfully",
-      "avatarUpload": "Profile picture updated. Sometimes changes take a while to appear.",
-      "discordLink": "Discord successfully linked",
-      "claimCode": {
-        "withLogin": "Code successfully claimed",
-        "withoutLogin": "Code successfully claimed. Please login to download game."
-      },
-      "posts": {
-        "delete": "Post deleted",
-        "edit": "Post updated"
-      },
-      "comments": {
-        "delete": "Comment deleted",
-        "edit": "Comment updated"
-      },
-      "friendInvites": {
-        "accept": "Friend invite accepted",
-        "reject": "Friend invite deleted",
-        "block": "User blocked"
-      }
-    },
-    "error": {
-      "passwordReset": "Could not send recovery email",
-      "passwordChange": "Updating password failed",
-      "genericError": "Something went wrong.",
-      "expiredToken": "Login has expired",
-      "networkCode": {
-        "0000": "Something went wrong",
-        "1002": "Character does not exist",
-        "2002": "No permission",
-        "2002-banned": "This account has been banned from WalkScape. To appeal this decision, contact support contact@walkscape.app.",
-        "3000": "Username is already taken",
-        "3001": "E-mail is already taken.",
-        "3002": "Wrong special code",
-        "3003": "Session has expired",
-        "3004": "Invalid session",
-        "3005": "No character exists",
-        "3006": "Character deletion failed",
-        "3007": "Could not save",
-        "3008": "Could not post",
-        "3009": "Could not download image",
-        "3010": "Login unsuccessful",
-        "3010-a": "Email has not been verified. Please check your inbox.",
-        "3011": "Invalid credentials. Please make sure you are using the correct email/username and password.",
-        "3012": "Incorrect character name",
-        "3013": "Registration was unsuccessful",
-        "3014": "Missing properties in the request body",
-        "3015": "No data",
-        "3015-post": "Post does not exist",
-        "3016": "Missing query parameters",
-        "3017": "Malformatted body properties",
-        "3018": "Request has expired",
-        "3019": "Incorrect username",
-        "3019-a": "Invalid username: Leading or trailing spaces are not allowed",
-        "3019-b": "Invalid username: Consecutive spaces are not allowed",
-        "3019-c": "Invalid username: Username must be at least 3 letters long.",
-        "3019-d": "Invalid username: Username must contain at least 3 non-space characters",
-        "3019-e": "Invalid username: Username can only contain letters, numbers and spaces",
-        "3020": "No account exists with given email",
-        "3021": "This email has already been confirmed",
-        "3022": "Temporary code is invalid",
-        "3023": "Invite does not exist",
-        "3024": "Bad search string",
-        "3024-a": "Search string must contain at least 3 non-special characters",
-        "3025": "Could not claim code",
-        "3025-a": "User already has beta access",
-        "3025-b": "User has claimed special code in the past"
-      }
+    "singulars": {
+        "success": {
+            "signedUpSuccessfully": "Signed up successfully. Make sure to check your email: you should receive a verification email with a link to click to confirm your email address.",
+            "loggedInSuccesssfully": "Logged in successfully.",
+            "resentSuccessfully": "Verification email successfully resent",
+            "passwordResetSent": "Password reset email sent",
+            "passwordChange": "Password changed successfully",
+            "bmacCheckForValidationCode": "Check the entered email inbox for the validation code",
+            "accountLinkedSuccessfully": "Bmac account linked successfully",
+            "loggedOut": "Logged out successfully",
+            "avatarUpload": "Profile picture updated. Sometimes changes take a while to appear.",
+            "discordLink": "Discord successfully linked",
+            "claimCode": {
+                "withLogin": "Code successfully claimed",
+                "withoutLogin": "Code successfully claimed. Please login to download game."
+            },
+            "posts": {
+                "delete": "Post deleted",
+                "edit": "Post updated"
+            },
+            "comments": {
+                "delete": "Comment deleted",
+                "edit": "Comment updated"
+            },
+            "friendInvites": {
+                "accept": "Friend invite accepted",
+                "reject": "Friend invite deleted",
+                "block": "User blocked"
+            }
+        },
+        "error": {
+            "passwordReset": "Could not send recovery email",
+            "passwordChange": "Updating password failed",
+            "genericError": "Something went wrong.",
+            "expiredToken": "Login has expired",
+            "networkCode": {
+                "0000": "Something went wrong",
+                "1002": "Character does not exist",
+                "2002": "No permission",
+                "2002-banned": "This account has been banned from WalkScape. To appeal this decision, contact support contact@walkscape.app.",
+                "3000": "Username is already taken",
+                "3001": "E-mail is already taken.",
+                "3002": "Wrong special code",
+                "3003": "Session has expired",
+                "3004": "Invalid session",
+                "3005": "No character exists",
+                "3006": "Character deletion failed",
+                "3007": "Could not save",
+                "3008": "Could not post",
+                "3009": "Could not download image",
+                "3010": "Login unsuccessful",
+                "3010-a": "Email has not been verified. Please check your inbox.",
+                "3011": "Invalid credentials. Please make sure you are using the correct email/username and password.",
+                "3012": "Incorrect character name",
+                "3013": "Registration was unsuccessful",
+                "3014": "Missing properties in the request body",
+                "3015": "No data",
+                "3015-post": "Post does not exist",
+                "3016": "Missing query parameters",
+                "3017": "Malformatted body properties",
+                "3018": "Request has expired",
+                "3019": "Incorrect username",
+                "3019-a": "Invalid username: Leading or trailing spaces are not allowed",
+                "3019-b": "Invalid username: Consecutive spaces are not allowed",
+                "3019-c": "Invalid username: Username must be at least 3 letters long.",
+                "3019-d": "Invalid username: Username must contain at least 3 non-space characters",
+                "3019-e": "Invalid username: Username can only contain letters, numbers and spaces",
+                "3020": "No account exists with given email",
+                "3021": "This email has already been confirmed",
+                "3022": "Temporary code is invalid",
+                "3023": "Invite does not exist",
+                "3024": "Bad search string",
+                "3024-a": "Search string must contain at least 3 non-special characters",
+                "3025": "Could not claim code",
+                "3025-a": "User already has beta access",
+                "3025-b": "User has claimed special code in the past"
+            }
+        }
     }
-  }
 }
