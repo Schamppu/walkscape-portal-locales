@@ -1,15 +1,17 @@
 {
-  "singulars": {
-    "error": {
-      "genericError": "Bir şeyler ters gitti"
-    },
-    "success": {
-      "accountLinkedSuccessfully": "BMaC hesabı başarıyla bağlandı",
-      "bmacCheckForValidationCode": "Doğrulama kodu için girilen e-postanın gelen kutusunu kontrol et",
-      "loggedInSuccesssfully": "Başarıyla giriş yapıldı",
-      "loggedOut": "Başarıyla çıkış yapıldı",
-      "passwordResetSent": "Şifre sıfırlama e-postası gönderildi",
-      "signedUpSuccessfully": "Başarıyla kaydoldun. Gelen kutunu kontrol et: E-posta adresini onaylama bağlantısını içeren bir doğrulama e-postası almış olmalısın."
+    "singulars": {
+        "error": {
+            "genericError": "Bir şeyler ters gitti."
+        },
+        "success": {
+            "accountLinkedSuccessfully": "BMaC hesabı başarıyla bağlandı",
+            "bmacCheckForValidationCode": "Doğrulama kodu için girilen e-postanın gelen kutusunu kontrol et",
+            "loggedInSuccesssfully": "Başarıyla giriş yapıldı.",
+            "loggedOut": "Başarıyla çıkış yapıldı",
+            "passwordResetSent": "Şifre sıfırlama e-postası gönderildi",
+            "signedUpSuccessfully": "Başarıyla kaydoldun. Gelen kutunu kontrol et: E-posta adresini onaylama bağlantısını içeren bir doğrulama e-postası almış olmalısın.",
+            "resentSuccessfully": "Doğrulama e-postası başarıyla tekrar gönderildi",
+            "passwordChange": "Şifre başarıyla değiştirildi"
+        }
     }
-  }
 }
