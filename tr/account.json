@@ -2,7 +2,7 @@
   "singulars": {
     "accountLinking": {
       "codeFormFieldLabel": "E-posta ile alınan kod",
-      "firstSupportDate": "ilk destek tarihi {{ date }} ",
+      "firstSupportDate": "ilk destek tarihi: {{ date }}",
       "getCodeButton": "Kod al",
       "linkAccountButton": "Hesap bağla",
       "linkedStatus": "Bağlı",
