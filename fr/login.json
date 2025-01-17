@@ -15,8 +15,27 @@
         "passwordsDontMatch": "Les mots de passe ne correspondent pas",
         "missingConfirmation": "Cette adresse mail n'a pas encore été vérifiée. Assurez-vous de bien vérifier votre boîte mail et vos spams, ou faites une nouvelle demande de vérification en cliquant 0>ici</0>.",
         "verificationComplete": "Adresse mail vérifiée avec succès. Cliquez 0>ici</0> pour revenir à la page d'accueil.",
-        "verificationFailure": "La procédure de vérification de l'email s'est soldée par un échec. Pour résoudre le problème, suivee les étapes suivantes:",
+        "verificationFailure": "Quelque chose s'est mal passé lors de la procédure de vérification de l'adresse e-mail. Pour tenter de résoudre le problème, vous pouvez essayer les étapes suivantes :",
         "accessCodeFormLabel": "Code d'accès",
-        "emailOrUsernameFormLabel": "E-mail ou nom d'utilisateur"
+        "emailOrUsernameFormLabel": "E-mail ou nom d'utilisateur",
+        "verificationFix": {
+            "2": "Demander un nouvel e-mail de vérification en utilisant le formulaire ci-dessous.",
+            "3": "Contactez notre support via <0>contact@walkscape.app</0>",
+            "1": "Si vous avez copié le lien depuis l'e-mail, assurez-vous qu'il soit collé entièrement."
+        },
+        "resendButtonLabel": "Renvoyez un e-mail",
+        "special": {
+            "createTooltip": "En changeant la sélection, vous pouvez choisir d'obtenir un code spécial pour un nouveau compte ou un compte existant.",
+            "createToggle": "Créer un nouveau compte",
+            "alreadyHasBeta": "Les utilisateurs avec un accès à la Bêta ne peuvent pas demander un accès temporaire.",
+            "alreadyClaimed": "Ce compte a déjà obtenu un accès temporaire. Un compte ne peut obtenir qu'un seul code d'accès temporaire."
+        },
+        "claimCode": {
+            "title": "Obtenir un code spécial",
+            "button": "Obtenir un code"
+        },
+        "signup": {
+            "special": "Inscrivez-vous pour obtenir un compte avec un accès spécial à la bêta"
+        }
     }
 }
