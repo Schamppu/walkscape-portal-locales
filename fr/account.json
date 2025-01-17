@@ -50,11 +50,20 @@
       "notInvited": "Non invité",
       "applyButton": "Postuler pour l'accès à la bêta",
       "seeExistingApplication": "Voir la candidature",
-      "downloadButton": "Obtenir le jeu"
+      "downloadButton": "Obtenir le jeu",
+      "accessUntil": "Accès jusqu'au {{dateString}}",
+      "eligibleForNextWave": "Éligible à la prochaine vague",
+      "expiredModal": {
+        "title": "Votre accès temporaire a expiré",
+        "apply": "<betaApplicationLink>Postulant pour l'accès à la bêta</betaApplicationLink> et en attendant une invitation",
+        "description": "Merci d'avoir participé à la bêta fermée de WalkScape ! Votre accès temporaire a expiré, mais pas d'inquiétude, vous pouvez toujours continuer à jouer en :",
+        "support": "En nous soutenant sur <patreonLink>Patreon</patreonLink> ou <bmacLink>Buy Me a Coffee</bmacLink>, les supporters retrouvent leur accès immédiatement."
+      },
+      "accessExpired": "Accès expiré le {{dateString}}"
     },
     "betaDownloadInfo": {
       "dialogTitle": "Télécharger le client du jeu",
-      "termsOfServiceDisclaimer": "Avant de télécharger le jeu, veuillez lire les <tos>Conditions d'utilisation</tos> et les accepter.",
+      "termsOfServiceDisclaimer": "En cliquant sur \"Accepter\", vous acceptez de suivre les <tos>Conditions d'utilisation</tos> et les Règles du Jeu.",
       "acceptTermsButton": "Accepter",
       "android": {
         "title": "Pour les utilisateurs Android :",
@@ -65,6 +74,29 @@
       "ios": {
         "title": "Pour les utilisateurs iOS :",
         "instructions": "Si vous utilisez iOS, <testflightLink>cliquez sur ce lien pour rejoindre le TestFlight de WalkScape et télécharger le jeu</testflightLink>."
+      },
+      "gameRules": {
+        "1": {
+          "title": "Uniquement de vrais pas",
+          "description": "Dans WalkScape, les pas sont générés en marchant avec vos jambes. Nous nous opposons fermement à n'importe quelle autre méthode générant des pas sans marcher et dissuadons de les promouvoir au sein de notre communauté (Reddit, Portail, Discord). Les seules exceptions sont les situations dans lesquelles les jambes bougent naturellement de manière à compter comme des pas (tel que faire du vélo) et seulement dans la mesure où le rythme des pas est suffisamment bas pour ne pas être considéré comme un abus."
+        },
+        "title": "Règles du Jeu",
+        "2": {
+          "title": "1 appareil = 1 compte = 1 personne",
+          "description": "Nous nous attendons à seul joueur par compte et par appareil. Ne partagez ni votre appareil ni votre compte avec quiconque. L'utilisation d'émulateurs ou le fait de jouer sur plusieurs appareils simultanément n'est pas autorisé de même que l'ouverture de multiple instances du jeu sur le même appareil."
+        },
+        "4": {
+          "title": "Versions officielles uniquement",
+          "description": "Ne jouez qu'aux versions distribuées via les canaux officiels. N'essayez pas de créer vos propres bundles, compilations ou versions du jeu, ni télécharger ou partager des versions non-officielles fournies par un tiers."
+        },
+        "5": {
+          "title": "Soyez aimable :)",
+          "description": "WalkScape est un jeu social, qui se déroule dans un monde virtuel, mais avec des vraies personnes. Nous attendons de tous les Walkers qu'ils se traitent mutuellement avec respect, que ce soit dans le jeu, sur nos réseaux sociaux ou dans la vraie vie. Toutes formes de harcèlement ou de discrimination sont totalement proscrites."
+        },
+        "3": {
+          "title": "Signaler l'exploitation de bugs et les comportements négatifs",
+          "description": "Ne partagez et n'encouragez pas la triche ou l'exploitation de bugs avec d'autres joueurs. Si vous repérez des bugs majeurs ou des manières de les exploiter de façons abusives, signalez-les à l'équipe sur les canaux de signalement officiels ou en contactant un membre de l'équipe directement."
+        }
       }
     },
     "profilePhoto": {
@@ -77,18 +109,20 @@
       "title": "Changer votre nom d'utilisateur",
       "newUsernameLabel": "Nouveau nom d'utilisateur",
       "changeUsernameButton": "Changer le nom d'utilisateur",
-      "successMessage": "Nom d'utilisateur changé avec succès"
+      "successMessage": "Nom d'utilisateur modifié avec succès"
     },
     "passwordChange": {
       "title": "Changer votre mot de passe",
       "newPasswordLabel": "Nouveau mot de passe",
       "repeatPasswordLabel": "Répéter le mot de passe",
-      "changePasswordButton": "Changer le mot de passe"
+      "changePasswordButton": "Changer le mot de passe",
+      "unauthenticated": "Une authentification est requise",
+      "prompt": "Veuillez mettre à jour votre mot de passe !"
     },
     "subscriptionStateDisclaimer": "L'état de l'abonnement peut prendre jusqu'à 1 heure pour se rafraîchir.",
     "general": {
       "seeFull": "Voir le profil complet",
-      "joinedOn": "Rejoint le:"
+      "joinedOn": "A rejoint le :"
     },
     "privacy": {
       "profileVisibility": "Visibilité du profil",
@@ -98,10 +132,22 @@
       "friends": "Amis seulement"
     },
     "meta": {
-      "description": "Consulte le profil de {{username}}!"
+      "description": "Consulte le profil de {{username}} !"
     },
     "thankYou": {
-      "title": "Merci pour votre soutien !"
+      "title": "Merci pour votre soutien !",
+      "body-3": "Merci !",
+      "understand": "Je comprends",
+      "body-1": "Votre nouveau statut devrait être visible immédiatement sur la page du compte, mais dans certains cas cela peut prendre environ deux heures pour que la synchronisation soit complète. Dans ce cas vous recevrez un email quand votre status aura changé ou si vous êtes sélectionné pour la bêta.",
+      "body-2": "Si vous n'avez pas reçu d'email après quelques heures, vérifiez que l'adresse email que vous avez saisie est la même que celle utilisée sur Patreon ou Buy me a Coffee et recréer le lien."
+    },
+    "sections": {
+      "friends": "Amis",
+      "friendInvites": "Invitations d'ami en attentes"
+    },
+    "users": {
+      "found": "{{countStr}} utilisateur(s) trouvé(s)",
+      "enterSearch": "Saisir la recherche"
     }
   },
   "plurals": {
