@@ -1,15 +1,81 @@
 {
-  "singulars": {
-    "success": {
-      "signedUpSuccessfully": "Inscription réussie. Assurez-vous de vérifier votre email : vous devriez recevoir un email de vérification avec un lien à cliquer pour confirmer votre adresse e-mail.",
-      "loggedInSuccesssfully": "Connecté avec succès.",
-      "passwordResetSent": "Email de réinitialisation du mot de passe envoyé",
-      "bmacCheckForValidationCode": "Vérifiez la boîte de réception de l'email saisi pour le code de validation",
-      "accountLinkedSuccessfully": "Compte Bmac lié avec succès",
-      "loggedOut": "Déconnecté avec succès."
-    },
-    "error": {
-      "genericError": "Quelque chose s'est mal passé."
+    "singulars": {
+        "success": {
+            "signedUpSuccessfully": "Inscription réussie. Assurez-vous de vérifier votre email : vous devriez recevoir un email de vérification avec un lien à cliquer pour confirmer votre adresse e-mail.",
+            "loggedInSuccesssfully": "Connecté avec succès.",
+            "passwordResetSent": "Email de réinitialisation du mot de passe envoyé",
+            "bmacCheckForValidationCode": "Vérifiez la boîte de réception de l'email saisi pour le code de validation",
+            "accountLinkedSuccessfully": "Compte Bmac lié avec succès",
+            "loggedOut": "Déconnecté avec succès",
+            "passwordChange": "Mot de passe modifié avec succès",
+            "friendInvites": {
+                "accept": "Invitation d'ami acceptée",
+                "block": "Utilisateur bloqué",
+                "reject": "Invitation d'ami supprimée"
+            },
+            "posts": {
+                "delete": "Publication supprimée",
+                "edit": "Publication actualisée"
+            },
+            "claimCode": {
+                "withLogin": "Code obtenu avec succès",
+                "withoutLogin": "Code obtenu avec succès. Veuillez vous connecter pour télécharger le jeu."
+            },
+            "comments": {
+                "delete": "Commentaire supprimé",
+                "edit": "Commentaire actualisé"
+            },
+            "discordLink": "Discord lié avec succès",
+            "resentSuccessfully": "E-mail de vérification renvoyé avec succès",
+            "avatarUpload": "Image de profil actualisée. Parfois les changements peuvent mettre du temps à apparaître."
+        },
+        "error": {
+            "genericError": "Quelque chose s'est mal passé.",
+            "passwordChange": "L'actualisation du mot de passe a échoué",
+            "passwordReset": "L'e-mail de récupération n'a pas pu être envoyé",
+            "networkCode": {
+                "2002": "Non autorisé",
+                "2002-banned": "Ce compte a été banni de WalkScape. Pour faire appel à cette décision, contactez le support via <0>contact@walkscape.app</0>.",
+                "3016": "Paramètres de requête manquants",
+                "0000": "Quelque chose s'est mal passé",
+                "3000": "Ce nom d'utilisateur est déjà pris",
+                "3001": "Cet e-mail est déjà utilisé.",
+                "3002": "Code spécial incorrect",
+                "3003": "La session a expiré",
+                "3004": "Session invalide",
+                "3005": "Aucun personnage existant",
+                "3007": "La sauvegarde a échoué",
+                "3008": "La publication a échoué",
+                "3010": "La connexion a échoué",
+                "3011": "Identifiants invalides. Veuillez vous assurer que l'e-mail/nom d'utilisateur et mot de passe utilisés sont corrects.",
+                "3012": "Nom de personnage incorrect",
+                "3013": "L'enregistrement a échoué",
+                "3015": "Aucun donnée",
+                "3015-post": "La publication n'existe pas",
+                "3017": "Propriétés du body malformatées",
+                "3014": "Propriétés manquantes dans le body de la requête",
+                "3018": "La requête a expiré",
+                "3019-b": "Nom d'utilisateur invalide : Les espaces consécutifs ne sont pas autorisées",
+                "3019-c": "Nom d'utilisateur invalide : Le nom d'utilisateur doit faire au moins 3 lettres de long.",
+                "3019-e": "Nom d'utilisateur invalide : Le nom d'utilisateur ne peut contenir que des lettres, des chiffres et des espaces",
+                "3020": "L'e-mail spécifié ne correspond à aucun compte existant",
+                "3021": "Cette adresse e-mail a déjà été confirmée",
+                "3022": "Le code temporaire est invalide",
+                "3023": "L'invitation n'existe pas",
+                "3024": "Mauvaise chaîne de recherche",
+                "3025": "Le code n'a pas pu être obtenu",
+                "3025-a": "L'utilisateur a déjà accès à la bêta",
+                "3025-b": "L'utilisateur a déjà obtenu un code spécial par le passé",
+                "3009": "L'image n'a pas pu être téléchargée",
+                "3019-d": "Nom d'utilisateur invalide : Le nom d'utilisateur doit contenir au moins 3 caractères n'étant pas des espaces",
+                "3019": "Nom d'utilisateur incorrect",
+                "3024-a": "La chaîne de recherche doit contenir au moins 3 caractères non spéciaux",
+                "3006": "La suppression du personnage a échoué",
+                "3019-a": "Nom d'utilisateur invalide : Les espaces en début ou en fin de chaîne ne sont pas autorisés",
+                "1002": "Le personnage n'existe pas",
+                "3010-a": "L'adresse e-mail n'a pas été vérifiée. Veuillez consulter votre boite de réception."
+            },
+            "expiredToken": "La tentative de connexion a expiré"
+        }
     }
-  }
 }
