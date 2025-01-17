@@ -35,7 +35,7 @@
       "linkSuccessMessage": "Compte Patreon lié avec succès",
       "login": "Se connecter avec Patreon",
       "failed": "Échec de la connexion au compte Patreon.",
-      "return": "Retour à la page du Compte",
+      "return": "Retour à la page Compte",
       "inProgress": "Connexion avec Patreon...",
       "recommendation": "Nous recommandons de relier les comptes en se connectant avec Patreon. Si cela ne fonctionne pas, essayez de vous connecter en utilisant le formulaire ci-dessous.",
       "troubleshoot": "Assurez-vous d'être membre du <patreonLink>WalkScape Patreon</patreonLink> avant de relier les comptes.",
@@ -132,7 +132,7 @@
       "friends": "Amis seulement"
     },
     "meta": {
-      "description": "Consulte le profil de {{username}} !"
+      "description": "Consulte le profil de {{username}} !"
     },
     "thankYou": {
       "title": "Merci pour votre soutien !",
