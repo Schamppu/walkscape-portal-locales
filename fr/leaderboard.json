@@ -1,30 +1,43 @@
 {
-  "singulars": {
-    "filterOptions": {
-      "total_steps": "Nombre total de pas",
-      "total_xp": "XP total",
-      "total_level": "Niveau total",
-      "mining": "Minage",
-      "agility": "Agilité",
-      "cooking": "Cuisine",
-      "fishing": "Pêche",
-      "crafting": "Artisanat",
-      "foraging": "Cueillette",
-      "smithing": "Forge",
-      "carpentry": "Menuiserie",
-      "woodcutting": "Bûcheronnage"
+    "singulars": {
+        "filterOptions": {
+            "total_steps": "Nombre total de pas",
+            "total_xp": "XP total",
+            "total_level": "Niveau total",
+            "mining": "Minage",
+            "agility": "Agilité",
+            "cooking": "Cuisine",
+            "fishing": "Pêche",
+            "crafting": "Artisanat",
+            "foraging": "Cueillette",
+            "smithing": "Forge",
+            "carpentry": "Menuiserie",
+            "woodcutting": "Bûcheronnage",
+            "short": {
+                "mining": "MNG",
+                "carpentry": "CHR",
+                "woodcutting": "ABT",
+                "agility": "AGI",
+                "cooking": "CUI",
+                "crafting": "ART",
+                "foraging": "REC",
+                "fishing": "PCH",
+                "smithing": "FRG"
+            },
+            "achievement_points": "Points de haut-faits"
+        },
+        "loading": "Chargement...",
+        "avatarOfPlayer": "Avatar de {{player}}",
+        "filters": {
+            "all": "Tous",
+            "friends": "Amis"
+        }
     },
-    "loading": "Chargement...",
-    "avatarOfPlayer": "Avatar de {{player}}"
-  },
-  "plurals": {
-    "pageNumber": {
-      "key_zero": "",
-      "key_one": "Page 1",
-      "key_two": "",
-      "key_few": "",
-      "key_many": "",
-      "key_other": "Page {{count}}"
+    "plurals": {
+        "pageNumber": {
+            "key_one": "Page 1",
+            "key_many": "",
+            "key_other": "Page {{count}}"
+        }
     }
-  }
 }
