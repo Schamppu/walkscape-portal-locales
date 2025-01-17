@@ -20,6 +20,22 @@
                 "message": "Cette action ne peut pas être annulée. Cela supprimera définitivement ce {{ type }}.",
                 "confirmButton": "Oui, supprimer {{ type }}",
                 "cancelButton": "Annuler"
+            },
+            "cancelInvite": {
+                "confirm": "Oui, annuler l'invitation",
+                "description": "Êtes-vous sûrs de vouloir annuler cette demande d'ami ?"
+            },
+            "removeFriend": {
+                "confirm": "Oui, supprimer l'ami",
+                "description": "Êtes-vous sûr de vouloir supprimer cet ami ?"
+            },
+            "unblock": {
+                "confirm": "Oui, débloquer l'utilisateur",
+                "description": "Êtes-vous sûr de vouloir débloquer cet utilisateur ?"
+            },
+            "block": {
+                "confirm": "Oui, bloquer l'utilisateur",
+                "description": "Êtes-vous sûr de vouloir bloquer cet utilisateur ? Les utilisateurs bloqués ne peuvent plus vous envoyer d'invitations."
             }
         },
         "posts": {
@@ -31,14 +47,18 @@
                 "previewLabel": "Aperçu :",
                 "postContentPlaceholder": "Tapez votre post ici",
                 "addPostButton": "Ajouter le post"
-            }
+            },
+            "scheduled": "programmé"
         },
         "userActions": {
             "viewInvite": "Voir l'invitation",
             "viewProfile": "Voir le profil",
-            "sendInvite": "Envoyer une invitation à un ami",
-            "cancelInvite": "Annuler l'invitation",
-            "removeFriend": "Supprimer un ami"
+            "sendInvite": "Envoyer une demande d'ami",
+            "cancelInvite": "Annuler la demande d'ami",
+            "removeFriend": "Supprimer un ami",
+            "unblock": "Débloquer l'utilisateur",
+            "share": "Partager le profil",
+            "block": "Bloquer l'utilisateur"
         },
         "characters": "Personnages",
         "cookieConsent": {
@@ -46,6 +66,18 @@
         },
         "buttons": {
             "ok": "OK"
+        },
+        "badges": {
+            "beta": "Bêta",
+            "blocked": "Bloqué",
+            "inviteReceived": "Invitation reçue",
+            "inviteSent": "Invitation envoyée",
+            "friends": "Amis"
+        },
+        "invite": {
+            "reject": "Refuser",
+            "block": "Bloquer",
+            "accept": "Accepter"
         }
     },
     "plurals": {
