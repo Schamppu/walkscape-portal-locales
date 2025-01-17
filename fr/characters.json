@@ -1,1 +1,19 @@
-{}
+{
+    "singulars": {
+        "meta": {
+            "description": "{{characterName}} (niv. total {{totalLevel}}) a fait {{totalSteps}} pas et gagné {{totalXp}} xp"
+        },
+        "title": "Personnages",
+        "settings": {
+            "title": "Paramètres du personnage",
+            "anonOnLeaderboard": {
+                "label": "Anonymiser dans le classement",
+                "tip": "Quand sélectionné, remplace le nom de ce personnage par \"Marcheur anonyme\" dans le classement. Note : si la visibilité de votre profil est réglée sur \"Amis uniquement\", alors vos amis pourront toujours voir le nom du personnage dans le classement."
+            },
+            "hideSteps": {
+                "label": "Masquer les pas",
+                "tip": "Quand sélectionné, masque le nombre total de pas de ce personnage aux autres utilisateurs. Ce personnage sera aussi absent du classement par total de pas."
+            }
+        }
+    }
+}
