@@ -8,7 +8,7 @@
             "title": "Paramètres du personnage",
             "anonOnLeaderboard": {
                 "label": "Anonymiser dans le classement",
-                "tip": "Quand sélectionné, remplace le nom de ce personnage par \"Marcheur anonyme\" dans le classement. Note : si la visibilité de votre profil est réglée sur \"Amis uniquement\", alors vos amis pourront toujours voir le nom du personnage dans le classement."
+                "tip": "Quand sélectionné, remplace le nom de ce personnage par \"Marcheur anonyme\" sur les classements. Note : si la visibilité de votre profil est réglée sur \"Amis uniquement\", alors vos amis pourront toujours voir le nom du personnage sur les classements."
             },
             "hideSteps": {
                 "label": "Masquer les pas",
