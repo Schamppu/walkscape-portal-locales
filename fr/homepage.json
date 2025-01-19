@@ -1,11 +1,11 @@
 {
     "singulars": {
-        "welcomeMessage": "Bienvenue sur le portail WalkScape",
-        "linkToSite": "Le portail WalkScape est un portail social associé au jeu <wsSite>WalkScape</wsSite>.",
+        "welcomeMessage": "Bienvenue sur WalkScape Portal",
+        "linkToSite": "WalkScape Portal est un portail social associé au jeu <wsSite>WalkScape</wsSite>.",
         "infoSection": {
             "title": "Informations importantes concernant la bêta fermée",
             "closedBetaAccess": "Une bêta fermée est en cours actuellement, et nous acceptons régulièrement de nouveaux joueurs lors des vagues d'invitations.",
-            "betaLinking": "Si vous nous soutenez, ou nous avez soutenu à un moment donné sur <patreonLink>Patreon</patreonLink> ou <bmacLink>Buy Me a Coffee</bmacLink>, vous avez un accès garanti au jeu lors des prochaines vagues de distribution d'accès Bêta. Pour cela, vous devez lier votre compte Portail à ces services sur la <accountLink>page Compte </accountLink>. Vous pouvez aussi soumettre une candidature afin de postuler et avoir une chance d'être sélectionné pour la prochaine vague, même si vous ne nous soutenez pas."
+            "betaLinking": "Si vous nous soutenez, ou nous avez soutenu à un moment donné sur <patreonLink>Patreon</patreonLink> ou <bmacLink>Buy Me a Coffee</bmacLink>, vous avez un accès garanti au jeu lors des prochaines vagues de distribution d'accès Bêta. Pour cela, vous devez lier votre compte Portal à ces services sur la <accountLink>page Compte </accountLink>. Vous pouvez aussi soumettre une candidature afin de postuler et avoir une chance d'être sélectionné pour la prochaine vague, même si vous ne nous soutenez pas."
         },
         "statsSection": {
             "title": "Quelques statistiques amusantes :"
