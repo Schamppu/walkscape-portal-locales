@@ -4,7 +4,7 @@
         "linkToSite": "Le portail WalkScape est un portail social associé au jeu <wsSite>WalkScape</wsSite>.",
         "infoSection": {
             "title": "Informations importantes concernant la bêta fermée",
-            "closedBetaAccess": "La bêta fermée sortira le 18 janvier 2024. Vous pouvez sécuriser votre accès à la bêta fermée en soutenant le jeu sur <patreonLink>Patreon</patreonLink> ou <bmacLink>Buy Me A Coffee</bmacLink>, ou en postulant à la bêta fermée via le formulaire de candidature en tant qu'utilisateur enregistré sur le portail (vous trouverez le bouton dans votre page de compte).",
+            "closedBetaAccess": "Une bêta fermée est en cours actuellement, et nous acceptons régulièrement de nouveaux joueurs lors des vagues d'invitations.",
             "betaLinking": "Si vous nous soutenez, ou nous avez soutenu à un moment donné sur <patreonLink>Patreon</patreonLink> ou <bmacLink>Buy Me a Coffee</bmacLink>, vous avez un accès garanti au jeu lors des prochaines vagues de distribution d'accès Bêta. Pour cela, vous devez lier votre compte Portail à ces services sur la <accountLink>page Compte </accountLink>. Vous pouvez aussi soumettre une candidature afin de postuler et avoir une chance d'être sélectionné pour la prochaine vague, même si vous ne nous soutenez pas."
         },
         "statsSection": {
@@ -12,7 +12,7 @@
         },
         "systemMessages": "Messages système",
         "newUser": {
-            "title": "Bienvenue, {{username}} !",
+            "title": "Bienvenue, {{username}} !",
             "description": "Merci de vous être inscrits sur WalkScape ! Pour finir de configurer votre compte, rendez-vous sur la <accountLink> page Compte</accountLink> pour connecter votre compte Patreon/Buy Me A Coffee ou postulez pour rejoindre la bêta fermée. Bonne marche et n'oubliez pas de vous hydrater !"
         }
     },
