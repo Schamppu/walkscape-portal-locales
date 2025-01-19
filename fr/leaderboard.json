@@ -15,12 +15,12 @@
             "woodcutting": "Bûcheronnage",
             "short": {
                 "mining": "MNG",
-                "carpentry": "CHR",
+                "carpentry": "MEN",
                 "woodcutting": "BUC",
                 "agility": "AGI",
                 "cooking": "CUI",
                 "crafting": "ART",
-                "foraging": "REC",
+                "foraging": "CUE",
                 "fishing": "PCH",
                 "smithing": "FRG"
             },
