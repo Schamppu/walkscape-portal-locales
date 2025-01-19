@@ -55,7 +55,7 @@
             "loggedOut": "Succesvol uitgelogd",
             "passwordResetSent": "E-mail om wachtwoord opnieuw in te stellen verzonden",
             "signedUpSuccessfully": "Succesvol aangemeld. Zorg ervoor dat je je e-mail controleert: je zou een verificatiemail moeten ontvangen met een link waarop je kunt klikken om je e-mailadres te bevestigen.",
-            "passwordChange": "Wachtwoord veranderen gelukt",
+            "passwordChange": "Wachtwoord succesvol veranderd",
             "friendInvites": {
                 "reject": "Vriendverzoek verwijderd",
                 "accept": "Vriendverzoek geaccepteerd",
