@@ -15,6 +15,7 @@
     "alreadyHaveAnAccountPrompt": "Already have an account? Log in",
     "signUpLinkLabel": "Don't have an account? Sign up",
     "passwordsDontMatch": "Passwords don't match",
+    "usernamePrivacyNotification": "The username is a handle that is openly visible to users of this website. Do not enter your name or other identifiable information as your username.",
     "missingConfirmation": "This email address has not yet been verified. Make sure to check your inbox and spam folders, or request a new verification email by clicking <0>here</0>.",
     "verificationComplete": "Email address successfully verified! Click <0>here</0> to return to the home page.",
     "verificationFailure": "Something went wrong with the email verification process. To fix the issue, you can try the following steps:",
