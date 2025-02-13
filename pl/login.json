@@ -36,6 +36,7 @@
             "alreadyClaimed": "To konto odebrało już tymczasowy dostęp. Konto może odebrać tylko tymczasowy kod dostępu.",
             "createToggle": "Stwórz nowe konto",
             "createTooltip": "Przełączając wybór, możesz ubiegać się o specjalny kod na nowym lub istniejącym koncie."
-        }
+        },
+        "usernamePrivacyNotification": "Nazwa użytkownika to identyfikator, który jest jawnie widoczny dla użytkowników tej strony i innych graczy WalkScape. Nie powinieneś używać swojego prawdziwego imienia lub innych nazw, które mogą być powiązane z Twoją prawdziwą osobą."
     }
 }
