@@ -37,6 +37,6 @@
             "createToggle": "Nieuw account aanmaken",
             "createTooltip": "Door de keuze te veranderen, kun je kiezen om de speciale code voor een nieuw of bestaand account te claimen."
         },
-        "usernamePrivacyNotification": "De gebruikersnaam is een identificatie die openlijk zichtbaar is voor gebruikers van deze website. Voer niet je naam of andere identificeerbare informatie in als je gebruikersnaam."
+        "usernamePrivacyNotification": "De gebruikersnaam is openlijk zichtbaar is voor gebruikers van deze website en andere spelers van WalkScape. Voer niet je echte naam of andere identificeerbare informatie in als je gebruikersnaam."
     }
 }
