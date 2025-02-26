@@ -132,6 +132,16 @@
       "changeUsernameButton": "Change username",
       "successMessage": "Username changed successfully"
     },
+    "emailChange": {
+      "title": "Change email address",
+      "newEmailLabel": "New email",
+      "buttonLabel": "Change email",
+      "emptyEmailError": "Email cannot be empty",
+      "relogin": "Please <0>log in</0> again.",
+      "successMessage": "Email successfully updated",
+      "errorMessage": "Email could not be updated",
+      "inProgress": "Updating email..."
+    },
     "passwordChange": {
       "title": "Change your password",
       "newPasswordLabel": "New password",
