@@ -27,7 +27,9 @@
                 "withoutLogin": "Kod został pomyślnie odebrany. Zaloguj się, aby pobrać grę."
             },
             "discordLink": "Discord został pomyślnie połączony",
-            "avatarUpload": "Zaktualizowano zdjęcie profilowe. Czasami pojawienie się zmian zajmuje trochę czasu."
+            "avatarUpload": "Zaktualizowano zdjęcie profilowe. Czasami pojawienie się zmian zajmuje trochę czasu.",
+            "updateEmailTokenSent": "Sukces. Wiadomość z linkiem weryfikacyjnym została wysłana na nowy adres e-mail.",
+            "emailChanged": "Adres e-mail został pomyślnie zaktualizowany. Zaloguj się ponownie."
         },
         "error": {
             "passwordReset": "Nie można wysłać maila odzyskującego",
