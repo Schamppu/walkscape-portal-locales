@@ -148,7 +148,17 @@
       "enterSearch": "Wprowadź wyszukiwanie",
       "found": "{{countStr}} znalezionych użytkowników"
     },
-    "subscriptionStateDisclaimer": "Zmiana stanu subskrypcji może zająć do godziny."
+    "subscriptionStateDisclaimer": "Zmiana stanu subskrypcji może zająć do godziny.",
+    "emailChange": {
+      "newEmailLabel": "Nowy e-mail",
+      "emptyEmailError": "Pole e-mail nie może być puste",
+      "relogin": "Proszę <0>zaloguj się</0> ponownie.",
+      "successMessage": "E-mail został pomyślnie zaktualizowany",
+      "inProgress": "Aktualizacja e-mail...",
+      "buttonLabel": "Zmień e-mail",
+      "title": "Zmień adres e-mail",
+      "errorMessage": "Nie można zaktualizować adresu e-mail"
+    }
   },
   "plurals": {
     "closedBetaStatus": {
