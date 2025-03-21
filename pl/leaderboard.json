@@ -24,7 +24,8 @@
                 "smithing": "KOW",
                 "woodcutting": "CD",
                 "carpentry": "STO"
-            }
+            },
+            "trinketry": "Jubilerstwo"
         },
         "filters": {
             "all": "Wszystkie",
