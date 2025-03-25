@@ -36,6 +36,7 @@
         },
         "signup": {
             "special": "Inscrivez-vous pour obtenir un compte avec un accès spécial à la bêta"
-        }
+        },
+        "usernamePrivacyNotification": "Le nom d'utilisateur est un identifiant qui est ouvertement visible par les utilisateurs de ce site web et les autres joueurs de WalkScape. Vous ne devez pas utiliser votre vrai nom ou d'autres noms qui peuvent être liés à votre vraie personne."
     }
 }
