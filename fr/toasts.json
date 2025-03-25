@@ -27,7 +27,9 @@
             },
             "discordLink": "Discord lié avec succès",
             "resentSuccessfully": "E-mail de vérification renvoyé avec succès",
-            "avatarUpload": "Image de profil actualisée. Parfois les changements peuvent mettre du temps à apparaître."
+            "avatarUpload": "Image de profil actualisée. Parfois les changements peuvent mettre du temps à apparaître.",
+            "updateEmailTokenSent": "Succès. Un message contenant un lien de vérification a été envoyé au nouvel e-mail.",
+            "emailChanged": "E-mail mis à jour avec succès. Veuillez-vous reconnecter."
         },
         "error": {
             "genericError": "Quelque chose s'est mal passé.",
