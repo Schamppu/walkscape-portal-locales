@@ -148,6 +148,16 @@
     "users": {
       "found": "{{countStr}} utilisateur(s) trouvé(s)",
       "enterSearch": "Saisir la recherche"
+    },
+    "emailChange": {
+      "buttonLabel": "Modifier l'adresse mail",
+      "title": "Modifier l'adresse mail",
+      "newEmailLabel": "Nouvelle adresse mail",
+      "emptyEmailError": "L'adresse mail ne peut pas être vide",
+      "successMessage": "Adresse mail mise à jour avec succès",
+      "errorMessage": "L'adresse mail n'a pas pu être mise à jour",
+      "inProgress": "Mise à jour de l'adresse mail...",
+      "relogin": "Veuillez vous <0>connecter</0> à nouveau"
     }
   },
   "plurals": {
