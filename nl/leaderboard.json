@@ -31,7 +31,8 @@
                 "carpentry": "TMM",
                 "woodcutting": "HH"
             },
-            "achievement_points": "Prestatiepunten"
+            "achievement_points": "Prestatiepunten",
+            "trinketry": "Sierraderij"
         },
         "loading": "Aan het laden...",
         "filters": {
