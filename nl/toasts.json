@@ -75,7 +75,9 @@
             "claimCode": {
                 "withLogin": "Code succesvol geclaimd",
                 "withoutLogin": "Code succesvol geclaimd. Log a.u.b. in om het spel te downloaden."
-            }
+            },
+            "updateEmailTokenSent": "Gelukt. Er is een bericht met een verificatielink gestuurd naar het nieuwe e-mailadres.",
+            "emailChanged": "E-mailadres succesvol geüpdatet. Log a.u.b. opnieuw in."
         }
     }
 }
