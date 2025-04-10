@@ -156,6 +156,16 @@
     },
     "meta": {
       "description": "Bekijk {{username}}'s profiel!"
+    },
+    "emailChange": {
+      "newEmailLabel": "Nieuw e-mailadres",
+      "buttonLabel": "E-mailadres wijzigen",
+      "relogin": "<0>Log a.u.b. opnieuw in</0>.",
+      "successMessage": "E-mailadres succesvol bijgewerkt",
+      "inProgress": "E-mailadres wordt bijgewerkt...",
+      "errorMessage": "E-mailadres kon niet bijgewerkt worden",
+      "title": "E-mailadres wijzigen",
+      "emptyEmailError": "E-mailadres mag niet leeg zijn"
     }
   }
 }
