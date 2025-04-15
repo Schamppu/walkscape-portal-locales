@@ -37,7 +37,7 @@
     "plurals": {
         "pageNumber": {
             "key_one": "Page 1",
-            "key_many": "",
+            "key_many": "Page {{count}}",
             "key_other": "Page {{count}}"
         }
     }
