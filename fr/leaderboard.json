@@ -24,7 +24,8 @@
                 "fishing": "PCH",
                 "smithing": "FRG"
             },
-            "achievement_points": "Points de succès"
+            "achievement_points": "Points de succès",
+            "trinketry": "Joaillerie"
         },
         "loading": "Chargement...",
         "avatarOfPlayer": "Avatar de {{player}}",
