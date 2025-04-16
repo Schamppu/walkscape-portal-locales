@@ -22,6 +22,9 @@
             "title": "Hauskoja tilastoja:"
         },
         "welcomeMessage": "Tervetuloa WalkScape Portaliin",
-        "systemMessages": ""
+        "systemMessages": "",
+        "newUser": {
+            "title": "Tervetuloa, {{username}}!"
+        }
     }
 }
