@@ -23,6 +23,9 @@
         "title": "Beta-hakemus",
         "landing": {
             "title": "Onnittelut Walkscapeen ilmoittautumisesta!"
+        },
+        "specialLanding": {
+            "description": "Voit kokeilla suljetun betan versiota rajoitetun ajan. Kokeilusi päättyy {{endDate}}."
         }
     }
 }
