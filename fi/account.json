@@ -12,7 +12,7 @@
       "codeFormFieldLabel": "Sähköpostitse saatu koodi",
       "firstSupportDate": "ensimmäinen pelin tukemismaksutapahtuma {{ date }}",
       "getCodeButton": "Lähetä koodi",
-      "linkAccountButton": "Yhdistä tili",
+      "linkAccountButton": "Linkitä tili",
       "linkedStatus": "Linkitetty",
       "noSubscription": "Ei tilausta",
       "notLinkedStatus": "Ei linkitetty",
@@ -39,16 +39,28 @@
       "statusTitle": "BMaC:"
     },
     "closedBetaStatus": {
-      "applyButton": "Hae betaan",
+      "applyButton": "Hae käyttöoikeutta betaan",
       "downloadButton": "Hanki peli",
       "invitedStatus": "Kutsuttu",
       "notInvited": "Ei kutsuttu",
       "seeExistingApplication": "Katso hakemus",
-      "title": "Suljettu beta:"
+      "title": "Suljettu beta:",
+      "accessUntil": "Käyttöoikeus {{dateString}} asti",
+      "eligibleForNextWave": "Oikeutettu seuraavaan aaltoon",
+      "accessExpired": "Käyttöoikeus umpeutui {{dateString}}",
+      "expiredModal": {
+        "title": "Väliaikainen käyttöoikeutesi on vanhentunut",
+        "description": "Kiitos osuudestasi WalkScapen suljettuun betaan! Väliaikainen käyttöoikeutesi on umpeutunut, mutta ei syytä huoleen, voit jatkaa pelaamista:"
+      }
     },
     "discordLink": {
       "linkButton": "Linkitä Discord",
-      "title": "Discord:"
+      "title": "Discord:",
+      "joinDiscord": "Liity Discordiin",
+      "success": "Discord linkitetty onnistuneesti!",
+      "relogin": "Ole hyvä ja <0>kirjaudu sisään</0> uudestaan",
+      "failed": "Discordin linkittäminen epäonnistui. Ole hyvä ja yritä myöhemmin uudelleen.",
+      "inProgress": "Linkitetään Discordia..."
     },
     "header": {
       "introduction": "Hei {{ username }}"
@@ -64,7 +76,16 @@
       "emailInputLabel": "Patreon-tilisi sähköpostiosoite",
       "linkInstructions": "Linkitä Patreon-tili",
       "linkSuccessMessage": "Patreon-tili linkitetty onnistuneesti",
-      "title": "Patreon:"
+      "title": "Patreon:",
+      "success": {
+        "title": "Patreon linkitetty onnistuneesti!"
+      },
+      "login": "Kirjaudu sisään käyttäen Patreonia",
+      "return": "Palaa Käyttäjä sivulle",
+      "inProgress": "Linkataan Patreonia...",
+      "recommendation": "Suosittelemme käyttäjätunnusten linkittämistä kirjautumalla Patreoniin. Mikäli tämä ei toimi, yritä linkittämistä alla olevan lomakkeen avulla.",
+      "failed": "Patreon-tunnuksen linkittäminen epäonnistui.",
+      "troubleshoot": "Varmista, että olet <patreonLink> WalkScape Patreon</patreonLink> jäsen ennen tunnusten linkittämistä."
     },
     "profilePhoto": {
       "changeButton": "Vaihda profiilikuvaa",
@@ -78,6 +99,25 @@
       "newUsernameLabel": "Uusi käyttäjätunnus",
       "successMessage": "Käyttäjätunnus vaihdettu onnistuneesti",
       "title": "Vaihda käyttäjätunnuksesi"
+    },
+    "general": {
+      "joinedOn": "Liittynyt:",
+      "seeFull": "Katso koko profiili"
+    },
+    "thankYou": {
+      "body-3": "Kiitos!",
+      "understand": "Ymmärrän",
+      "title": "Kiitos tuestasi!"
+    },
+    "privacy": {
+      "title": "Yksityisyysasetukset",
+      "profileVisibility": "Profiilin näkyvyys",
+      "private": "Yksityinen",
+      "friends": "Vain ystävät",
+      "public": "Julkinen"
+    },
+    "meta": {
+      "description": "Katso {{username}} profiili!"
     }
   }
 }
