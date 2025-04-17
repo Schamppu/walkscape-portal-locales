@@ -31,7 +31,17 @@
         "instructions": "Jos käytät iOS:ää <testflightLink>klikkaa tätä linkkiä liittyäksesi WalkScapen TestFlight-ohjelmaan ja ladataksesi pelin</testflightLink>.",
         "title": "iOS-käyttäjille:"
       },
-      "termsOfServiceDisclaimer": "Ennen kuin lataat pelin, lue <tos>Pelin käyttöehdot</tos> ja hyväksy ne."
+      "termsOfServiceDisclaimer": "Ennen kuin lataat pelin, lue <tos>Pelin käyttöehdot</tos> ja hyväksy ne.",
+      "gameRules": {
+        "title": "Pelisäännöt",
+        "1": {
+          "title": "Vain oikeasti käveltyjä askeleita"
+        },
+        "2": {
+          "title": "1 laite = 1 käyttäjätunnus = 1 henkilö",
+          "description": "Oletamme yhden pelaajan pelaavan yhdellä laitteella. Älä jaa laitettasi tai käyttäjätunnustasi kenellekkään. Emulaattoreiden käyttäminen tai usealla laitteella pelaaminen samanaikaisesti ei ole sallittua. Älä käynnistä useampaa kuin yhtä samanaikaista peli-instanssia laitteelle."
+        }
+      }
     },
     "bmac": {
       "emailFormFieldLabel": "BMaC-tilisi sähköpostiosoite",
@@ -50,7 +60,8 @@
       "accessExpired": "Käyttöoikeus umpeutui {{dateString}}",
       "expiredModal": {
         "title": "Väliaikainen käyttöoikeutesi on vanhentunut",
-        "description": "Kiitos osuudestasi WalkScapen suljettuun betaan! Väliaikainen käyttöoikeutesi on umpeutunut, mutta ei syytä huoleen, voit jatkaa pelaamista:"
+        "description": "Kiitos osuudestasi WalkScapen suljettuun betaan! Väliaikainen käyttöoikeutesi on umpeutunut, mutta ei syytä huoleen, voit jatkaa pelaamista:",
+        "support": "Tukemalla meitä <patreonLink>Patreonissa</patreonLink> tai<bmacLink>Buy Me a Coffee</bmacLink> -palvelussa. Tukijat saavat käyttöoikeuden välittömästi."
       }
     },
     "discordLink": {
@@ -78,7 +89,8 @@
       "linkSuccessMessage": "Patreon-tili linkitetty onnistuneesti",
       "title": "Patreon:",
       "success": {
-        "title": "Patreon linkitetty onnistuneesti!"
+        "title": "Patreon linkitetty onnistuneesti!",
+        "body": "Pelin käyttöoikeus myönnetään aalloissa. Mikäli aalto on käynnissä, voit ladata pelin käyttäjäsivultasi. Muulloin ilmoitamme sähköpostilla, kun käyttoikeus on myönnetty. Huomioithan, että tietojen päivittyminen käyttäjäsivulle saattaa vaatia sivun päivityksen tai uudelleenkirjautumisen."
       },
       "login": "Kirjaudu sisään käyttäen Patreonia",
       "return": "Palaa Käyttäjä sivulle",
@@ -107,7 +119,9 @@
     "thankYou": {
       "body-3": "Kiitos!",
       "understand": "Ymmärrän",
-      "title": "Kiitos tuestasi!"
+      "title": "Kiitos tuestasi!",
+      "body-2": "Mikäli et saa sähköpostia muutaman tunnin sisällä, tarkista, että syöttämäsi sähköpostiosoite on sama osoite, kuin Patreonissa tai Buy me a Coffee -palvelussa käyttämäsi.",
+      "body-1": "Uuden tukijastatuksesi tulisi heti näkyä käyttäjäsivullasi, mutta saattaa joskus viedä noin kaksi tuntia ilmestyäkseen. Tässä tapauksessa saat sähköposti-ilmoituksen, kun statuksesi vaihtuu tai sinut on hyväksytty betaan."
     },
     "privacy": {
       "title": "Yksityisyysasetukset",
