@@ -1,20 +1,28 @@
 {
-  "singulars": {
-    "avatarActions": {
-      "account": "Tili",
-      "logout": "Kirjaudu ulos"
-    },
-    "betaVersion": "Beta 0.1.0",
-    "links": {
-      "bugReports": "Bugiraportit",
-      "devblogs": "Kehitysblogit",
-      "feedbackAndIdeas": "Palaute & ideat",
-      "generalDiscussion": "Yleinen keskustelu",
-      "home": "Etusivu",
-      "leaderboards": "Tulostaulut"
-    },
-    "login": "Kirjaudu sisään",
-    "signUp": "Rekisteröidy",
-    "title": "WalkScape Portal"
-  }
+    "singulars": {
+        "avatarActions": {
+            "account": "Tili",
+            "logout": "Kirjaudu ulos",
+            "profile": "Profiili",
+            "friends": "Kaverit"
+        },
+        "betaVersion": "Beta 0.1.0",
+        "links": {
+            "bugReports": "Bugiraportit",
+            "devblogs": "Kehitysblogit",
+            "feedbackAndIdeas": "Palaute & ideat",
+            "generalDiscussion": "Yleinen keskustelu",
+            "home": "Etusivu",
+            "leaderboards": "Tulostaulut",
+            "discord": "Discord",
+            "users": "Käyttäjät"
+        },
+        "login": "Kirjaudu sisään",
+        "signUp": "Rekisteröidy",
+        "title": "WalkScape Portal",
+        "notifications": {
+            "friend_invite_response": "<0>{{username}}</0> on hyväksynyt kaveripyyntösi!",
+            "friend_invite": "<0>{{username}}</0> haluaa olla kaverisi!"
+        }
+    }
 }
