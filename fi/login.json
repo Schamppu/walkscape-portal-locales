@@ -1,17 +1,42 @@
 {
-  "singulars": {
-    "alreadyHaveAnAccountPrompt": "Onko sinulla jo tili? Kirjaudu sisään",
-    "confirmPasswordFormLabel": "Vahvista salasana",
-    "dontHaveAnAccountPrompt": "Eikö sinulla ole tiliä? Rekisteröidy",
-    "emailFormLabel": "Sähköposti",
-    "forgotPasswordLabel": "Unohditko salasanan?",
-    "loginButtonLabel": "Kirjaudu sisään",
-    "loginDescription": "Kirjaudu sisään WalkScape-tilillä",
-    "passwordFormLabel": "Salasana",
-    "passwordsDontMatch": "Salasanat eivät täsmää",
-    "signUpButtonLabel": "Rekisteröidy",
-    "signUpDescription": "Rekisteröidy WalkScapeen",
-    "signUpLinkLabel": "Eikö sinulla ole tiliä? Rekisteröidy",
-    "usernameFormLabel": "Käyttäjänimi"
-  }
+    "singulars": {
+        "alreadyHaveAnAccountPrompt": "Onko sinulla jo tili? Kirjaudu sisään",
+        "confirmPasswordFormLabel": "Vahvista salasana",
+        "dontHaveAnAccountPrompt": "Eikö sinulla ole tiliä? Rekisteröidy",
+        "emailFormLabel": "Sähköposti",
+        "forgotPasswordLabel": "Unohditko salasanan?",
+        "loginButtonLabel": "Kirjaudu sisään",
+        "loginDescription": "Kirjaudu sisään WalkScape-tilillä",
+        "passwordFormLabel": "Salasana",
+        "passwordsDontMatch": "Salasanat eivät täsmää",
+        "signUpButtonLabel": "Rekisteröidy",
+        "signUpDescription": "Rekisteröidy WalkScapeen",
+        "signUpLinkLabel": "Eikö sinulla ole tiliä? Rekisteröidy",
+        "usernameFormLabel": "Käyttäjänimi",
+        "verificationFailure": "Jokin meni pieleen sähköpostin vahvistuksessa. Korjataksesi tilanteet, voit kokeilla seuraavia vaiheita:",
+        "verificationFix": {
+            "1": "Mikäli kopioit linkin sähköpostista, varmistathan että se liitettiin kokonaisuudessaan.",
+            "2": "Pyydä uutta vahvistusviestiä käyttämällä alla olevaa lomaketta.",
+            "3": "Ota yhteyttä tukeen <0>contact@walkscape.app</0>"
+        },
+        "accessCodeFormLabel": "Pääsyavain",
+        "claimCode": {
+            "button": "Lunasta koodi",
+            "title": "Lunasta erityiskoodi"
+        },
+        "verificationComplete": "Sähköpostiosoite vahvistettu onnistuneesti! Paina <0>tästä</0> palataksesi etusivulle.",
+        "missingConfirmation": "Tätä sähköpostiosoitetta ei ole vielä vahvistettu. Muistathan tarkastaa sähköpostisi saapuneet viestit ja roskapostikansion. Vaihtoehtoisesti voit pyytää uuden vahvistusviestin painamalla <0>tätä</0>.",
+        "emailOrUsernameFormLabel": "Sähköposti tai käyttäjätunnus",
+        "usernamePrivacyNotification": "Käyttäjätunnus on muille sivuston käyttäjille ja WalkScapen pelaajille julkisesti saatavilla oleva yksilöivä tieto. Tunnuksen ei tulisi olla oikea nimesi tai muu sellainen tunniste, joka voitaisiin linkittää henkilöllisyyteesi.",
+        "special": {
+            "createTooltip": "Vaihtamalla tätä valintaa, voit lunastaa erityiskoodin uudelle tai olemassaolevalle käyttäjälle.",
+            "alreadyHasBeta": "Beta-oikeuden omaavat käyttäjät eivät voi hakea väliaikaista käyttöoikeutta.",
+            "alreadyClaimed": "Tämä käyttäjä on jo lunastanut väliaikaisoikeuden. Käyttäjä voi lunastaa vain yhden väliaikaiskoodin.",
+            "createToggle": "Luo uusi käyttäjä"
+        },
+        "signup": {
+            "special": "Rekisteröidy erityisen beta-oikeuden WalkScape-tunnukseen"
+        },
+        "resendButtonLabel": "Uudelleenlähetä viesti"
+    }
 }
