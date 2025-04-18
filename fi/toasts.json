@@ -1,15 +1,83 @@
 {
-  "singulars": {
-    "error": {
-      "genericError": "Hups, jokin meni pieleen."
-    },
-    "success": {
-      "accountLinkedSuccessfully": "BMaC-tili yhdistetty onnistuneesti",
-      "bmacCheckForValidationCode": "Tarkista sähköpostisi saadaksesi vahvistuskoodin",
-      "loggedInSuccesssfully": "Kirjautuminen onnistui",
-      "loggedOut": "Uloskirjautuminen onnistui",
-      "passwordResetSent": "Salasanan palautussähköposti on lähetetty",
-      "signedUpSuccessfully": "Rekisteröityminen onnistui. Muista tarkistaa sähköpostisi: sinun pitäisi saada vahvistussähköposti, jossa on linkki, jota klikkaamalla voit vahvistaa sähköpostiosoitteesi."
+    "singulars": {
+        "error": {
+            "genericError": "Hups, jokin meni pieleen.",
+            "networkCode": {
+                "3002": "Väärä erikoiskoodi",
+                "3003": "Istunto on vanhentunut",
+                "3004": "Virheellinen istunto",
+                "3006": "Hahmon luonti epäonnistui",
+                "3007": "Ei voitu tallentaa",
+                "3008": "Ei voitu julkaista",
+                "3009": "Kuvaa ei voitu ladata",
+                "3010-a": "Sähköpostia ei ole vahvistettu. Ole hyvä ja tarkasta postilaatikkosi.",
+                "3012": "Virheellinen hahmonimi",
+                "3019-e": "Virheellinen käyttäjänimi: Käyttäjänimi voi sisältää vain kirjaimia, numeroita ja välilyöntejä",
+                "3021": "Tämä sähköpostiosoite on jo vahvistettu",
+                "3022": "Väliaikaiskoodi on väärä",
+                "3024": "Virheellinen hakumerkkijono",
+                "3025": "Koodia ei voitu lunastaa",
+                "3025-b": "Käyttäjä on jo aiemmin lunastanut erikoiskoodin",
+                "0000": "Jokin meni pieleen",
+                "1002": "Hahmoa ei ole olemassa",
+                "3013": "Rekisteröinti epäonnistui",
+                "3014": "Pyynnöstä puuttuu kenttiä",
+                "3015": "Ei tietoja",
+                "3015-post": "Julkaisua ei ole olemassa",
+                "3016": "Kyselystä puuttuu parametrejä",
+                "3018": "Pyyntö on vanhentunut",
+                "3019": "Virheellinen käyttäjänimi",
+                "3019-a": "Virheellinen käyttäjänimi: Välilyönnit alussa tai lopussa eivät ole sallittuja",
+                "3019-b": "Virheellinen käyttäjänimi: Peräkkäiset välilyönnit eivät ole sallittuja",
+                "3019-c": "Virheellinen käyttäjänimi: Käyttäjänimen tulee olla vähintään kolme merkkiä pitkä.",
+                "3020": "Sähköpostia vastaavaa tunnusta ei ole olemassa",
+                "3011": "Virheelliset tunnukset. Ole hyvä ja varmista käyttäväsi oikeaa sähköpostia/käyttäjätunnusta ja salasanaa.",
+                "2002": "Ei oikeutta",
+                "3001": "Sähköpostiosoite on jo käytössä.",
+                "3010": "Epäonnistunut kirjautuminen",
+                "3005": "Hahmoja ei ole olemassa",
+                "3019-d": "Virheellinen käyttäjänimi: Käyttäjänimen tulee sisältää vähintään kolme merkkiä, jotka eivät ole välilyöntejä",
+                "2002-banned": "Tämä käyttäjä on saanut porttikiellon WalkScapesta. Voit anoa päätöksen muuttamista ottamalla yhteyttä tukeen contact@walkscape.app.",
+                "3000": "Käyttäjänimi on jo varattu",
+                "3017": "Väärän muotoiset kutsutietueet",
+                "3025-a": "Käyttäjällä on jo betaoikeus",
+                "3023": "Pyyntöä ei ole olemassa",
+                "3024-a": "Hakumerkkijonon tulee sisältää vähintään kolme tavallista merkkiä"
+            },
+            "expiredToken": "Kirjautuminen on umpeutunut",
+            "passwordReset": "Palautusviestiä ei voitu lähettää",
+            "passwordChange": "Salasanan päivittäminen epäonnistui"
+        },
+        "success": {
+            "accountLinkedSuccessfully": "BMaC-tili linkitetty onnistuneesti",
+            "bmacCheckForValidationCode": "Tarkista sähköpostisi saadaksesi vahvistuskoodin",
+            "loggedInSuccesssfully": "Kirjautuminen onnistui.",
+            "loggedOut": "Uloskirjautuminen onnistui",
+            "passwordResetSent": "Salasanan palautusviesti on lähetetty",
+            "signedUpSuccessfully": "Rekisteröityminen onnistui. Muista tarkistaa sähköpostisi: sinun pitäisi saada vahvistussähköposti, jossa on linkki, jota klikkaamalla voit vahvistaa sähköpostiosoitteesi.",
+            "friendInvites": {
+                "reject": "Kaveripyyntö poistettu",
+                "block": "Käyttäjä estetty",
+                "accept": "Kaveripyyntö hyväksytty"
+            },
+            "emailChanged": "Sähköposti päivitetty onnistuneesti. Ole hyvä ja kirjaudu uudelleen sisään.",
+            "resentSuccessfully": "Vahvistusviesti uudelleenlähetetty onnistuneesti",
+            "avatarUpload": "Profiilikuva päivitetty. Uuden kuvan ilmestymisessä saattaa mennä hetki.",
+            "posts": {
+                "delete": "Julkaisu poistettu",
+                "edit": "Julkaisu päivitetty"
+            },
+            "comments": {
+                "delete": "Kommentti poistettu",
+                "edit": "Kommentti päivitetty"
+            },
+            "claimCode": {
+                "withLogin": "Koodi lunastettu onnistuneesti",
+                "withoutLogin": "Koodi lunestettu onnistuneesti. Ole hyvä ja kirjaudu sisään ladataksesi pelin."
+            },
+            "discordLink": "Discord linkitetty onnistuneesti",
+            "passwordChange": "Salasana vaihdettu onnistuneesti",
+            "updateEmailTokenSent": "Onnistui. Vahvistuslinkin sisältävä viesti lähetettiin uuteen sähköpostiin."
+        }
     }
-  }
 }
