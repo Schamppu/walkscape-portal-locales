@@ -1,26 +1,43 @@
 {
-  "plurals": {
-    "pageNumber": {
-      "key_one": "Sivu 1",
-      "key_other": "Sivu {{count}}"
-    }
-  },
-  "singulars": {
-    "avatarOfPlayer": "{{player}} hahmon kuvake",
-    "filterOptions": {
-      "agility": "Ketteryys",
-      "carpentry": "Puutyöt",
-      "cooking": "Ruoanlaitto",
-      "crafting": "Käsityö",
-      "fishing": "Kalastus",
-      "foraging": "Keräily",
-      "mining": "Louhiminen",
-      "smithing": "Taonta",
-      "total_level": "Kokonaistaso",
-      "total_steps": "Kokonaisaskelmäärä",
-      "total_xp": "Kokonais XP",
-      "woodcutting": "Puunhakkuu"
+    "plurals": {
+        "pageNumber": {
+            "key_one": "Sivu 1",
+            "key_other": "Sivu {{count}}"
+        }
     },
-    "loading": "Ladataan..."
-  }
+    "singulars": {
+        "avatarOfPlayer": "{{player}} hahmon kuvake",
+        "filterOptions": {
+            "agility": "Ketteryys",
+            "carpentry": "Puutyöt",
+            "cooking": "Ruoanlaitto",
+            "crafting": "Käsityö",
+            "fishing": "Kalastus",
+            "foraging": "Keräily",
+            "mining": "Louhiminen",
+            "smithing": "Taonta",
+            "total_level": "Kokonaistaso",
+            "total_steps": "Kokonaisaskelmäärä",
+            "total_xp": "Kokonais XP",
+            "woodcutting": "Puunhakkuu",
+            "short": {
+                "mining": "LOU",
+                "crafting": "KÄS",
+                "foraging": "KER",
+                "agility": "KET",
+                "cooking": "RUO",
+                "fishing": "KAL",
+                "smithing": "TAO",
+                "carpentry": "PTY",
+                "woodcutting": "PHA"
+            },
+            "achievement_points": "Saavutuspisteet",
+            "trinketry": "Koruvalmistus"
+        },
+        "loading": "Ladataan...",
+        "filters": {
+            "friends": "Kaverit",
+            "all": "Kaikki"
+        }
+    }
 }
