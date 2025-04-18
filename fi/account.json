@@ -2,7 +2,7 @@
   "plurals": {
     "closedBetaStatus": {
       "eligibleForNextWave": {
-        "key_one": "Hyväksytty seuraavaan beta-aaltoon, joka alkaa noin 1-2 viikon kuluttua.",
+        "key_one": "Hyväksytty seuraavaan beta-aaltoon, joka alkaa noin 1 - 2 viikon kuluttua.",
         "key_other": "Hyväksytty seuraavaan beta-aaltoon, joka alkaa noin {{ count }}-{{ countPlusOne }} viikon kuluttua."
       }
     }
@@ -31,15 +31,28 @@
         "instructions": "Jos käytät iOS:ää <testflightLink>klikkaa tätä linkkiä liittyäksesi WalkScapen TestFlight-ohjelmaan ja ladataksesi pelin</testflightLink>.",
         "title": "iOS-käyttäjille:"
       },
-      "termsOfServiceDisclaimer": "Ennen kuin lataat pelin, lue <tos>Pelin käyttöehdot</tos> ja hyväksy ne.",
+      "termsOfServiceDisclaimer": "Painamalla 'Hyväksyn' sitoudut noudattamaan <tos>Käyttöehtojamme</tos>ja pelisääntöjä.",
       "gameRules": {
         "title": "Pelisäännöt",
         "1": {
-          "title": "Vain oikeasti käveltyjä askeleita"
+          "title": "Vain oikeasti käveltyjä askeleita",
+          "description": "WalkScapessa askeleita voi kerryttää kävelemällä oikeassa elämässä. Tuomitsemme kaikki kerryttämismetodit, jotka eivät ole kävelyä ja pyydämme välttämään vastaavien menetelmien mainostamista yhteisössämme (Reddit, Portal, Discord). Ainoina poikkeuksina toimivat tilanteet, joissa jalat liikkuvat siten luonnollisesti, että ne on laskettavissa askeleiksi kohtuullisissa lukumäärissä. Esimerkkitilanteena toimii pyöräily."
         },
         "2": {
           "title": "1 laite = 1 käyttäjätunnus = 1 henkilö",
-          "description": "Oletamme yhden pelaajan pelaavan yhdellä laitteella. Älä jaa laitettasi tai käyttäjätunnustasi kenellekkään. Emulaattoreiden käyttäminen tai usealla laitteella pelaaminen samanaikaisesti ei ole sallittua. Älä käynnistä useampaa kuin yhtä samanaikaista peli-instanssia laitteelle."
+          "description": "Oletamme yhden pelaajan pelaavan yhdellä laitteella. Älä jaa laitettasi tai käyttäjätunnustasi kenellekkään. Emulaattoreiden käyttäminen, tai useammalla kuin yhdellä laitteella pelaaminen samanaikaisesti ei ole sallittua. Älä käynnistä useampaa kuin yhtä samanaikaista peli-instanssia laitteelle."
+        },
+        "3": {
+          "title": "Ilmianna huijauskeinot ja huono käytös",
+          "description": "Älä jaa tietoa huijauskeinoista äläkä rohkaise huijaamaan. Mikäli löydät merkittäviä bugeja tai huijauskeinoja pelistä, pyydämme ilmoittamaan niistä tiimille virallisia raportointiväyliä pitkin tai pingaamalla tiimiläistä suoraan."
+        },
+        "4": {
+          "title": "Vain viralliset sovellusjakelut",
+          "description": "Pelaa vain virallisten sovellusjakeluiden versioita. Älä yritä luoda tai rakentaa omia sovellusversioita tai -jakeluita pelistä, äläkä lataa tai jaa muiden luomia, epävirallisia versioita."
+        },
+        "5": {
+          "title": "Pelaa kiltisti :)",
+          "description": "WalkScape on virtuaalimaailmassa oikeiden ihmisten kanssa pelattava peli. Odotamme kaikkien Kävelijöiden kohtelevan toisiaan kunnioituksella riippumatta siitä, tapahtuuko kommunikointi pelissä, sosiaalisessa mediassa tai oikeassa elämässä. Kaikki häirinnän ja syrjinnän muodot ovat ehdottomasti kiellettyjä."
         }
       }
     },
@@ -60,8 +73,9 @@
       "accessExpired": "Käyttöoikeus umpeutui {{dateString}}",
       "expiredModal": {
         "title": "Väliaikainen käyttöoikeutesi on vanhentunut",
-        "description": "Kiitos osuudestasi WalkScapen suljettuun betaan! Väliaikainen käyttöoikeutesi on umpeutunut, mutta ei syytä huoleen, voit jatkaa pelaamista:",
-        "support": "Tukemalla meitä <patreonLink>Patreonissa</patreonLink> tai<bmacLink>Buy Me a Coffee</bmacLink> -palvelussa. Tukijat saavat käyttöoikeuden välittömästi."
+        "description": "Kiitos WalkScapen suljetun betan kokeilusta! Väliaikainen käyttöoikeutesi on umpeutunut, mutta ei syytä huoleen, voit jatkaa pelaamista:",
+        "support": "Tukemalla meitä <patreonLink>Patreonissa</patreonLink> tai<bmacLink>Buy Me a Coffee</bmacLink> -palvelussa. Tukijat saavat käyttöoikeuden välittömästi.",
+        "apply": "<betaApplicationLink>Hakemalla beta-oikeutta</betaApplicationLink> ja odottamalla kutsua"
       }
     },
     "discordLink": {
@@ -80,7 +94,9 @@
       "changePasswordButton": "Vaihda salasana",
       "newPasswordLabel": "Uusi salasana",
       "repeatPasswordLabel": "Toista salasana",
-      "title": "Vaihda salasanasi"
+      "title": "Vaihda salasanasi",
+      "unauthenticated": "Vaatii tunnistautumisen",
+      "prompt": "Ole hyvä ja päivitä salasanasi!"
     },
     "patreonLink": {
       "codeSentSuccessMessage": "Tarkista sähköpostisi saadaksesi vahvistuskoodin",
@@ -127,11 +143,29 @@
       "title": "Yksityisyysasetukset",
       "profileVisibility": "Profiilin näkyvyys",
       "private": "Yksityinen",
-      "friends": "Vain ystävät",
+      "friends": "Vain kaverit",
       "public": "Julkinen"
     },
     "meta": {
-      "description": "Katso {{username}} profiili!"
+      "description": "Katso pelaajan {{username}} profiili!"
+    },
+    "emailChange": {
+      "title": "Vaihda sähköpostiosoite",
+      "buttonLabel": "Vaihda sähköposti",
+      "emptyEmailError": "Sähköposti ei voi olla tyhjä",
+      "relogin": "Ole hyvä ja<0>kirjaudu sisään</0> uudelleen.",
+      "successMessage": "Sähköposti päivitetty onnistuneesti",
+      "errorMessage": "Sähköpostia ei voitu päivittää",
+      "inProgress": "Päivitetään sähköpostia...",
+      "newEmailLabel": "Uusi sähköposti"
+    },
+    "users": {
+      "enterSearch": "Syötä hakusana",
+      "found": "{{countStr}} käyttäjää löydetty"
+    },
+    "sections": {
+      "friendInvites": "Odottavat kaveripyynnöt",
+      "friends": "Kaverit"
     }
   }
 }
