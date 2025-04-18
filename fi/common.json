@@ -1,43 +1,89 @@
 {
-  "plurals": {
-    "comments": {
-      "commentCount_one": "1 kommentti",
-      "commentCount_other": "{{count}} kommentit"
+    "plurals": {
+        "comments": {
+            "commentCount_one": "1 kommentti",
+            "commentCount_other": "{{count}} kommentit"
+        }
+    },
+    "singulars": {
+        "commentSubmission": {
+            "commentPlaceholder": "Kirjoita kommenttisi tähän",
+            "displayPreviewCheckbox": "Näytä esikatselu",
+            "editCancelButton": "Peruuta",
+            "editSaveButton": "Tallenna",
+            "previewLabel": "Esikatselu:",
+            "submitButton": "Lähetä kommentti"
+        },
+        "dialogs": {
+            "delete": {
+                "cancelButton": "Peruuta",
+                "confirmButton": "Kyllä, poista {{ type }}",
+                "message": "Tätä toimenpidettä ei voi perua. Tämä poistaa tämän {{ type }} pysyvästi.",
+                "title": "Oletko aivan varma?"
+            },
+            "unblock": {
+                "confirm": "Kyllä, poista esto",
+                "description": "Haluatko varmasti perua tämän käyttäjän eston?"
+            },
+            "block": {
+                "confirm": "Kyllä, estä käyttäjä",
+                "description": "Haluatko varmasti estää tämän käyttäjän? Estetyt käyttäjät eivät voi lähettää sinulle pyyntöjä."
+            },
+            "removeFriend": {
+                "description": "Haluatko varmasti poistaa tämän kaverin?",
+                "confirm": "Kyllä, poista kaveri"
+            },
+            "cancelInvite": {
+                "confirm": "Kyllä, peru pyyntö",
+                "description": "Haluatko varmasti perua tämän kaveripyynnön?"
+            }
+        },
+        "posts": {
+            "new": {
+                "addPostButton": "Lisää julkaisu",
+                "descriptionLabel": "Kuvaus",
+                "displayPreviewButton": "Näytä esikatselu",
+                "postContentPlaceholder": "Kirjoita julkaisusi tähän",
+                "previewLabel": "Esikatselu:",
+                "titleLabel": "Otsikko"
+            },
+            "newPostButton": "Uusi julkaisu",
+            "scheduled": "ajastettu"
+        },
+        "resetPassword": {
+            "button": "Palauta salasana",
+            "emailInputLabel": "Sähköposti",
+            "instructions": "Jos haluat palauttaa salasanasi, syötä sähköpostiosoitteesi ja valitse palauta salasana. Saat sähköpostiviestin, jossa on linkki, joka vie sinut salasanan päivityssivulle, jossa voit määrittää uuden salasanan."
+        },
+        "searchBarPlaceholder": "Etsi…",
+        "userActions": {
+            "viewProfile": "Näytä profiili",
+            "sendInvite": "Lähetä kaveripyyntö",
+            "viewInvite": "Näytä pyyntö",
+            "share": "Jaa profiili",
+            "cancelInvite": "Peru pyyntö",
+            "removeFriend": "Poista kaveri",
+            "unblock": "Peru esto",
+            "block": "Estä käyttäjä"
+        },
+        "characters": "Hahmot",
+        "buttons": {
+            "ok": "OK"
+        },
+        "cookieConsent": {
+            "prompt": "Tämä sivusto käyttää evästeitä käyttötilastojen luomiseksi. Painamalla 'Hyväksyn' suostut tähän."
+        },
+        "badges": {
+            "beta": "Beta",
+            "blocked": "Estetty",
+            "inviteSent": "Kutsu lähetetty",
+            "inviteReceived": "Kutsu saatu",
+            "friends": "Kaverit"
+        },
+        "invite": {
+            "accept": "Hyväksy",
+            "reject": "Hylkää",
+            "block": "Estä"
+        }
     }
-  },
-  "singulars": {
-    "commentSubmission": {
-      "commentPlaceholder": "Kirjoita kommenttisi tähän",
-      "displayPreviewCheckbox": "Näytä esikatselu",
-      "editCancelButton": "Peruuta",
-      "editSaveButton": "Tallenna",
-      "previewLabel": "Esikatselu:",
-      "submitButton": "Lähetä kommentti"
-    },
-    "dialogs": {
-      "delete": {
-        "cancelButton": "Peruuta",
-        "confirmButton": "Kyllä, poista {{ type }}",
-        "message": "Tätä toimenpidettä ei voi perua. Tämä poistaa tämän {{ type }} pysyvästi.",
-        "title": "Oletko aivan varma?"
-      }
-    },
-    "posts": {
-      "new": {
-        "addPostButton": "Lisää julkaisu",
-        "descriptionLabel": "Kuvaus",
-        "displayPreviewButton": "Näytä esikatselu",
-        "postContentPlaceholder": "Kirjoita julkaisusi tähän",
-        "previewLabel": "Esikatselu:",
-        "titleLabel": "Otsikko"
-      },
-      "newPostButton": "Uusi julkaisu"
-    },
-    "resetPassword": {
-      "button": "Palauta salasana",
-      "emailInputLabel": "Sähköposti",
-      "instructions": "Jos haluat palauttaa salasanasi, syötä sähköpostiosoitteesi ja valitse palauta salasana. Saat sähköpostiviestin, jossa on linkki, joka vie sinut salasanan päivityssivulle, jossa voit määrittää uuden salasanan."
-    },
-    "searchBarPlaceholder": "Etsi..."
-  }
 }
