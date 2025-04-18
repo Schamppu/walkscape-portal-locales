@@ -2,18 +2,18 @@
     "plurals": {
         "statsSection": {
             "betaTesters": {
-                "key_one": "Näistä <b>1 käyttäjä</b> on beta-testaaja.",
-                "key_other": "Näistä <b>{{count}} käyttäjää</b> ovat beta-testaajia."
+                "key_one": "Näistä <b>1 käyttäjä</b> on beta-testaaja",
+                "key_other": "Näistä <b>{{count}} käyttäjää</b> ovat beta-testaajia"
             },
             "registeredUsers": {
-                "key_one": "Tähän mennessä <b>1 käyttäjä</b> on rekisteröitynyt.",
-                "key_other": "Tähän mennessä <b>{{count}} käyttäjää</b> on rekisteröitynyt."
+                "key_one": "Tähän mennessä <b>1 käyttäjä</b> on rekisteröitynyt",
+                "key_other": "Tähän mennessä <b>{{count}} käyttäjää</b> on rekisteröitynyt"
             }
         }
     },
     "singulars": {
         "infoSection": {
-            "betaLinking": "Jos tuet meitä tai olet tukenut meitä jossain vaiheessa <patreonLink>Patreon</patreonLink> tai <bmacLink>Buy me a Coffee</bmacLink> -palvelussa, voit yhdistää tilisi näihin palveluihin Tili-sivulla. Muista, että kutsuja jaetaan aalloittain, ja ensimmäinen suljettu beta-aalto on jo täynnä. Toinen suljettu beta-aalto on tulossa muutaman viikon kuluttua betan julkaisun jälkeen.",
+            "betaLinking": "Jos tuet, tai olet jossain vaiheessa tukenut meitä<patreonLink>Patreon</patreonLink> tai <bmacLink>Buy Me a Coffee</bmacLink> -palvelussa, voit yhdistää tilisi näihin palveluihin <accountLink>Käyttäjäsivulla</accountLink>. Voit myös lähettää hakemuksen seuraavaan beta-aaltoon, vaikka et tukisi meitä.",
             "closedBetaAccess": "Suljettu beta julkaistaan 18. tammikuuta 2024. Voit varmistaa pääsyn suljettuun betaan tukemalla peliä <patreonLink>Patreon</patreonLink> tai <bmacLink>Buy Me A Coffee</bmacLink> -sivustolla tai hakemalla suljettuun betaan hakemuslomakkeella (löydät hakemuspainikkeen tilisivultasi).",
             "title": "Tärkeää tietoa suljetusta betasta"
         },
@@ -22,9 +22,10 @@
             "title": "Hauskoja tilastoja:"
         },
         "welcomeMessage": "Tervetuloa WalkScape Portaliin",
-        "systemMessages": "",
+        "systemMessages": "Järjestelmäviestit",
         "newUser": {
-            "title": "Tervetuloa, {{username}}!"
+            "title": "Tervetuloa, {{username}}!",
+            "description": "Kiitos rekisteröitymisestäsi WalkScapeen! Viimeistele käyttäjäsi luonti menemällä <accountLink>Käyttäjäsivulle</accountLink> ja linkitä Patreon-/Buy Me a Coffee -tilisi tai lähetä hakemus suljettuun betaan. Hauskaa kävelyä, ja muista pysyä nesteytettynä!"
         }
     }
 }
