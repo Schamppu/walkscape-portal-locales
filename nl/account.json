@@ -2,15 +2,15 @@
   "plurals": {
     "closedBetaStatus": {
       "eligibleForNextWave": {
-        "key_one": "In aanmerking voor de volgende golf over ongeveer 1 tot 2 weken",
-        "key_other": "In aanmerking voor de volgende golf over ongeveer {{ count }} tot {{ countPlusOne }} weken"
+        "key_one": "In aanmerking voor de volgende uitnodigingsronde over ongeveer 1 tot 2 weken",
+        "key_other": "In aanmerking voor de volgende uitnodigingsronde over ongeveer {{ count }} tot {{ countPlusOne }} weken"
       }
     }
   },
   "singulars": {
     "accountLinking": {
       "codeFormFieldLabel": "Code ontvangen per e-mail",
-      "firstSupportDate": "eerste ondersteuning op {{ date }}",
+      "firstSupportDate": "voor het eerst gesteund op {{ date }}",
       "getCodeButton": "Ontvang een code",
       "linkAccountButton": "Account koppelen",
       "linkedStatus": "Gekoppeld",
@@ -68,7 +68,7 @@
       "notInvited": "Niet uitgenodigd",
       "seeExistingApplication": "Aanvraag bekijken",
       "title": "Gesloten bèta:",
-      "eligibleForNextWave": "In aanmerking voor volgende golf",
+      "eligibleForNextWave": "In aanmerking voor volgende uitnodigingdronde",
       "accessUntil": "Toegang tot {{dateString}}",
       "expiredModal": {
         "title": "Je tijdelijke toegang is verlopen",
