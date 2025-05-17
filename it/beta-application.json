@@ -2,15 +2,15 @@
     "singulars": {
         "form": {
             "androidCheckbox": "Android",
-            "averageStepsPerWeekLabel": "Numero medio di passi che fai in una settimana:",
+            "averageStepsPerWeekLabel": "Numero medio di passi da te compiuti in una settimana:",
             "averageStepsPerWeekPlaceholder": "Numero medio di passi a settimana",
-            "deviceModel": "Modello del tuo dispositivo (o dispositivi):",
+            "deviceModel": "Modello del tuo dispositivo/i:",
             "deviceModelPlaceholder": "es: Google Pixel 6, iPhone 13 Pro",
-            "deviceType": "Tipo di dispositivo (o dispositivi):",
+            "deviceType": "Tipo di dispositivo/i utilizzato/i:",
             "iOSCheckbox": "iOS (iPhone)",
             "submitApplicationButton": "Invia la richiesta",
-            "whyInviteToBeta": "Quali contributi potresti offrire partecipando alla versione beta:",
-            "whyInviteToBetaPlaceholder": "Descrivi i contributi che puoi dare durante lo sviluppo: le tue motivazioni, esperienze passate di game testing, bisogno di strumenti per l'accessibilità ecc."
+            "whyInviteToBeta": "Quali contributi offriresti partecipando alla beta:",
+            "whyInviteToBetaPlaceholder": "Descrivi perché dovresti essere invitato alla beta chiusa: le tue motivazioni, esperienze passate di game testing, bisogno di strumenti per l'accessibilità ecc..."
         },
         "formSubmissionPreview": {
             "alreadySubmittedApplicationMessage": "Hai già inviato una richiesta. Ecco il riepilogo:",
@@ -20,9 +20,12 @@
             "deviceModelLabel": "Modello del dispositivo:",
             "iOSDeviceCheckedLabel": "iOS:"
         },
-        "title": "Richiesta accesso alla beta",
+        "title": "Richiesta di accesso alla beta",
         "landing": {
             "title": "Congratulazioni per esserti iscritto a Walkscape!"
+        },
+        "specialLanding": {
+            "description": "Puoi provare la versione Beta Chiusa per un periodo di tempo limitato. Il tuo periodo di accesso terminerà il {{endDate}}."
         }
     }
 }
