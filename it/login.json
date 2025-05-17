@@ -36,6 +36,7 @@
             "createTooltip": "Selezionando la voce, puoi scegliere di riscattare il codice speciale su un nuovo account o su uno già esistente.",
             "alreadyHasBeta": "Gli utenti con accesso alla beta non possono richiedere l'accesso temporaneo.",
             "alreadyClaimed": "Questo profilo ha già riscattato l'accesso temporaneo. Un profilo può riscattare solo un codice per l'accesso temporaneo."
-        }
+        },
+        "usernamePrivacyNotification": "Il nome utente è una chiave visibile agli utenti di questo sito e agli altri giocatori di WalkScape. È sconsigliato utilizzare il tuo vero nome o altri nomi che possono essere ricollegati alla tua persona."
     }
 }
