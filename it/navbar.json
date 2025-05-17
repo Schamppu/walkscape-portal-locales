@@ -1,10 +1,10 @@
 {
     "singulars": {
         "avatarActions": {
-            "account": "Profilo Portal",
-            "logout": "Esci",
+            "account": "Account",
+            "logout": "Disconnettiti",
             "friends": "Amici",
-            "profile": "Profilo di gioco"
+            "profile": "Profilo"
         },
         "betaVersion": "Beta 0.1.0",
         "links": {
