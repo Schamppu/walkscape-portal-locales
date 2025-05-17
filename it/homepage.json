@@ -15,7 +15,7 @@
     },
     "singulars": {
         "infoSection": {
-            "betaLinking": "Se ci stai sostenendo, o ci hai sostenuto in passato tramite <patreonLink>Patreon</patreonLink> o <bmacLink>Buy Me a Coffee</bmacLink>, puoi collegare il tuo profilo Portal a questi servizi nella pagina Profilo. Tieni presente che gli inviti vengono inviati a ondate e la prima ondata di beta è già in corso; la seconda ondata è prevista per fine febbraio.",
+            "betaLinking": "Se ci stai sostenendo, o ci hai sostenuto in passato tramite <patreonLink>Patreon</patreonLink> o <bmacLink>Buy Me a Coffee</bmacLink>, hai un accesso garantito al gioco alla prossima ondata. Per questo, devi collegare il tuo profilo Portal ai servizi nella <accountLink>pagina Account</accountLink> Puoi inoltre inviare una richiesta per avere una possibilità di essere accettato nella prossima ondata, anche se non ci sostieni.",
             "closedBetaAccess": "La closed beta è uscita il 18 gennaio 2024. È possibile assicurarsi l'accesso nelle prossime ondate di inviti sostenendo il gioco su <patreonLink>Patreon</patreonLink> o <bmacLink>Buy Me a Coffee</bmacLink>, oppure si può richiedere l'accesso alla closed beta creando un profilo Portal e inviando il modulo di richiesta presente nella pagina Profilo.",
             "title": "Informazioni importanti sulla closed beta"
         },
@@ -24,6 +24,10 @@
             "title": "Alcuni numeri divertenti:"
         },
         "welcomeMessage": "Benvenuti su WalkScape Portal",
-        "systemMessages": "Messaggi di sistema"
+        "systemMessages": "Messaggi di sistema",
+        "newUser": {
+            "title": "Benvenuto, {{username}}!",
+            "description": "Grazie per esserti registrati a WalkScape! Per concludere l'impostazione del tuo profilo, vai alla <accountLink>pagina Account</accountLink> e connetti il tuoi profili Patreon o Buy Me a Coffee, o manda una richiesta per partecipare alla Beta ad Accesso Limitato. Buona Camminata, e ricordati di rimanere ben idratato!"
+        }
     }
 }
