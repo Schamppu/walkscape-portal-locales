@@ -32,7 +32,8 @@
                 "foraging": "RDM",
                 "mining": "MIN"
             },
-            "achievement_points": "Punti Trofeo"
+            "achievement_points": "Punti Trofeo",
+            "trinketry": "Gingilleria"
         },
         "loading": "Caricamento...",
         "filters": {
