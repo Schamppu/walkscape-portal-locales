@@ -12,8 +12,8 @@
     "accountLinking": {
       "codeFormFieldLabel": "Codice ricevuto tramite email",
       "firstSupportDate": "Prima donazione effettuata il {{ date }}",
-      "getCodeButton": "Ottieni codice",
-      "linkAccountButton": "Collega profilo",
+      "getCodeButton": "Ottieni il codice",
+      "linkAccountButton": "Collega il profilo",
       "linkedStatus": "Collegato",
       "noSubscription": "Nessun abbonamento",
       "notLinkedStatus": "Non collegato",
@@ -36,24 +36,25 @@
       "gameRules": {
         "2": {
           "title": "1 dispositivo = 1 account = 1 persona",
-          "description": "Ci aspettiamo che ogni giocatore utilizzi un solo account su un solo dispositivo. Non condividete il vostro dispositivo o account con nessun altro. Non è consentito l'uso di emulatori o di giocare su più dispositivi contemporaneamente. Non è consentito eseguire più istanze del gioco sullo stesso dispositivo."
+          "description": "Ci aspettiamo che ogni giocatore utilizzi un solo account su un solo dispositivo. Non condividere il tuo dispositivo o account con nessun altro. Non è consentito l'uso di emulatori o di giocare su più dispositivi contemporaneamente. Non è consentito eseguire più istanze del gioco contemporaneamente sullo stesso dispositivo."
         },
         "1": {
-          "description": "Su WalkScape, i passi vengono generati camminando con le tue gambe. Ci opponiamo fermamente a qualsiasi metodo per generare passi diverso dalla camminata e ne scoraggiamo la promozione nelle nostra comunità (Reddit, Portal, Discord). Le uniche eccezioni sono quelle situazioni in cui le gambe si muovono naturalmente in modo simile alla camminata (tapis roulant, bicicletta, ellittica) e solo a condizione che il tasso di passi conteggiato sia sufficientemente simile alla camminata da non poter essere abusato.",
+          "description": "Su WalkScape, i passi vengono generati camminando con le tue gambe. Ci opponiamo fermamente a qualsiasi metodo per generare passi diverso dalla camminata e ne scoraggiamo la promozione nelle nostre community (Reddit, Portal, Discord). Le uniche eccezioni, sono le situazioni in cui le gambe si muovono naturalmente in modi simili alla camminata (bicicletta, ellittica) e solo a condizione che il numero di passi conteggiato sia basso abbastanza da non poter essere abusato.",
           "title": "Solo passi reali"
         },
         "3": {
           "title": "Segnala exploit e comportamenti scorretti",
-          "description": "Non condividere o incoraggiare cheats o exploit con altri giocatori. Se trovi bug o exploit gravi nel gioco, segnalali al team tramite i canali di segnalazione ufficiali o scrivendo direttamente ad un membro del team."
+          "description": "Non condividere o incoraggiare trucchi o l'uso di exploit con altri giocatori. Se trovi gravi bug o exploit nel gioco, segnalali al team tramite i canali di segnalazione ufficiali o scrivendo direttamente ad un membro del team."
         },
         "4": {
           "title": "Solo distribuzioni ufficiali",
-          "description": "Gioca solo alle versioni distribuite attraverso i canali ufficiali. Non cercare di creare un tuo bundle, build o distribuzione del gioco, né scaricare o condividere build non ufficiali distribuite da terzi."
+          "description": "Gioca solo alle versioni distribuite attraverso i canali ufficiali. Non cercare di creare tuoi bundle, build o distribuzioni del gioco, né scaricare o condividere build non ufficiali distribuite da terzi."
         },
         "5": {
           "title": "Gioca correttamente :)",
-          "description": "WalkScape è un gioco sociale, ambientato in un mondo virtuale, ma con persone reali. Ci aspettiamo che tutti gli Walker si rispettino gli uni con gli altri, che sia in gioco, sui nostri social media o nella vita reale. Qualsiasi forma di discriminazione è assolutamente proibita."
-        }
+          "description": "WalkScape è un gioco sociale, ambientato in un mondo virtuale, ma con persone reali. Ci aspettiamo che tutti i Walker si rispettino gli uni con gli altri, che sia in gioco, sui nostri social media o nella vita reale. Qualsiasi forma di molestie o discriminazione è assolutamente proibita."
+        },
+        "title": "Regole di Gioco"
       }
     },
     "bmac": {
@@ -62,13 +63,21 @@
       "statusTitle": "BMaC:"
     },
     "closedBetaStatus": {
-      "applyButton": "Richiedi l'accesso anticipato",
+      "applyButton": "Richiedi l'accesso alla beta",
       "downloadButton": "Scarica il gioco",
       "invitedStatus": "Invitato",
       "notInvited": "Non invitato",
       "seeExistingApplication": "Rivedi la tua richiesta d'accesso",
-      "title": "Closed beta:",
-      "eligibleForNextWave": "Idoneo alla prossima wave"
+      "title": "Beta ad Accesso Limitato:",
+      "eligibleForNextWave": "Idoneo alla prossima ondata",
+      "accessUntil": "Perido di accesso fino al {{dateString}}",
+      "expiredModal": {
+        "title": "Il tuo periodo di accesso temporaneo si è concluso",
+        "apply": "<betaApplicationLink>Richiesto l'accesso alla beta</betaApplicationLink> ed in attesa di un invito",
+        "support": "Supportaci con <patreonLink>Patreon</patreonLink> o con <bmacLink>Buy Me a Coffee</bmacLink>. I sostenitori riottengono l'accesso immediatamente.",
+        "description": "Grazie per aver partecipato alla beta chiusa di WalkScape! Il tuo periodo di accesso limitato si è concluso, ma non temere, potrai ancora continuare a giocare:"
+      },
+      "accessExpired": "Periodo di accesso terminato il {{dateString}}"
     },
     "discordLink": {
       "linkButton": "Collega Discord",
@@ -77,7 +86,7 @@
       "failed": "Collegamento a Discord fallito. Riprova più tardi.",
       "joinDiscord": "Unisciti a Discord",
       "success": "Discord collegato con successo!",
-      "inProgress": "Collegamento a Discord..."
+      "inProgress": "Collegamento a Discord in corso..."
     },
     "header": {
       "introduction": "Ciao {{ username }}"
@@ -88,7 +97,7 @@
       "repeatPasswordLabel": "Ripeti la password",
       "title": "Modifica la password",
       "prompt": "Per favore, aggiorna la tua password!",
-      "unauthenticated": "Richiede autenticazione"
+      "unauthenticated": "Richiede l'autenticazione"
     },
     "patreonLink": {
       "codeSentSuccessMessage": "Controlla la tua casella email per il codice di verifica",
@@ -96,23 +105,24 @@
       "linkInstructions": "Collega un profilo Patreon",
       "linkSuccessMessage": "Profilo Patreon collegato con successo",
       "title": "Patreon:",
-      "return": "Torna alla pagina Profilo",
-      "inProgress": "Collegamento a Patreon...",
-      "failed": "Collegamento al profilo Patreon fallito. Riprova più tardi.",
+      "return": "Torna alla pagina del Profilo",
+      "inProgress": "Collegamento a Patreon in corso...",
+      "failed": "Collegamento al profilo Patreon non riuscito.",
       "success": {
         "title": "Patreon collegato con successo!",
-        "body": "L'accesso al gioco è consentito in ondate. Se un'ondata è in corso e hai ricevuto l'invito, puoi scaricare il gioco immediatamente dalla tua pagina Profilo. Altrimenti ti notificheremo via email quando ti sarà possibile accedere."
+        "body": "L'accesso al gioco è consentito ad ondate. Se un'ondata è in corso, puoi scaricare il gioco immediatamente dalla tua pagina Profilo. Altrimenti ti notificheremo via email quando ti sarà permesso l'accesso. Si prega di notare come a volte riaggiornare la pagina o riaccedere sia necessario affinche le informazioni si aggiornino correttamente sulla pagina Account."
       },
       "login": "Accedi con Patreon",
-      "recommendation": "Raccomandiamo il collegamento dei profili accedendo con Patreon. Se non funziona, prova a connetterti usando il modulo sottostante."
+      "recommendation": "Raccomandiamo il collegamento dei profili accedendo con Patreon. Se non dovesse funzionare, prova a connetterti usando il modulo sottostante.",
+      "troubleshoot": "Assicurati di essere un membro del <patreonLink>Patreon di WalkScape</patreonLink> prima di connettere i profili."
     },
     "profilePhoto": {
-      "changeButton": "Cambia immagine profilo",
+      "changeButton": "Cambia l'immagine del profilo",
       "instructions": "Taglia e ridimensiona qui la tua immagine del profilo. Pizzica con due dita per regolare l'ingrandimento su dispositivi mobili.",
       "saveLabel": "Salva",
       "zoomLabel": "Ingrandimento"
     },
-    "subscriptionStateDisclaimer": "Può servire fino a un'ora di tempo per aggiornare lo stato degli abbonamenti.",
+    "subscriptionStateDisclaimer": "Lo stato degli abbonamenti può impiegare fino ad un'ora per aggiornarsi.",
     "usernameChange": {
       "changeUsernameButton": "Cambia nome utente",
       "newUsernameLabel": "Nuovo nome utente",
@@ -123,9 +133,9 @@
       "description": "Dai un'occhiata al profilo di {{username}}!"
     },
     "thankYou": {
-      "understand": "Ho capito",
+      "understand": "Ho compreso",
       "title": "Grazie per il tuo sostegno!",
-      "body-1": "Il tuo nuovo status di sostenitore dovrebbe essere immediatamente visibile nella tua pagina account, ma in alcuni casi potrebbero volerci fino a due ore per una completa sincronizzazione. In questo caso riceverai un'email quando il tuo status sarà aggiornato o se verrai accettato nella beta.",
+      "body-1": "Il tuo nuovo status di sostenitore dovrebbe essere immediatamente visibile nella tua pagina account, ma in alcuni casi potrebbero volerci fino a due ore per una completa sincronizzazione. In questo caso riceverai una email quando il tuo status sarà aggiornato o se verrai accettato nella beta.",
       "body-3": "Grazie!",
       "body-2": "Se non ricevi un'email entro un paio d'ore, controlla che l'email inserita sia la stessa che hai usato per Patreon o Buy me a Coffee, e riprova a collegare l'account."
     },
@@ -134,11 +144,11 @@
       "private": "Privato",
       "friends": "Solo Amici",
       "public": "Pubblico",
-      "title": "Impostazioni privacy"
+      "title": "Impostazioni della privacy"
     },
     "general": {
       "joinedOn": "Unito il:",
-      "seeFull": "Vedi profilo completo"
+      "seeFull": "Vedi il profilo completo"
     },
     "sections": {
       "friendInvites": "Richieste d'amicizia in attesa",
@@ -147,6 +157,16 @@
     "users": {
       "enterSearch": "Immetti termine da ricercare",
       "found": "{{countStr}} utenti trovati"
+    },
+    "emailChange": {
+      "title": "Cambia indirizzo email",
+      "newEmailLabel": "Nuova email",
+      "buttonLabel": "Cambia email",
+      "relogin": "Per favore <0>accedi</0> di nuovo.",
+      "successMessage": "Email aggiornata con successo",
+      "emptyEmailError": "Il campo email non può rimanere vuoto",
+      "inProgress": "Email in aggiornamento...",
+      "errorMessage": "Non è stato possibile aggiornare l'email"
     }
   }
 }
