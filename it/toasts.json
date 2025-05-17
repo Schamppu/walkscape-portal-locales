@@ -3,10 +3,53 @@
         "error": {
             "genericError": "Qualcosa è andato storto.",
             "passwordReset": "Non è stato possibile inviare un'email di recupero",
-            "passwordChange": "Cambio password fallito"
+            "passwordChange": "Cambio della password fallito",
+            "expiredToken": "L'accesso è scaduto",
+            "networkCode": {
+                "0000": "Qualcosa è andato storto",
+                "1002": "Il personaggio non esiste",
+                "3000": "Nome utente già preso",
+                "3001": "E-mail già utilizzata.",
+                "3002": "Codice speciale errato",
+                "3003": "La sessione è scaduta",
+                "3004": "Sessione invalida",
+                "3005": "Nessun personaggio esistente",
+                "3006": "Eliminazione del personaggio fallita",
+                "3007": "Non è stato possibile salvare",
+                "3008": "Non è stato possibile pubblicare",
+                "3009": "Non è stato possibile scaricare l'immagine",
+                "3010": "Accesso errato",
+                "3012": "Nome del personaggio errato",
+                "3013": "La registrazione non è avvenuta",
+                "3014": "Caratteristiche mancanti nel corpo della richiesta",
+                "3015-post": "Il post non esiste",
+                "3016": "Parametry di ricerca mancanti",
+                "3017": "Caratteristiche del testo formattate erratamente",
+                "3018": "La richiesta è scaduta",
+                "3019": "Nome utente errato",
+                "3019-a": "Nome utente invalido: Spazi vuoti all'inizio o allafine non sono permessi",
+                "3019-b": "Nome utente invalido: Spazi vuoti consecutivi non sono permessi",
+                "3019-c": "Nome utente invalido: Il nome utente deve essere lungo almeno 3 caratteri.",
+                "3019-d": "Nome utente invalido: Il nome utente deve contenere almeno 3 caratteri oltre agli spazi vuoti",
+                "3019-e": "Nome utente invalido: Il nome utente può contenere solo lettere, numeri e spazi",
+                "3020": "Nessun profilo esistente per l'email data",
+                "3021": "Questa email è già stata confermata",
+                "3022": "Il codice temporaneo non è valido",
+                "3024": "Stringa di ricerca errata",
+                "3024-a": "La stringa di ricerca deve contenere almeno 3 caratteri altre agli spazi",
+                "3025": "Non è stato possibile riscattare il codice",
+                "3025-a": "L'utente ha già l'accesso alla beta",
+                "2002": "Nessun permesso",
+                "2002-banned": "Questo profilo è stato bannato da WalkScape. Per un ricorso a questa decisione, contatta il supporto contact@walkscape.app.",
+                "3010-a": "L'email non è stata verificata. Controlla la tua casella della posta.",
+                "3025-b": "L'utente ha già riscattato un codice speciale in passato",
+                "3011": "Credenziali errate. Assicurati di stare utilizzando mail/nome utente e password corretti.",
+                "3015": "Nessuna Data",
+                "3023": "L'invito non esiste"
+            }
         },
         "success": {
-            "accountLinkedSuccessfully": "Profilo BMaC collegato con successo",
+            "accountLinkedSuccessfully": "Profilo Bmac collegato con successo",
             "bmacCheckForValidationCode": "Controlla la tua casella email per il codice di verifica",
             "loggedInSuccesssfully": "Accesso effettuato con successo.",
             "loggedOut": "Disconnessione effettuata con successo",
@@ -17,7 +60,24 @@
                 "reject": "Richiesta d'amicizia eliminata",
                 "block": "Utente bloccato"
             },
-            "passwordChange": "Password modificata con successo"
+            "passwordChange": "Password modificata con successo",
+            "updateEmailTokenSent": "Successo. Un messaggio con il link di verifica è stato inviato alla nuova email.",
+            "emailChanged": "Email aggiornata con successo. Per favore rieffettua l'accesso.",
+            "comments": {
+                "edit": "Commento aggiornato",
+                "delete": "Commento eliminato"
+            },
+            "posts": {
+                "edit": "Post aggiornato",
+                "delete": "Post eliminato"
+            },
+            "avatarUpload": "L'immagine di profilo è stata aggiornata. A volte i cambiamenti possono impiegarci un po' ad apparire.",
+            "resentSuccessfully": "L'email di verifica è stata reinviata",
+            "claimCode": {
+                "withLogin": "Codice riscattato con successo",
+                "withoutLogin": "Codice riscattato con successo. Accedi per scaricare il gioco."
+            },
+            "discordLink": "Discord collegato con successo"
         }
     }
 }
