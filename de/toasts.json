@@ -3,7 +3,17 @@
         "error": {
             "genericError": "Irgendwas ist schief gelaufen.",
             "passwordReset": "Wiederherstellungs-E-Mail kann nicht gesendet werden",
-            "passwordChange": "Aktualisierung des Passworts fehlgeschlagen"
+            "passwordChange": "Aktualisierung des Passworts fehlgeschlagen",
+            "networkCode": {
+                "3009": "Bild konnte nicht heruntergeladen werden",
+                "3010": "Anmeldung fehlgeschlagen",
+                "0000": "Etwas ist schief gelaufen",
+                "1002": "Charakter existiert nicht",
+                "3000": "Benutzername ist bereits vergeben",
+                "3001": "E-Mail ist bereits vergeben.",
+                "3015-post": "Beitrag existiert nicht",
+                "3010-a": "E-Mail wurde nicht bestätigt. Bitte prüfe deinen Posteingang."
+            }
         },
         "success": {
             "accountLinkedSuccessfully": "BMaC-Konto erfolgreich verbunden",
@@ -17,7 +27,17 @@
                 "accept": "Freundschaftseinladung angenommen",
                 "reject": "Freundschaftseinladung gelöscht",
                 "block": "Benutzer blockiert"
-            }
+            },
+            "emailChanged": "E-Mail erfolgreich aktualisiert. Bitte erneut anmelden.",
+            "posts": {
+                "edit": "Beitrag aktualisiert",
+                "delete": "Beitrag gelöscht"
+            },
+            "comments": {
+                "edit": "Kommentar aktualisiert",
+                "delete": "Kommentar gelöscht"
+            },
+            "discordLink": "Discord erfolgreich verknüpft"
         }
     }
 }
