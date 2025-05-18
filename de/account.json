@@ -52,7 +52,8 @@
         "5": {
           "description": "WalkScape ist ein soziales Spiel, das in einer virtuellen Welt, aber mit echten Menschen gespielt wird. Wir erwarten von allen Walkern, dass sie sich gegenseitig mit Respekt behandeln, sei es im Spiel, in unseren sozialen Medien oder im echten Leben. Alle Formen von Belästigung und Diskriminierung sind absolut verboten.",
           "title": "Spielt nett :)"
-        }
+        },
+        "title": "Spielregeln"
       }
     },
     "bmac": {
@@ -146,6 +147,13 @@
     "users": {
       "enterSearch": "Suchbegriff eingeben",
       "found": "{{countStr}} Benutzer gefunden"
+    },
+    "emailChange": {
+      "title": "E-Mail Adresse ändern",
+      "newEmailLabel": "Neue E-Mail",
+      "emptyEmailError": "E-Mail darf nicht leer sein",
+      "successMessage": "E-Mail erfolgreich aktualisiert",
+      "errorMessage": "E-Mail konnte nicht aktualisiert werden"
     }
   }
 }
