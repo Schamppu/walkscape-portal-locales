@@ -5,7 +5,7 @@
         "systemMessages": "Wiadomości systemowe",
         "infoSection": {
             "title": "Ważne informacje dotyczące zamkniętej bety",
-            "closedBetaAccess": "Aktualnie prowadzimy zamknięte testy beta i przyjmujemy do nich regularnie nowych graczy w falach.",
+            "closedBetaAccess": "Aktualnie prowadzimy zamknięte testy beta i przyjmujemy do nich regularnie nowych graczy.",
             "betaLinking": "Jeżeli wspierasz nas w jakiś sposób lub wspierałeś w jakimś momencie poprzez <patreonLink>Patreon</patreonLink> lub <bmacLink>Buy Me A Coffee</bmacLink> masz zagwarantowany dostęp do gry w kolejnej fali. By go uzyskać połącz swoje konto na Portalu z wymaganymi usługami na<accountLink> zakładce konto</accountLink>. Możesz również zgłosić swoją aplikację do bety i mieć szansę na zaproszenie w kolejnej fali nawet jeżeli nas nie wspierasz."
         },
         "statsSection": {
