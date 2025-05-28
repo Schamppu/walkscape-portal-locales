@@ -5,8 +5,8 @@
     "systemMessages": "System messages",
     "infoSection": {
       "title": "Important info regarding the closed beta",
-      "closedBetaAccess": "We are currently running a closed beta test, and we regularly accept new players by waves.",
-      "betaLinking": "If you are supporting us, or have supported at some point on <patreonLink>Patreon</patreonLink> or <bmacLink>Buy Me A Coffee</bmacLink>, you have a guaranteed access to the game when the next wave comes. For this, you need to link your Portal account to those services in the <accountLink>Account page</accountLink>. You can also submit an application to have a chance to be accepted in the next wave, even if you don't support us."
+      "closedBetaAccess": "We are currently running a closed beta test, and we regularly accept new players.",
+      "betaLinking": "<patreonLink>Patreon</patreonLink> and <bmacLink>Buy Me A Coffee</bmacLink> supporters are granted immediate access to the game. If you are a supporter, you need to link your Portal account to those services on the <accountLink>Account page</accountLink>. Otherwise, submit an application to enter the queue."
     },
     "statsSection": {
       "title": "Some fun stats:"

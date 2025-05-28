@@ -55,7 +55,7 @@
       "troubleshoot": "Make sure you are a member of the <patreonLink>WalkScape Patreon</patreonLink> before linking accounts.",
       "success": {
         "title": "Successfully linked Patreon!",
-        "body": "Access to the game is granted in waves. If a wave is ongoing, you can download the game immediately from your Account page. Otherwise we will notify you by email once access is granted. Please note that sometimes a refresh or relogin is required for information to update correctly on the Account page."
+        "body": "You can now download the game from your Account page.Please note that sometimes a refresh or relogin is required for information to update correctly on the Account page."
       }
     },
     "thankYou": {
