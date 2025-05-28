@@ -6,7 +6,7 @@
         "infoSection": {
             "title": "Ważne informacje dotyczące zamkniętej bety",
             "closedBetaAccess": "Aktualnie prowadzimy zamknięte testy beta i przyjmujemy do nich regularnie nowych graczy.",
-            "betaLinking": "Jeżeli wspierasz nas w jakiś sposób lub wspierałeś w jakimś momencie poprzez <patreonLink>Patreon</patreonLink> lub <bmacLink>Buy Me A Coffee</bmacLink> masz zagwarantowany dostęp do gry w kolejnej fali. By go uzyskać połącz swoje konto na Portalu z wymaganymi usługami na<accountLink> zakładce konto</accountLink>. Możesz również zgłosić swoją aplikację do bety i mieć szansę na zaproszenie w kolejnej fali nawet jeżeli nas nie wspierasz."
+            "betaLinking": "Wspierający <patreonLink>Patreon</patreonLink> i <bmacLink>Buy Me A Coffee</bmacLink> otrzymują natychmiastowy dostęp do gry. Jeśli jesteś wspierającym, musisz połączyć swoje konto na portalu z tymi usługami na <accountLink>stronie Konto</accountLink>. W przeciwnym razie złóż wniosek o dołączenie do kolejki."
         },
         "statsSection": {
             "title": "Trochę ciekawych statów:"
