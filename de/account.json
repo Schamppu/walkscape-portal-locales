@@ -68,7 +68,15 @@
       "notInvited": "Nicht eingeladen",
       "seeExistingApplication": "Bewerbung ansehen",
       "title": "Geschlossene Beta:",
-      "eligibleForNextWave": "Für die nächste Welle geeignet"
+      "eligibleForNextWave": "Für die nächste Welle geeignet",
+      "accessUntil": "Zugang bis zum {{dateString}}",
+      "accessExpired": "Zugang abgelaufen am {{dateString}}",
+      "expiredModal": {
+        "apply": "<betaApplicationLink>Beta-Zugangsformular ausfüllen</betaApplicationLink> und auf eine Einladung warten",
+        "support": "Indem du uns auf <patreonLink>Patreon</patreonLink> oder <bmacLink>Buy Me a Coffee</bmacLink> unterstützt. Unterstützer erhalten sofort wieder Zugriff.",
+        "description": "Vielen Dank für deine Teilnahme an der WalkScape-Closed-Beta! Dein zeitlich begrenzter Zugang ist abgelaufen, aber keine Sorge – du kannst trotzdem weiterspielen, indem du:",
+        "title": "Dein temporärer Zugang ist abgelaufen"
+      }
     },
     "discordLink": {
       "linkButton": "Discord verknüpfen",
@@ -100,11 +108,12 @@
       "return": "Zurück zur Konto Übersicht",
       "success": {
         "title": "Patreon erfolgreich verknüpft!",
-        "body": "Der Zugang zum Spiel wird in Wellen gewährt. Wenn eine Welle im Gange ist, kannst du das Spiel sofort von deiner Kontoseite herunterladen. Andernfalls werden wir dich per E-Mail benachrichtigen, sobald dir Zugang gewährt wurde."
+        "body": "Du kannst das Spiel jetzt auf deiner Kontoseite herunterladen. Bitte beachte, dass manchmal ein Refresh oder erneutes Einloggen erforderlich ist, damit die Informationen auf der Kontoseite korrekt aktualisiert werden."
       },
       "inProgress": "Patreon wird verknüpft...",
-      "failed": "Patreon-Konto konnte nicht verknüpft werden. Bitte versuche es später noch einmal.",
-      "recommendation": "Wir empfehlen, Konten zu verknüpfen, indem du dich bei Patreon anmeldest. Wenn das nicht funktioniert, versuche, dich mit dem untenstehenden Formular zu verbinden."
+      "failed": "Verknüpfung des Patreon-Kontos fehlgeschlagen.",
+      "recommendation": "Wir empfehlen, Konten zu verknüpfen, indem du dich bei Patreon anmeldest. Wenn das nicht funktioniert, versuche, dich mit dem untenstehenden Formular zu verbinden.",
+      "troubleshoot": "Stelle sicher, dass du Mitglied bei <patreonLink>WalkScape Patreon</patreonLink> bist, bevor du die Konten verknüpfst."
     },
     "profilePhoto": {
       "changeButton": "Profilbild ändern",
@@ -153,7 +162,10 @@
       "newEmailLabel": "Neue E-Mail",
       "emptyEmailError": "E-Mail darf nicht leer sein",
       "successMessage": "E-Mail erfolgreich aktualisiert",
-      "errorMessage": "E-Mail konnte nicht aktualisiert werden"
+      "errorMessage": "E-Mail konnte nicht aktualisiert werden",
+      "buttonLabel": "Mailadresse ändern",
+      "relogin": "Bitte erneut <0>einloggen</0>.",
+      "inProgress": "Mailadresse wird aktualisiert ..."
     }
   }
 }
