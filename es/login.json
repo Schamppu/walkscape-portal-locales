@@ -26,6 +26,7 @@
         "verificationComplete": "¡Dirección de correo electrónico verificada con éxito! Pulsa <0>aquí</0> para volver a la página principal.",
         "verificationFailure": "Algo ha salido mal en el proceso de verificación de correo electrónico. Para solucionarlo, puedes probar lo siguiente:",
         "accessCodeFormLabel": "Código de acceso",
-        "emailOrUsernameFormLabel": "Correo electrónico o nombre de usuario"
+        "emailOrUsernameFormLabel": "Correo electrónico o nombre de usuario",
+        "usernamePrivacyNotification": "El nombre de usuario es un identificador visible públicamente para los usuarios de este sitio web y otros jugadores de WalkScape. No debes usar tu nombre real ni otros nombres que puedan relacionarse con tu identidad real."
     }
 }
