@@ -13,8 +13,8 @@
     },
     "singulars": {
         "infoSection": {
-            "betaLinking": "Falls du uns momentan oder zu irgend einem Zeitpunkt auf <patreonLink>Patreon</patreonLink> oder <bmacLink>Buy me a Coffee</bmacLink> unterstützt hast, ist dir Zugang zum Spiel bei der nächsten Welle garantiert. Dafür musst du zur Kontoübersicht gehen und dein Portal Konto mit diesen verbinden. Du kannst außerdem eine Bewerbung einreichen um die Chance auf einen Zugang zu bekommen, selbst wenn du uns nicht unterstützt.",
-            "closedBetaAccess": "Aktuell läuft ein geschlossener Beta Test, wir laden regelmäßig neue Spieler in Wellen ein.",
+            "betaLinking": "Unterstützer auf <patreonLink>Patreon</patreonLink> und <bmacLink>Buy Me A Coffee</bmacLink> erhalten sofortigen Zugang zum Spiel. Wenn du ein Unterstützer bist, musst du dein Portal-Konto auf der <accountLink>Kontoseite</accountLink> mit diesen Diensten verknüpfen. Andernfalls reiche eine Bewerbung ein, um in die Warteliste aufgenommen zu werden.",
+            "closedBetaAccess": "Wir führen derzeit einen geschlossenen Betatest durch und nehmen regelmäßig neue Spieler auf.",
             "title": "Wichtige Informationen zur geschlossenen Beta"
         },
         "linkToSite": "Das WalkScape Portal ist ein soziales Portal, das mit dem Spiel <wsSite>WalkScape</wsSite> zusammenhängt.",
@@ -22,6 +22,10 @@
             "title": "Einige interessante Statistiken:"
         },
         "welcomeMessage": "Willkommen beim WalkScape Portal",
-        "systemMessages": "Systemnachrichten"
+        "systemMessages": "Systemnachrichten",
+        "newUser": {
+            "title": "Willkommen, {{username}}!",
+            "description": "Vielen Dank für deine Registrierung bei WalkScape! Um die Einrichtung deines Kontos abzuschließen, gehe zur <accountLink>Kontoseite</accountLink> und verknüpfe dein Patreon-/Buy Me a Coffee-Konto oder sende eine Bewerbung, um am geschlossenen Betatest teilzunehmen. Viel Spaß beim Spazieren – und denk daran, genug zu trinken!"
+        }
     }
 }
