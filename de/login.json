@@ -15,6 +15,28 @@
         "usernameFormLabel": "Benutzername",
         "signup": {
             "special": "Registriere dich für ein WalkScape-Konto mit speziellem Beta-Zugang"
-        }
+        },
+        "verificationComplete": "E-Mail-Adresse erfolgreich verifiziert! Klicke <0>hier</0>, um zur Startseite zurückzukehren.",
+        "missingConfirmation": "Diese E-Mail-Adresse wurde noch nicht verifiziert. Überprüfe bitte deinen Posteingang und Spam-Ordner oder fordere eine neue Bestätigungs-E-Mail an, indem du <0>hier</0> klickst.",
+        "resendButtonLabel": "Email erneut senden",
+        "verificationFix": {
+            "2": "Fordere eine neue Bestätigungs-E-Mail über das untenstehende Formular an.",
+            "3": "Kontaktiere unseren Support unter <0>contact@walkscape.app</0>",
+            "1": "Wenn du den Link aus der E-Mail kopiert hast, stelle sicher, dass er vollständig eingefügt wurde."
+        },
+        "usernamePrivacyNotification": "Der Benutzername ist ein öffentlich sichtbarer Name für Nutzer dieser Website und andere Spieler von WalkScape. Du solltest nicht deinen echten Namen oder andere Namen verwenden, die mit deiner realen Person in Verbindung gebracht werden können.",
+        "special": {
+            "alreadyClaimed": "Dieses Konto hat bereits temporären Zugang erhalten. Ein Konto kann nur einen temporären Zugangscode einlösen.",
+            "alreadyHasBeta": "Nutzer mit Beta-Zugang können keinen temporären Zugang beantragen.",
+            "createTooltip": "Durch Umschalten der Auswahl kannst du wählen, ob du den Spezialcode für ein neues oder ein bestehendes Konto einlösen möchtest.",
+            "createToggle": "Neuen Account erstellen"
+        },
+        "emailOrUsernameFormLabel": "Mailadresse oder Benutzername",
+        "accessCodeFormLabel": "Zugangscode",
+        "claimCode": {
+            "title": "Spezialcode anfordern",
+            "button": "Code anfordern"
+        },
+        "verificationFailure": "Bei der E-Mail-Verifizierung ist ein Fehler aufgetreten. Um das Problem zu beheben, kannst du folgende Schritte versuchen:"
     }
 }
