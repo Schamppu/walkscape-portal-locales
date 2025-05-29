@@ -78,6 +78,12 @@
             "accept": "Akzeptieren",
             "reject": "Ablehnen",
             "block": "Blockieren"
+        },
+        "cookieConsent": {
+            "prompt": "Diese Website verwendet Cookies, um den Datenverkehr zu analysieren. Durch Klicken auf ‘Akzeptieren’ stimmen Sie dieser Nutzung zu."
+        },
+        "buttons": {
+            "ok": "OK"
         }
     }
 }
