@@ -31,7 +31,8 @@
                 "smithing": "SMD",
                 "carpentry": "ZMR",
                 "woodcutting": "HLZ"
-            }
+            },
+            "trinketry": "Kunsthandwerk"
         },
         "loading": "Lade...",
         "filters": {
