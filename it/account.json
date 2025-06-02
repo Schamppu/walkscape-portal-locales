@@ -110,7 +110,7 @@
       "failed": "Collegamento al profilo Patreon non riuscito.",
       "success": {
         "title": "Patreon collegato con successo!",
-        "body": "L'accesso al gioco è consentito ad ondate. Se un'ondata è in corso, puoi scaricare il gioco immediatamente dalla tua pagina Profilo. Altrimenti ti notificheremo via email quando ti sarà permesso l'accesso. Si prega di notare come a volte riaggiornare la pagina o riaccedere sia necessario affinche le informazioni si aggiornino correttamente sulla pagina Account."
+        "body": "Puoi scaricare il gioco immediatamente dalla tua pagina Profilo.Tieni presente che, a volte, riaggiornare la pagina o riaccedere sia necessario affinche le informazioni si aggiornino correttamente sulla pagina Account."
       },
       "login": "Accedi con Patreon",
       "recommendation": "Raccomandiamo il collegamento dei profili accedendo con Patreon. Se non dovesse funzionare, prova a connetterti usando il modulo sottostante.",
