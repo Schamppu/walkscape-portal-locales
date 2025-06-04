@@ -1,13 +1,17 @@
 {
   "singulars": {
     "characters": "Characters",
+    "footer": {
+      "copyright": "Copyrights reserved by Not a Cult Oy",
+      "privacy-policy": "Privacy Policy"
+    },
     "resetPassword": {
       "instructions": "To reset your password, enter your email and click reset password. You will receive an email containing a link that will bring you to the password update page, where you can define a new password.",
       "emailInputLabel": "Email",
       "button": "Reset password"
     },
     "cookieConsent": {
-      "prompt": "This website uses cookies to analyze traffic. By clicking 'Accept' you consent to this usage."
+      "prompt": "This website uses cookies. By clicking 'Accept' you consent to this usage. You can read our <0> privacy policy here</0>."
     },
     "searchBarPlaceholder": "Search…",
     "commentSubmission": {
