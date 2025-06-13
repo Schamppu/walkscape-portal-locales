@@ -13,8 +13,8 @@
     },
     "singulars": {
         "infoSection": {
-            "betaLinking": "Als je ons steunt, of op een bepaald moment hebt gesteund op <patreonLink>Patreon</patreonLink> of <bmacLink>Buy me a Coffee</bmacLink>, krijg je gegarandeerd toegang tot het spel wanneer de nieuwe uitnodigingsronde begint. Hiervoor moet je je Portal-account koppelen met deze diensten op de <accountLink>Account-pagina</accountLink>. Je kunt ook een aanvraag indienen om kans te krijgen toegelaten te worden, zelfs als je ons niet steunt.",
-            "closedBetaAccess": "Er is momenteel een gesloten beta-test gaande, en we laten nieuwe spelers toe in regelmatige rondes.",
+            "betaLinking": "Als je ons steunt op <patreonLink>Patreon</patreonLink> of <bmacLink>Buy me a Coffee</bmacLink>, krijg je gegarandeerd direct toegang tot het spel. Hiervoor moet je je Portal-account koppelen met deze diensten op de <accountLink>Account-pagina</accountLink>. Je kunt ook een aanvraag indienen om op de wachtlijst te komen om toegelaten te worden.",
+            "closedBetaAccess": "Er is momenteel een gesloten beta-test gaande, en we laten regelmatig nieuwe spelers toe.",
             "title": "Belangrijke informatie over de gesloten bèta"
         },
         "linkToSite": "WalkScape Portal is een sociaal portaal dat is gekoppeld aan het spel <wsSite>WalkScape</wsSite>.",
