@@ -83,7 +83,11 @@
             "ok": "OK"
         },
         "cookieConsent": {
-            "prompt": "Deze website gebruikt cookies om netwerkverkeer te analyseren. Door op 'Accepteren' te klikken ga je hiermee akkoord."
+            "prompt": "Deze website gebruikt cookies om netwerkverkeer te analyseren. Door op 'Accepteren' te klikken ga je hiermee akkoord. Je kunt <0>hier ons privacybeleid</0> lezen."
+        },
+        "footer": {
+            "copyright": "Auteursrechten voorbehouden aan Not a Cult Oy",
+            "privacy-policy": "Privacybeleid"
         }
     }
 }
