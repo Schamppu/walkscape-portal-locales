@@ -23,6 +23,9 @@
         "title": "Beta Bewerbung",
         "landing": {
             "title": "Herzlichen Glückwunsch zur Anmeldung bei Walkscape!"
+        },
+        "specialLanding": {
+            "description": "Du kannst die Closed-Beta-Version für eine begrenzte Zeit ausprobieren. Dein Zugriff endet am {{endDate}}."
         }
     }
 }
