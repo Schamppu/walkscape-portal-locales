@@ -1,1 +1,65 @@
-{}
+{
+  "singulars": {
+    "patreonLink": {
+      "success": {
+        "title": "Patreoni konto edukalt seotud!",
+        "body": "Nüüd saate mängu oma konto lehelt alla laadida. Pange tähele, et mõnikord on konto lehel teabe õigeks värskendamiseks vaja värskendada või uuesti sisse logida."
+      },
+      "troubleshoot": "Enne kontode sidumist veendu, et oled <patreonLink>WalkScape Patreoni</patreonLink> liige.",
+      "title": "Patreon:",
+      "linkInstructions": "Seo Patreon konto",
+      "emailInputLabel": "Patreon'is kasutusel olev e-posti aadress",
+      "codeSentSuccessMessage": "Kontrollige sisestatud e-posti postkasti kinnituskoodi olemasolu",
+      "linkSuccessMessage": "Patreoni konto edukalt seotud",
+      "return": "Tagasi konto seadete lehele",
+      "inProgress": "Patreoniga sidumine...",
+      "recommendation": "Soovitame kontode sidumiseks sisse logida Patreoniga. Kui see ei toimi, proovige ühendust võtta alloleva vormi abil.",
+      "failed": "Patreoni konto sidumine ebaõnnestus.",
+      "login": "Logi sisse kasutades Patreon'i"
+    },
+    "thankYou": {
+      "title": "Täname teid toetuse eest!"
+    },
+    "general": {
+      "joinedOn": "Liitus:",
+      "seeFull": "Vaata kogu profiili"
+    },
+    "privacy": {
+      "title": "Privaatsusseaded",
+      "private": "Privaatne",
+      "friends": "Ainult sõbrad",
+      "public": "Avalik",
+      "profileVisibility": "Profiili nähtavus"
+    },
+    "accountLinking": {
+      "getCodeButton": "Küsi koodi",
+      "codeFormFieldLabel": "Kood edastatud e-posti teel",
+      "linkAccountButton": "Seo konto",
+      "notLinkedStatus": "Ei ole seotud",
+      "firstSupportDate": "esimest korda toetas {{ date }}",
+      "linkedStatus": "Seotud",
+      "noSubscription": "Puudub",
+      "unlinkAction": "Ühenda lahti"
+    },
+    "header": {
+      "introduction": "Tere {{ username }}"
+    },
+    "bmac": {
+      "statusTitle": "Bmac:",
+      "linkTitle": "Seo Bmac konto",
+      "emailFormFieldLabel": "Bmac'is kasutusel olev e-posti aadress"
+    },
+    "discordLink": {
+      "title": "Discord:",
+      "joinDiscord": "Liitu Discordiga",
+      "linkButton": "Seo Discordi konto",
+      "relogin": "Palun <0>Logi uuesti sisse</0>",
+      "failed": "Discordi konto sidumine ebaõnnestus. Palun proovige hiljem uuesti.",
+      "inProgress": "Discordi konto sidumine...",
+      "success": "Discordi konto edukalt seotud!"
+    },
+    "meta": {
+      "description": "Vaata {{username}} profiili!"
+    }
+  }
+}
