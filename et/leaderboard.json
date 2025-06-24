@@ -17,8 +17,26 @@
             "short": {
                 "mining": "KVD",
                 "agility": "AGL",
-                "cooking": "KOK"
+                "cooking": "KOK",
+                "fishing": "KAL",
+                "crafting": "MST",
+                "foraging": "KOR",
+                "smithing": "SEP",
+                "carpentry": "PDT",
+                "woodcutting": "PUU"
             }
+        },
+        "filters": {
+            "friends": "Sõbrad",
+            "all": "Kõik"
+        },
+        "loading": "Laadimine...",
+        "avatarOfPlayer": "Mängija {{player}} avatar"
+    },
+    "plurals": {
+        "pageNumber": {
+            "key_one": "Lehekülg 1",
+            "key_other": "Lehekülg {{count}}"
         }
     }
 }
