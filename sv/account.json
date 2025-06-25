@@ -40,7 +40,12 @@
     },
     "discordLink": {
       "linkButton": "Koppla Discord",
-      "title": "Discord:"
+      "title": "Discord:",
+      "joinDiscord": "Gå med Discord",
+      "relogin": "Var god och <0>logga in</0> igen",
+      "failed": "Koppling till Discord misslyckades. Försök igen senare.",
+      "inProgress": "Kopplar Discord...",
+      "success": "Discord framgångsrikt länkat!"
     },
     "header": {
       "introduction": "Hej {{ username }}"
@@ -56,7 +61,17 @@
       "emailInputLabel": "E-postadress som används för ditt Patreon-konto",
       "linkInstructions": "Koppla ett Patreon-konto",
       "linkSuccessMessage": "Patreon-konto kopplat framgångsrikt",
-      "title": "Patreon:"
+      "title": "Patreon:",
+      "login": "Logga via Patreon",
+      "return": "Återgå till sida för Konto",
+      "inProgress": "Kopplar Patreon...",
+      "failed": "Koppling till Patreon konto misslyckades.",
+      "troubleshoot": "Försäkra dig om att du är medlem av <patreonLink>WalkScape Patreon</patreonLink> före du kopplar ihop konton.",
+      "success": {
+        "title": "Patreon konton framgångsrikt sammankopplade!",
+        "body": "Du kan nu ladda hem spelet från din Kontosida. Notera att det kan krävas en uppdatering av sidan eller att logga in igen på nytt för att informationen ska uppdateras korrekt på Kontosidan."
+      },
+      "recommendation": "Vi rekommenderar att länka konton genom att logga in via Patreon. Använd formuläret nedan om det inte fungerar."
     },
     "profilePhoto": {
       "changeButton": "Ändra profilbild",
@@ -70,6 +85,19 @@
       "newUsernameLabel": "Nytt användarnamn",
       "successMessage": "Användarnamn har ändras",
       "title": "Ändra ditt användarnamn"
+    },
+    "meta": {
+      "description": "Kolla in {{username}}s profil!"
+    },
+    "general": {
+      "joinedOn": "Gick med:",
+      "seeFull": "Se fullständig profil"
+    },
+    "privacy": {
+      "profileVisibility": "Öppenhetsgrad av profil",
+      "private": "Privat",
+      "friends": "Vänner endast",
+      "public": "Offentlig"
     }
   }
 }
