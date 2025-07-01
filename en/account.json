@@ -113,11 +113,12 @@
         "title": "For Android users:",
         "instructions": "You are using Android. There are two steps to get access to the Beta version of WalkScape:",
         "joinGoogleGroup": "Join <googleGroup>WalkScape Closed Beta Google Group</googleGroup>.",
-        "downloadFromGooglePlay": "After you have joined the group, you have access to <playStoreLink>download the game from Google Play</playStoreLink>."
+        "downloadFromGooglePlay": "After you have joined the group, you have access to <playStoreLink>download the game from Google Play</playStoreLink>.",
+        "useSameGoogleAccount": "<b>Note!</b> You need to join the Google Group with the same Google account that is logged into Google Play. Otherwise you won't see the game when clicking the second link"
       },
       "ios": {
         "title": "For iOS users:",
-        "instructions": "If you are using iOS <testflightLink>click this link to join WalkScape's TestFlight and download the game</testflightLink>."
+        "instructions": "If you are using iOS <testflightLink>click this link to join WalkScape's TestFlight and download the game</testflightLink>. If TestFlight asks for a code, just click the link again."
       }
     },
     "profilePhoto": {
