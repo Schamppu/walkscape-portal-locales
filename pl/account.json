@@ -55,7 +55,7 @@
       },
       "ios": {
         "title": "Dla użytkowników iOS:",
-        "instructions": "Jeżeli korzystasz z sytemu iOS <testflightLink>kliknij ten link, by dołączyć do WalkScape TestFlight i pobierz grę</testflightLink>."
+        "instructions": "Jeżeli korzystasz z sytemu iOS <testflightLink>kliknij ten link, by dołączyć do WalkScape TestFlight i pobierz grę</testflightLink>. Jeśli TestFlight poprosi o kod, po prostu kliknij link ponownie."
       }
     },
     "meta": {
