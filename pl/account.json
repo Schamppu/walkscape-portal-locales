@@ -50,7 +50,8 @@
         "title": "Dla użytkowników Androida:",
         "instructions": "Używasz systemu Android. Są dwa kroki, by otrzymać dostęp do Bety gry WalkScape:",
         "joinGoogleGroup": "Dołącz do <googleGroup>zamkniętej Grupy Google dla Bety WalkScape</googleGroup>.",
-        "downloadFromGooglePlay": "Po tym, jak dołączysz do grupy otrzymasz dostęp do <playStoreLink>możliwości pobrania gry z Google Play</playStoreLink>."
+        "downloadFromGooglePlay": "Po tym, jak dołączysz do grupy otrzymasz dostęp do <playStoreLink>możliwości pobrania gry z Google Play</playStoreLink>.",
+        "useSameGoogleAccount": "<b>Uwaga!</b> Musisz dołączyć do grupy Google z tego samego konta Google, które jest zalogowane w Google Play. W przeciwnym razie nie zobaczysz gry po kliknięciu drugiego linku"
       },
       "ios": {
         "title": "Dla użytkowników iOS:",
