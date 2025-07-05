@@ -24,11 +24,12 @@
         "downloadFromGooglePlay": "Nadat je lid bent geworden van de groep, heb je toegang om <playStoreLink>het spel te downloaden via Google Play</playStoreLink>.",
         "instructions": "Je gebruikt Android. Er zijn twee stappen om toegang te krijgen tot de bètaversie van WalkScape:",
         "joinGoogleGroup": "Word lid van <googleGroup>WalkScape Gesloten Bèta Google Groep</googleGroup>.",
-        "title": "Voor Android-gebruikers:"
+        "title": "Voor Android-gebruikers:",
+        "useSameGoogleAccount": "<b>Let op!</b> Je moet lid worden van de Google Group met hetzelfde Google-account als waarmee je ingelogd ben op Google Play, anders is het spel niet zichtbaar nadat je de tweede link aanklikt"
       },
       "dialogTitle": "Spel downloaden",
       "ios": {
-        "instructions": "Als je iOS gebruikt, <testflightLink>klik dan op deze link om deel te nemen aan WalkScape's TestFlight en het spel te downloaden</testflightLink>.",
+        "instructions": "Als je iOS gebruikt, <testflightLink>klik dan op deze link om deel te nemen aan WalkScape's TestFlight en het spel te downloaden</testflightLink>. Als TestFlight om een code vraagt, klik dan de link opnieuw aan.",
         "title": "Voor iOS-gebruikers:"
       },
       "termsOfServiceDisclaimer": "Door op 'Accepteer' te drukken geef je aan de <tos>Servicevoorwaarden</tos> en spelregels te accepteren.",
