@@ -29,7 +29,7 @@
     "verificationFix": {
       "1": "If you copied the link from the email, make sure it was pasted in its entirety.",
       "2": "Request a new verification email using the form below.",
-      "3": "Contact our support at <0>contact@walkscape.app</0>"
+      "3-new": "Contact our support at <supportEmailLink>support@walkscape.app</supportEmailLink>"
     },
     "signup": {
       "special": "Sign up for WalkScape account with special beta access"
