@@ -16,8 +16,7 @@
         "verificationFailure": "Jokin meni pieleen sähköpostin vahvistuksessa. Korjataksesi tilanteet, voit kokeilla seuraavia vaiheita:",
         "verificationFix": {
             "1": "Mikäli kopioit linkin sähköpostista, varmistathan että se liitettiin kokonaisuudessaan.",
-            "2": "Pyydä uutta vahvistusviestiä käyttämällä alla olevaa lomaketta.",
-            "3": "Ota yhteyttä tukeen <0>contact@walkscape.app</0>"
+            "2": "Pyydä uutta vahvistusviestiä käyttämällä alla olevaa lomaketta."
         },
         "accessCodeFormLabel": "Pääsyavain",
         "claimCode": {

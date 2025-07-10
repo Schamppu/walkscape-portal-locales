@@ -18,8 +18,7 @@
         },
         "verificationFix": {
             "1": "Si copiaste el link desde el correo, comprueba que se haya pegado completamente.",
-            "2": "Solicita un nuevo correo de verificación usando el siguiente formulario.",
-            "3": "Contacta nuestro soporte, en <0>contact@walkscape.app</0>"
+            "2": "Solicita un nuevo correo de verificación usando el siguiente formulario."
         },
         "resendButtonLabel": "Reenviar correo",
         "missingConfirmation": "Esta dirección de correo electrónico aún no ha sido verificada. Asegúrate de comprobar la bandeja de entrada y carpeta de correo basura, o solicita un nuevo correo de verificación pulsando <0>aquí</0>.",

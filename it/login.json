@@ -20,8 +20,7 @@
         "verificationComplete": "Indirizzo email verificato con successo! Clicca <0>qui</0> per tornare alla pagina principale.",
         "verificationFix": {
             "1": "Se hai copiato il link direttamente dall'email, assicurati che sia stato incollato per intero.",
-            "2": "Richiedi una nuova email di verifica compilando il modulo sottostante.",
-            "3": "Contatta la nostra assistenza all'indirizzo <0>contact@walkscape.app</0>"
+            "2": "Richiedi una nuova email di verifica compilando il modulo sottostante."
         },
         "resendButtonLabel": "Rinvia email",
         "verificationFailure": "Qualcosa è andato storto durante il processo di verifica dell'email. Per risolvere il problema, puoi provare a seguire i seguenti passaggi:",
