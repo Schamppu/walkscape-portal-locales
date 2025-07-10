@@ -37,7 +37,6 @@
             "passwordReset": "L'e-mail de récupération n'a pas pu être envoyé",
             "networkCode": {
                 "2002": "Non autorisé",
-                "2002-banned": "Ce compte a été banni de WalkScape. Pour faire appel à cette décision, contactez le support via <0>contact@walkscape.app</0>.",
                 "3016": "Paramètres de requête manquants",
                 "0000": "Quelque chose s'est mal passé",
                 "3000": "Ce nom d'utilisateur est déjà pris",
