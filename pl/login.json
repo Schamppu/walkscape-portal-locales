@@ -21,7 +21,8 @@
         "verificationFailure": "Coś poszło nie tak podczas procesu weryfikacji adresu e-mail. Aby rozwiązać ten problem, możesz wykonać następujące kroki:",
         "verificationFix": {
             "1": "Jeśli link został skopiowany z wiadomości e-mail, upewnij się, że został wklejony w całości.",
-            "2": "Poproś o nową wiadomość weryfikacyjną e-mail, korzystając z poniższego formularza."
+            "2": "Poproś o nową wiadomość weryfikacyjną e-mail, korzystając z poniższego formularza.",
+            "3-new": "Skontaktuj się z naszym wsparciem pod adresem <supportEmailLink>support@walkscape.app</supportEmailLink>"
         },
         "resendButtonLabel": "Wyślij ponownie wiadomość e-mail",
         "emailOrUsernameFormLabel": "Adres e-mail lub nazwa użytkownika",
