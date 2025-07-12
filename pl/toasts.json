@@ -75,7 +75,8 @@
                 "3019-d": "Nieprawidłowa nazwa użytkownika: Nazwa użytkownika musi zawierać co najmniej 3 znaki inne niż spacja",
                 "3020": "Nie istnieje konto z podanym adresem e-mail",
                 "3022": "Kod tymczasowy jest nieprawidłowy",
-                "3025-b": "Użytkownik w przeszłości odebrał kod specjalny"
+                "3025-b": "Użytkownik w przeszłości odebrał kod specjalny",
+                "2002-ban": "Twoje konto zostało zablokowane w WalkScape. Aby odwołać się od tej decyzji, skontaktuj się z działem pomocy technicznej pod adresem support@walkscape.app."
             }
         }
     }
