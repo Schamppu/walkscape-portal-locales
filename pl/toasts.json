@@ -1,16 +1,16 @@
 {
     "singulars": {
         "success": {
-            "signedUpSuccessfully": "Zarejestrowano pomyślnie. Upewnij się, by sprawdzić swój email: powinieneś otrzymać weryfikację na skrzynkę email z linkiem, do potwierdzenia adresu.",
+            "signedUpSuccessfully": "Rejestracja zakończona pomyślnie. Sprawdź swoją skrzynkę e-mail — powinieneś otrzymać wiadomość weryfikacyjną z linkiem, który należy kliknąć, aby potwierdzić swój adres e-mail.",
             "loggedInSuccesssfully": "Zalogowano pomyślnie.",
-            "passwordResetSent": "Wysłano link z resetowaniem hasła",
-            "passwordChange": "Hasło zmienione z sukcesem",
+            "passwordResetSent": "Wysłano e-mail z resetem hasła",
+            "passwordChange": "Hasło zostało pomyślnie zmienione",
             "bmacCheckForValidationCode": "Sprawdź podaną skrzynkę email, by znaleźć kod weryfikacyjny",
-            "accountLinkedSuccessfully": "Konto Bmac podpięte z sukcesem",
+            "accountLinkedSuccessfully": "Konto Bmac zostało pomyślnie połączone",
             "loggedOut": "Wylogowano",
             "friendInvites": {
-                "accept": "Zaproszenie do znajomych zaakceptowane",
-                "reject": "Zaproszenie do znajomych usunięte",
+                "accept": "Zaproszenie do znajomych zostało zaakceptowane",
+                "reject": "Zaproszenie do znajomych zostało usunięte",
                 "block": "Użytkownik zablokowany"
             },
             "resentSuccessfully": "Ponowne wysłanie wiadomości weryfikacyjnej powiodło się",
@@ -32,9 +32,9 @@
             "emailChanged": "Adres e-mail został pomyślnie zaktualizowany. Zaloguj się ponownie."
         },
         "error": {
-            "passwordReset": "Nie można wysłać maila odzyskującego",
-            "passwordChange": "Aktualizowanie hasła nie powiodło się",
-            "genericError": "Coś się popsuło.",
+            "passwordReset": "Nie udało się wysłać e-maila do odzyskiwania hasła",
+            "passwordChange": "Aktualizacja hasła nie powiodła się",
+            "genericError": "Coś poszło nie tak.",
             "expiredToken": "Login wygasł",
             "networkCode": {
                 "0000": "Coś się popsuło",
