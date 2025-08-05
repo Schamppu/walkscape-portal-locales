@@ -30,7 +30,7 @@
       },
       "dialogTitle": "Scarica il client di gioco",
       "ios": {
-        "instructions": "Se utilizzi iOS <testflightLink>clicca su questo link per unirti al TestFlight di WalkScape e scaricare il gioco</testflightLink>.",
+        "instructions": "Se utilizzi iOS <testflightLink>clicca su questo link per unirti al TestFlight di WalkScape e scaricare il gioco</testflightLink>. Se TestFlight richiede un codice, clicca nuovamente sul collegamento.",
         "title": "Per utenti iOS:"
       },
       "termsOfServiceDisclaimer": "Cliccando 'Accetta' dichiari di acconsentire ai <tos>Termini di servizio</tos> ed alle nostre Regole di Gioco.",
