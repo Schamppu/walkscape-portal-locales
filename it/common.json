@@ -84,7 +84,11 @@
             "ok": "Ok"
         },
         "cookieConsent": {
-            "prompt": "Questo sito utilizza i cookies per analizzare il traffico web. Cliccando 'Accetta' acconsenti a questo utilizzo."
+            "prompt": "Questo sito web utilizza i cookie. Cliccando su \"Accetta\" acconsenti al loro utilizzo. Puoi leggere la nostra <0>informativa sulla privacy qui</0>."
+        },
+        "footer": {
+            "privacy-policy": "Politica sulla Privacy",
+            "copyright": "Tutti i diritti sono di Not a Cult Oy"
         }
     }
 }
