@@ -1,1 +1,46 @@
-{}
+{
+  "singulars": {
+    "discordLink": {
+      "relogin": "Lūdzu, <0>piesakieties</0> vēlreiz",
+      "title": "Discord:",
+      "joinDiscord": "Pievienojies Discord"
+    },
+    "privacy": {
+      "friends": "Tikai draugi",
+      "title": "Privātuma iestatījumi",
+      "profileVisibility": "Profila redzamība",
+      "private": "Privāts",
+      "public": "Publisks"
+    },
+    "accountLinking": {
+      "noSubscription": "Nav abonementa",
+      "getCodeButton": "Iegūt kodu",
+      "codeFormFieldLabel": "Kods saņemts e-pastā",
+      "linkAccountButton": "Saistīt kontu",
+      "notLinkedStatus": "Nav saistīts",
+      "firstSupportDate": "pirmais atbalsts {{ date }}",
+      "linkedStatus": "Saistīts",
+      "unlinkAction": "Atsaistīt"
+    },
+    "general": {
+      "seeFull": "Skatīt pilnu profilu",
+      "joinedOn": "Pievienojies:"
+    },
+    "header": {
+      "introduction": "Sveiki, {{ username }}"
+    },
+    "bmac": {
+      "statusTitle": "Bmac:",
+      "linkTitle": "Saistīt Bmac kontu",
+      "emailFormFieldLabel": "E-pasts, kas tiek izmantots jūsu Bmac kontam"
+    },
+    "patreonLink": {
+      "title": "Patreon:",
+      "linkInstructions": "Saistīt Patreon kontu",
+      "login": "Pieslēgties ar Patreon"
+    },
+    "meta": {
+      "description": "Apskati lietotāja {{username}} profilu!"
+    }
+  }
+}
