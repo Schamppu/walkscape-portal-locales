@@ -1,1 +1,19 @@
-{}
+{
+    "singulars": {
+        "meta": {
+            "description": "{{characterName}} (kopējais līmenis {{total Level}}) ir nogājis {{totalSteps}} soļus un ieguvis {{total Xp}} pieredzes punktus"
+        },
+        "title": "Varonis",
+        "settings": {
+            "title": "Varoņa iestatījumi",
+            "anonOnLeaderboard": {
+                "label": "Anonimizēt līderu sarakstus",
+                "tip": "Ja šī opcija ir atlasīta, līderu sarakstos šī varoņa vārds tiek aizstāts ar \"Anonīms Vokers\". Piezīme. Ja tava profila redzamība ir iestatīta uz \"Tikai draugiem\", tavi draugi joprojām var redzēt varoņa vārdu līderu sarakstos."
+            },
+            "hideSteps": {
+                "label": "Slēpt soļus",
+                "tip": "Ja šī opcija ir atlasīta, šī varoņa kopējais soļu skaits tiek paslēpts no visiem pārējiem lietotājiem. Šis varonis tiks paslēpts arī kopējo soļu skaita līderu sarakstā."
+            }
+        }
+    }
+}
