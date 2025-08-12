@@ -1,1 +1,36 @@
-{}
+{
+    "singulars": {
+        "filterOptions": {
+            "fishing": "Makšķerēšana",
+            "total_steps": "Kopējais soļu skaits",
+            "total_xp": "Kopējais XP",
+            "total_level": "Kopējais līmenis",
+            "mining": "Kalnrūpniecība",
+            "cooking": "Ēdienu gatavošana",
+            "crafting": "Amatniecība",
+            "foraging": "Barības meklēšana",
+            "carpentry": "Galdniecība",
+            "woodcutting": "Kokapstrāde",
+            "trinketry": "Dārglietas",
+            "achievement_points": "Sasniegumu punkti",
+            "short": {
+                "mining": "MNG",
+                "agility": "AGL",
+                "cooking": "CKN",
+                "fishing": "FSH",
+                "crafting": "CRF",
+                "foraging": "FRG",
+                "smithing": "SMT",
+                "carpentry": "CRP",
+                "woodcutting": "WC"
+            },
+            "agility": "Veiklība"
+        },
+        "filters": {
+            "all": "Visi",
+            "friends": "Draugi"
+        },
+        "loading": "Notiek ielāde...",
+        "avatarOfPlayer": "Spēlētāja {{player}} avatārs"
+    }
+}
