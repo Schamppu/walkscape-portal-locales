@@ -1,1 +1,31 @@
-{}
+{
+    "singulars": {
+        "title": "Beta versija",
+        "formSubmissionPreview": {
+            "alreadySubmittedApplicationMessage": "Tu jau iesniedzi pieteikumu. Šeit ir kopsavilkums:",
+            "deviceModelLabel": "Ierīces modelis:",
+            "averageStepsPerWeekLabel": "Vidējais soļu skaits nedēļā:",
+            "androidDeviceCheckedLabel": "Android:",
+            "iOSDeviceCheckedLabel": "iOS:",
+            "applicationTextLabel": "Pieteikuma teksts:"
+        },
+        "form": {
+            "deviceType": "Tavas ierīces(-ču) veids(-i):",
+            "iOSCheckbox": "iOS (iPhone)",
+            "androidCheckbox": "Android",
+            "deviceModel": "Tavas ierīces(-ču) modelis(-ļi):",
+            "deviceModelPlaceholder": "piemēram: Google Pixel 6, iPhone 13 Pro",
+            "averageStepsPerWeekLabel": "Vidējais soļu skaits nedēļā:",
+            "averageStepsPerWeekPlaceholder": "Vidējais soļu skaits nedēļā",
+            "whyInviteToBeta": "Kāpēc tevi vajadzētu uzaicināt uz beta versiju:",
+            "whyInviteToBetaPlaceholder": "Apraksti, kāpēc tevi vajadzētu uzaicināt uz slēgto beta versiju: tava motivācija, iepriekšējā pieredze spēļu testēšanā, nepieciešamība pēc pieejamības funkcijām utt.",
+            "submitApplicationButton": "Iesniegt pieteikumu"
+        },
+        "landing": {
+            "title": "Apsveicam ar reģistrēšanos Walkscape!"
+        },
+        "specialLanding": {
+            "description": "Slēgto beta versiju vari izmēģināt ierobežotu laiku. Tava piekļuve beigsies {{endDate}}."
+        }
+    }
+}
