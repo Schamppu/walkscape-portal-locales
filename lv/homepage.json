@@ -1,1 +1,28 @@
-{}
+{
+    "singulars": {
+        "welcomeMessage": "Laipni lūdzam WalkScape portālā",
+        "linkToSite": "WalkScape portāls ir sociālais portāls, kas saistīts ar spēli <wsSite>WalkScape</wsSite>.",
+        "systemMessages": "Sistēmas ziņojumi",
+        "infoSection": {
+            "title": "Svarīga informācija par slēgto beta versiju",
+            "closedBetaAccess": "Pašlaik mēs veicam slēgtu beta testēšanu, un mēs regulāri pieņemam jaunus spēlētājus.",
+            "betaLinking": "<patreonLink>Patreon</patreonLink> un <bmacLink>Buy Me A Coffee</bmacLink> atbalstītājiem tiek piešķirta tūlītēja piekļuve spēlei. Ja esi atbalstītājs, tev ir jāsaista savs portāla konts ar šiem pakalpojumiem <accountLink>Konta lapā</accountLink>. Pretējā gadījumā iesniedz pieteikumu, lai iekļūtu rindā."
+        },
+        "statsSection": {
+            "title": "Daži jautri statistikas dati:"
+        },
+        "newUser": {
+            "title": "Sveicināti, {{username}}!",
+            "description": "Paldies, ka reģistrējies WalkScape! Lai pabeigtu konta iestatīšanu, dodies uz <accountLink>Konta lapu</accountLink> un pievieno savu Patreon/Buy Me a Coffee kontu vai nosūti pieteikumu, lai pievienotos slēgtajai beta versijai. Lai jauka pastaiga, un atcerieties uzņemt pietiekami daudz šķidruma!"
+        }
+    },
+    "plurals": {
+        "statsSection": {
+            "registeredUsers": {
+                "key_zero": "Līdz šim ir reģistrējušies <b>{{count}} lietotāji</b>",
+                "key_one": "Līdz šim ir reģistrējies <b>{{count}} lietotājs</b>",
+                "key_other": "Līdz šim ir reģistrējušies <b>{{count}} lietotāji</b>"
+            }
+        }
+    }
+}
