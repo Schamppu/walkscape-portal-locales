@@ -76,6 +76,7 @@
       "new": {
         "titleLabel": "Title",
         "descriptionLabel": "Description",
+        "sendToGame": "Send to in-game messages",
         "displayPreviewButton": "Display preview",
         "previewLabel": "Preview:",
         "postContentPlaceholder": "Type your post here",
