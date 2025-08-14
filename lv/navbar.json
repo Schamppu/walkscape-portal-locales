@@ -1,0 +1,28 @@
+{
+    "singulars": {
+        "signUp": "Reģistrēties",
+        "login": "Pieslēgties",
+        "title": "WalkScape portāls",
+        "betaVersion": "Beta 0.1.0",
+        "links": {
+            "home": "Sākums",
+            "devblogs": "Izstrādātāju emuāri",
+            "generalDiscussion": "Vispārīga diskusija",
+            "feedbackAndIdeas": "Atsauksmes un idejas",
+            "bugReports": "Kļūdu ziņojumi",
+            "leaderboards": "Līderu saraksti",
+            "users": "Lietotāji",
+            "discord": "Discord"
+        },
+        "avatarActions": {
+            "account": "Konts",
+            "friends": "Draugi",
+            "logout": "Izlogoties",
+            "profile": "Profils"
+        },
+        "notifications": {
+            "friend_invite": "<0>{{username}}<0> vēlas būt tavs draugs!",
+            "friend_invite_response": "<0>{{username}}<0> ir pieņēmis jūsu draudzības uzaicinājumu!"
+        }
+    }
+}

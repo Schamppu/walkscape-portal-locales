@@ -1,7 +1,7 @@
 {
     "singulars": {
         "meta": {
-            "description": "{{characterName}} (livello totale: {{totalLevel}}), ha compiuto {{totalSteps}} passi e ha ottenuto {{totalXp}} exp"
+            "description": "{{characterName}} (livello totale {{totalLevel}}) ha camminato per {{totalSteps}} passi e fatto {{totalXp}} xp"
         },
         "settings": {
             "anonOnLeaderboard": {

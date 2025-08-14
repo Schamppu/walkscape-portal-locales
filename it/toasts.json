@@ -44,7 +44,8 @@
                 "3025-b": "L'utente ha già riscattato un codice speciale in passato",
                 "3011": "Credenziali errate. Assicurati di stare utilizzando mail/nome utente e password corretti.",
                 "3015": "Nessuna Data",
-                "3023": "L'invito non esiste"
+                "3023": "L'invito non esiste",
+                "2002-ban": "Questo account è stato bannato da WalkScape. Per presentare ricorso contro questa decisione, contattare l'assistenza all'indirizzo mail support@walkscape.app."
             }
         },
         "success": {
