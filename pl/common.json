@@ -69,7 +69,8 @@
                 "displayPreviewButton": "Wyświetl podgląd",
                 "previewLabel": "Podgląd:",
                 "postContentPlaceholder": "Wpisz tu swój post",
-                "addPostButton": "Dodaj post"
+                "addPostButton": "Dodaj post",
+                "sendToGame": "Wyślij wiadomość w grze"
             },
             "scheduled": "zaplanowano"
         },
