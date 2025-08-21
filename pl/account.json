@@ -159,6 +159,18 @@
       "buttonLabel": "Zmień e-mail",
       "title": "Zmień adres e-mail",
       "errorMessage": "Nie można zaktualizować adresu e-mail"
+    },
+    "banned": {
+      "permanent": {
+        "short": "Zbanowany",
+        "long": "Twoje konto zostało na stałe zablokowane"
+      },
+      "temp": {
+        "short": "Zablokowany do <em>{{ date }}</em>.",
+        "long": "Twoje konto zostało zablokowane do <em>{{ date }}</em>"
+      },
+      "friendsList": "Zarządzanie znajomymi zostało wyłączone do czasu zniesienia blokady.",
+      "instructions": "Nie będziesz mógł zalogować się do gry, a niektóre funkcje Portalu będą niedostępne. Jeśli uważasz, że nastąpił błąd lub chcesz odwołać się od decyzji, skontaktuj się z pomocą techniczną WalkScape pod adresem <supportEmailLink>support@walkscape.app</supportEmailLink>."
     }
   },
   "plurals": {
