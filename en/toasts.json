@@ -76,7 +76,9 @@
         "3024-a": "Search string must contain at least 3 non-special characters",
         "3025": "Could not claim code",
         "3025-a": "User already has beta access",
-        "3025-b": "User has claimed special code in the past"
+        "3025-b": "User has claimed special code in the past",
+        "6665": "User has been temporarily banned",
+        "6666": "User has been banned"
       }
     }
   }

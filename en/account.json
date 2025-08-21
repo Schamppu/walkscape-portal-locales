@@ -24,6 +24,18 @@
       "unlinkAction": "Unlink",
       "noSubscription": "No subscription"
     },
+    "banned": {
+      "permanent": {
+        "long": "Your account has been permanently banned.",
+        "short": "Banned"
+      },
+      "temp": {
+        "long": "Your account has been banned until <em>{{ date }}</em>.",
+        "short": "Banned until <em>{{ date }}</em>."
+      },
+      "instructions": "You will be unable to login to the game and some features in the Portal will be inaccessible. If you think there has been a mistake or you would otherwise wish to appeal the decision, contact WalkScape support at <supportEmailLink>support@walkscape.app</supportEmailLink>.",
+      "friendsList": "Friend management has been disabled until the ban is lifted."
+    },
     "header": {
       "introduction": "Hello {{ username }}"
     },
