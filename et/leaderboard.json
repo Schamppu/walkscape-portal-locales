@@ -24,7 +24,8 @@
                 "smithing": "SEP",
                 "carpentry": "PDT",
                 "woodcutting": "PUU"
-            }
+            },
+            "trinketry": "Juveliiritöö"
         },
         "filters": {
             "friends": "Sõbrad",
