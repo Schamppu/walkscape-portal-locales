@@ -1,1 +1,19 @@
-{}
+{
+    "singulars": {
+        "title": "Karakterid",
+        "settings": {
+            "title": "Karakteri seaded",
+            "anonOnLeaderboard": {
+                "label": "Jää edetabelil anonüümseks",
+                "tip": "Kui valitud, asendab edetabelil karakteri nime \"Anonüümse Kõndijaga.\" N.B: Kui su profiili nähtavus on seatud kui \"Ainult sõbrad\", siis näevad su sõbrad su karakteri nime jätkuvalt edetabelil."
+            },
+            "hideSteps": {
+                "label": "Peida sammud",
+                "tip": "Kui valitud, peidab karakteri täieliku sammude arvu kõigi teiste kasutajate eest. Karakter on ka peidetud Kõik Sammud edetabelil."
+            }
+        },
+        "meta": {
+            "description": "{{characterName}} (total lvl {{totalLevel}}) on kõndinud {{totalSteps}} sammu ja kogunud {{totalXp}} xp'd"
+        }
+    }
+}
