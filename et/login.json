@@ -1,1 +1,21 @@
-{}
+{
+    "singulars": {
+        "resendButtonLabel": "Saada e-mail uuesti",
+        "emailFormLabel": "E-mail",
+        "usernameFormLabel": "Kasutajanimi",
+        "passwordFormLabel": "Parool",
+        "confirmPasswordFormLabel": "Kinnita parool",
+        "accessCodeFormLabel": "Juurdepääsu kood",
+        "forgotPasswordLabel": "Unustasid parooli?",
+        "loginButtonLabel": "Logi sisse",
+        "signUpButtonLabel": "Loo konto",
+        "dontHaveAnAccountPrompt": "Puudub konto? Registreeru",
+        "signUpLinkLabel": "Puudub konto? Registreeru",
+        "passwordsDontMatch": "Paroolid ei kattu",
+        "special": {
+            "createToggle": "Loo uus konto"
+        },
+        "emailOrUsernameFormLabel": "E-mail või kasutajanimi",
+        "alreadyHaveAnAccountPrompt": "Konto olemas? Logi sisse"
+    }
+}
