@@ -1,1 +1,32 @@
-{}
+{
+    "singulars": {
+        "characters": "Karakterid",
+        "resetPassword": {
+            "emailInputLabel": "E-mail",
+            "button": "Salasõna lähtestamine"
+        },
+        "searchBarPlaceholder": "Otsing…",
+        "userActions": {
+            "sendInvite": "Saada sõbrakutse",
+            "cancelInvite": "Tühista kutse",
+            "viewInvite": "Vaata kutset",
+            "viewProfile": "Vaata profiili",
+            "removeFriend": "Eemalda sõber"
+        },
+        "footer": {
+            "copyright": "Autoriõigused kuuluvad Not a Cult Oy'le",
+            "privacy-policy": "Privaatsuspoliitika"
+        },
+        "commentSubmission": {
+            "previewLabel": "Eelvaade:",
+            "commentPlaceholder": "Kirjuta oma kommentaar siia",
+            "submitButton": "Postita kommentaar",
+            "editSaveButton": "Salvesta",
+            "editCancelButton": "Tühista",
+            "displayPreviewCheckbox": "Eelvaade"
+        },
+        "buttons": {
+            "ok": "OK"
+        }
+    }
+}
