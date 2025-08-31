@@ -3,19 +3,19 @@
     "patreonLink": {
       "success": {
         "title": "Patreoni konto edukalt seotud!",
-        "body": "Nüüd saate mängu oma konto lehelt alla laadida. Pange tähele, et mõnikord on konto lehel teabe õigeks värskendamiseks vaja värskendada või uuesti sisse logida."
+        "body": "Nüüd saate mängu oma konto lehelt alla laadida. Pange tähele, et mõnikord on konto lehel oleva teabe korrektseks uuendamiseks vaja leht värskendada või uuesti sisse logida."
       },
-      "troubleshoot": "Enne kontode sidumist veendu, et oled <patreonLink>WalkScape Patreoni</patreonLink> liige.",
+      "troubleshoot": "Enne kontode sidumist veendu, et oled <patreonLink>WalkScape'i Patreoni</patreonLink> liige.",
       "title": "Patreon:",
-      "linkInstructions": "Seo Patreon konto",
-      "emailInputLabel": "Patreon'is kasutusel olev e-posti aadress",
-      "codeSentSuccessMessage": "Kontrollige sisestatud e-posti postkasti kinnituskoodi olemasolu",
+      "linkInstructions": "Seo Patreoni konto",
+      "emailInputLabel": "Patreonis kasutusel olev e-posti aadress",
+      "codeSentSuccessMessage": "Kontrollige, kas kinnituskood on sisestatud e-posti postkastis",
       "linkSuccessMessage": "Patreoni konto edukalt seotud",
-      "return": "Tagasi konto seadete lehele",
+      "return": "Tagasi konto lehele",
       "inProgress": "Patreoniga sidumine...",
-      "recommendation": "Soovitame kontode sidumiseks sisse logida Patreoniga. Kui see ei toimi, proovige ühendust võtta alloleva vormi abil.",
+      "recommendation": "Soovitame kontode sidumiseks sisse logida Patreoniga. Kui see ei toimi, proovige ühendust võtta kasutades allolevat vormi.",
       "failed": "Patreoni konto sidumine ebaõnnestus.",
-      "login": "Logi sisse kasutades Patreon'i"
+      "login": "Logi sisse kasutades Patreoni"
     },
     "thankYou": {
       "title": "Täname teid toetuse eest!"
@@ -38,7 +38,7 @@
       "notLinkedStatus": "Ei ole seotud",
       "firstSupportDate": "esimest korda toetas {{ date }}",
       "linkedStatus": "Seotud",
-      "noSubscription": "Puudub",
+      "noSubscription": "Tellimus puudub",
       "unlinkAction": "Ühenda lahti"
     },
     "header": {
@@ -53,13 +53,24 @@
       "title": "Discord:",
       "joinDiscord": "Liitu Discordiga",
       "linkButton": "Seo Discordi konto",
-      "relogin": "Palun <0>Logi uuesti sisse</0>",
+      "relogin": "Palun <0>logi uuesti sisse</0>",
       "failed": "Discordi konto sidumine ebaõnnestus. Palun proovige hiljem uuesti.",
       "inProgress": "Discordi konto sidumine...",
       "success": "Discordi konto edukalt seotud!"
     },
     "meta": {
       "description": "Vaata {{username}} profiili!"
+    },
+    "banned": {
+      "temp": {
+        "long": "Teie konto on bännitud kuni <em>{{ date }}</em>",
+        "short": "Bännitud kuni <em>{{ date }}</em>."
+      },
+      "permanent": {
+        "short": "Bännitud",
+        "long": "Teie konto on jäädavalt bännitud"
+      },
+      "instructions": "Te ei saa mängu sisse logida ja mõned funktsioonid Portaalis ei ole saadaval. Kui usute, et tegemist on eksituse või soovite otsust vaidlusta, kontakteeruge WalkScape'i toega aadressil <supportEmailLink>support@walkscape.app</supportEmailLink>."
     }
   }
 }
