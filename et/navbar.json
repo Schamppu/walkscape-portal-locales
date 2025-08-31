@@ -1,1 +1,16 @@
-{}
+{
+    "singulars": {
+        "title": "WalkScape'i Portaal",
+        "links": {
+            "home": "Kodu",
+            "generalDiscussion": "Üldine Arutelu",
+            "feedbackAndIdeas": "Tagasiside ja Ideed",
+            "bugReports": "Erroriraportid",
+            "leaderboards": "Edetabelid",
+            "users": "Kasutajad",
+            "discord": "Discord",
+            "devblogs": "Arendusblogi"
+        },
+        "betaVersion": "Beta 0.1.0"
+    }
+}
