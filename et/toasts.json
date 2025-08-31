@@ -1,1 +1,9 @@
-{}
+{
+    "singulars": {
+        "success": {
+            "accountLinkedSuccessfully": "BMACi konto edukalt seotud",
+            "loggedOut": "Edukalt välja logitud",
+            "bmacCheckForValidationCode": "Kontrollige, kas kinnituskood on sisestatud e-posti postkastis"
+        }
+    }
+}
