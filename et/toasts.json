@@ -3,7 +3,17 @@
         "success": {
             "accountLinkedSuccessfully": "BMACi konto edukalt seotud",
             "loggedOut": "Edukalt välja logitud",
-            "bmacCheckForValidationCode": "Kontrollige, kas kinnituskood on sisestatud e-posti postkastis"
+            "bmacCheckForValidationCode": "Kontrollige, kas kinnituskood on sisestatud e-posti postkastis",
+            "claimCode": {
+                "withoutLogin": "Kood edukalt omandatud. Palun logige sisse, et mäng alla laadida.",
+                "withLogin": "Kood edukalt omandatud"
+            }
+        },
+        "error": {
+            "networkCode": {
+                "3025": "Ei saanud omandada koodi",
+                "3025-b": "Kasutaja on juba omandanud erikoodi"
+            }
         }
     }
 }
