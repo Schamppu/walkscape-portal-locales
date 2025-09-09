@@ -13,9 +13,15 @@
         "signUpLinkLabel": "Puudub konto? Registreeru",
         "passwordsDontMatch": "Paroolid ei kattu",
         "special": {
-            "createToggle": "Loo uus konto"
+            "createToggle": "Loo uus konto",
+            "alreadyClaimed": "See konto on juba omandanud ajutise ligipääsu. Konto saab omandada ainult ajutise ligipääsu koodi.",
+            "createTooltip": "Lülitades valikut, saate otsustada, kas omandate erikoodi uue või olemasoleva kontoga."
         },
         "emailOrUsernameFormLabel": "E-mail või kasutajanimi",
-        "alreadyHaveAnAccountPrompt": "Konto olemas? Logi sisse"
+        "alreadyHaveAnAccountPrompt": "Konto olemas? Logi sisse",
+        "claimCode": {
+            "title": "Omanda erikood",
+            "button": "Omanda kood"
+        }
     }
 }
