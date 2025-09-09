@@ -11,6 +11,18 @@
             "discord": "Discord",
             "devblogs": "Arendusblogi"
         },
-        "betaVersion": "Beta 0.1.0"
+        "betaVersion": "Beta 0.1.0",
+        "signUp": "Loo konto",
+        "login": "Logi sisse",
+        "avatarActions": {
+            "account": "Konto",
+            "friends": "Sõbrad",
+            "logout": "Logi välja",
+            "profile": "Profiil"
+        },
+        "notifications": {
+            "friend_invite_response": "<0>{{username}}</0> on võtnud su sõbrakutse vastu!",
+            "friend_invite": "<0>{{username}}</0> tahab olla su sõber!"
+        }
     }
 }
