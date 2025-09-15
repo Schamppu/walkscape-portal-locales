@@ -70,6 +70,29 @@
       "newUsernameLabel": "Yeni kullanıcı adı",
       "successMessage": "Kullanıcı adı başarıyla değiştirildi",
       "title": "Kullanıcı adını değiştir"
+    },
+    "meta": {
+      "description": "{{username}} profiline göz at"
+    },
+    "general": {
+      "joinedOn": "Katıldı:",
+      "seeFull": "Tam profili görüntüle"
+    },
+    "privacy": {
+      "title": "Gizlilik ayarları",
+      "profileVisibility": "Profil görünürlüğü",
+      "private": "Gizli",
+      "friends": "Sadece arkadaşlar",
+      "public": "Herkese açık"
+    },
+    "banned": {
+      "permanent": {
+        "short": "Yasaklandı",
+        "long": "Hesabınız kalıcı olarak yasaklanmıştır"
+      },
+      "temp": {
+        "long": "Hesabınız <em>{{ date }}</em> tarihine kadar yasaklandı"
+      }
     }
   }
 }
