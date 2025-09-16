@@ -23,7 +23,14 @@
         "instructions": "iOS kullanıyorsan <testflightLink>WalkScape'in TestFlight'ına katılmak ve oyunu indirmek için bu bağlantıya tıkla</testflightLink>.",
         "title": "iOS kullanıcıları için:"
       },
-      "termsOfServiceDisclaimer": "Oyunu indirmeden önce lütfen <tos>Hizmet Şartları</tos>'nı oku ve kabul et."
+      "termsOfServiceDisclaimer": "Oyunu indirmeden önce lütfen <tos>Hizmet Şartları</tos>'nı oku ve kabul et.",
+      "gameRules": {
+        "title": "Oyun kuralları",
+        "1": {
+          "description": "WalkScape uygulamasında adımlar yalnızca yürüyüş yoluyla elde edilir. Yürüyüş dışındaki yöntemlerle adım kazanılmasına kesinlikle karşı çıkmaktayız ve topluluk platformlarımızda (Reddit, Portal, Discord) bu tür yöntemlerin teşvik edilmesini uygun bulmuyoruz. Tek istisnalar, bacakların doğal olarak adım sayılacak biçimde hareket ettiği durumlar (örneğin bisiklet sürmek) olup, bu durumlarda sayılan adım oranı, kötüye kullanım riskini önleyecek şekilde sınırlı olmalıdır.",
+          "title": "Sadece gerçek adımlar"
+        }
+      }
     },
     "bmac": {
       "emailFormFieldLabel": "BMaC hesabın için kullandığın e-posta",
@@ -36,7 +43,16 @@
       "invitedStatus": "Davetli",
       "notInvited": "Davetli değil",
       "seeExistingApplication": "Başvuruya bak",
-      "title": "Kapalı beta:"
+      "title": "Kapalı beta:",
+      "accessExpired": "Erişim {{dateString}} tarihinde sona erdi",
+      "expiredModal": {
+        "support": "Bizi <patreonLink>Patreon</patreonLink> veya <bmacLink>Buy me a Coffee</bmacLink> üzerinden destekleyebilirsiniz. Destekçiler erişimi hemen kazanır.",
+        "title": "Geçici erişiminizin süresi doldu",
+        "description": "WalkScape kapalı betasına katıldığınız için teşekkür ederiz! Sınırlı süreli erişiminiz sona erdi, ancak endişelenmeyin, oyuna devam edebilmek için şunları yapabilirsiniz:",
+        "apply": "<betaApplicationLink>Beta erişimi için başvuruluyor</betaApplicationLink> ve davet bekleniyor"
+      },
+      "accessUntil": "Erişim {{dateString}} tarihine kadar geçerlidir",
+      "eligibleForNextWave": "Bir sonraki fırsatta uygun"
     },
     "discordLink": {
       "linkButton": "Discord'u bağla",
@@ -63,7 +79,15 @@
       "linkSuccessMessage": "Patreon hesabı başarıyla bağlandı",
       "title": "Patreon:",
       "login": "Patreon ile giriş yapın",
-      "recommendation": "Hesapları bağlamak için Patreon ile giriş yapmanızı öneriyoruz. Bu yöntem işe yaramazsa, aşağıdaki formu kullanarak bağlamayı deneyebilirsiniz."
+      "recommendation": "Hesapları bağlamak için Patreon ile giriş yapmanızı öneriyoruz. Bu yöntem işe yaramazsa, aşağıdaki formu kullanarak bağlamayı deneyebilirsiniz.",
+      "return": "Hesap sayfasına geri dönün",
+      "inProgress": "Patreon'a bağlanıyor...",
+      "troubleshoot": "Hesapları bağlamadan önce <patreonLink>Walkscape Pateron</patreonLink> üyesi olduğunuzdan emin olun.",
+      "success": {
+        "body": "Artık oyunu Hesap sayfanızdan indirebilirsiniz. Bilgilerin doğru şekilde güncellenmesi için bazen sayfayı yenilemeniz veya yeniden giriş yapmanız gerekebilir.",
+        "title": "Patreon'a başarıyla bağlandı!"
+      },
+      "failed": "Petreon hesabı bağlanamadı."
     },
     "profilePhoto": {
       "changeButton": "Profil resmini değiştir",
@@ -103,6 +127,13 @@
       },
       "friendsList": "Yasak kalkana kadar arkadaş yönetimi devre dışı bırakılmıştır.",
       "instructions": "Oyuna giriş yapamazsınız ve Portaldaki bazı özelliklere erişiminiz kısıtlandı. Eğer bunun bir hata olduğunu düşünüyorsanız veya karara itiraz etmek istiyorsanız, lütfen bizimle şu adresten iletişime geçin:<supportEmailLink>support@walkscape.app</supportEmailLink>."
+    },
+    "thankYou": {
+      "body-2": "Eğer birkaç saat içinde e-posta gelmezse, girdiğiniz e-postanın Patreon veya Buy Me a Coffee’de kullandığınızla aynı olduğundan emin olun ve hesabınızı yeniden bağlayın.",
+      "title": "Desteğiniz için teşekkür ederiz!",
+      "body-1": "Yeni destekçi statünüz Hesap sayfasında hemen görünmelidir, ancak bazı durumlarda tamamen senkronize olması yaklaşık iki saat sürebilir. Böyle bir durumda, statünüz değiştiğinde veya beta programına kabul edildiğinizde size bir e-posta gönderilecektir.",
+      "body-3": "Teşekkür ederiz!",
+      "understand": "Anlıyorum"
     }
   }
 }
