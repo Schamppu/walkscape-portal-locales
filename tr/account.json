@@ -29,6 +29,17 @@
         "1": {
           "description": "WalkScape uygulamasında adımlar yalnızca yürüyüş yoluyla elde edilir. Yürüyüş dışındaki yöntemlerle adım kazanılmasına kesinlikle karşı çıkmaktayız ve topluluk platformlarımızda (Reddit, Portal, Discord) bu tür yöntemlerin teşvik edilmesini uygun bulmuyoruz. Tek istisnalar, bacakların doğal olarak adım sayılacak biçimde hareket ettiği durumlar (örneğin bisiklet sürmek) olup, bu durumlarda sayılan adım oranı, kötüye kullanım riskini önleyecek şekilde sınırlı olmalıdır.",
           "title": "Sadece gerçek adımlar"
+        },
+        "2": {
+          "title": "1 cihaz = 1 hesap = 1 kişi",
+          "description": "Her oyuncunun tek bir cihazda, tek bir hesapla oynamasını bekliyoruz. Cihazınızı veya hesabınızı başkalarıyla paylaşmayın. Emülatör kullanmak veya aynı anda birden fazla cihazda oynamak yasaktır. Aynı cihazda birden fazla oyun açmayın."
+        },
+        "3": {
+          "description": "Hile yapmayı veya açıkları başkalarıyla paylaşmayın veya teşvik etmeyin. Oyunda ciddi bir hata veya açık bulursanız, bunu resmi raporlama kanalları üzerinden ya da doğrudan bir ekip üyesine bildirin.",
+          "title": "Hataları ve kötü davranışları raporlayın"
+        },
+        "4": {
+          "title": "Yalnızca resmi sürümleri kullanın"
         }
       }
     },
@@ -103,7 +114,7 @@
       "title": "Kullanıcı adını değiştir"
     },
     "meta": {
-      "description": "{{username}} profiline göz at"
+      "description": "{{username}} profiline göz at!"
     },
     "general": {
       "joinedOn": "Katıldı:",
