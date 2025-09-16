@@ -40,7 +40,9 @@
     },
     "discordLink": {
       "linkButton": "Discord'u bağla",
-      "title": "Discord:"
+      "title": "Discord:",
+      "joinDiscord": "Discord sunucumuza katılın",
+      "success": "Discord hesabınızı başarıyla bağladınız!"
     },
     "header": {
       "introduction": "Merhaba {{ username }}"
@@ -91,8 +93,11 @@
         "long": "Hesabınız kalıcı olarak yasaklanmıştır"
       },
       "temp": {
-        "long": "Hesabınız <em>{{ date }}</em> tarihine kadar yasaklandı"
-      }
+        "long": "Hesabınız <em>{{ date }}</em> tarihine kadar yasaklandı",
+        "short": "<em>{{ date }}</em> tarihine kadar yasaklandı."
+      },
+      "friendsList": "Yasak kalkana kadar arkadaş yönetimi devre dışı bırakılmıştır.",
+      "instructions": "Oyuna giriş yapamazsınız ve Portaldaki bazı özelliklere erişiminiz kısıtlandı. Eğer bunun bir hata olduğunu düşünüyorsanız veya karara itiraz etmek istiyorsanız, lütfen bizimle şu adresten iletişime geçin:<supportEmailLink>support@walkscape.app</supportEmailLink>."
     }
   }
 }
