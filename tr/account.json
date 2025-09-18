@@ -39,7 +39,11 @@
           "title": "Hataları ve kötü davranışları raporlayın"
         },
         "4": {
-          "title": "Yalnızca resmi sürümleri kullanın"
+          "title": "Yalnızca resmi sürümleri kullanın",
+          "description": "Oyunu sadece resmi kaynaklarda yayınlanan sürümlerden oynayın. Kendi paketlerinizi veya sürümlerinizi yapmaya çalışmayın, başkalarının hazırladığı resmi olmayan sürümleri indirmeyin ya da paylaşmayın."
+        },
+        "5": {
+          "title": "Güzel ve saygılı oynayın :)"
         }
       }
     },
