@@ -32,6 +32,7 @@
             "emailInputLabel": "E-posta",
             "instructions": "Parolanı sıfırlamak için e-postanı gir ve parolayı sıfırla düğmesine tıkla. Yeni bir şifre oluşturabileceğin şifre güncelleme sayfasına götürecek bağlantıyı içeren bir e-posta alacaksın."
         },
-        "searchBarPlaceholder": "Ara..."
+        "searchBarPlaceholder": "Ara...",
+        "characters": "Karakterler"
     }
 }
