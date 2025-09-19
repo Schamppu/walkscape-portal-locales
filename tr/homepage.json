@@ -9,6 +9,7 @@
         "statsSection": {
             "title": "Eğlenceli istatistikler:"
         },
-        "welcomeMessage": "WalkScape Portalına Hoş Geldin"
+        "welcomeMessage": "WalkScape Portalına Hoş Geldin",
+        "systemMessages": "Sistem mesajları"
     }
 }
