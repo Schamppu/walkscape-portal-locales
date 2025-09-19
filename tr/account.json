@@ -16,7 +16,8 @@
         "downloadFromGooglePlay": "Gruba katıldıktan sonra, <playStoreLink>oyunu Google Play'den indirme linkine</playStoreLink> erişebilirsin.",
         "instructions": "Android kullanıyorsun. WalkScape'in Beta sürümüne erişmen için iki adım var:",
         "joinGoogleGroup": "<googleGroup>WalkScape Kapalı Beta Google Grubu</googleGroup>'na katıl.",
-        "title": "Android kullanıcıları için:"
+        "title": "Android kullanıcıları için:",
+        "useSameGoogleAccount": "<b>Not!</b> Google Play’de hangi hesapla giriş yaptıysanız, Google Grubuna da aynı hesapla katılmalısınız. Yoksa ikinci linke tıkladığınızda oyun görünmez"
       },
       "dialogTitle": "Oyunun uygulamasını indir",
       "ios": {
@@ -43,7 +44,8 @@
           "description": "Oyunu sadece resmi kaynaklarda yayınlanan sürümlerden oynayın. Kendi paketlerinizi veya sürümlerinizi yapmaya çalışmayın, başkalarının hazırladığı resmi olmayan sürümleri indirmeyin ya da paylaşmayın."
         },
         "5": {
-          "title": "Güzel ve saygılı oynayın :)"
+          "title": "Güzel ve saygılı oynayın :)",
+          "description": "WalkScape, sanal bir dünyada oynanan, gerçek insanlarla etkileşim kurulan sosyal bir oyundur. Tüm oyuncuların, ister oyunda ister sosyal medyada isterse gerçek hayatta olsun, birbirine saygılı davranmasını bekliyoruz. Her türlü taciz ve ayrımcılık kesinlikle yasaktır."
         }
       }
     },
@@ -85,7 +87,9 @@
       "changePasswordButton": "Parolayı değiştir",
       "newPasswordLabel": "Yeni parola",
       "repeatPasswordLabel": "Parolayı tekrarla",
-      "title": "Parolanı değiştir"
+      "title": "Parolanı değiştir",
+      "prompt": "Lütfen şifrenizi güncelleyin!",
+      "unauthenticated": "Kimlik doğrulaması gerekiyor"
     },
     "patreonLink": {
       "codeSentSuccessMessage": "Doğrulama kodu için girilen e-postanın gelen kutusunu kontrol et",
@@ -149,6 +153,32 @@
       "body-1": "Yeni destekçi statünüz Hesap sayfasında hemen görünmelidir, ancak bazı durumlarda tamamen senkronize olması yaklaşık iki saat sürebilir. Böyle bir durumda, statünüz değiştiğinde veya beta programına kabul edildiğinizde size bir e-posta gönderilecektir.",
       "body-3": "Teşekkür ederiz!",
       "understand": "Anlıyorum"
+    },
+    "emailChange": {
+      "title": "E-posta adresini değiştir",
+      "newEmailLabel": "Yeni e-posta",
+      "buttonLabel": "E-postayı değiştir",
+      "emptyEmailError": "E-posta boş olamaz",
+      "relogin": "Lütfen tekrar <0>giriş yapın<0>.",
+      "inProgress": "E-posta güncelleniyor...",
+      "successMessage": "E-posta başarıyla değiştirildi",
+      "errorMessage": "E-posta güncellenemedi"
+    },
+    "sections": {
+      "friendInvites": "Bekleyen arkadaşlık istekleri",
+      "friends": "Arkadaşlar"
+    },
+    "users": {
+      "enterSearch": "Arama terimini girin",
+      "found": "{{countStr}} kullanıcıları bulundu"
+    }
+  },
+  "plurals": {
+    "closedBetaStatus": {
+      "eligibleForNextWave": {
+        "key_one": "Yaklaşık 1–2 hafta içinde sıradaki aşamaya katılabileceksiniz",
+        "key_other": "Yaklaşık {{ count }} ile {{ countPlusOne }} hafta içerisinde bir sonraki dalgaya katılabileceksiniz"
+      }
     }
   }
 }
