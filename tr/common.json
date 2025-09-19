@@ -14,6 +14,22 @@
                 "confirmButton": "Evet, {{ type }} öğesini sil",
                 "message": "Bu eylem geri alınamaz, bu {{ type }} öğesini kalıcı olarak siler.",
                 "title": "Kesinlikle emin misin?"
+            },
+            "cancelInvite": {
+                "description": "Arkadaşlık isteğini iptal etmek istediğine emin misin?",
+                "confirm": "Evet, isteği iptal et"
+            },
+            "removeFriend": {
+                "description": "Bu arkadaşı kaldırmak istediğinden emin misin?",
+                "confirm": "Evet, arkadaşı kaldır"
+            },
+            "block": {
+                "description": "Bu kullanıcıyı engellemek istediğinizden emin misiniz? Engellenen kullanıcılar size davet gönderemez.",
+                "confirm": "Evet, kullanıcıyı engelle"
+            },
+            "unblock": {
+                "description": "Bu kullanıcının engelini kaldırmak istediğinden emin misin?",
+                "confirm": "Evet, kullanıcının engelini kaldır"
             }
         },
         "posts": {
@@ -23,16 +39,56 @@
                 "displayPreviewButton": "Ön izlemeyi görüntüle",
                 "postContentPlaceholder": "İçeriğini buraya yaz",
                 "previewLabel": "Ön izleme:",
-                "titleLabel": "Başlık"
+                "titleLabel": "Başlık",
+                "sendToGame": "Oyun içi duyuru oluştur"
             },
-            "newPostButton": "Yeni konu"
+            "newPostButton": "Yeni konu",
+            "scheduled": "Zamanlandı"
         },
         "resetPassword": {
             "button": "Parolayı sıfırla",
             "emailInputLabel": "E-posta",
-            "instructions": "Parolanı sıfırlamak için e-postanı gir ve parolayı sıfırla düğmesine tıkla. Yeni bir şifre oluşturabileceğin şifre güncelleme sayfasına götürecek bağlantıyı içeren bir e-posta alacaksın."
+            "instructions": "Şifrenizi sıfırlamak için e-posta adresinizi giriniz ve “Şifreyi Sıfırla” butonuna tıklayınız. Size, şifre güncelleme sayfasına yönlendiren bir bağlantı içeren bir e-posta iletilecektir; bu sayfada yeni şifrenizi belirleyebilirsiniz."
         },
-        "searchBarPlaceholder": "Ara...",
-        "characters": "Karakterler"
+        "searchBarPlaceholder": "Ara…",
+        "characters": "Karakterler",
+        "buttons": {
+            "ok": "Tamam"
+        },
+        "badges": {
+            "inviteSent": "Davet gönderildi",
+            "beta": "Beta",
+            "blocked": "Bloklandı",
+            "inviteReceived": "Davet alındı",
+            "friends": "Arladaşlar"
+        },
+        "userActions": {
+            "viewProfile": "Profili görüntüle",
+            "sendInvite": "Arkadaşlık isteği gönder",
+            "cancelInvite": "İsteği iptal et",
+            "removeFriend": "Arkadaşı kaldır",
+            "unblock": "Kullanıcının engelini kaldır",
+            "block": "Kullanıcıyı engelle",
+            "share": "Profili paylaş",
+            "viewInvite": "Daveti görüntüle"
+        },
+        "cookieConsent": {
+            "prompt": "Bu site çerezler kullanıyor. “Kabul Et”e tıklayarak bunu onaylamış oluyorsunuz. <0>Gizlilik politikamızı buradan okuyabilirsiniz</0>."
+        },
+        "footer": {
+            "copyright": "Telif hakları Not a Cult'a aittir",
+            "privacy-policy": "Gizlilik politikası"
+        },
+        "invite": {
+            "accept": "Kabul et",
+            "reject": "Reddet",
+            "block": "Engelle"
+        }
+    },
+    "plurals": {
+        "comments": {
+            "commentCount_one": "1 yorum",
+            "commentCount_other": "{{count}} yorum"
+        }
     }
 }
