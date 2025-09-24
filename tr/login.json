@@ -1,17 +1,42 @@
 {
-  "singulars": {
-    "alreadyHaveAnAccountPrompt": "Zaten hesabın var mı? Giriş yap",
-    "confirmPasswordFormLabel": "Parolayı onayla",
-    "dontHaveAnAccountPrompt": "Hesabın yok mu? Kaydol",
-    "emailFormLabel": "E-posta",
-    "forgotPasswordLabel": "Parolanı mı unuttun?",
-    "loginButtonLabel": "Giriş yap",
-    "loginDescription": "WalkScape hesabıyla giriş yap",
-    "passwordFormLabel": "Parola",
-    "passwordsDontMatch": "Parolalar eşleşmiyor",
-    "signUpButtonLabel": "Kaydol",
-    "signUpDescription": "WalkScape hesabı için kaydol",
-    "signUpLinkLabel": "Hesabın yok mu? Kaydol",
-    "usernameFormLabel": "E-posta"
-  }
+    "singulars": {
+        "alreadyHaveAnAccountPrompt": "Zaten hesabın var mı? Giriş yap",
+        "confirmPasswordFormLabel": "Parolayı onayla",
+        "dontHaveAnAccountPrompt": "Hesabın yok mu? Kaydol",
+        "emailFormLabel": "E-posta",
+        "forgotPasswordLabel": "Parolanı mı unuttun?",
+        "loginButtonLabel": "Giriş yap",
+        "loginDescription": "WalkScape hesabıyla giriş yap",
+        "passwordFormLabel": "Parola",
+        "passwordsDontMatch": "Parolalar eşleşmiyor",
+        "signUpButtonLabel": "Kaydol",
+        "signUpDescription": "WalkScape hesabı için kaydol",
+        "signUpLinkLabel": "Hesabın yok mu? Kaydol",
+        "usernameFormLabel": "E-posta",
+        "verificationComplete": "E-posta adresiniz başarıyla doğrulandı! Ana sayfaya dönmek için <0>buraya</0> tıklayın.",
+        "verificationFailure": "E-posta doğrulama işleminde bir sorun çıktı. Problemi çözmek için şu adımları deneyebilirsiniz:",
+        "verificationFix": {
+            "1": "Bağlantıyı e-postadan kopyaladıysanız, tamamının yapıştırıldığından emin olun.",
+            "2": "Aşağıdaki formu kullanarak yeni bir doğrulama e-postası isteyin.",
+            "3-new": "Destek ekibimizle <supportEmailLink>support@walkscape.app</supportEmailLink> üzerinden iletişime geçin"
+        },
+        "signup": {
+            "special": "Özel beta erişimi ile WalkScape hesabı oluştur"
+        },
+        "resendButtonLabel": "E-postayı tekrar gönder",
+        "accessCodeFormLabel": "Erişim kodu",
+        "emailOrUsernameFormLabel": "E-posta veya kullanıcı adı",
+        "special": {
+            "alreadyClaimed": "Bu hesap zaten geçici erişim talep etmiş. Her hesap sadece bir geçici erişim kodu alabilir.",
+            "createToggle": "Yeni hesap oluştur",
+            "alreadyHasBeta": "Beta erişimi olan kullanıcılar geçici erişim için başvuramaz.",
+            "createTooltip": "Seçimi değiştirerek özel kodu yeni bir hesapta ya da mevcut hesabınızda kullanmayı seçebilirsiniz."
+        },
+        "claimCode": {
+            "title": "Özel kodu talep edin",
+            "button": "Talep kodu"
+        },
+        "usernamePrivacyNotification": "Kullanıcı adınız, bu siteyi kullananlara ve WalkScape’teki diğer oyunculara açıkça görünür. Gerçek adınızı ya da kimliğinizle bağlantı kurulabilecek isimleri kullanmamalısınız.",
+        "missingConfirmation": "Bu e-posta adresi henüz doğrulanmadı. Gelen kutunuzu ve spam klasörünüzü kontrol edin ya da <0>buraya</0> tıklayarak yeni bir doğrulama e-postası isteyin."
+    }
 }
