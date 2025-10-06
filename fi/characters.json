@@ -1,1 +1,11 @@
-{}
+{
+    "singulars": {
+        "title": "Hahmot",
+        "settings": {
+            "title": "Hahmoasetukset",
+            "hideSteps": {
+                "label": "Piilota askeleet"
+            }
+        }
+    }
+}
