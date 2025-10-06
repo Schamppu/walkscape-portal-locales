@@ -8,7 +8,7 @@
     "singulars": {
         "commentSubmission": {
             "commentPlaceholder": "Kirjoita kommenttisi tähän",
-            "displayPreviewCheckbox": "Näytä esikatselu",
+            "displayPreviewCheckbox": "Esikatsele",
             "editCancelButton": "Peruuta",
             "editSaveButton": "Tallenna",
             "previewLabel": "Esikatselu:",
@@ -45,7 +45,8 @@
                 "displayPreviewButton": "Näytä esikatselu",
                 "postContentPlaceholder": "Kirjoita julkaisusi tähän",
                 "previewLabel": "Esikatselu:",
-                "titleLabel": "Otsikko"
+                "titleLabel": "Otsikko",
+                "sendToGame": "Luo pelinsisäinen ilmoitus"
             },
             "newPostButton": "Uusi julkaisu",
             "scheduled": "ajastettu"
@@ -53,7 +54,7 @@
         "resetPassword": {
             "button": "Palauta salasana",
             "emailInputLabel": "Sähköposti",
-            "instructions": "Jos haluat palauttaa salasanasi, syötä sähköpostiosoitteesi ja valitse palauta salasana. Saat sähköpostiviestin, jossa on linkki, joka vie sinut salasanan päivityssivulle, jossa voit määrittää uuden salasanan."
+            "instructions": "Jos haluat palauttaa salasanasi, syötä sähköpostiosoitteesi ja valitse palauta salasana. Saat sähköpostiviestissä linkin, joka vie sinut salasanan päivityssivulle, jossa voit määrittää uuden salasanan."
         },
         "searchBarPlaceholder": "Etsi…",
         "userActions": {
@@ -71,7 +72,7 @@
             "ok": "OK"
         },
         "cookieConsent": {
-            "prompt": "Tämä sivusto käyttää evästeitä käyttötilastojen luomiseksi. Painamalla 'Hyväksyn' suostut tähän."
+            "prompt": "Tämä sivusto käyttää evästeitä käyttötilastojen luomiseksi. Painamalla 'Hyväksyn' suostut tähän. Voit lukea <0> yksityisyyskäytäntömme täällä</0>."
         },
         "badges": {
             "beta": "Beta",
@@ -84,6 +85,10 @@
             "accept": "Hyväksy",
             "reject": "Hylkää",
             "block": "Estä"
+        },
+        "footer": {
+            "copyright": "Oikeudet pidättää Not a Cult Oy",
+            "privacy-policy": "Yksityisyyskäytäntö"
         }
     }
 }
