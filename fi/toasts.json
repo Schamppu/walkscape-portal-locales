@@ -41,7 +41,10 @@
                 "3017": "Väärän muotoiset kutsutietueet",
                 "3025-a": "Käyttäjällä on jo betaoikeus",
                 "3023": "Pyyntöä ei ole olemassa",
-                "3024-a": "Hakumerkkijonon tulee sisältää vähintään kolme tavallista merkkiä"
+                "3024-a": "Hakumerkkijonon tulee sisältää vähintään kolme tavallista merkkiä",
+                "6665": "Käyttäjä on saanut väliaikaisen porttikiellon",
+                "6666": "Käyttäjä on saanut porttikiellon",
+                "2002-ban": "Tämä käyttäjä on saanut porttikiellon WalkScapesta. Voit anoa päätöksen muuttamista ottamalla yhteyttä tukeen contact@walkscape.app."
             },
             "expiredToken": "Kirjautuminen on umpeutunut",
             "passwordReset": "Palautusviestiä ei voitu lähettää",
