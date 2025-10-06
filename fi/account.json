@@ -166,6 +166,15 @@
     "sections": {
       "friendInvites": "Odottavat kaveripyynnöt",
       "friends": "Kaverit"
+    },
+    "banned": {
+      "permanent": {
+        "short": "Saanut porttikiellon"
+      },
+      "temp": {
+        "short": "Porttikiellossa <em>{{ date }}</em> saakka.",
+        "long": "Käyttäjätunnuksesi on porttikiellossa <em>{{ date }}</em> saakka"
+      }
     }
   }
 }
