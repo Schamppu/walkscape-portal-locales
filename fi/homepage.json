@@ -13,8 +13,8 @@
     },
     "singulars": {
         "infoSection": {
-            "betaLinking": "Jos tuet, tai olet jossain vaiheessa tukenut meitä<patreonLink>Patreon</patreonLink> tai <bmacLink>Buy Me a Coffee</bmacLink> -palvelussa, voit yhdistää tilisi näihin palveluihin <accountLink>Käyttäjäsivulla</accountLink>. Voit myös lähettää hakemuksen seuraavaan beta-aaltoon, vaikka et tukisi meitä.",
-            "closedBetaAccess": "Suljettu beta julkaistaan 18. tammikuuta 2024. Voit varmistaa pääsyn suljettuun betaan tukemalla peliä <patreonLink>Patreon</patreonLink> tai <bmacLink>Buy Me A Coffee</bmacLink> -sivustolla tai hakemalla suljettuun betaan hakemuslomakkeella (löydät hakemuspainikkeen tilisivultasi).",
+            "betaLinking": "<patreonLink>Patreon</patreonLink> ja <bmacLink>Buy Me A Coffee</bmacLink> -tukijat saavat välittömästi pääsyn peliin. Jos olet tukija jossakin palvelussa, voit kytkeä Portal-tunnuksesi kyseiseen palveluun <accountLink>Tunnus-sivulla</accountLink>. Muussa tapauksessa, lähetä pyyntö beta-jonoon liittymiseksi.",
+            "closedBetaAccess": "Käynnissä on parhaillaan suljettu beta-test, ja hyväksymme mukaan säännöllisesti uusia pelaajia.",
             "title": "Tärkeää tietoa suljetusta betasta"
         },
         "linkToSite": "WalkScape Portal on <wsSite>WalkScape</wsSite>-peliin liittyvä sosiaalinen portaali.",
