@@ -24,11 +24,12 @@
         "downloadFromGooglePlay": "Nachdem du der Gruppe beigetreten bist, hast du die Möglichkeit, <playStoreLink>das Spiel von Google Play herunterzuladen</playStoreLink>.",
         "instructions": "Du benutzt Android. Um Zugang zur Beta-Version von WalkScape zu erhalten, musst du zwei Schritten folgen:",
         "joinGoogleGroup": "Tritt der <googleGroup>\"WalkScape Closed Beta\" Google Gruppe</googleGroup> bei.",
-        "title": "Für Android-Benutzer:"
+        "title": "Für Android-Benutzer:",
+        "useSameGoogleAccount": "<b>Note!</b> Du musst der Google Gruppe mit demselben Google-Konto beitreten, welches bei Google Play angemeldet ist. Andernfalls wird dir das Spiel nicht angezeigt, wenn du auf den zweiten Link klickst"
       },
       "dialogTitle": "Spiel herunterladen",
       "ios": {
-        "instructions": "Fals du iOS verwendest <testflightLink>Klicken Sie auf diesen Link, um WalkScape's TestFlight beizutreten und das Spiel herunterzuladen</testflightLink>.",
+        "instructions": "Fals du iOS verwendest <testflightLink>Klicke auf diesen Link, um WalkScape's TestFlight beizutreten und das Spiel herunterzuladen</testflightLink>. Wenn TestFlight nach einem Code fragt, klicke einfach erneut auf den Link.",
         "title": "Für iOS-Benutzer:"
       },
       "termsOfServiceDisclaimer": "Wenn du auf 'Akzeptieren' klickst, stimmst du unseren <tos>Nutzungsbedingungen</tos> und unseren Spielregeln zu.",
@@ -136,7 +137,7 @@
       "description": "Sieh dir {{username}}'s Profil an!"
     },
     "privacy": {
-      "title": "Privatsphäreeinstellungen",
+      "title": "Privatsphäre-Einstellungen",
       "profileVisibility": "Profilsichtbarkeit",
       "private": "Privat",
       "friends": "Nur Freunde",
@@ -166,6 +167,18 @@
       "buttonLabel": "Mailadresse ändern",
       "relogin": "Bitte erneut <0>einloggen</0>.",
       "inProgress": "Mailadresse wird aktualisiert ..."
+    },
+    "banned": {
+      "temp": {
+        "short": "Gesperrt bis <em>{{ date }}</em>.",
+        "long": "Dein Account ist bis zum <em>{{ date }}</em> gesperrt"
+      },
+      "friendsList": "Die Freundesverwaltung wurde deaktiviert, bis der Account nicht mehr gesperrt ist.",
+      "permanent": {
+        "long": "Dein Konto wurde dauerhaft gesperrt",
+        "short": "Gesperrt"
+      },
+      "instructions": "Du wirst dich nicht im Spiel anmelden können und einige Funktionen im Portal werden unzugänglich sein. Falls du denkst, dass ein Fehler vorliegt oder du anderweitig gegen die Entscheidung Einspruch erheben möchtest, kontaktiere den WalkScape Support unter <supportEmailLink>support@walkscape.app</supportEmailLink>."
     }
   }
 }
