@@ -45,7 +45,8 @@
                 "displayPreviewButton": "Vorschau anzeigen",
                 "postContentPlaceholder": "Schreib deinen Beitrag hier",
                 "previewLabel": "Vorschau:",
-                "titleLabel": "Titel"
+                "titleLabel": "Titel",
+                "sendToGame": "In-Game-Ankündigung erstellen"
             },
             "newPostButton": "Neuer Beitrag",
             "scheduled": "geplant"
@@ -84,6 +85,10 @@
         },
         "buttons": {
             "ok": "OK"
+        },
+        "footer": {
+            "copyright": "Urheberrechte vorbehalten durch Not a Cult Oy",
+            "privacy-policy": "Datenschutzerklärung"
         }
     }
 }
