@@ -1,1 +1,15 @@
-{}
+{
+    "singulars": {
+        "usernameFormLabel": "Slapyvardis",
+        "passwordFormLabel": "Slaptažodis",
+        "confirmPasswordFormLabel": "Patvirtinti slaptažodį",
+        "accessCodeFormLabel": "Prieigos kodas",
+        "forgotPasswordLabel": "Pamiršote slaptažodį?",
+        "loginButtonLabel": "Prisijungti",
+        "passwordsDontMatch": "Slaptažodžiai nesutampa",
+        "special": {
+            "createToggle": "Sukurti naują paskyrą"
+        },
+        "loginDescription": "Prisijungti su WalkScape paskyra"
+    }
+}
