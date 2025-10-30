@@ -1,1 +1,11 @@
-{}
+{
+    "singulars": {
+        "title": "Veikėjai",
+        "settings": {
+            "title": "Veikėjo nustatymai",
+            "hideSteps": {
+                "label": "Paslėpti žingsnius"
+            }
+        }
+    }
+}
