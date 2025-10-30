@@ -1,1 +1,57 @@
-{}
+{
+    "singulars": {
+        "commentSubmission": {
+            "submitButton": "Paskelbti komentarą",
+            "commentPlaceholder": "Rašykite savo komentarą čia",
+            "editSaveButton": "Išsaugoti",
+            "editCancelButton": "Atšaukti"
+        },
+        "userActions": {
+            "removeFriend": "Pašalinti draugą",
+            "viewInvite": "Peržiūrėti pakvietimą",
+            "cancelInvite": "Atšaukti pakvietimą",
+            "sendInvite": "Išsiųsti draugo pakvietimą",
+            "unblock": "Atblokuoti vartotoją",
+            "block": "Užblokuoti vartotoją",
+            "share": "Pasidalinti profiliu",
+            "viewProfile": "Peržiūrėti profilį"
+        },
+        "characters": "Veikėjai",
+        "footer": {
+            "copyright": "Autorių teisės saugomos Not a Cult Oy",
+            "privacy-policy": "Privatumo Politika"
+        },
+        "searchBarPlaceholder": "Ieškoti…",
+        "buttons": {
+            "ok": "Gerai"
+        },
+        "badges": {
+            "beta": "Beta",
+            "inviteReceived": "Gautas pakvietimas",
+            "inviteSent": "Pakvietimas išsiųstas",
+            "friends": "Draugai"
+        },
+        "dialogs": {
+            "cancelInvite": {
+                "confirm": "Taip, atšaukti pakvietimą"
+            },
+            "removeFriend": {
+                "description": "Ar tikrai norite pašalinti šį draugą?",
+                "confirm": "Taip, pašalinti draugą"
+            },
+            "delete": {
+                "cancelButton": "Atšaukti"
+            }
+        },
+        "posts": {
+            "scheduled": "suplanuota"
+        }
+    },
+    "plurals": {
+        "comments": {
+            "commentCount_one": "{{count}} komentaras",
+            "commentCount_few": "{{count}} komentarai",
+            "commentCount_other": "{{count}} komentarų"
+        }
+    }
+}
