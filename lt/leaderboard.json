@@ -1,1 +1,22 @@
-{}
+{
+    "singulars": {
+        "filterOptions": {
+            "total_steps": "Viso Žingsnių",
+            "total_xp": "Viso XP",
+            "total_level": "Viso Lygių",
+            "mining": "Kasyba",
+            "agility": "Vikrumas",
+            "cooking": "Gaminimas",
+            "fishing": "Žvejojimas",
+            "smithing": "Kalvystė",
+            "woodcutting": "Medkirtystė",
+            "achievement_points": "Pasiekimų Taškai"
+        },
+        "filters": {
+            "all": "Visi",
+            "friends": "Draugai"
+        },
+        "loading": "Kraunama…",
+        "avatarOfPlayer": "{{player}} avataras"
+    }
+}
