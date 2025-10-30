@@ -1,1 +1,21 @@
-{}
+{
+    "singulars": {
+        "links": {
+            "feedbackAndIdeas": "Atsiliepimai ir Idėjos",
+            "users": "Vartotojai",
+            "discord": "Discord",
+            "generalDiscussion": "Įprastos Diskusijos"
+        },
+        "betaVersion": "Beta 0.1.0",
+        "avatarActions": {
+            "account": "Paskyra",
+            "friends": "Draugai",
+            "logout": "Atsijungti",
+            "profile": "Profilis"
+        },
+        "notifications": {
+            "friend_invite": "<0>{{username}}</0> nori būti tavo draugu!",
+            "friend_invite_response": "<0>{{username}}</0> priėmė tavo kvietimą draugauti!"
+        }
+    }
+}
