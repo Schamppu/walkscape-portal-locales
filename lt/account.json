@@ -1,1 +1,93 @@
-{}
+{
+  "singulars": {
+    "general": {
+      "seeFull": "Peržiūrėti pilną profilį",
+      "joinedOn": "Prisijungė:"
+    },
+    "privacy": {
+      "profileVisibility": "Profilio matomumas",
+      "public": "Vieša",
+      "title": "Saugumo nustatymai"
+    },
+    "accountLinking": {
+      "getCodeButton": "Gauti kodą",
+      "linkAccountButton": "Sujungti paskyras"
+    },
+    "banned": {
+      "permanent": {
+        "long": "Tavo paskyra buvo visam laikui užblokuota",
+        "short": "Užblokuotas"
+      },
+      "temp": {
+        "long": "Tavo paskyra buvo užblokuota iki <em>{{ date }}</em>",
+        "short": "Užblokuota iki <em>{{ date }}</em>."
+      }
+    },
+    "header": {
+      "introduction": "Sveiki {{ username }}"
+    },
+    "bmac": {
+      "statusTitle": "Bmac:"
+    },
+    "discordLink": {
+      "title": "Discord:",
+      "relogin": "Prašome <0>prisijungti</0> vėl"
+    },
+    "patreonLink": {
+      "title": "Patreon:"
+    },
+    "thankYou": {
+      "title": "Dėkui už tavo paramą!",
+      "body-3": "Ačiū!"
+    },
+    "closedBetaStatus": {
+      "invitedStatus": "Pakviestas",
+      "accessUntil": "Prieiga iki {{dateString}}",
+      "accessExpired": "Prieiga pasibaigė {{dateString}}",
+      "notInvited": "Nepakviestas",
+      "expiredModal": {
+        "title": "Tavo laikina prieiga pasibaigė"
+      }
+    },
+    "betaDownloadInfo": {
+      "gameRules": {
+        "title": "Žaidimo Taisyklės",
+        "1": {
+          "title": "Tik tikri žingsniai"
+        },
+        "2": {
+          "title": "1 prietaisas = 1 paskyra = 1 žmogus"
+        }
+      },
+      "android": {
+        "title": "Android vartotojams:"
+      },
+      "ios": {
+        "title": "iOS vartotojams:"
+      }
+    },
+    "profilePhoto": {
+      "changeButton": "Pakeisti profilio nuotrauką",
+      "saveLabel": "Išsaugoti"
+    },
+    "usernameChange": {
+      "title": "Pakeisti savo slapyvardį",
+      "newUsernameLabel": "Naujas slapyvardis",
+      "changeUsernameButton": "Pakeisti slapyvardį",
+      "successMessage": "Slapyvardis pakeistas sėkmingai"
+    },
+    "passwordChange": {
+      "title": "Pakeisti savo slaptažodį",
+      "newPasswordLabel": "Naujas slaptažodis",
+      "repeatPasswordLabel": "Pakartoti slaptažodį",
+      "changePasswordButton": "Pakeisti slaptažodį",
+      "prompt": "Prašome atnaujinti savo slaptažodį!"
+    },
+    "sections": {
+      "friends": "Draugai"
+    },
+    "users": {
+      "found": "{{countStr}} vartotojų rasta"
+    }
+  }
+}
