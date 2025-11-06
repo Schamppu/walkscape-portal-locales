@@ -46,7 +46,8 @@
                 "displayPreviewButton": "Mostra anteprima",
                 "postContentPlaceholder": "Scrivi qui il tuo post",
                 "previewLabel": "Anteprima:",
-                "titleLabel": "Titolo"
+                "titleLabel": "Titolo",
+                "sendToGame": "Crea un annuncio nel gioco"
             },
             "newPostButton": "Nuovo post",
             "scheduled": "in programma"
