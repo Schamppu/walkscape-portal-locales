@@ -73,7 +73,7 @@
       "accessUntil": "Toegang tot {{dateString}}",
       "expiredModal": {
         "title": "Je tijdelijke toegang is verlopen",
-        "description": "Bedankt voor je deelname aan de WalkScape gesloten beta! Je tijdelijke toegang is verlopen, maar geen zorgen, je kan nog doorspelen door:",
+        "description": "Bedankt voor je deelname aan de WalkScape gesloten beta! Je tijdelijke toegang is verlopen, maar geen zorgen, je kunt nog doorspelen door:",
         "apply": "<betaApplicationLink>Een aanvraag in te dienen voor toegang</betaApplicationLink> en op een uitnodiging te wachten",
         "support": "Ons te steunen op <patreonLink>Patreon</patreonLink> of <bmacLink>Buy Me a Coffee</bmacLink>. Ondersteuners krijgen onmiddelijk toegang."
       },
@@ -167,6 +167,18 @@
       "errorMessage": "E-mailadres kon niet bijgewerkt worden",
       "title": "E-mailadres wijzigen",
       "emptyEmailError": "E-mailadres mag niet leeg zijn"
+    },
+    "banned": {
+      "permanent": {
+        "long": "Je account is permanent verbannen",
+        "short": "Verbannen"
+      },
+      "temp": {
+        "long": "Je account is verbannen tot <em>{{ date }}</em>",
+        "short": "Verbannen tot <em>{{ date }}</em>."
+      },
+      "friendsList": "Het beheren van je vriendenlijst is uitgeschakeld tot je niet meer verbannen bent.",
+      "instructions": "Je kunt niet inloggen op het spel en sommige onderdelen van de Portal zullen niet beschikbaar zijn. Als je denkt dat er een fout gemaakt is of je wilt de beslissing aanvechten, neem dan contact op met WalkScape support via <supportEmailLink>support@walkscape.app</supportEmailLink>."
     }
   }
 }
