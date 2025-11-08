@@ -45,7 +45,8 @@
                 "displayPreviewButton": "Voorbeeldweergave",
                 "postContentPlaceholder": "Typ je bericht hier",
                 "previewLabel": "Voorbeeld:",
-                "titleLabel": "Titel"
+                "titleLabel": "Titel",
+                "sendToGame": "In-game aankondiging aanmaken"
             },
             "newPostButton": "Nieuw bericht",
             "scheduled": "gepland"
