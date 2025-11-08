@@ -18,7 +18,8 @@
         },
         "verificationFix": {
             "1": "Als je de link uit de e-mail hebt gekopieerd, controleer dan of het compleet geplakt is.",
-            "2": "Vraag met onderstaand formulier een nieuwe verificatiemail aan."
+            "2": "Vraag met onderstaand formulier een nieuwe verificatiemail aan.",
+            "3-new": "Neem contact op met onze support via <supportEmailLink>support@walkscape.app</supportEmailLink>"
         },
         "missingConfirmation": "Dit e-mailadres is nog niet geverifieerd. Control je inbox en spamfolder, of vraag <0>hier</0> een nieuwe verificatiemail aan.",
         "verificationComplete": "E-mailadres succesvol geverifieerd! Klik <0>hier</0> om terug te keren naar de startpagina.",
