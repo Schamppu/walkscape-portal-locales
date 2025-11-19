@@ -41,7 +41,7 @@
       "troubleshoot": "Assurez-vous d'être membre du <patreonLink>WalkScape Patreon</patreonLink> avant de relier les comptes.",
       "success": {
         "title": "Connexion réussie avec Patreon !",
-        "body": "L'accès au jeu se fait par vagues. Si une vague est en cours, vous pouvez télécharger le jeu immédiatement à partir de votre page de compte. Dans le cas contraire, nous vous informerons par courrier électronique lorsque l'accès vous sera accordé. Veuillez noter qu'une actualisation ou une reconnexion est parfois nécessaire pour que les informations soient correctement mises à jour sur la page du compte."
+        "body": "Vous pouvez maintenant télécharger le jeu à partir de votre page de compte. Veuillez noter qu'une actualisation ou une reconnexion est parfois nécessaire pour que les informations soient correctement mises à jour sur la page du compte."
       }
     },
     "closedBetaStatus": {
@@ -69,7 +69,8 @@
         "title": "Pour les utilisateurs Android :",
         "instructions": "Vous utilisez Android. Il y a deux étapes pour accéder à la version Bêta de WalkScape :",
         "joinGoogleGroup": "Rejoignez <googleGroup>le groupe Google WalkScape Bêta fermée</googleGroup>.",
-        "downloadFromGooglePlay": "Après avoir rejoint le groupe, vous avez accès à <playStoreLink>télécharger le jeu depuis Google Play</playStoreLink>."
+        "downloadFromGooglePlay": "Après avoir rejoint le groupe, vous avez accès à <playStoreLink>télécharger le jeu depuis Google Play</playStoreLink>.",
+        "useSameGoogleAccount": "<b>Attention!</b> Vous devez joindre le Groupe Google avec le même compte que vous utilisez pour Google Play. Sinon, vous ne verrez pas le jeu en cliquant sur le second lien."
       },
       "ios": {
         "title": "Pour les utilisateurs iOS :",
@@ -158,6 +159,18 @@
       "errorMessage": "L'adresse mail n'a pas pu être mise à jour",
       "inProgress": "Mise à jour de l'adresse mail...",
       "relogin": "Veuillez vous <0>connecter</0> à nouveau"
+    },
+    "banned": {
+      "permanent": {
+        "short": "Banni",
+        "long": "Votre compte a été banni définitivement"
+      },
+      "temp": {
+        "short": "Banni jusqu'au <em>{{ date }}</em>.",
+        "long": "Votre compte a été banni jusqu'au <em>{{ date }}</em>"
+      },
+      "instructions": "Vous ne pourrez plus vous connecter au jeu et certaines fonctionnalités du Portail seront inaccessibles. Si vous pensez qu'il y a eu une erreur ou que souhaiteriez faire appel de cette décision, contactez le support de Walkscape at <supportEmailLink>support@walkscape.app</supportEmailLink>.",
+      "friendsList": "La gestion des amis a été désactivée jusqu'a ce que le ban soit levé."
     }
   },
   "plurals": {
