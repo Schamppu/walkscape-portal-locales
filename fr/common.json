@@ -46,7 +46,8 @@
                 "displayPreviewButton": "Afficher l'aperçu",
                 "previewLabel": "Aperçu :",
                 "postContentPlaceholder": "Tapez votre post ici",
-                "addPostButton": "Ajouter le post"
+                "addPostButton": "Ajouter le post",
+                "sendToGame": "Créer une annonce en jeu"
             },
             "scheduled": "programmé"
         },
@@ -62,7 +63,7 @@
         },
         "characters": "Personnages",
         "cookieConsent": {
-            "prompt": "Ce site web utilise des cookies pour analyser le trafic. En cliquant sur \"Accepter\", vous consentez à cette utilisation."
+            "prompt": "Ce site web utilise des cookies. En cliquant sur \"Accepter\", vous consentez à cette utilisation. Vous pouvez lire nos <0> Règles de Confidentialité ici </0>."
         },
         "buttons": {
             "ok": "OK"
@@ -78,6 +79,9 @@
             "reject": "Refuser",
             "block": "Bloquer",
             "accept": "Accepter"
+        },
+        "footer": {
+            "privacy-policy": "Règles de Confidentialité"
         }
     },
     "plurals": {
