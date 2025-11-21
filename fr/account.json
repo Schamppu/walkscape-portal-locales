@@ -14,12 +14,12 @@
       "introduction": "Bonjour {{ username }}"
     },
     "bmac": {
-      "statusTitle": "Bmac :",
+      "statusTitle": "Bmac:",
       "linkTitle": "Lier un compte Bmac",
       "emailFormFieldLabel": "Email utilisé pour votre compte Bmac"
     },
     "discordLink": {
-      "title": "Discord :",
+      "title": "Discord:",
       "linkButton": "Lier Discord",
       "inProgress": "Connexion avec Discord...",
       "relogin": "Veuillez vous <0>connecter</0> à nouveau",
@@ -28,7 +28,7 @@
       "success": "Connexion réussie avec Discord !"
     },
     "patreonLink": {
-      "title": "Patreon :",
+      "title": "Patreon:",
       "linkInstructions": "Lier un compte Patreon",
       "emailInputLabel": "Email utilisé pour votre compte Patreon",
       "codeSentSuccessMessage": "Vérifiez la boîte de réception de l'email saisi pour le code de validation",
@@ -123,7 +123,7 @@
     "subscriptionStateDisclaimer": "L'état de l'abonnement peut prendre jusqu'à 1 heure pour se rafraîchir.",
     "general": {
       "seeFull": "Voir le profil complet",
-      "joinedOn": "A rejoint le :"
+      "joinedOn": "A rejoint le:"
     },
     "privacy": {
       "profileVisibility": "Visibilité du profil",
@@ -133,7 +133,7 @@
       "friends": "Amis seulement"
     },
     "meta": {
-      "description": "Consulte le profil de {{username}} !"
+      "description": "Consulte le profil de {{username}}!"
     },
     "thankYou": {
       "title": "Merci pour votre soutien !",
