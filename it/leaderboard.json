@@ -20,7 +20,7 @@
             "total_level": "Livello Totale",
             "total_steps": "Passi Totali",
             "total_xp": "Esperienza Totale",
-            "woodcutting": "Taglio alberi",
+            "woodcutting": "Taglio degli alberi",
             "short": {
                 "cooking": "CUC",
                 "smithing": "FRG",
@@ -29,11 +29,11 @@
                 "agility": "AGI",
                 "fishing": "PSC",
                 "crafting": "CRZ",
-                "foraging": "RDM",
+                "foraging": "FRG",
                 "mining": "MIN"
             },
             "achievement_points": "Punti Trofeo",
-            "trinketry": "Gingilleria"
+            "trinketry": "Bigiotteria"
         },
         "loading": "Caricamento...",
         "filters": {
