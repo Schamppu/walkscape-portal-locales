@@ -15,13 +15,13 @@
     },
     "singulars": {
         "infoSection": {
-            "betaLinking": "I sostenitori <patreonLink>Patreon</patreonLink> o <bmacLink>Buy Me a Coffee</bmacLink>, hanno un accesso garantito al gioco.Se sei un supporter, devi collegare il tuo profilo Portal ai servizi nella <accountLink>pagina Account</accountLink>. Altrimenti puoi inviare una richiesta per entrare nella lista d'attesa.",
+            "betaLinking": "I sostenitori <patreonLink>Patreon</patreonLink> o <bmacLink>Buy Me a Coffee</bmacLink>, hanno un accesso garantito al gioco. Se sei un sostenitore, devi collegare il tuo profilo Portal ai servizi nella <accountLink>pagina Account</accountLink>. Altrimenti puoi inviare una richiesta per entrare nella lista d'attesa.",
             "closedBetaAccess": "Attualmente è in corso un beta test ad accesso limitato e accettiamo regolarmente nuovi giocatori.",
             "title": "Informazioni importanti sulla closed beta"
         },
         "linkToSite": "Il Portale WalkScape è una piattaforma social associata al gioco <wsSite>WalkScape</wsSite>.",
         "statsSection": {
-            "title": "Alcuni numeri divertenti:"
+            "title": "Alcune statistiche divertenti:"
         },
         "welcomeMessage": "Benvenuti sul Portale di WalkScape",
         "systemMessages": "Messaggi di sistema",
