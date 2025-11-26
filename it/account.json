@@ -168,6 +168,18 @@
       "emptyEmailError": "Il campo email non può rimanere vuoto",
       "inProgress": "Email in aggiornamento...",
       "errorMessage": "Non è stato possibile aggiornare l'email"
+    },
+    "banned": {
+      "temp": {
+        "short": "Sei stato bannato fino alla data <em>{{ date }}</em>.",
+        "long": "Il tuo account è stato bannato fino alla data <em>{{ date }}</em>"
+      },
+      "friendsList": "La gestione delle amicizie è disattivato fino al termine del ban.",
+      "permanent": {
+        "long": "Il tuo account è stato bannato definitivamente",
+        "short": "Sei stato bannato"
+      },
+      "instructions": "Non sarai in grado di eseguire l'accesso al gioco e alcune funzionalità saranno inaccessibili nel portale. Se pensi che ci sia stato un errore o vuoi fare ricorso sulla decisione presa, contatta il supporto a <supportEmailLink>support@walkscape.app</supportEmailLink>."
     }
   }
 }
