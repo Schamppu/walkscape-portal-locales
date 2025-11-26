@@ -10,7 +10,7 @@
             },
             "title": "Impostazioni del personaggio",
             "hideSteps": {
-                "label": "Nascondi passi",
+                "label": "Nascondi i passi",
                 "tip": "Quando selezionato, nasconde il conteggio dei passi totali del tuo personaggio agli altri giocatori. Questo personaggio verrà nascosto anche nella classifica dei Passi Totali."
             }
         },
