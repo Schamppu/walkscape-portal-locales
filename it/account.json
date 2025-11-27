@@ -71,14 +71,14 @@
       "seeExistingApplication": "Rivedi la tua richiesta d'accesso",
       "title": "Beta ad Accesso Limitato:",
       "eligibleForNextWave": "Idoneo alla prossima ondata",
-      "accessUntil": "Perido di accesso fino al {{dateString}}",
+      "accessUntil": "Accedi fino al {{dateString}}",
       "expiredModal": {
         "title": "Il tuo periodo di accesso temporaneo si è concluso",
         "apply": "<betaApplicationLink>Richiesto l'accesso alla beta</betaApplicationLink> ed in attesa di un invito",
         "support": "Supportaci con <patreonLink>Patreon</patreonLink> o con <bmacLink>Buy Me a Coffee</bmacLink>. I sostenitori riottengono l'accesso immediatamente.",
         "description": "Grazie per aver partecipato alla beta chiusa di WalkScape! Il tuo periodo di accesso limitato si è concluso, ma non temere, potrai ancora continuare a giocare:"
       },
-      "accessExpired": "Periodo di accesso terminato il {{dateString}}"
+      "accessExpired": "Accesso scaduto il {{dateString}}"
     },
     "discordLink": {
       "linkButton": "Collega Discord",
