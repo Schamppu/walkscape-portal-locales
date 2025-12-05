@@ -24,7 +24,8 @@
             "foraging": "Recolección",
             "smithing": "Herrería",
             "woodcutting": "Tala",
-            "achievement_points": "Puntos de logro"
+            "achievement_points": "Puntos de logro",
+            "trinketry": "Joyería"
         },
         "filters": {
             "all": "Todos",
