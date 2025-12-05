@@ -69,12 +69,20 @@
                 "displayPreviewButton": "Mostrar vista previa",
                 "previewLabel": "Vista previa:",
                 "postContentPlaceholder": "Escribe aquí tu publicación",
-                "addPostButton": "Añadir publicación"
+                "addPostButton": "Añadir publicación",
+                "sendToGame": "Crear un anuncio en el juego"
             },
             "scheduled": "programado"
         },
         "buttons": {
             "ok": "OK"
+        },
+        "footer": {
+            "copyright": "Derechos de autor reservados por Not a Cult Oy",
+            "privacy-policy": "Política De Privacidad"
+        },
+        "cookieConsent": {
+            "prompt": "Este sitio web utiliza cookies. Al hacer clic en \"Aceptar\", acepta su uso. Puede leer nuestra <0> privacy policy here</0>."
         }
     },
     "plurals": {
