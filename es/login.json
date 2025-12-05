@@ -18,7 +18,8 @@
         },
         "verificationFix": {
             "1": "Si copiaste el link desde el correo, comprueba que se haya pegado completamente.",
-            "2": "Solicita un nuevo correo de verificación usando el siguiente formulario."
+            "2": "Solicita un nuevo correo de verificación usando el siguiente formulario.",
+            "3-new": "Comuníquese con nuestro soporte en <supportEmailLink>support@walkscape.app</supportEmailLink>"
         },
         "resendButtonLabel": "Reenviar correo",
         "missingConfirmation": "Esta dirección de correo electrónico aún no ha sido verificada. Asegúrate de comprobar la bandeja de entrada y carpeta de correo basura, o solicita un nuevo correo de verificación pulsando <0>aquí</0>.",
@@ -26,6 +27,16 @@
         "verificationFailure": "Algo ha salido mal en el proceso de verificación de correo electrónico. Para solucionarlo, puedes probar lo siguiente:",
         "accessCodeFormLabel": "Código de acceso",
         "emailOrUsernameFormLabel": "Correo electrónico o nombre de usuario",
-        "usernamePrivacyNotification": "El nombre de usuario es un identificador visible públicamente para los usuarios de este sitio web y otros jugadores de WalkScape. No debes usar tu nombre real ni otros nombres que puedan relacionarse con tu identidad real."
+        "usernamePrivacyNotification": "El nombre de usuario es un identificador visible públicamente para los usuarios de este sitio web y otros jugadores de WalkScape. No debes usar tu nombre real ni otros nombres que puedan relacionarse con tu identidad real.",
+        "claimCode": {
+            "title": "Reclamar código especial",
+            "button": "Reclamar código"
+        },
+        "special": {
+            "createToggle": "Crear nueva cuenta",
+            "alreadyHasBeta": "Los usuarios con acceso beta no pueden solicitar acceso temporal.",
+            "alreadyClaimed": "Esta cuenta ya ha solicitado acceso temporal. Una cuenta solo puede solicitar un código de acceso temporal.",
+            "createTooltip": "Al alternar la selección, puede elegir reclamar el código especial en una cuenta nueva o existente."
+        }
     }
 }
