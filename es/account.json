@@ -142,7 +142,17 @@
       "enterSearch": "Introducir el término de búsqueda",
       "found": "{{countStr}} usuarios encontrados"
     },
-    "subscriptionStateDisclaimer": "El estado de la suscripción puede tardar hasta una hora en actualizarse."
+    "subscriptionStateDisclaimer": "El estado de la suscripción puede tardar hasta una hora en actualizarse.",
+    "banned": {
+      "permanent": {
+        "long": "Su cuenta ha sido baneada permanentemente",
+        "short": "Baneado"
+      },
+      "temp": {
+        "long": "Su cuenta ha sido baneada hasta <em>{{ date }}</em>",
+        "short": "Baneado hasta <em>{{ date }}</em>."
+      }
+    }
   },
   "plurals": {
     "closedBetaStatus": {
