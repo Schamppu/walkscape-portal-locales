@@ -12,8 +12,24 @@
                 "3000": "Benutzername ist bereits vergeben",
                 "3001": "E-Mail ist bereits vergeben.",
                 "3015-post": "Beitrag existiert nicht",
-                "3010-a": "E-Mail wurde nicht bestätigt. Bitte prüfe deinen Posteingang."
-            }
+                "3010-a": "E-Mail wurde nicht bestätigt. Bitte prüfe deinen Posteingang.",
+                "3007": "Speichern nicht erfolgreich",
+                "3008": "Veröffentlichung nicht möglich",
+                "3011": "Falsche Logindaten. Bitte stell sicher, dass du die richtigen Logindaten nutzt.",
+                "3012": "Falscher Charaktername",
+                "3013": "Registrierung fehlgeschlagen",
+                "3015": "Keine Daten",
+                "3016": "Fehlende Abfrageparameter",
+                "3002": "Falscher 'Special Code'",
+                "3003": "Sitzung abgelaufen",
+                "3004": "Ungültige Sitzung",
+                "3005": "Kein Charakter vorhanden",
+                "3006": "Charakterlöschung fehlgeschlagen",
+                "3014": "Fehlende Felder in der Anfrage",
+                "2002": "Keine Befugnis",
+                "2002-ban": "Dieser Account wurde von WalkScape gesperrt. Um Einspruch einzulegen, kontaktiere den Support unter support@walkscape.app."
+            },
+            "expiredToken": "Login abgelaufen"
         },
         "success": {
             "accountLinkedSuccessfully": "BMaC-Konto erfolgreich verbunden",
@@ -37,7 +53,14 @@
                 "edit": "Kommentar aktualisiert",
                 "delete": "Kommentar gelöscht"
             },
-            "discordLink": "Discord erfolgreich verknüpft"
+            "discordLink": "Discord erfolgreich verknüpft",
+            "updateEmailTokenSent": "Fertig! Eine Nachricht mit einem Verifizierungscode wurde an die neue E-Mail-Adresse gesendet.",
+            "avatarUpload": "Profilbild aktualisiert. Manchmal dauert es, bis Änderungen angezeigt werden.",
+            "claimCode": {
+                "withLogin": "Code erfolgreich eingelöst",
+                "withoutLogin": "Code erfolgreich eingelöst. Bitte einloggen, um das Spiel herunterzuladen."
+            },
+            "resentSuccessfully": "Verifizierungsemail erfolgreich gesendet"
         }
     }
 }
