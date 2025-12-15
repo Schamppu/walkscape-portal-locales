@@ -21,7 +21,8 @@
         "resendButtonLabel": "Email erneut senden",
         "verificationFix": {
             "2": "Fordere eine neue Bestätigungs-E-Mail über das untenstehende Formular an.",
-            "1": "Wenn du den Link aus der E-Mail kopiert hast, stelle sicher, dass er vollständig eingefügt wurde."
+            "1": "Wenn du den Link aus der E-Mail kopiert hast, stelle sicher, dass er vollständig eingefügt wurde.",
+            "3-new": "Kontaktiere unseren Support unter <supportEmailLink>support@walkscape.app</supportEmailLink>"
         },
         "usernamePrivacyNotification": "Der Benutzername ist ein öffentlich sichtbarer Name für Nutzer dieser Website und andere Spieler von WalkScape. Du solltest nicht deinen echten Namen oder andere Namen verwenden, die mit deiner realen Person in Verbindung gebracht werden können.",
         "special": {
