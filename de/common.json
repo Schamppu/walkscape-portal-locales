@@ -81,7 +81,7 @@
             "block": "Blockieren"
         },
         "cookieConsent": {
-            "prompt": "Diese Website verwendet Cookies, um den Datenverkehr zu analysieren. Durch Klicken auf ‘Akzeptieren’ stimmen Sie dieser Nutzung zu."
+            "prompt": "Diese Website verwendet Cookies. Durch Klicken auf ‘Akzeptieren’ stimmen Sie dieser Nutzung zu. Sie können unsere <0> Datenschutzerklärung hier</0> lesen."
         },
         "buttons": {
             "ok": "OK"
