@@ -11,7 +11,10 @@
             "cancelInvite": "Tühista kutse",
             "viewInvite": "Vaata kutset",
             "viewProfile": "Vaata profiili",
-            "removeFriend": "Eemalda sõber"
+            "removeFriend": "Eemalda sõber",
+            "unblock": "Eemalda kasutajalt blokk",
+            "block": "Blokeeri kasutaja",
+            "share": "Jaga profiili"
         },
         "footer": {
             "copyright": "Autoriõigused kuuluvad Not a Cult Oy'le",
@@ -27,6 +30,61 @@
         },
         "buttons": {
             "ok": "OK"
+        },
+        "badges": {
+            "beta": "Beeta",
+            "blocked": "Blokeeritud",
+            "inviteReceived": "Kutse saadud",
+            "inviteSent": "Kutse saadetud",
+            "friends": "Sõbrad"
+        },
+        "dialogs": {
+            "cancelInvite": {
+                "confirm": "Jah, tühista kutse",
+                "description": "Kas sa oled kindel, et soovid tühistada selle sõbrakutse?"
+            },
+            "removeFriend": {
+                "confirm": "Jah, eemalda sõber",
+                "description": "Kas oled kindel, et soovid eemaldada selle sõbra?"
+            },
+            "unblock": {
+                "description": "Kas oled kindel, et soovid eemaldada sellelt kasutajalt blokeering?",
+                "confirm": "Jah, eemalda blokk"
+            },
+            "block": {
+                "description": "Kas oled kindel, et soovid blokeerida selle kasutaja? Blokeeritud kasutajad ei saa saata sulle rohkem kutseid.",
+                "confirm": "Jah, blokeeri kasutaja"
+            },
+            "delete": {
+                "cancelButton": "Tühista",
+                "title": "Kas oled täiesti kindel?",
+                "message": "Seda tegu ei saa tagasi võtta. Oled jäädavalt kustutamas seda {{ type }}.",
+                "confirmButton": "Jah, kustuta {{ type }}"
+            }
+        },
+        "invite": {
+            "accept": "Nõustu",
+            "reject": "Keeldu",
+            "block": "Bloki"
+        },
+        "posts": {
+            "newPostButton": "Uus postitus",
+            "new": {
+                "titleLabel": "Pealkiri",
+                "descriptionLabel": "Kirjeldus",
+                "sendToGame": "Loo mängusisene teadaanne",
+                "displayPreviewButton": "Kuva eelvaatlus",
+                "previewLabel": "Eelvaatlus:",
+                "postContentPlaceholder": "Trüki oma postitus siia",
+                "addPostButton": "Lisa postitus"
+            },
+            "scheduled": "planeeritud"
+        }
+    },
+    "plurals": {
+        "comments": {
+            "commentCount_one": "1 kommentaar",
+            "commentCount_other": "{{count}} kommentaari"
         }
     }
 }
