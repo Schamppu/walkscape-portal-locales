@@ -123,7 +123,7 @@
     "subscriptionStateDisclaimer": "L'état de l'abonnement peut prendre jusqu'à 1 heure pour se rafraîchir.",
     "general": {
       "seeFull": "Voir le profil complet",
-      "joinedOn": "A rejoint le:"
+      "joinedOn": "A rejoint le :"
     },
     "privacy": {
       "profileVisibility": "Visibilité du profil",
@@ -169,8 +169,8 @@
         "short": "Banni jusqu'au <em>{{ date }}</em>.",
         "long": "Votre compte a été banni jusqu'au <em>{{ date }}</em>"
       },
-      "instructions": "Vous ne pourrez plus vous connecter au jeu et certaines fonctionnalités du Portail seront inaccessibles. Si vous pensez qu'il y a eu une erreur ou que souhaiteriez faire appel de cette décision, contactez le support de Walkscape at <supportEmailLink>support@walkscape.app</supportEmailLink>.",
-      "friendsList": "La gestion des amis a été désactivée jusqu'a ce que le ban soit levé."
+      "instructions": "Vous ne pourrez plus vous connecter au jeu et certaines fonctionnalités du Portail seront inaccessibles. Si vous pensez qu'il y a eu une erreur ou que souhaiteriez faire appel de cette décision, contactez le support de Walkscape à l'adresse <supportEmailLink>support@walkscape.app</supportEmailLink>.",
+      "friendsList": "La gestion des amis a été désactivée jusqu'a ce que le bannissement soit levé."
     }
   },
   "plurals": {
