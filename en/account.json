@@ -139,6 +139,12 @@
       "zoomLabel": "Zoom",
       "saveLabel": "Save"
     },
+    "deleteAccount": {
+      "title": "Delete Account",
+      "modalTitle": "Permanently delete account?",
+      "modalText": "This will cause all characters, settings and data associated with the account to be <b>permanently deleted</b>. If you are sure, type <danger>DELETE</danger> in the text field below.",
+      "confirmButton": "Delete"
+    },
     "usernameChange": {
       "title": "Change your username",
       "newUsernameLabel": "New username",
