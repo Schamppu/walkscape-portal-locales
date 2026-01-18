@@ -171,6 +171,12 @@
       },
       "friendsList": "Zarządzanie znajomymi zostało wyłączone do czasu zniesienia blokady.",
       "instructions": "Nie będziesz mógł zalogować się do gry, a niektóre funkcje Portalu będą niedostępne. Jeśli uważasz, że nastąpił błąd lub chcesz odwołać się od decyzji, skontaktuj się z pomocą techniczną WalkScape pod adresem <supportEmailLink>support@walkscape.app</supportEmailLink>."
+    },
+    "deleteAccount": {
+      "title": "Usuń konto",
+      "modalText": "Spowoduje to <b>trwałe usunięcie</b> wszystkich postaci, ustawień i danych powiązanych z kontem. Jeśli masz pewność, wpisz <danger>USUŃ</danger> w polu tekstowym poniżej.",
+      "modalTitle": "Trwale usunąć konto?",
+      "confirmButton": "Usuń"
     }
   },
   "plurals": {
