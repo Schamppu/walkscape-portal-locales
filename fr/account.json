@@ -70,7 +70,7 @@
         "instructions": "Vous utilisez Android. Il y a deux étapes pour accéder à la version Bêta de WalkScape :",
         "joinGoogleGroup": "Rejoignez <googleGroup>le groupe Google WalkScape Bêta fermée</googleGroup>.",
         "downloadFromGooglePlay": "Après avoir rejoint le groupe, vous avez accès à <playStoreLink>télécharger le jeu depuis Google Play</playStoreLink>.",
-        "useSameGoogleAccount": "<b>Attention!</b> Vous devez joindre le Groupe Google avec le même compte que vous utilisez pour Google Play. Sinon, vous ne verrez pas le jeu en cliquant sur le second lien."
+        "useSameGoogleAccount": "<b>Attention !</b> Vous devez joindre le Groupe Google avec le même compte que vous utilisez pour Google Play. Sinon, vous ne verrez pas le jeu en cliquant sur le second lien."
       },
       "ios": {
         "title": "Pour les utilisateurs iOS :",
@@ -107,9 +107,9 @@
       "saveLabel": "Enregistrer"
     },
     "usernameChange": {
-      "title": "Changer votre nom d'utilisateur",
+      "title": "Modifier votre nom d'utilisateur",
       "newUsernameLabel": "Nouveau nom d'utilisateur",
-      "changeUsernameButton": "Changer le nom d'utilisateur",
+      "changeUsernameButton": "Modifier le nom d'utilisateur",
       "successMessage": "Nom d'utilisateur modifié avec succès"
     },
     "passwordChange": {
@@ -133,7 +133,7 @@
       "friends": "Amis seulement"
     },
     "meta": {
-      "description": "Consulte le profil de {{username}}!"
+      "description": "Consulte le profil de {{username}} !"
     },
     "thankYou": {
       "title": "Merci pour votre soutien !",
@@ -151,14 +151,14 @@
       "enterSearch": "Saisir la recherche"
     },
     "emailChange": {
-      "buttonLabel": "Modifier l'adresse mail",
+      "buttonLabel": "Modifier le mail",
       "title": "Modifier l'adresse mail",
       "newEmailLabel": "Nouvelle adresse mail",
       "emptyEmailError": "L'adresse mail ne peut pas être vide",
       "successMessage": "Adresse mail mise à jour avec succès",
       "errorMessage": "L'adresse mail n'a pas pu être mise à jour",
       "inProgress": "Mise à jour de l'adresse mail...",
-      "relogin": "Veuillez vous <0>connecter</0> à nouveau"
+      "relogin": "Veuillez <0> vous connecter</0> à nouveau."
     },
     "banned": {
       "permanent": {
@@ -171,6 +171,11 @@
       },
       "instructions": "Vous ne pourrez plus vous connecter au jeu et certaines fonctionnalités du Portail seront inaccessibles. Si vous pensez qu'il y a eu une erreur ou que souhaiteriez faire appel de cette décision, contactez le support de Walkscape à l'adresse <supportEmailLink>support@walkscape.app</supportEmailLink>.",
       "friendsList": "La gestion des amis a été désactivée jusqu'a ce que le bannissement soit levé."
+    },
+    "deleteAccount": {
+      "title": "Supprimer le Compte",
+      "modalTitle": "Supprimer le compte définitivement ?",
+      "confirmButton": "Supprimer"
     }
   },
   "plurals": {
