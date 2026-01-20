@@ -179,6 +179,12 @@
       },
       "friendsList": "Het beheren van je vriendenlijst is uitgeschakeld tot je niet meer verbannen bent.",
       "instructions": "Je kunt niet inloggen op het spel en sommige onderdelen van de Portal zullen niet beschikbaar zijn. Als je denkt dat er een fout gemaakt is of je wilt de beslissing aanvechten, neem dan contact op met WalkScape support via <supportEmailLink>support@walkscape.app</supportEmailLink>."
+    },
+    "deleteAccount": {
+      "modalText": "Hierdoor zullen alle personages, instellingen, en gegevens verbonden aan het account <b>permanent verwijderd</b> worden. Als je het zeker weet, type dan <danger>VERWIJDEREN</danger> in het onderstaande invoerveld.",
+      "title": "Account Verwijderen",
+      "modalTitle": "Account permanent verwijderen?",
+      "confirmButton": "Verwijderen"
     }
   }
 }
