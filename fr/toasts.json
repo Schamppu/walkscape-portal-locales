@@ -27,9 +27,10 @@
             },
             "discordLink": "Discord lié avec succès",
             "resentSuccessfully": "E-mail de vérification renvoyé avec succès",
-            "avatarUpload": "Image de profil actualisée. Parfois les changements peuvent mettre du temps à apparaître.",
+            "avatarUpload": "Image de profil actualisée. Les changements peuvent parfois mettre du temps à s'afficher.",
             "updateEmailTokenSent": "Succès. Un message contenant un lien de vérification a été envoyé au nouvel e-mail.",
-            "emailChanged": "E-mail mis à jour avec succès. Veuillez-vous reconnecter."
+            "emailChanged": "E-mail mis à jour avec succès. Veuillez vous reconnecter.",
+            "accountDeleted": "Le compte a été supprimé. Vous avez été automatiquement déconnecté."
         },
         "error": {
             "genericError": "Quelque chose s'est mal passé.",
@@ -74,7 +75,9 @@
                 "3006": "La suppression du personnage a échoué",
                 "3019-a": "Nom d'utilisateur invalide : Les espaces en début ou en fin de chaîne ne sont pas autorisés",
                 "1002": "Le personnage n'existe pas",
-                "3010-a": "L'adresse e-mail n'a pas été vérifiée. Veuillez consulter votre boite de réception."
+                "3010-a": "L'adresse e-mail n'a pas été vérifiée. Veuillez consulter votre boite de réception.",
+                "6665": "L'utilisateur a été temporairement banni",
+                "6666": "L'utilisateur a été banni"
             },
             "expiredToken": "La tentative de connexion a expiré"
         }
