@@ -23,7 +23,7 @@
             },
             "cancelInvite": {
                 "confirm": "Oui, annuler l'invitation",
-                "description": "Êtes-vous sûrs de vouloir annuler cette demande d'ami ?"
+                "description": "Êtes-vous sûr de vouloir annuler cette demande d'ami ?"
             },
             "removeFriend": {
                 "confirm": "Oui, supprimer l'ami",
@@ -87,7 +87,7 @@
     "plurals": {
         "comments": {
             "commentCount_one": "1 commentaire",
-            "commentCount_many": "",
+            "commentCount_many": "{{count}} commentaires",
             "commentCount_other": "{{count}} commentaires"
         }
     }
