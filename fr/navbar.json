@@ -2,8 +2,8 @@
     "singulars": {
         "signUp": "S'inscrire",
         "login": "Se connecter",
-        "title": "WalkScape Portal",
-        "betaVersion": "Beta 0.1.0",
+        "title": "Portail WalkScape",
+        "betaVersion": "Bêta 0.1.0",
         "links": {
             "home": "Accueil",
             "devblogs": "Blogs des développeurs",
