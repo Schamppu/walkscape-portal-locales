@@ -20,7 +20,8 @@
         "emailOrUsernameFormLabel": "E-mail ou nom d'utilisateur",
         "verificationFix": {
             "2": "Demander un nouvel e-mail de vérification en utilisant le formulaire ci-dessous.",
-            "1": "Si vous avez copié le lien depuis l'e-mail, assurez-vous qu'il soit collé entièrement."
+            "1": "Si vous avez copié le lien depuis l'e-mail, assurez-vous qu'il soit collé entièrement.",
+            "3-new": "Contactez notre support sur <supportEmailLink>support@walkscape.app</supportEmailLink>"
         },
         "resendButtonLabel": "Renvoyez un e-mail",
         "special": {
