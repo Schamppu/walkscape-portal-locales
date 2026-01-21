@@ -12,7 +12,7 @@
         },
         "systemMessages": "Messages système",
         "newUser": {
-            "title": "Bienvenue, {{username}} !",
+            "title": "Bienvenue, {{username}} !",
             "description": "Merci de vous être inscrits sur WalkScape ! Pour finir de configurer votre compte, rendez-vous sur la <accountLink> page Compte</accountLink> pour connecter votre compte Patreon/Buy Me A Coffee ou postulez pour rejoindre la bêta fermée. Bonne marche et n'oubliez pas de vous hydrater !"
         }
     },
