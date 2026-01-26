@@ -4,7 +4,9 @@
             "submitButton": "Paskelbti komentarą",
             "commentPlaceholder": "Rašykite savo komentarą čia",
             "editSaveButton": "Išsaugoti",
-            "editCancelButton": "Atšaukti"
+            "editCancelButton": "Atšaukti",
+            "displayPreviewCheckbox": "Rodyti peržiūra",
+            "previewLabel": "Peržiūra:"
         },
         "userActions": {
             "removeFriend": "Pašalinti draugą",
@@ -16,7 +18,7 @@
             "share": "Pasidalinti profiliu",
             "viewProfile": "Peržiūrėti profilį"
         },
-        "characters": "Veikėjai",
+        "characters": "Simboliai",
         "footer": {
             "copyright": "Autorių teisės saugomos Not a Cult Oy",
             "privacy-policy": "Privatumo Politika"
@@ -29,22 +31,58 @@
             "beta": "Beta",
             "inviteReceived": "Gautas pakvietimas",
             "inviteSent": "Pakvietimas išsiųstas",
-            "friends": "Draugai"
+            "friends": "Draugai",
+            "blocked": "Blokuotas"
         },
         "dialogs": {
             "cancelInvite": {
-                "confirm": "Taip, atšaukti pakvietimą"
+                "confirm": "Taip, atšaukti pakvietimą",
+                "description": "Ar tikrai norite atšaukti pakvietimą?"
             },
             "removeFriend": {
                 "description": "Ar tikrai norite pašalinti šį draugą?",
                 "confirm": "Taip, pašalinti draugą"
             },
             "delete": {
-                "cancelButton": "Atšaukti"
+                "cancelButton": "Atšaukti",
+                "message": "Šio veiksmo negalima atšaukti. Tai visam laikui ištrins šį {{ type }}.",
+                "title": "Ar tu visiškai tikras?",
+                "confirmButton": "Taip, ištrinti {{ type }}"
+            },
+            "block": {
+                "description": "Ar tikrai norite užblokuoti šį naudotoją? Užblokuoti naudotojai negalės jums siųsti daugiau kvietimų.",
+                "confirm": "Taip, blokuoti vartotoją"
+            },
+            "unblock": {
+                "description": "Ar tikrai norite atblokuoti šį naudotoją?",
+                "confirm": "Taip, atblokuoti vartotoją"
             }
         },
         "posts": {
-            "scheduled": "suplanuota"
+            "scheduled": "suplanuota",
+            "newPostButton": "Naujas įrašas",
+            "new": {
+                "titleLabel": "Antraštė",
+                "descriptionLabel": "Aprašymas",
+                "sendToGame": "Sukurti pranešima",
+                "displayPreviewButton": "Rodyti peržiūrą",
+                "previewLabel": "Peržiūrą",
+                "postContentPlaceholder": "Įveskite savo įrašą čia",
+                "addPostButton": "Pridėti įrašą"
+            }
+        },
+        "resetPassword": {
+            "instructions": "Norėdami atkurti slaptažodį, įveskite savo el. pašto adresą ir spustelėkite „Atkurti slaptažodį“. Gausite el. laišką su nuoroda, kuri nukreips jus į slaptažodžio atnaujinimo puslapį, kuriame galėsite nustatyti naują slaptažodį.",
+            "emailInputLabel": "el.paštas",
+            "button": "Atkurti slaptažodį"
+        },
+        "cookieConsent": {
+            "prompt": "Ši svetainė naudoja slapukus. Spustelėdami „Sutinku“, jūs sutinkate su šiuo naudojimu. Galite perskaityti mūsų <0>privatumo politiką čia</0>."
+        },
+        "invite": {
+            "accept": "Priimti",
+            "reject": "Atmesti",
+            "block": "Blokuoti"
         }
     },
     "plurals": {
