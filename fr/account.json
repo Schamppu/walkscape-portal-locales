@@ -176,7 +176,7 @@
       "title": "Supprimer le Compte",
       "modalTitle": "Supprimer le compte définitivement ?",
       "confirmButton": "Supprimer",
-      "modalText": "Cela entraînera la <b>suppression définitive <b> de tous les personnages, paramètres et données associés au compte. Si vous êtes sûr, tapez <danger>DELETE</danger> dans le champ de texte ci-dessous."
+      "modalText": "Tous les personnages, paramètres et données associées au compte seront <b>définitivement supprimés</b>. Si vous souhaitez poursuivre, écrivez <danger>SUPPRIMER</danger> dans l'espace textuel ci-dessous."
     }
   },
   "plurals": {
