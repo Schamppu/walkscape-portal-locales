@@ -81,7 +81,8 @@
             "accept": "Accepter"
         },
         "footer": {
-            "privacy-policy": "Règles de Confidentialité"
+            "privacy-policy": "Règles de Confidentialité",
+            "copyright": "Droits d'auteur réservés par Not a Cult Oy"
         }
     },
     "plurals": {
