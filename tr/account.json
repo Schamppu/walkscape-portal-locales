@@ -171,6 +171,12 @@
     "users": {
       "enterSearch": "Arama terimini girin",
       "found": "{{countStr}} kullanıcıları bulundu"
+    },
+    "deleteAccount": {
+      "modalText": "Bu işlem hesabına bağlı tüm karakterleri, ayarları ve verileri <b>kalıcı olarak silecek.</b>Eminsen aşağıdaki kutuya <danger>DELETE </danger>yaz.",
+      "title": "Hesabı sil",
+      "modalTitle": "Hesap kalıcı olarak silinsin mi?",
+      "confirmButton": "Sil"
     }
   },
   "plurals": {
