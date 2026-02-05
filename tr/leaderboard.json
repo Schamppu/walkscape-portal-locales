@@ -13,7 +13,8 @@
             "total_level": "Toplam Seviye",
             "total_steps": "Toplam Adım",
             "total_xp": "Toplam TP",
-            "woodcutting": "Odunculuk"
+            "woodcutting": "Odunculuk",
+            "achievement_points": "Başarı puanı"
         },
         "loading": "Yükleniyor..."
     }
