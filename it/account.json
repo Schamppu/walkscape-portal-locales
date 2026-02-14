@@ -180,6 +180,12 @@
         "short": "Sei stato bannato"
       },
       "instructions": "Non sarai in grado di eseguire l'accesso al gioco e alcune funzionalità saranno inaccessibili nel portale. Se pensi che ci sia stato un errore o vuoi fare ricorso sulla decisione presa, contatta il supporto a <supportEmailLink>support@walkscape.app</supportEmailLink>."
+    },
+    "deleteAccount": {
+      "title": "Cancella Account",
+      "modalText": "Questo causerà la <b>cancellazione definitiva</b> di tutti i personaggi, le impostazioni e i dati associati all'account. Se sei sicuro, digita <danger>DELETE</danger> nel campo di testo sottostante.",
+      "modalTitle": "Eliminare definitivamente l'account?",
+      "confirmButton": "Cancella"
     }
   }
 }
