@@ -79,7 +79,8 @@
                 "withLogin": "Codice riscattato con successo",
                 "withoutLogin": "Codice riscattato con successo. Accedi per scaricare il gioco."
             },
-            "discordLink": "Discord collegato con successo"
+            "discordLink": "Discord collegato con successo",
+            "accountDeleted": "L'account è stato cancellato. Disconnessione automatica."
         }
     }
 }
