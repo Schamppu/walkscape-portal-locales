@@ -25,7 +25,9 @@
                 "woodcutting": "CD",
                 "carpentry": "STO"
             },
-            "trinketry": "Jubilerstwo"
+            "trinketry": "Jubilerstwo",
+            "tailoring": "Krawiectwo",
+            "hunting": "Myślistwo"
         },
         "filters": {
             "all": "Wszystkie",
