@@ -26,6 +26,9 @@
         "foraging": "FRG",
         "smithing": "SMT",
         "carpentry": "CRP",
+        "trinketry:": "TRK",
+        "hunting": "HNT",
+        "tailoring": "TLR",
         "woodcutting": "WC"
       }
     },
