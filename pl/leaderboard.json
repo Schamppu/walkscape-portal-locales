@@ -23,7 +23,10 @@
                 "foraging": "ZBI",
                 "smithing": "KOW",
                 "woodcutting": "CD",
-                "carpentry": "STO"
+                "carpentry": "STO",
+                "hunting": "MYś",
+                "tailoring": "KRA",
+                "trinketry:": "JUB"
             },
             "trinketry": "Jubilerstwo",
             "tailoring": "Krawiectwo",
