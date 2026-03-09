@@ -30,10 +30,15 @@
                 "fishing": "PSC",
                 "crafting": "CRZ",
                 "foraging": "RDM",
-                "mining": "MIN"
+                "mining": "MIN",
+                "hunting": "CAC",
+                "tailoring": "SAR",
+                "trinketry:": "BIG"
             },
             "achievement_points": "Punti Trofeo",
-            "trinketry": "Bigiotteria"
+            "trinketry": "Bigiotteria",
+            "hunting": "Caccia",
+            "tailoring": "Sartoria"
         },
         "loading": "Caricamento...",
         "filters": {
