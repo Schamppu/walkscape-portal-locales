@@ -32,7 +32,9 @@
                 "woodcutting": "HH"
             },
             "achievement_points": "Prestatiepunten",
-            "trinketry": "Sierraderij"
+            "trinketry": "Sierraderij",
+            "tailoring": "Kleermakerij",
+            "hunting": "Jagen"
         },
         "loading": "Aan het laden...",
         "filters": {
