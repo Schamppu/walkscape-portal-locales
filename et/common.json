@@ -3,7 +3,8 @@
         "characters": "Karakterid",
         "resetPassword": {
             "emailInputLabel": "E-mail",
-            "button": "Salasõna lähtestamine"
+            "button": "Salasõna lähtestamine",
+            "instructions": "Parooli lähtestamiseks, sisestage oma email ja vajutage lähtestage parool. Sulle saadetakse e-mail mis sisaldab linki mis viib parooli lähtestamise lehele, kus saad sisestada oma uue parooli."
         },
         "searchBarPlaceholder": "Otsing…",
         "userActions": {
@@ -79,6 +80,9 @@
                 "addPostButton": "Lisa postitus"
             },
             "scheduled": "planeeritud"
+        },
+        "cookieConsent": {
+            "prompt": "Veebisait kasutab küpsiseid. Klõpsates „Nõustun“, annad selleks oma nõusoleku. Meie <0>privaatsuspoliitikat saad lugeda siit</0>."
         }
     },
     "plurals": {
