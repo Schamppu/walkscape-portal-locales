@@ -14,8 +14,35 @@
             "total_steps": "Toplam Adım",
             "total_xp": "Toplam TP",
             "woodcutting": "Odunculuk",
-            "achievement_points": "Başarı puanı"
+            "achievement_points": "Başarı puanı",
+            "trinketry": "Takıcılık",
+            "short": {
+                "agility": "ÇVK",
+                "cooking": "AŞÇ",
+                "fishing": "BLK",
+                "crafting": "ZNT",
+                "woodcutting": "ODN",
+                "mining": "MDN",
+                "foraging": "TPL",
+                "smithing": "DMR",
+                "trinketry:": "TKC",
+                "hunting": "AVC",
+                "tailoring": "TRZ",
+                "carpentry": "MRN"
+            },
+            "hunting": "Avcılık",
+            "tailoring": "Terzilik"
         },
-        "loading": "Yükleniyor..."
+        "loading": "Yükleniyor...",
+        "filters": {
+            "all": "Tümü",
+            "friends": "Arkadaşlar"
+        }
+    },
+    "plurals": {
+        "pageNumber": {
+            "key_one": "Sayfa 1",
+            "key_other": "Sayfa {{count}}"
+        }
     }
 }
