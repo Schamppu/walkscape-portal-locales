@@ -15,7 +15,8 @@
             "home": "Home",
             "leaderboards": "Classifiche",
             "discord": "Discord",
-            "users": "Utenti"
+            "users": "Utenti",
+            "customerSupport": "Supporto Cliente"
         },
         "login": "Accedi",
         "signUp": "Iscriviti",
