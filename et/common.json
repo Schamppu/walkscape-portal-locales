@@ -4,7 +4,7 @@
         "resetPassword": {
             "emailInputLabel": "E-mail",
             "button": "Salasõna lähtestamine",
-            "instructions": "Parooli lähtestamiseks, sisestage oma email ja vajutage lähtestage parool. Sulle saadetakse e-mail mis sisaldab linki mis viib parooli lähtestamise lehele, kus saad sisestada oma uue parooli."
+            "instructions": "Parooli lähtestamiseks, sisestage oma email ja vajutage lähtestage parool. Teile saadetakse e-mail lingiga parooli lähtestamise lehele, kus saate sisestada omale uue parooli."
         },
         "searchBarPlaceholder": "Otsing…",
         "userActions": {
