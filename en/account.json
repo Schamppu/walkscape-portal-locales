@@ -126,7 +126,8 @@
         "instructions": "You are using Android. There are two steps to get access to the Beta version of WalkScape:",
         "joinGoogleGroup": "Join <googleGroup>WalkScape Closed Beta Google Group</googleGroup>.",
         "downloadFromGooglePlay": "After you have joined the group, you have access to <playStoreLink>download the game from Google Play</playStoreLink>.",
-        "useSameGoogleAccount": "<b>Note!</b> You need to join the Google Group with the same Google account that is logged into Google Play. Otherwise you won't see the game when clicking the second link"
+        "useSameGoogleAccount": "<b>Note!</b> You need to join the Google Group with the same Google account that is logged into Google Play. Otherwise you won't see the game when clicking the second link.",
+        "betaGroupDelay": "<b>Note 2!</b> The app may not be immediately visible in the Play Store after joining the beta group. It might take up to an hour for it to become visible."
       },
       "ios": {
         "title": "For iOS users:",
