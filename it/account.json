@@ -26,7 +26,8 @@
         "instructions": "Stai usando Android. Per accedere alla versione Beta di WalkScape effettua i seguenti passaggi:",
         "joinGoogleGroup": "Unisciti a <googleGroup>WalkScape Closed Beta Google Group</googleGroup>.",
         "title": "Per gli utenti Android:",
-        "useSameGoogleAccount": "<b>Nota bene!</b> Devi loggarti su Google Group con lo stesso account Google che hai utilizzato su Google Play. Diversamente non potrai vedere il gioco quando cliccherai sul secondo link"
+        "useSameGoogleAccount": "<b>Nota bene!</b> Devi loggarti su Google Group con lo stesso account Google che hai utilizzato su Google Play. Diversamente non potrai vedere il gioco quando cliccherai sul secondo link.",
+        "betaGroupDelay": "<b>Nota 2!</b> L'app potrebbe non essere immediatamente visibile nel Play Store dopo l'adesione al gruppo beta. Potrebbe essere necessaria fino a un'ora prima che diventi visibile."
       },
       "dialogTitle": "Scarica il client di gioco",
       "ios": {
