@@ -18,6 +18,7 @@
     "usernamePrivacyNotification": "The username is a handle that is openly visible to users of this website and other players of WalkScape. You should not use your real name or other names that can be linked to your real person.",
     "missingConfirmation": "This email address has not yet been verified. Make sure to check your inbox and spam folders, or request a new verification email by clicking <0>here</0>.",
     "verificationComplete": "Email address successfully verified! Click <0>here</0> to return to the home page.",
+    "verificationCompleteInGame": "If you made your account in the game, go back to the game and press \"I have opened it\".",
     "verificationFailure": "Something went wrong with the email verification process. To fix the issue, you can try the following steps:",
     "claimCode": { "title": "Claim special code", "button": "Claim code" },
     "special": {

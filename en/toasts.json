@@ -78,6 +78,10 @@
         "3025": "Could not claim code",
         "3025-a": "User already has beta access",
         "3025-b": "User has claimed special code in the past",
+        "3035": "Email has not been verified. Please check your inbox.",
+        "3036": "This account does not have closed beta access yet",
+        "3037": "Too many attempts. Please wait a while and try again.",
+        "3038": "The password must be at least 8 characters long",
         "6665": "User has been temporarily banned",
         "6666": "User has been banned"
       }
