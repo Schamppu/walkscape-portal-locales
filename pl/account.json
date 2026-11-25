@@ -177,7 +177,8 @@
       "title": "Usuń konto",
       "modalText": "Spowoduje to <b>trwałe usunięcie</b> wszystkich postaci, ustawień i danych powiązanych z kontem. Jeśli masz pewność, wpisz <danger>USUŃ</danger> w polu tekstowym poniżej.",
       "modalTitle": "Trwale usunąć konto?",
-      "confirmButton": "Usuń"
+      "confirmButton": "Usuń",
+      "passwordLabel": "Wprowadź hasło, aby potwierdzić"
     }
   },
   "plurals": {
