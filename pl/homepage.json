@@ -13,7 +13,9 @@
         },
         "newUser": {
             "title": "Witamy, {{username}}!",
-            "description": "Dziękujemy za rejestrację w WalkScape! Aby dokończyć konfigurację konta, przejdź na <accountLink>Stronę konta</accountLink> i podłącz swoje konto Patreon/Buy Me a Coffee lub wyślij podanie, aby dołączyć do zamkniętej bety. Miłego chodzenia i pamiętaj o nawodnieniu!"
+            "description": "Dziękujemy za rejestrację w WalkScape! Aby dokończyć konfigurację konta, przejdź na <accountLink>Stronę konta</accountLink> i podłącz swoje konto Patreon/Buy Me a Coffee lub wyślij podanie, aby dołączyć do zamkniętej bety. Miłego chodzenia i pamiętaj o nawodnieniu!",
+            "openWalkScapeButton": "Otwórz WalkScape",
+            "goToAccountButton": "Przejdź do konta"
         }
     },
     "plurals": {
