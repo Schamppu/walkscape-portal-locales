@@ -23,7 +23,8 @@
       "editCancelButton": "Cancel"
     },
     "buttons": {
-      "ok": "OK"
+      "ok": "OK",
+      "openWalkScape": "Open WalkScape"
     },
     "userActions": {
       "viewInvite": "View invite",

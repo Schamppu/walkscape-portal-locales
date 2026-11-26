@@ -14,7 +14,6 @@
     "newUser": {
       "title": "Welcome, {{username}}!",
       "description": "Thank you for registering to WalkScape! To finish setting up your account, head to the <accountLink>Account page</accountLink> and connect your Patreon/Buy Me a Coffee account or send an application to join the Closed Beta. Happy Walking, and remember to stay hydrated!",
-      "openWalkScapeButton": "Open WalkScape",
       "goToAccountButton": "Go to Account"
     }
   },
